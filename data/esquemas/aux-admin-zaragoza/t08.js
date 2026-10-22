@@ -9,7 +9,7 @@ registerEsquema('aux-admin-zaragoza', 8, {
 
   esencial: [
     {t: 'Actos <b>nulos</b> (art. 47.1): la Administración declara la nulidad <b>en cualquier momento</b>, de oficio o a solicitud, con <b>dictamen favorable</b> del Consejo de Estado u órgano consultivo autonómico.', a: 'art. 106.1'},
-    {t: 'Actos <b>favorables anulables</b>: la Administración los declara <b>lesivos</b> (antes de 4 años) y después los impugna ante lo contencioso-administrativo.', a: 'art. 107'},
+    {t: 'Actos <b>favorables anulables</b>: la Administración los declara <b>lesivos</b> (no después de 4 años desde que se dictó el acto) y después los impugna ante lo contencioso-administrativo.', a: 'art. 107'},
     {t: '<b>Alzada</b>: contra actos que no ponen fin a la vía administrativa; resuelve el superior jerárquico. <b>Reposición</b>: potestativa, contra actos que sí la ponen; resuelve el mismo órgano.', a: 'arts. 121 y 123'},
     {t: 'Alzada y reposición: <b>1 mes</b> contra acto expreso. Resolver: alzada <b>3 meses</b>, reposición <b>1 mes</b>. Revisión extraordinaria: <b>4 años</b> o <b>3 meses</b> según la causa.', a: 'arts. 122, 124 y 125'},
     {t: 'Recurrir <b>no suspende</b> la ejecución, salvo disposición en contrario. La resolución del recurso <b>nunca puede agravar</b> la situación inicial del recurrente.', a: 'arts. 117.1 y 119.3'}
@@ -108,7 +108,7 @@ registerEsquema('aux-admin-zaragoza', 8, {
 
     {titulo: 'Tramitación y resolución del recurso', a: 'arts. 115-120', bloques: [
       {tipo: 'lista', items: [
-        {t: 'El escrito expresa: recurrente, acto recurrido y razón, lugar, fecha, firma, medio de notificación, órgano destinatario y su código.', a: '115.1'},
+        {t: 'El escrito expresa: recurrente y su identificación, acto recurrido y razón de la impugnación, lugar, fecha, firma, medio (y lugar) de notificación, órgano destinatario y su código, y las demás particularidades que exijan disposiciones específicas.', a: '115.1'},
         {t: 'El <b>error o la falta de calificación</b> del recurso no impide tramitarlo si se deduce su verdadero carácter.', a: '115.2'},
         {t: 'Quien causó un vicio de anulabilidad no puede alegarlo.', a: '115.3'}
       ]},
@@ -123,7 +123,7 @@ registerEsquema('aux-admin-zaragoza', 8, {
         {titulo: 'Suspensión de la ejecución · 117', reglas: [
           'Regla: recurrir <b>no suspende</b>, excepto cuando una disposición establezca lo contrario {{examen:2026}}.',
           'El órgano que resuelve puede suspender, ponderando los perjuicios, si hay perjuicios de <b>imposible o difícil reparación</b> o se alega <b>nulidad de pleno derecho</b>.',
-          'Pedida la suspensión, si en <b>1 mes</b> no hay resolución expresa, se entiende <b>suspendida</b>.',
+          'Pedida la suspensión, si en <b>1 mes</b> desde que la solicitud entra en el registro electrónico del competente para decidir no se ha dictado y notificado resolución expresa, se entiende <b>suspendida</b>.',
           'Si la suspensión puede causar perjuicios, solo surte efectos previa <b>caución o garantía</b> suficiente.'
         ]}
       ]},
@@ -140,12 +140,12 @@ registerEsquema('aux-admin-zaragoza', 8, {
         ['Contra', 'Actos que <b>no ponen fin</b> a la vía administrativa', 'Actos que <b>ponen fin</b> a la vía administrativa. Es <b>potestativo</b>', 'Actos <b>firmes</b> en vía administrativa, solo por las causas del art. 125.1'],
         ['Ante quién', 'Se presenta ante el órgano que dictó el acto o ante el <b>superior jerárquico</b>, que resuelve', 'El <b>mismo órgano</b> que dictó el acto', 'El <b>órgano que dictó</b> el acto, que también resuelve'],
         ['Plazo para recurrir', 'Acto expreso: <b>1 mes</b>; pasado, resolución <b>firme</b>. Si no es expreso: <b>en cualquier momento</b> desde el día siguiente a los efectos del silencio', 'Acto expreso: <b>1 mes</b>; pasado, solo contencioso (o revisión, si procede). Si no es expreso: <b>en cualquier momento</b> desde el día siguiente al acto presunto', 'Causa a): <b>4 años</b> desde la notificación {{examen:2026}}. Demás causas: <b>3 meses</b> desde que se conocen los documentos o queda firme la sentencia'],
-        ['Plazo para resolver', '<b>3 meses</b>. Si no, puede entenderse desestimado, salvo el caso del art. 24.1, tercer párrafo', '<b>1 mes</b>', '<b>3 meses</b>. Si no, desestimado y queda abierta la vía contencioso-administrativa'],
+        ['Plazo para resolver', '<b>3 meses</b>. Si no, puede entenderse desestimado, salvo el caso del art. 24.1, tercer párrafo', '<b>1 mes</b>', '<b>3 meses</b> desde la interposición. Si no, desestimado y queda abierta la vía contencioso-administrativa'],
         ['Después', 'Ningún recurso administrativo, salvo el extraordinario de revisión', 'No cabe otra reposición. Contencioso cuando se resuelva o se desestime presuntamente', 'Vía contencioso-administrativa']
       ]},
       {tipo: 'lista', items: [
         {t: 'Alzada presentada ante el órgano que dictó el acto: lo remite al competente en <b>10 días</b>, con su informe y copia completa y ordenada del expediente.', a: '121.2'},
-        {t: 'Tribunales y órganos de selección de personal: dependen del órgano al que estén adscritos o, en su defecto, del que nombró a su presidente. Sus actos van en <b>alzada</b>.', a: '121.1'},
+        {t: 'Tribunales y órganos de selección de personal (y otros con autonomía funcional): a efectos de la <b>alzada</b>, se consideran dependientes del órgano al que estén adscritos o, en su defecto, del que nombró a su presidente.', a: '121.1'},
         {t: 'Interpuesta la reposición, <b>no</b> se puede ir al contencioso hasta que se resuelva expresamente o se produzca la desestimación presunta.', a: '123.2'}
       ]},
       {tipo: 'ejemplo', t: 'Un acto que pone fin a la vía administrativa se notifica al interesado. Puede elegir: reposición en 1 mes ante el mismo órgano, o ir directamente al contencioso. Si elige la reposición, espera a que se resuelva o a que pase 1 mes sin resolución para acudir al contencioso.'}
@@ -162,7 +162,7 @@ registerEsquema('aux-admin-zaragoza', 8, {
         {t: 'Plazo: causa a), <b>4 años</b> desde la notificación de la resolución impugnada {{examen:2026}}; demás causas, <b>3 meses</b> desde el conocimiento de los documentos o desde la firmeza de la sentencia.', a: '125.2'},
         {t: 'No impide pedir la revisión de oficio de actos nulos (art. 106) ni la rectificación de errores (art. 109.2).', a: '125.3'},
         {t: 'Se puede <b>inadmitir</b> sin dictamen si no se funda en las causas del 125.1 o ya se desestimaron en cuanto al fondo recursos sustancialmente iguales.', a: '126.1'},
-        {t: 'El órgano se pronuncia sobre la procedencia del recurso y, en su caso, sobre el <b>fondo</b>. Pasados <b>3 meses</b> sin resolución, se entiende desestimado.', a: '126.2-3'}
+        {t: 'El órgano se pronuncia sobre la procedencia del recurso y, en su caso, sobre el <b>fondo</b>. Pasados <b>3 meses</b> desde la interposición sin resolución notificada, se entiende desestimado y queda expedita la vía contencioso-administrativa.', a: '126.2-3'}
       ]}
     ]}
   ],
@@ -176,7 +176,7 @@ registerEsquema('aux-admin-zaragoza', 8, {
     {x: 'La falta de legitimación lleva a desestimar el recurso', ok: 'Es causa de inadmisión.', a: '116.b'},
     {x: 'La reposición se presenta ante el superior jerárquico', ok: 'Ante el mismo órgano que dictó el acto. El superior jerárquico resuelve la alzada.', a: '121.1 y 123.1'},
     {x: 'Alzada y reposición se resuelven en 1 mes', ok: 'Alzada: 3 meses. Reposición: 1 mes.', a: '122.2 y 124.2'},
-    {x: 'Contra la resolución de una alzada cabe reposición', ok: 'Solo cabe el extraordinario de revisión, por las causas del art. 125.1.', a: '122.3'},
+    {x: 'Contra la resolución de una alzada cabe reposición', ok: 'No cabe ningún otro recurso administrativo, salvo el extraordinario de revisión en los casos del art. 125.1.', a: '122.3'},
     {x: 'Revisión por error de hecho: 4 años desde que se conoce el error', ok: '4 años desde la notificación de la resolución impugnada.', a: '125.2'}
   ],
 
@@ -185,7 +185,7 @@ registerEsquema('aux-admin-zaragoza', 8, {
     'Art. 116 (falta de legitimación: causa de inadmisión): examen oficial 1-jun-2025, pregunta 40.',
     'Art. 119.3 (la resolución no puede agravar en ningún caso la situación inicial del recurrente): examen oficial 1-jun-2025, pregunta 49.',
     'Art. 125.2 (error de hecho: 4 años desde la notificación de la resolución): examen oficial 31-may-2026, pregunta 16.',
-    'Art. 119.3: examen oficial 31-may-2026, pregunta 26. Ojo: la plantilla oficial dio por buena «si la propuesta de resolución de un recurso agrava la situación inicial del recurrente se le oirá previamente». El texto literal dice que se oye antes a los interesados sobre las cuestiones no alegadas y que la resolución no puede agravar «en ningún caso» la situación inicial.',
+    'Art. 119.3: examen oficial 31-may-2026, pregunta 26. Ojo: la plantilla oficial dio por buena la opción a), «si la propuesta de resolución de un recurso agrava la situación inicial del recurrente se le oirá previamente». El texto literal dice que sobre las cuestiones no alegadas por los interesados «se les oirá previamente» y que la resolución será congruente con las peticiones del recurrente, «sin que en ningún caso pueda agravarse su situación inicial» (opción b). El esquema sigue la ley.',
     'Art. 117.1 (el recurso no suspende la ejecución, excepto si una disposición establece lo contrario): examen oficial 31-may-2026, pregunta 34.'
   ]
 });

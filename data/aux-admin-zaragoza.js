@@ -20445,8 +20445,8 @@ const QUESTIONS = {
       "Cinco años",
       "Tres años"
     ],
-    "correct": 0,
-    "exp": "Pregunta 9 del examen oficial de 1 de junio de 2025. Art. 89.2 TREBEP: se exige haber prestado servicios efectivos durante al menos los cinco años inmediatamente anteriores... [nota: la plantilla oficial marca como correcta la opción B]. Respuesta correcta según plantilla: b) Cinco años.",
+    "correct": 1,
+    "exp": "Pregunta 9 del examen oficial de 1 de junio de 2025. Art. 89.2 TREBEP: para la excedencia voluntaria por interés particular hay que haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un período mínimo de cinco años inmediatamente anteriores. Es también la respuesta de la plantilla oficial: cinco años.",
     "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)"
   },
   {

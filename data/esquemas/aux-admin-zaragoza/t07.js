@@ -166,7 +166,7 @@ registerEsquema('aux-admin-zaragoza', 7, {
         {t: 'Defectos de tramitación (paralización, plazos incumplidos, trámites omitidos): se pueden alegar <b>en todo momento</b>.', a: '76.2'}
       ]},
       {tipo: 'tabla', cab: ['Trámite', 'Plazo', 'Claves'], filas: [
-        ['Prueba · 77', '<b>10 a 30 días</b>. Extraordinario: no más de 10 días', 'La abre el instructor si no tiene por ciertos los hechos alegados o lo exige el procedimiento. Solo rechaza pruebas <b>manifiestamente improcedentes o innecesarias</b>, con resolución motivada.'],
+        ['Prueba · 77', '<b>10 a 30 días</b>. Extraordinario (a petición de los interesados): no más de 10 días', 'La abre el instructor si no tiene por ciertos los hechos alegados o lo exige el procedimiento. Solo rechaza pruebas <b>manifiestamente improcedentes o innecesarias</b>, con resolución motivada.'],
         ['Informes · 79-80', '<b>10 días</b>', 'Salvo disposición expresa, <b>facultativos y no vinculantes</b>. Si no llegan, se sigue; si es preceptivo, se puede suspender el plazo para resolver.'],
         ['Audiencia · 82', '<b>10 a 15 días</b>', 'Instruido el procedimiento e inmediatamente <b>antes de redactar la propuesta</b>. Se puede prescindir si no figuran ni cuentan otros hechos, alegaciones o pruebas que los del interesado.'],
         ['Información pública · 83', '<b>Mínimo 20 días</b>', 'La puede acordar el órgano que resuelve. Anuncio en el diario oficial. Comparecer <b>no da, por sí mismo, la condición de interesado</b>; quien presenta alegaciones u observaciones tiene derecho a una respuesta razonada.']
@@ -198,13 +198,13 @@ registerEsquema('aux-admin-zaragoza', 7, {
         ]}
       ]},
       {tipo: 'lista', items: [
-        {t: 'Actuaciones complementarias: acuerdo motivado; alegaciones en <b>7 días</b>; se practican en <b>15 días</b> como máximo; suspenden el plazo para resolver.', a: '87'},
+        {t: 'Actuaciones complementarias: acuerdo motivado; alegaciones en <b>7 días</b> tras su finalización; se practican en <b>15 días</b> como máximo; suspenden el plazo para resolver.', a: '87'},
         {t: 'La resolución decide todas las cuestiones planteadas. Cuestiones conexas no planteadas: antes se ponen de manifiesto al interesado (máx. 15 días).', a: '88.1'},
         {t: 'A solicitud del interesado: resolución <b>congruente</b>; nunca puede <b>agravar su situación inicial</b>.', a: '88.2'},
         {t: 'Expresa los <b>recursos</b>, el órgano ante el que se presentan y el plazo.', a: '88.3'},
         {t: 'Nunca puede abstenerse de resolver por silencio, oscuridad o insuficiencia de la ley; sí inadmitir solicitudes de derechos no previstos o sin fundamento.', a: '88.5'},
         {t: 'Sancionador: no se aceptan hechos distintos de los del procedimiento; si se aprecia mayor gravedad que en la propuesta, el inculpado alega en <b>15 días</b>.', a: '90.2'},
-        {t: 'Responsabilidad patrimonial: <b>6 meses</b> sin resolución ni acuerdo: puede entenderse contraria a la indemnización.', a: '91.3'}
+        {t: 'Responsabilidad patrimonial: <b>6 meses</b> desde el inicio sin resolución expresa notificada ni acuerdo formalizado: puede entenderse contraria a la indemnización.', a: '91.3'}
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Desistimiento y renuncia · 93-94', reglas: [
@@ -225,7 +225,7 @@ registerEsquema('aux-admin-zaragoza', 7, {
       {tipo: 'lista', items: [
         {t: 'Por <b>interés público</b> o <b>falta de complejidad</b>; de oficio o a solicitud. Antes de resolver, se puede volver a la ordinaria.', a: '96.1'},
         {t: 'Acordada de oficio: se notifica; si un interesado se <b>opone expresamente</b>, tramitación ordinaria.', a: '96.2'},
-        {t: 'Pedida por el interesado: el órgano puede desestimarla en <b>5 días</b>, sin recurso. Pasados 5 días, se entiende <b>desestimada</b>.', a: '96.3'},
+        {t: 'Pedida por el interesado: el órgano puede desestimarla en <b>5 días</b> desde su presentación, sin recurso. Pasados esos 5 días, se entiende <b>desestimada</b>.', a: '96.3'},
         {t: 'Sancionador: si la infracción puede calificarse de <b>leve</b>; el interesado <b>no puede oponerse</b>.', a: '96.5'},
         {t: 'Se resuelve en <b>30 días</b> desde el siguiente a la notificación del acuerdo, <b>salvo que reste menos para su tramitación ordinaria</b> {{examen:2025}}.', a: '96.6'},
         {t: 'Si hace falta un trámite no previsto, se tramita de forma ordinaria.', a: '96.7'}
@@ -287,7 +287,7 @@ registerEsquema('aux-admin-zaragoza', 7, {
   ],
 
   examenes: [
-    'Art. 76.1 (alegaciones en cualquier momento anterior al trámite de audiencia): examen oficial 31-may-2026, pregunta 50. Ojo: la plantilla oficial dio por buena «anterior a la propuesta de resolución», pero el texto literal del art. 76.1 dice «anterior al trámite de audiencia».',
+    'Art. 76.1 (alegaciones en cualquier momento anterior al trámite de audiencia): examen oficial 31-may-2026, pregunta 50. Ojo: la plantilla oficial dio por buena la opción b), «En cualquier momento del procedimiento anterior a la propuesta de resolución», pero el texto literal del art. 76.1 dice «en cualquier momento del procedimiento anterior al trámite de audiencia» (opción a). El esquema sigue la ley.',
     'Art. 96.6 (30 días, salvo que reste menos para la tramitación ordinaria): examen oficial 1-jun-2025, pregunta de reserva 3.',
     'Art. 98.1.b (sanción recurrible en vía administrativa, incluso en reposición, no es inmediatamente ejecutiva): examen oficial 1-jun-2025, pregunta de reserva 2.'
   ]

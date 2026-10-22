@@ -3,7 +3,7 @@
 Fuentes:
 - **LBRL**: Ley 7/1985, texto consolidado BOE-A-1985-5392, «Última actualización, publicada el 03/10/2026».
 - **Ley 10/2017**: Ley 10/2017 de capitalidad de Zaragoza, texto consolidado BOE-A-2018-1683, «Última actualización, publicada el 15/01/2019».
-- **Epígrafe**: tools/temarios/anexo-i-aux-admin-bopz170-2026.txt, TEMA 14 (une «Régimen de organización…» en una línea; no hay palabras partidas).
+- **Epígrafe**: tools/temarios/anexo-i-aux-admin-bopz170-2026.txt, TEMA 14 (sin palabras partidas en este epígrafe).
 
 Sin otra indicación, los artículos son de la LBRL.
 
@@ -27,7 +27,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - 1/3 — art. 126.2: «cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde.» Ley 10/2017, art. 13.2: «cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde.»
 - 3 — art. 137.4: «Estará constituido por un número impar de miembros, con un mínimo de tres, designados por el Pleno, con el voto favorable de la mayoría absoluta de los miembros que legalmente lo integren».
 
-## Sección «Territorio y población»
+## Sección: Territorio y población
 
 - Entidad local básica — art. 11.1: «El Municipio es la entidad local básica de la organización territorial del Estado. Tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines.»
 - Término y provincia — art. 12: «El término municipal es el territorio en que el ayuntamiento ejerce sus competencias.» y «Cada municipio pertenecerá a una sola provincia.»
@@ -43,7 +43,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - Derechos de los vecinos — art. 18.1, letras a) a h): «a) Ser elector y elegible», «b) Participar en la gestión municipal», «c) Utilizar, de acuerdo con su naturaleza, los servicios públicos municipales, y acceder a los aprovechamientos comunales», «d) Contribuir mediante las prestaciones económicas y personales legalmente previstas», «e) Ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal», «f) Pedir la consulta popular en los términos previstos en la ley.», «g) Exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público, en el supuesto de constituir una competencia municipal propia de carácter obligatorio.», «h) Ejercer la iniciativa popular en los términos previstos en el artículo 70 bis.»
 - Extranjeros — art. 18.2: «La inscripción de los extranjeros en el padrón municipal no constituirá prueba de su residencia legal en España».
 
-## Sección «Competencias municipales»
+## Sección: Competencias municipales
 
 - Competencias propias — art. 25.2: «El Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación del Estado y de las Comunidades Autónomas, en las siguientes materias:» Letras resumidas: a) «Urbanismo» y «Promoción y gestión de la vivienda de protección pública»; b) «Medio ambiente urbano»; c) «Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales.»; d) «Infraestructura viaria»; e) «la atención inmediata a personas en situación o riesgo de exclusión social.»; f) «Policía local, protección civil, prevención y extinción de incendios.»; g) «Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano.»; h) «Información y promoción de la actividad turística»; i) «Ferias, abastos, mercados, lonjas y comercio ambulante.»; j) «Protección de la salubridad pública.»; k) «Cementerios y actividades funerarias.»; l) «Promoción del deporte»; m) «Promoción de la cultura y equipamientos culturales.»; n) «Participar en la vigilancia del cumplimiento de la escolaridad obligatoria»; ñ) «tecnologías de la información y las comunicaciones.»; o) «Actuaciones en la promoción de la igualdad entre hombres y mujeres así como contra la violencia de género.»; p) «Promoción y participación en comunidades ciudadanas de energía»; q) «Promoción de actuaciones en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.»
 - Vigencia de la letra q — nota del consolidado: «Se añade la letra q) al apartado 2 por la disposición final 3.1 de la Ley 4/2026, de 1 de octubre.» y «Última actualización, publicada el 03/10/2026, en vigor a partir del 23/10/2026».
@@ -51,7 +51,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - Delegación — art. 27.1: «podrán delegar» y «no podrá ser inferior a cinco años». Art. 27.5: «La efectividad de la delegación requerirá su aceptación por el Municipio interesado.» Art. 27.6: «siendo nula sin dicha dotación.» Art. 27.7: «El acuerdo de renuncia se adoptará por el Pleno de la respectiva Entidad Local.» Art. 27.4: «Los actos del Municipio podrán ser recurridos ante los órganos competentes de la Administración delegante.»
 - Gestión colaborativa — art. 28: «Podrán establecerse, en municipios determinados de menos de 20.000 habitantes, sistemas de gestión colaborativa dirigidos a garantizar los recursos suficientes para el cumplimiento de las competencias municipales y, en particular, para una prestación de calidad, financieramente sostenible, de los servicios públicos mínimos obligatorios» y «requerirá decisión en tal sentido de la Comunidad Autónoma respectiva» «con la conformidad previa del municipio afectado».
 
-## Sección «Servicios mínimos obligatorios» (art. 26)
+## Sección: Servicios mínimos obligatorios (art. 26)
 
 - Todos — 26.1.a: «En todos los Municipios: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.» Examen (alcantarillado): 31-may-2026, P43.
 - Más de 5.000 — 26.1.b: «En los Municipios con población superior a 5.000 habitantes, además: parque público, biblioteca pública y tratamiento de residuos.» Examen: 1-jun-2025, P15.
@@ -60,7 +60,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - Diputación — 26.2: «En los municipios con población inferior a 20.000 habitantes será la Diputación provincial o entidad equivalente la que coordinará la prestación de los siguientes servicios:» (a «Recogida y tratamiento de residuos.», b «Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales.», c «Limpieza viaria.», d «Acceso a los núcleos de población.», e «Pavimentación de vías urbanas.», f «Alumbrado público.»). Nota: los incisos del párrafo siguiente sobre el Ministerio están anulados (STC 111/2016); el esquema no los usa.
 - Ejemplo: aplicación directa de 26.1.b y 26.1.d.
 
-## Sección «Gran población: ámbito y Pleno»
+## Sección: Gran población: ámbito y Pleno
 
 - Ámbito — art. 121.1 (citas en Esencial 4). Examen: 1-jun-2025, P17 (letra c y Asamblea Legislativa); 31-may-2026, P9 (letras a y b).
 - Adaptación — art. 121.2 (cifra 6 meses). Art. 121.3: «continuarán rigiéndose por el mismo aun cuando su cifra oficial de población se reduzca posteriormente por debajo del límite establecido en esta ley.»
@@ -70,7 +70,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - Mayorías — art. 123.2: «Se requerirá el voto favorable de la mayoría absoluta del número legal de miembros del Pleno, para la adopción de los acuerdos referidos en los párrafos c), e), f), j) y o) y para los acuerdos que corresponda adoptar al Pleno en la tramitación de los instrumentos de planeamiento general» y «Los demás acuerdos se adoptarán por mayoría simple de votos.» Contenido de las letras (art. 123.1): c) «La aprobación y modificación de los reglamentos de naturaleza orgánica.»; e) «Los acuerdos relativos a la delimitación y alteración del término municipal» … «el cambio de denominación»; f) «Los acuerdos relativos a la participación en organizaciones supramunicipales.»; j) «La transferencia de funciones o actividades a otras Administraciones públicas»; o) «Acordar la iniciativa prevista en el último inciso del artículo 121.1».
 - Delegación — art. 123.3: «Únicamente pueden delegarse las competencias del Pleno referidas en los párrafos d), k), m) y ñ) a favor de las comisiones referidas en el apartado 4 del artículo anterior.» (d «ordenanzas y reglamentos municipales», k «formas de gestión de los servicios», m «ejercicio de acciones judiciales y administrativas», ñ «planteamiento de conflictos de competencia»).
 
-## Sección «Alcalde y Junta de Gobierno Local»
+## Sección: Alcalde y Junta de Gobierno Local
 
 - Alcalde — art. 124.1: «El Alcalde ostenta la máxima representación del municipio.» 124.2: «El Alcalde es responsable de su gestión política ante el Pleno.» 124.3: «El Alcalde tendrá el tratamiento de Excelencia.»
 - Indelegables — art. 124.5: «con excepción de las señaladas en los párrafos b), e), h) y j), así como la de convocar y presidir la Junta de Gobierno Local, decidir los empates con voto de calidad y la de dictar bandos. Las atribuciones previstas en los párrafos c) y k) sólo serán delegables en la Junta de Gobierno Local.» Letras de 124.4: b) «Dirigir la política, el gobierno y la administración municipal»; e) «Nombrar y cesar a los Tenientes de Alcalde y a los Presidentes de los Distritos.»; h) «Adoptar las medidas necesarias y adecuadas en casos de extraordinaria y urgente necesidad»; j) «La Jefatura de la Policía Municipal.»; c) «Establecer directrices generales de la acción de gobierno municipal»; k) «Establecer la organización y estructura de la Administración municipal ejecutiva».
@@ -81,7 +81,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - Secretaría — art. 126.4: «La Secretaría de la Junta de Gobierno Local corresponderá a uno de sus miembros que reúna la condición de concejal, designado por el Alcalde» y «Existirá un órgano de apoyo a la Junta de Gobierno Local y al concejal-secretario de la misma, cuyo titular será nombrado entre funcionarios de Administración local con habilitación de carácter nacional.»
 - Atribuciones — art. 127.1: a) «La aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones.»; b) «La aprobación del proyecto de presupuesto.» (examen 1-jun-2025, P43); e) «La concesión de cualquier tipo de licencia»; i) «El nombramiento y el cese de los titulares de los órganos directivos de la Administración municipal»; l) «Ejercer la potestad sancionadora salvo que por ley esté atribuida a otro órgano.»
 
-## Sección «Otros órganos de la gran población»
+## Sección: Otros órganos de la gran población
 
 - Distritos — art. 128.1: «Los ayuntamientos deberán crear distritos, como divisiones territoriales propias, dotadas de órganos de gestión desconcentrada, para impulsar y desarrollar la participación ciudadana». 128.2: «Corresponde al Pleno de la Corporación la creación de los distritos». 128.3: «La presidencia del distrito corresponderá en todo caso a un concejal.»
 - Asesoría jurídica — art. 129.2: «Su titular será nombrado y separado por la Junta de Gobierno Local, entre personas que reúnan los siguientes requisitos: a) Estar en posesión del título de licenciado en derecho. b) Ostentar la condición de funcionario de administración local con habilitación de carácter nacional, o bien funcionario de carrera del Estado, de las comunidades autónomas o de las entidades locales, a los que se exija para su ingreso el título de doctor, licenciado, ingeniero, arquitecto o equivalente.» Examen: 31-may-2026, P8.
@@ -92,7 +92,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - Reclamaciones — art. 137.1: «a) El conocimiento y resolución de las reclamaciones sobre actos de gestión, liquidación, recaudación e inspección de tributos e ingresos de derecho público, que sean de competencia municipal. b) El dictamen sobre los proyectos de ordenanzas fiscales.» 137.2: «La resolución que se dicte pone fin a la vía administrativa y contra ella sólo cabrá la interposición del recurso contencioso-administrativo.» (examen 1-jun-2025, P22). 137.3: «los interesados podrán, con carácter potestativo, presentar previamente contra los actos previstos en el apartado 1 a) el recurso de reposición». 137.4: ver cifra 3.
 - Conferencia — art. 138: «En el seno de la Conferencia sectorial para asuntos locales, existirá una Conferencia de ciudades de la que formarán parte la Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios comprendidos en el ámbito de aplicación del título X de esta ley.»
 
-## Sección «Ley de capitalidad: disposiciones generales» (Ley 10/2017)
+## Sección: Ley de capitalidad: disposiciones generales (Ley 10/2017)
 
 - Art. 1: «El municipio de Zaragoza, capital de la Comunidad Autónoma de Aragón, goza del régimen especial establecido en esta Ley.»
 - Art. 2: «el municipio de Zaragoza goza de personalidad jurídica propia, plena capacidad de obrar y potestades suficientes».
@@ -103,7 +103,7 @@ Sin otra indicación, los artículos son de la LBRL.
 - Art. 8.1: «a) El Pleno, integrado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos de Zaragoza. b) Los órganos ejecutivos de dirección política y administrativa, que serán el Alcalde, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que se determinen en el correspondiente Reglamento orgánico. c) Los órganos directivos».
 - DA 2.ª: ver Esencial 5.
 
-## Sección «Ley de capitalidad: Pleno, Alcalde y Gobierno» (Ley 10/2017)
+## Sección: Ley de capitalidad: Pleno, Alcalde y Gobierno (Ley 10/2017)
 
 - Pleno, presidencia — art. 10.1: «El Pleno será presidido por el Alcalde, excepto en los supuestos regulados por la legislación de régimen electoral general y en el caso de delegación en un concejal.»
 - Comisiones — art. 10.4.b: «El dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno.»

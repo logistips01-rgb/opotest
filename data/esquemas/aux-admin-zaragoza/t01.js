@@ -13,7 +13,7 @@ registerEsquema('aux-admin-zaragoza', 1, {
   ],
 
   esencial: [
-    {t: 'Aprobada por las Cortes el <b>31-oct-1978</b>, ratificada en referéndum el <b>6-dic-1978</b>, sancionada el <b>27-dic-1978</b> y en vigor desde su publicación en el BOE el <b>29-dic-1978</b>.', a: 'RD 2560/1978; disp. final'},
+    {t: 'Aprobada por las Cortes el <b>31-oct-1978</b>, ratificada en referéndum el <b>6-dic-1978</b>, sancionada el <b>27-dic-1978</b> y en vigor desde su publicación en el BOE el <b>29-dic-1978</b>.', a: 'RD 2560/1978; fórmula final; disp. final'},
     {t: 'Estructura: preámbulo, <b>título preliminar y diez títulos</b>, <b>169 artículos</b>, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final.', a: 'CE'},
     {t: 'España es un <b>Estado social y democrático de Derecho</b>. La soberanía nacional reside en el <b>pueblo español</b>. Forma política: <b>Monarquía parlamentaria</b>.', a: 'art. 1'},
     {t: 'La Administración sirve con <b>objetividad</b> los intereses generales, con <b>sometimiento pleno a la ley y al Derecho</b>.', a: 'art. 103.1'},
@@ -48,7 +48,7 @@ registerEsquema('aux-admin-zaragoza', 1, {
   ],
 
   cifras: [
-    {v: '15-jun-1977', d: 'Elecciones al Congreso y al Senado: esas Cámaras aprobaron la Constitución {{examen:2026}}', a: 'RD 679/1977'},
+    {v: '15-jun-1977', d: 'Elecciones al Congreso y al Senado: esas Cámaras aprobaron la Constitución {{examen:2026}}', a: 'RD 679/1977; disp. trans. 8.ª.1'},
     {v: '31-oct-1978', d: 'Aprobación del proyecto en sesiones plenarias del Congreso y del Senado', a: 'RD 2560/1978'},
     {v: '6-dic-1978', d: 'Referéndum de la Nación sobre el proyecto', a: 'RD 2560/1978, art. 2'},
     {v: '27-dic-1978', d: 'Sanción y promulgación por el Rey {{examen:2026}}', a: 'fórmula final'},
@@ -95,8 +95,8 @@ registerEsquema('aux-admin-zaragoza', 1, {
         ['5', 'Capital: la <b>villa de Madrid</b>.'],
         ['6', 'Partidos: expresan el pluralismo político y son <b>instrumento fundamental</b> para la participación política.'],
         ['7', 'Sindicatos y asociaciones empresariales: defienden los intereses económicos y sociales que les son propios.'],
-        ['8', 'Fuerzas Armadas: <b>Ejército de Tierra, Armada y Ejército del Aire</b>. Garantizan soberanía, independencia, integridad territorial y ordenamiento constitucional. Bases de la organización militar: <b>ley orgánica</b>.'],
-        ['9', 'Ciudadanos y poderes públicos, sujetos a la Constitución. Los poderes públicos deben <b>remover los obstáculos</b> a la libertad e igualdad reales.']
+        ['8', 'Fuerzas Armadas: <b>Ejército de Tierra, Armada y Ejército del Aire</b>. Misión: garantizar la soberanía e independencia de España y defender su integridad territorial y el ordenamiento constitucional. Bases de la organización militar: <b>ley orgánica</b>.'],
+        ['9', 'Ciudadanos y poderes públicos, sujetos a la Constitución <b>y al resto del ordenamiento jurídico</b>. Los poderes públicos deben promover las condiciones para que la libertad y la igualdad sean reales y efectivas y <b>remover los obstáculos</b> que impidan o dificulten su plenitud.']
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: 'Partidos, sindicatos y asociaciones empresariales: creación y actividad <b>libres</b> dentro de la Constitución y la ley; estructura y funcionamiento <b>democráticos</b>.', a: 'arts. 6-7'},

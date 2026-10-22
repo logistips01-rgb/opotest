@@ -46353,7 +46353,7 @@ window.addQuestions('aux-admin-zaragoza', 20, [  {
       "La agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus respectivos derechos y de los terrenos de cesión obligatoria a favor de la Administración"
     ],
     "correct": 3,
-    "exp": "Es la definición literal del art. 140.1 TRLUA. La opción B describe la normalización de fincas (art. 133.2) y la D la ocupación directa (art. 191.1).",
+    "exp": "Es la definición literal del art. 140.1 TRLUA. Definir nuevos linderos sin redistribuir beneficios y cargas es la normalización de fincas (art. 133.2), y obtener terrenos dotacionales integrando a su titular en una unidad de ejecución excedentaria es la ocupación directa (art. 191.1).",
     "fuente": "Art. 140.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
     "confianza": "alta"
   },
@@ -46457,7 +46457,7 @@ window.addQuestions('aux-admin-zaragoza', 20, [  {
       "Los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización"
     ],
     "correct": 3,
-    "exp": "El art. 150.1 TRLUA describe la cooperación así: «los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización», aplicándose por unidades de ejecución completas. La opción A corresponde a la compensación (art. 151.2), la B al urbanizador (art. 159) y la D a la expropiación (art. 149.1).",
+    "exp": "El art. 150.1 TRLUA describe la cooperación así: «los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización», aplicándose por unidades de ejecución completas. La junta de propietarios que urbaniza a su costa es la compensación (art. 151.2); la retribución del urbanizador por los propietarios corresponde a la gestión indirecta por urbanizador (art. 159), y la adquisición por expropiación de toda la unidad es la expropiación (art. 149.1).",
     "fuente": "Art. 150.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
     "confianza": "alta"
   },
@@ -49813,7 +49813,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
       "el Pleno acuerda afectar un recurso determinado a la financiación de un gasto específico."
     ],
     "correct": 0,
-    "exp": "Art. 45.1 RD 500/1990, literalmente. Añade que, cumplidas por la entidad local las obligaciones asumidas en el acuerdo, el compromiso de ingreso dará lugar a un derecho de cobro exigible; y el apartado 2 permite generar crédito hasta la cuantía del compromiso firme. La opción B es la definición de la disposición o compromiso de gasto (art. 56.2).",
+    "exp": "Art. 45.1 RD 500/1990, literalmente. Añade que, cumplidas por la entidad local las obligaciones asumidas en el acuerdo, el compromiso de ingreso dará lugar a un derecho de cobro exigible; y el apartado 2 permite generar crédito hasta la cuantía del compromiso firme. La respuesta que habla de que la entidad local se obliga frente a un tercero a realizar un gasto es la definición de la disposición o compromiso de gasto (art. 56.2).",
     "fuente": "Art. 45.1 RD 500/1990 (presupuestos de las entidades locales)",
     "confianza": "alta"
   },
@@ -49891,7 +49891,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
       "Es un acto mediante el cual el ordenador de pagos expide la correspondiente orden de pago contra la Tesorería."
     ],
     "correct": 1,
-    "exp": "Art. 56.2 RD 500/1990, literalmente. La opción A describe la autorización (art. 54.2), la C el reconocimiento y liquidación de la obligación (art. 58) y la D la ordenación del pago (art. 61).",
+    "exp": "Art. 56.2 RD 500/1990, literalmente. El «acto de trámite interno» sin relaciones con terceros es la autorización (art. 54.2); la declaración de un crédito exigible es el reconocimiento y liquidación de la obligación (art. 58), y la expedición de la orden de pago es la ordenación del pago (art. 61).",
     "fuente": "Art. 56.2 RD 500/1990 (presupuestos de las entidades locales)",
     "confianza": "alta"
   },
@@ -49982,7 +49982,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
       "las provisiones de fondos de carácter no presupuestario y permanente que se realicen a pagadurías, cajas y habilitaciones para la atención inmediata y posterior aplicación al presupuesto del año en que se realicen, de las atenciones corrientes de carácter periódico o repetitivo."
     ],
     "correct": 3,
-    "exp": "Art. 73.2 RD 500/1990, en relación con el apartado 1 (dietas, gastos de locomoción, material de oficina no inventariable, conservación y otros de similares características). La calificación de los anticipos de caja fija como provisiones de fondos «de carácter no presupuestario y permanente» es una precisión del reglamento que no figura en el art. 190.3 TRLRHL. La opción A define las órdenes de pago «a justificar» (art. 69.1).",
+    "exp": "Art. 73.2 RD 500/1990, en relación con el apartado 1 (dietas, gastos de locomoción, material de oficina no inventariable, conservación y otros de similares características). La calificación de los anticipos de caja fija como provisiones de fondos «de carácter no presupuestario y permanente» es una precisión del reglamento que no figura en el art. 190.3 TRLRHL. Las órdenes de pago cuyos justificantes no pueden acompañarse al expedirlas son los pagos «a justificar» (art. 69.1).",
     "fuente": "Art. 73.1 y 73.2 RD 500/1990 (presupuestos de las entidades locales)",
     "confianza": "alta"
   },
@@ -49995,7 +49995,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
       "el reintegro se aplica a la agrupación de presupuestos cerrados."
     ],
     "correct": 1,
-    "exp": "Art. 77.1 RD 500/1990. El apartado 2 define, por contraste, los reintegros de ejercicios cerrados como los que se producen en ejercicio distinto de aquel en que se reconoció la obligación (opción A). Sus efectos difieren: los de presupuesto corriente pueden reponer crédito, mientras que los de ejercicios cerrados constituyen un recurso del presupuesto de ingresos (art. 78).",
+    "exp": "Art. 77.1 RD 500/1990. El apartado 2 define, por contraste, los reintegros de ejercicios cerrados como los que se producen en ejercicio distinto de aquel en que se reconoció la obligación. Sus efectos difieren: los de presupuesto corriente pueden reponer crédito, mientras que los de ejercicios cerrados constituyen un recurso del presupuesto de ingresos (art. 78).",
     "fuente": "Art. 77.1 RD 500/1990 (presupuestos de las entidades locales)",
     "confianza": "alta"
   },
@@ -50034,7 +50034,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
       "la diferencia entre los gastos autorizados y los gastos comprometidos."
     ],
     "correct": 3,
-    "exp": "Art. 98.2 b) RD 500/1990: los saldos de autorizaciones son «la diferencia entre los gastos autorizados y los gastos comprometidos». La opción A corresponde a los saldos de disposiciones (letra a) y la B a los saldos de crédito (letra c). El desglose de los componentes del remanente de crédito es aportación exclusiva del reglamento.",
+    "exp": "Art. 98.2 b) RD 500/1990: los saldos de autorizaciones son «la diferencia entre los gastos autorizados y los gastos comprometidos». La diferencia entre gastos comprometidos y obligaciones reconocidas son los saldos de disposiciones (letra a), y la suma de créditos disponibles, no disponibles y retenidos son los saldos de crédito (letra c). El desglose de los componentes del remanente de crédito es aportación exclusiva del reglamento.",
     "fuente": "Art. 98.2 b) RD 500/1990 (presupuestos de las entidades locales)",
     "confianza": "alta"
   },

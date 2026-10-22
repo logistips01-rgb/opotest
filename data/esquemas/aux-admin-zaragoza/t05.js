@@ -10,9 +10,9 @@ registerEsquema('aux-admin-zaragoza', 5, {
   esencial: [
     {t: 'Los plazos en <b>días son hábiles</b>: fuera sábados, domingos y festivos.', a: 'art. 30.2'},
     {t: 'Meses y años se cuentan <b>fecha a fecha</b> desde el día siguiente.', a: 'art. 30.4'},
-    {t: 'La Administración <b>siempre debe resolver</b> y notificar. Si nada dice la norma: <b>3 meses</b>. Máximo general: <b>6 meses</b>.', a: 'art. 21'},
-    {t: 'A solicitud del interesado, el silencio es <b>positivo por regla general</b>, con excepciones tasadas.', a: 'art. 24'},
-    {t: 'Ampliación de plazos: <b>no más de la mitad</b>. Urgencia: plazos <b>a la mitad</b>. Ninguna de las dos admite recurso.', a: 'arts. 32-33'}
+    {t: 'La Administración debe resolver y notificar <b>en todos los procedimientos</b>, salvo las excepciones del 21.1. Si nada dice la norma: <b>3 meses</b>. Máximo general: <b>6 meses</b>.', a: 'art. 21'},
+    {t: 'A solicitud del interesado, el silencio es <b>positivo por regla general</b>. Es negativo si así lo dice una ley o el Derecho UE o internacional, y en los casos que enumera el 24.1.', a: 'art. 24'},
+    {t: 'Ampliación de plazos: <b>no más de la mitad</b>. Urgencia: plazos <b>a la mitad</b>, salvo los de solicitudes y recursos. Contra el acuerdo de ampliación o de urgencia no cabe recurso.', a: 'arts. 32-33'}
   ],
 
   mapa: [
@@ -34,7 +34,7 @@ registerEsquema('aux-admin-zaragoza', 5, {
     {v: '3 meses', d: 'Plazo para resolver si la norma no fija otro', a: 'art. 21.3'},
     {v: '6 meses', d: 'Tope del plazo para resolver, salvo ley o Derecho UE', a: 'art. 21.2'},
     {v: '3 meses', d: 'Máximo de suspensión por informe preceptivo', a: 'art. 22.1.d'},
-    {v: '10 días', d: 'Para comunicar al interesado plazo y efectos del silencio', a: 'art. 21.4'},
+    {v: '10 días', d: 'Para comunicar al interesado plazo y efectos del silencio, desde que se recibe su solicitud', a: 'art. 21.4'},
     {v: '10 días', d: 'Para remitir informes preceptivos ya elaborados', a: 'art. 28.2'},
     {v: '15 días', d: 'Certificado de silencio, de oficio, desde que expira el plazo', a: 'art. 24.4'},
     {v: '15 días', d: 'Para expedir copias auténticas solicitadas', a: 'art. 27.4'},
@@ -45,8 +45,8 @@ registerEsquema('aux-admin-zaragoza', 5, {
     {titulo: 'Cómputo de plazos', a: 'art. 30', bloques: [
       {tipo: 'tabla', cab: ['Se fija en', 'Cómo se cuenta'], filas: [
         ['Horas', 'Hábiles. De hora en hora y de minuto en minuto desde la notificación o publicación. Máximo 24 h.'],
-        ['Días', 'Hábiles: se excluyen <b>sábados, domingos y festivos</b> {{examen:2025}}. Desde el día siguiente a la notificación, publicación o silencio. Si una ley fija días naturales, se dice en la notificación.'],
-        ['Meses / años', 'Desde el día siguiente. Vence el <b>mismo día</b> del mes o año de vencimiento. Si no existe ese día, el <b>último del mes</b>.']
+        ['Días', 'Hábiles: se excluyen <b>sábados, domingos y festivos</b> {{examen:2025}}. Desde el día siguiente a la notificación, publicación o silencio. Si una ley o el Derecho UE fija días naturales, se dice en la notificación.'],
+        ['Meses / años', 'Desde el día siguiente. Vence el <b>mismo día</b> en que se notificó, publicó o se produjo el silencio, en el mes o año de vencimiento. Si no existe ese día, el <b>último del mes</b>.']
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: 'Último día inhábil: se <b>prorroga al primer hábil siguiente</b>.', a: '30.5'},
@@ -59,7 +59,7 @@ registerEsquema('aux-admin-zaragoza', 5, {
     {titulo: 'Registro electrónico', a: 'art. 31', bloques: [
       {tipo: 'lista', items: [
         'Abierto <b>todos los días del año, 24 horas</b>.',
-        'Presentado en día inhábil: cuenta como hecho en la <b>primera hora del primer día hábil siguiente</b>.',
+        'Presentado en día inhábil: cuenta como hecho en la <b>primera hora del primer día hábil siguiente</b>, salvo que una norma permita expresamente recibir en día inhábil.',
         'Manda la <b>fecha y hora oficial de la sede electrónica</b>.',
         'Solo vale el calendario de la sede; aquí <b>no se aplica el art. 30.6</b>.'
       ]}
@@ -74,7 +74,7 @@ registerEsquema('aux-admin-zaragoza', 5, {
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Suspensión del plazo · art. 22', reglas: [
-          '<b>Puede</b> suspenderse (22.1, 7 casos): subsanar o aportar documentos, pronunciamiento o procedimiento de la UE, informes preceptivos (máx. 3 meses), pruebas técnicas, negociación de pacto o convenio, pronunciamiento judicial.',
+          '<b>Puede</b> suspenderse (22.1, 7 casos): subsanar o aportar documentos, pronunciamiento previo de un órgano de la UE, procedimiento de la UE no finalizado, informes preceptivos (máx. 3 meses), pruebas técnicas, negociación de pacto o convenio, pronunciamiento judicial.',
           '<b>Se suspende</b> siempre (22.2, 3 casos): requerimiento a otra Administración para anular o revisar un acto, actuaciones complementarias, recusación.'
         ]},
         {titulo: 'Ampliación del plazo · art. 23', reglas: [
@@ -89,8 +89,8 @@ registerEsquema('aux-admin-zaragoza', 5, {
       {tipo: 'columnas', cols: [
         {titulo: 'Iniciado a solicitud · art. 24', reglas: [
           'Regla general: <b>estimatorio</b>, salvo ley, Derecho UE o internacional.',
-          '<b>Desestimatorio</b> en: derecho de petición (art. 29 CE), facultades sobre dominio o servicio público, actividades que dañen el medio ambiente, responsabilidad patrimonial, impugnación de actos y revisión de oficio a solicitud.',
-          'Excepción: recurso de <b>alzada</b> contra una desestimación por silencio que tampoco se resuelve: se entiende <b>estimado</b>.'
+          '<b>Desestimatorio</b> en: derecho de petición (art. 29 CE), transferencia de facultades sobre dominio o servicio público, actividades que puedan dañar el medio ambiente, responsabilidad patrimonial, impugnación de actos y disposiciones y revisión de oficio a solicitud.',
+          'Excepción: recurso de <b>alzada</b> contra una desestimación por silencio que tampoco se resuelve: se entiende <b>estimado</b>, salvo en las cuatro primeras materias (petición, dominio o servicio público, medio ambiente, responsabilidad patrimonial).'
         ]},
         {titulo: 'Iniciado de oficio · art. 25', reglas: [
           'Si podía reconocer derechos o situaciones favorables: <b>desestimación</b> por silencio para quienes comparecieron.',
@@ -109,17 +109,17 @@ registerEsquema('aux-admin-zaragoza', 5, {
         {titulo: 'Obligados a relación electrónica · 14.2', items: [
           'Personas jurídicas',
           'Entidades sin personalidad jurídica',
-          'Profesionales con colegiación obligatoria (incluye notarios y registradores)',
+          'Profesionales con colegiación obligatoria, en trámites de esa actividad (incluye notarios y registradores)',
           'Quien represente a un obligado',
           'Empleados públicos, en trámites por su condición de empleado'
-        ], reglas: ['Las <b>personas físicas eligen</b> y pueden cambiar de medio en cualquier momento.']},
+        ], reglas: ['Las <b>personas físicas eligen</b> y pueden cambiar de medio en cualquier momento, salvo que estén obligadas. Un <b>reglamento</b> puede obligar a ciertos colectivos de personas físicas (14.3).']},
         {titulo: 'Dónde presentar documentos · 16.4', items: [
           'Registro electrónico del destinatario o de cualquier Administración',
           'Oficinas de Correos',
           'Representaciones diplomáticas y oficinas consulares',
           'Oficinas de asistencia en materia de registros',
           'Cualquier otro que fijen las normas'
-        ], reglas: ['Lo presentado en papel se <b>digitaliza</b> y se devuelven los originales.']}
+        ], reglas: ['Lo presentado de forma presencial se <b>digitaliza</b> y se devuelven los originales, salvo que la norma obligue a custodiarlos o no se puedan digitalizar.']}
       ]},
       {tipo: 'lista', tinte: true, items: [
         '<b>Lengua (15):</b> en la AGE, castellano; se puede usar la cooficial ante sus órganos en esa CA. Si varios interesados discrepan, castellano. En CCAA y entidades locales, lo que diga la ley autonómica.',
@@ -133,7 +133,7 @@ registerEsquema('aux-admin-zaragoza', 5, {
         {t: 'Los documentos se emiten <b>por escrito y por medios electrónicos</b>, salvo que su naturaleza exija otra forma.', a: '26.1'},
         {t: 'No llevan firma electrónica los meramente informativos ni los que no forman parte de un expediente.', a: '26.3'},
         {t: 'Copia auténtica: <b>misma validez y eficacia</b> que el original. Las de documentos privados solo tienen efectos administrativos.', a: '27'},
-        {t: 'Derecho a <b>no aportar</b> documentos que ya tenga la Administración, salvo oposición del interesado. No cabe oponerse en <b>potestades sancionadoras o de inspección</b>.', a: '28.2'},
+        {t: 'Derecho a <b>no aportar</b> documentos que ya tenga la Administración actuante o que haya elaborado otra. La Administración los consulta, salvo que el interesado se oponga. No cabe oponerse en <b>potestades sancionadoras o de inspección</b>.', a: '28.2'},
         {t: 'No se exigen <b>originales</b> salvo que la normativa lo establezca de forma excepcional.', a: '28.3'}
       ]}
     ]},
@@ -143,8 +143,9 @@ registerEsquema('aux-admin-zaragoza', 5, {
         {titulo: 'Ampliación · art. 32', reglas: [
           'De oficio o a petición. <b>No más de la mitad</b> del plazo. Sin perjudicar a terceros. Se notifica.',
           'Petición y decisión <b>antes de que venza</b> el plazo. Un plazo vencido nunca se amplía.',
-          'Siempre por el máximo en trámites con misiones diplomáticas, en el extranjero o con interesados que residen fuera de España.',
-          '<b>No cabe recurso</b> contra el acuerdo ni contra su denegación.'
+          'Siempre por el máximo en procedimientos tramitados por misiones diplomáticas u oficinas consulares, con algún trámite en el extranjero o con interesados que residen fuera de España.',
+          '<b>No cabe recurso</b> contra el acuerdo ni contra su denegación.',
+          'Incidencia técnica (32.4): puede ampliar los plazos <b>no vencidos</b> y lo publica en la sede. Ciberincidente grave (32.5): puede acordar una <b>ampliación general</b> de plazos.'
         ]},
         {titulo: 'Urgencia · art. 33', reglas: [
           'Por razones de interés público, de oficio o a petición.',
