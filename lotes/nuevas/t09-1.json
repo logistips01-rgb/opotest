@@ -104,13 +104,13 @@
   {
    "q": "Según el art. 14.4 de la LCSP, la parte de los riesgos transferidos al concesionario debe suponer una exposición real a las incertidumbres del mercado, de modo que cualquier pérdida potencial estimada en que incurra el concesionario:",
    "options": [
-    "Quede compensada por la Administración cuando supere el 10 % de la inversión",
-    "No supere en ningún caso el importe de la garantía definitiva",
+    "Sea compensada por la Administración concedente",
+    "No supere el importe de la garantía definitiva",
     "No sea meramente nominal o desdeñable",
-    "Quede cubierta por un seguro obligatorio contratado por el concesionario"
+    "Quede cubierta por un seguro obligatorio"
    ],
    "correct": 2,
-   "exp": "El último inciso del art. 14.4 exige que la parte de los riesgos transferidos suponga «una exposición real a las incertidumbres del mercado que implique que cualquier pérdida potencial estimada en que incurra el concesionario no es meramente nominal o desdeñable». Compensar las pérdidas, limitarlas a la garantía o cubrirlas con un seguro obligatorio eliminaría esa exposición real, y la ley no prevé nada de eso.",
+   "exp": "El último inciso del art. 14.4 exige que la parte de los riesgos transferidos suponga «una exposición real a las incertidumbres del mercado que implique que cualquier pérdida potencial estimada en que incurra el concesionario no es meramente nominal o desdeñable». Que la Administración compense las pérdidas, limitarlas a la garantía definitiva o cubrirlas con un seguro obligatorio eliminaría esa exposición real, y la ley no prevé nada de eso.",
    "fuente": "Art. 14.4, párrafo segundo, LCSP (Ley 9/2017)",
    "confianza": "alta",
    "cita": "La parte de los riesgos transferidos al concesionario debe suponer una exposición real a las incertidumbres del mercado que implique que cualquier pérdida potencial estimada en que incurra el concesionario no es meramente nominal o desdeñable."
@@ -230,10 +230,10 @@
   {
    "q": "En un municipio que no es de gran población, la DA 2.ª.1 de la LCSP atribuye al Alcalde los contratos plurianuales de hasta cuatro años (prórrogas incluidas) si el importe acumulado de todas sus anualidades no supera seis millones de euros ni el 10 % de los recursos ordinarios del presupuesto:",
    "options": [
-    "De cada ejercicio de duración del contrato",
-    "Del último ejercicio del contrato",
+    "De cada ejercicio del contrato",
+    "Del último ejercicio",
     "Del primer ejercicio",
-    "Del ejercicio anterior, ya liquidado"
+    "Del ejercicio ya liquidado"
    ],
    "correct": 2,
    "exp": "En los municipios de régimen común, la DA 2.ª.1 incluye en la competencia del Alcalde los contratos plurianuales de hasta cuatro años, prórrogas incluidas, «siempre que el importe acumulado de todas sus anualidades no supere ni el porcentaje indicado, referido a los recursos ordinarios del presupuesto del primer ejercicio, ni la cuantía señalada». El porcentaje no se calcula ejercicio por ejercicio, ni sobre el último ejercicio ni sobre el ya liquidado. En los municipios de gran población, como Zaragoza, no se aplica este reparto: contrata la Junta de Gobierno Local, cualquiera que sea el importe o la duración (DA 2.ª.4).",

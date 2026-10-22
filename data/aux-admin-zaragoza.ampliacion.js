@@ -53715,3 +53715,765 @@ window.addQuestions('aux-admin-zaragoza', 16, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 10 · lote 2026-10-22 · 26 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 10, [
+  {
+    "q": "Según el art. 4.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si no consta la afectación de un bien local a un uso o servicio público ni su naturaleza comunal, se presume que es un bien:",
+    "options": [
+      "De uso público",
+      "De servicio público",
+      "Patrimonial",
+      "Comunal"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.3 RBASO establece una presunción a favor del carácter patrimonial: «Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal se presume su carácter patrimonial». Uso público, servicio público y comunal son precisamente las clases de dominio público cuya afectación o naturaleza no consta.",
+    "fuente": "Art. 4.3 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), para declarar un terreno de la entidad local como parcela sobrante se requiere:",
+    "options": [
+      "Resolución del Presidente de la entidad local, previo informe técnico, del Interventor y del Secretario",
+      "Procedimiento de calificación jurídica como tal, salvo que ese carácter resulte de la aprobación de planes de ordenación o de proyectos de obras y servicios",
+      "Autorización previa del Departamento competente del Gobierno de Aragón",
+      "Únicamente su inclusión en el epígrafe de inmuebles del inventario, sin procedimiento alguno"
+    ],
+    "correct": 1,
+    "exp": "El art. 5.1 RBASO exige «procedimiento de calificación jurídica como tal, conforme a lo dispuesto en el artículo 10», salvo cuando el carácter de parcela sobrante resulte de planes de ordenación o proyectos de obras y servicios. La resolución del Presidente con informes del Interventor y del Secretario es el régimen de la declaración de bien no utilizable (art. 5.2), no el de la parcela sobrante.",
+    "fuente": "Art. 5.1 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), los bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública:",
+    "options": [
+      "Son inembargables",
+      "Pueden ser embargados como cualquier otro bien patrimonial",
+      "Pueden enajenarse por venta directa, sin necesidad de subasta",
+      "Quedan sujetos a las normas de aprovechamiento de los bienes comunales"
+    ],
+    "correct": 0,
+    "exp": "El art. 6.3 RBASO, tras decir que los patrimoniales se rigen por su legislación específica y, en su defecto, por el Derecho privado, añade: «No obstante, aquellos bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública, serán inembargables».",
+    "fuente": "Art. 6.3 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8 del Decreto 347/2002 del Gobierno de Aragón (RBASO), los bienes adquiridos por expropiación forzosa quedan afectados a los fines que la motivaron. Concluida esa afectación, esos bienes:",
+    "options": [
+      "Pasan a ser bienes comunales",
+      "Siguen siendo de dominio público mientras el Pleno no los desafecte por mayoría de dos tercios",
+      "Pasan a ser bienes patrimoniales, sin perjuicio, en su caso, del derecho de reversión",
+      "Deben devolverse en todo caso a su antiguo propietario, sin que quepa darles otro destino"
+    ],
+    "correct": 2,
+    "exp": "El art. 8.3 RBASO dispone: «Concluida la afectación, pasarán a ser bienes patrimoniales, sin perjuicio, en su caso, del derecho de reversión en los términos de la legislación de expropiación forzosa». La reversión no es automática «en todo caso», y el art. 8.2 permite incluso acordar una nueva afectación a otro fin de utilidad pública o interés social.",
+    "fuente": "Art. 8.3 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 178.1 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de los siguientes supuestos produce automáticamente la alteración de la calificación jurídica y la afectación de los bienes al dominio público?",
+    "options": [
+      "La adscripción de bienes patrimoniales durante más de diez años a un uso o servicio público",
+      "La compra de un inmueble por la entidad local mediante contrato",
+      "La adquisición por cesión obligatoria con el fin de destinar el bien al uso público o a la prestación de un servicio público determinado",
+      "La inclusión del bien en el inventario como bien de servicio público por resolución del Alcalde"
+    ],
+    "correct": 2,
+    "exp": "El art. 178.1 de la Ley 7/1999 recoge tres supuestos de alteración tácita: a) aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios; b) adscripción de bienes patrimoniales por más de veinticinco años (no diez) a un uso o servicio público, o al aprovechamiento comunal; y c) «Adquisición por cesión obligatoria con el fin de ser destinados al uso público o a la prestación de un servicio público determinado».",
+    "fuente": "Art. 178.1.c) LALA (Ley 7/1999 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 180.3 de la Ley 7/1999, de Administración Local de Aragón, los acuerdos de cesión de uso o de transmisión del dominio de bienes comunales desafectados deben incluir siempre una cláusula de reversión. Producida la reversión, esos bienes vuelven a formar parte del patrimonio de la entidad local como:",
+    "options": [
+      "Bienes comunales",
+      "Bienes patrimoniales",
+      "Bienes de servicio público",
+      "Bienes del Patrimonio Municipal del Suelo"
+    ],
+    "correct": 0,
+    "exp": "El art. 180.3 de la Ley 7/1999 exige una cláusula de reversión para el caso de que desaparezcan los fines o se incumplan las condiciones, y añade: «Producida la reversión, en su caso, volverán a formar parte del patrimonio de la entidad local correspondiente como bienes comunales».",
+    "fuente": "Art. 180.3 LALA (Ley 7/1999 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 181.1 de la Ley 7/1999, de Administración Local de Aragón, los bienes y derechos que una entidad local adscribe directamente a sus organismos autónomos:",
+    "options": [
+      "Pasan a ser propiedad del organismo autónomo",
+      "Se convierten necesariamente en bienes patrimoniales del organismo",
+      "Se integran en el patrimonio del organismo como aportación no dineraria",
+      "Conservan su calificación jurídica originaria, sin que el organismo que los recibe adquiera su propiedad"
+    ],
+    "correct": 3,
+    "exp": "El art. 181.1 de la Ley 7/1999 dispone que los bienes y derechos adscritos «conservarán la calificación jurídica originaria que les corresponda como bienes del patrimonio de la entidad local, sin que los organismos que los reciban adquieran su propiedad»; solo se les atribuyen facultades de conservación y utilización para los fines de la adscripción.",
+    "fuente": "Art. 181.1 LALA (Ley 7/1999 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿cuál es la forma ordinaria para la adquisición de bienes a título oneroso por las entidades locales?",
+    "options": [
+      "La subasta",
+      "El procedimiento negociado",
+      "El concurso",
+      "La adjudicación directa"
+    ],
+    "correct": 2,
+    "exp": "El art. 17.3 RBASO dice: «El concurso será la forma ordinaria para la adquisición de bienes a título oneroso». El procedimiento negociado solo cabe en los supuestos tasados del mismo apartado (singularidad del bien, emplazamiento determinante, circunstancias imprevisibles o escasa cuantía).",
+    "fuente": "Art. 17.3 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un vecino requiere a su Ayuntamiento para que ejercite las acciones necesarias en defensa de un bien municipal. Según el art. 44.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si la entidad no acuerda ejercitarlas, los vecinos podrán hacerlo en nombre e interés de la entidad cuando falte un mes para que termine el plazo de la acción o, en todo caso, cuando hayan transcurrido desde el requerimiento:",
+    "options": [
+      "Quince días hábiles",
+      "Treinta días hábiles",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 44.2 RBASO permite a los vecinos ejercitar la acción en nombre e interés de la entidad «Cuando falte un mes para finalizar el plazo del ejercicio de las correspondientes acciones o, en todo caso, transcurridos treinta días hábiles desde el requerimiento vecinal sin que la Entidad local acuerde el ejercicio de las acciones solicitadas».",
+    "fuente": "Art. 44.2 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el acuerdo de iniciación del procedimiento de investigación se publica en el «Boletín Oficial de Aragón» y se expone en el tablón de anuncios para que los afectados puedan alegar por escrito durante un plazo de:",
+    "options": [
+      "Quince días",
+      "Diez días",
+      "Un mes",
+      "Sesenta días"
+    ],
+    "correct": 0,
+    "exp": "El art. 50.1 RBASO prevé la publicación en el «Boletín Oficial de Aragón» y la exposición en el tablón de anuncios «por plazo de quince días, al objeto de que las personas afectadas por el procedimiento puedan alegar por escrito». El plazo de un mes para alegar es el del art. 50 del Reglamento estatal de 1986, desplazado en Aragón.",
+    "fuente": "Art. 50.1 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 66 del Decreto 347/2002 del Gobierno de Aragón (RBASO), cuando la extinción de los derechos sobre un bien de dominio público no da lugar a indemnización, se requiere a los interesados para que desalojen la finca en el plazo que señale la Corporación, que no será inferior a:",
+    "options": [
+      "Cinco días",
+      "Quince días",
+      "Cuatro meses",
+      "Un mes"
+    ],
+    "correct": 3,
+    "exp": "El art. 66 RBASO: si no hay lugar a indemnización, se requiere a los interesados «para que desalojen la finca en el plazo señalado por la Corporación, que no será inferior a un mes». Los cuatro meses son el plazo máximo para desalojar cuando sí hay indemnización (art. 67.1) y los cinco días, el del apercibimiento de lanzamiento (art. 68.1).",
+    "fuente": "Art. 66 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), cuando el desahucio administrativo da lugar a indemnización, se requiere a los interesados para que propongan su cuantía y el plazo que necesitan para desalojar, advirtiéndoles de que, en todo caso, deberán desalojar la finca en el plazo de:",
+    "options": [
+      "Cuatro meses",
+      "Un mes",
+      "Seis meses",
+      "Un año"
+    ],
+    "correct": 0,
+    "exp": "El art. 67.1 RBASO prevé que, si procede indemnización, se intente fijarla por avenencia: los interesados formulan propuesta en quince días «con advertencia de que, en todo caso, deberán desalojarla en el plazo de cuatro meses». Sin avenencia, la indemnización se fija según la legislación de expropiación forzosa (art. 67.3).",
+    "fuente": "Art. 67.1 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 71.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las sanciones que imponen las entidades locales para la defensa de su patrimonio:",
+    "options": [
+      "Sustituyen a la obligación de reparar el daño causado",
+      "Excluyen cualquier otra responsabilidad en que haya podido incurrirse",
+      "Son independientes de la obligación de reparar el daño causado y de restituir lo usurpado",
+      "Solo pueden imponerse si el infractor no restituye lo usurpado en el plazo de un mes"
+    ],
+    "correct": 2,
+    "exp": "El art. 71.3 RBASO dice: «Las sanciones serán independientes de la obligación de reparar el daño causado y de restituir lo que se hubiese usurpado, y de otras responsabilidades en que haya podido incurrirse».",
+    "fuente": "Art. 71.3 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 75 del Decreto 347/2002 del Gobierno de Aragón (RBASO) no considera instalaciones fijas y permanentes, a efectos del uso privativo agravado, las desmontables. Según su apartado 4, son instalaciones desmontables, entre otros requisitos, las que:",
+    "options": [
+      "Se construyan con elaboración de materiales en obra y empleo de soldaduras",
+      "Solo puedan levantarse mediante su demolición",
+      "Precisen a lo sumo obras puntuales de cimentación, que en todo caso no sobresaldrán del terreno",
+      "Ocupen una superficie inferior a veinte metros cuadrados"
+    ],
+    "correct": 2,
+    "exp": "El art. 75.4 RBASO entiende por desmontables las instalaciones que: a) «Precisen a lo sumo obras puntuales de cimentación, que en todo caso no sobresaldrán del terreno»; b) estén constituidas por elementos de serie prefabricados, sin elaboración de materiales en obra ni soldaduras; y c) se monten y desmonten por procesos secuenciales, pudiendo levantarse sin demolición. La superficie ocupada no es un criterio.",
+    "fuente": "Art. 75.4.a) RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un particular quiere ocupar una porción de una calle de modo que limita o excluye su uso por los demás, pero sin instalaciones fijas ni permanentes. Según el art. 78 del Decreto 347/2002 del Gobierno de Aragón (RBASO), esa utilización privativa normal está sujeta a:",
+    "options": [
+      "Concesión administrativa",
+      "Licencia",
+      "Contrato de arrendamiento",
+      "Ningún título, por tratarse de un uso común general"
+    ],
+    "correct": 1,
+    "exp": "El art. 78 RBASO sujeta a licencia «a) la utilización común especial; b) la utilización privativa normal, cuando no requiera instalaciones fijas o permanentes». La concesión se reserva para la utilización privativa con obras o instalaciones de carácter permanente y para la anormal (art. 81). No es uso común general, porque excluye la utilización de otros (art. 75.1).",
+    "fuente": "Art. 78.b) RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 80.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las licencias de utilización del dominio y uso público no podrán otorgarse por plazo superior a:",
+    "options": [
+      "Cinco años",
+      "Diez años",
+      "Veinticinco años",
+      "Cincuenta años"
+    ],
+    "correct": 1,
+    "exp": "El art. 80.3 RBASO dice: «No podrán otorgarse licencias por plazo superior a diez años». Los cincuenta años son el plazo máximo de la concesión demanial (art. 83.2). Además, las licencias pueden revocarse en cualquier momento por motivos de interés público (art. 80.4).",
+    "fuente": "Art. 80.3 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 90.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el proyecto que ha de servir de base a una concesión demanial y las bases de esta se someten a información pública por un plazo no inferior a:",
+    "options": [
+      "Diez días",
+      "Treinta días",
+      "Veinte días",
+      "Dos meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 90.1 RBASO dispone que el proyecto y las bases «se someterán a información pública por plazo no inferior a veinte días»; después, la Corporación aprueba el proyecto y convoca licitación. Los treinta días eran la cifra del art. 87.4 del Reglamento estatal de 1986, desplazado en Aragón.",
+    "fuente": "Art. 90.1 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿cuál de las siguientes es una causa de extinción de las concesiones demaniales?",
+    "options": [
+      "La desafectación del bien",
+      "La renovación de la Corporación tras unas elecciones locales",
+      "La revisión de las tarifas aprobada por la entidad local",
+      "El cambio de denominación social del concesionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 93.1 RBASO enumera las causas de extinción: vencimiento del plazo, desaparición del bien, «desafectación del bien», renuncia del concesionario, revocación, rescate y resolución judicial. Si la desafectación se hace para enajenar el bien, la extinción se produce por rescate (art. 93.2).",
+    "fuente": "Art. 93.1.c) RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 183.2 de la Ley 7/1999, de Administración Local de Aragón, el aprovechamiento y disfrute de los bienes comunales se efectuará:",
+    "options": [
+      "Preferentemente en régimen de explotación colectiva o comunal",
+      "Necesariamente mediante adjudicación de lotes o suertes entre los vecinos",
+      "Preferentemente mediante arrendamiento adjudicado en pública subasta",
+      "Exclusivamente mediante concesión administrativa"
+    ],
+    "correct": 0,
+    "exp": "El art. 183.2 de la Ley 7/1999 dice: «El aprovechamiento y disfrute de los bienes comunales se efectuará preferentemente en régimen de explotación colectiva o comunal». Si es impracticable, rige la costumbre u ordenanza local y, en su defecto, la adjudicación de lotes o suertes (art. 183.3); la subasta solo cabe si esto también es imposible y la autoriza el Gobierno de Aragón (art. 183.4).",
+    "fuente": "Art. 183.2 LALA (Ley 7/1999 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 185.1 de la Ley 7/1999, de Administración Local de Aragón, las entidades locales pueden establecer mediante ordenanza un régimen específico de los aprovechamientos derivados de sus bienes o derechos. ¿Qué aprovechamientos cita expresamente el precepto?",
+    "options": [
+      "Los mineros, los de hidrocarburos, los eólicos y los solares",
+      "Los micológicos, las plantas aromáticas, la caza y los pastos",
+      "Las aguas subterráneas, termales y minerales y los saltos hidroeléctricos",
+      "Las canteras, las graveras, las salinas y los áridos"
+    ],
+    "correct": 1,
+    "exp": "El art. 185.1 de la Ley 7/1999 (y el art. 103.1 RBASO) permite regular por ordenanza los aprovechamientos de los bienes o derechos locales, «incluidos, entre otros, los aprovechamientos micológicos, las plantas aromáticas, la caza, los pastos y otros semejantes». Ese régimen puede consistir en acotar terrenos y regular el acceso a su aprovechamiento (art. 185.2).",
+    "fuente": "Art. 185.1 LALA (Ley 7/1999 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 189.1 de la Ley 7/1999, de Administración Local de Aragón, la permuta de bienes patrimoniales puede efectuarse aunque no haya equivalencia de valores si se establece la compensación económica pertinente y la diferencia de valor no supera un porcentaje del bien de valor más alto. ¿Cuál?",
+    "options": [
+      "El 40 %",
+      "El 25 %",
+      "El 50 %",
+      "El 10 %"
+    ],
+    "correct": 2,
+    "exp": "El art. 189.1 de la Ley 7/1999 (y el art. 115.2 RBASO) dice: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al 50 por 100 del que tenga el valor más alto y se establece la compensación económica pertinente». El 40 % era la cifra del art. 112.2 del Reglamento estatal de 1986, desplazado en Aragón.",
+    "fuente": "Art. 189.1 LALA (Ley 7/1999 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional única del Decreto 347/2002 del Gobierno de Aragón, los edificios de las entidades locales destinados a centros educativos:",
+    "options": [
+      "Pueden desafectarse por acuerdo del Pleno con un simple trámite de audiencia a la Administración educativa",
+      "Son bienes patrimoniales y pueden arrendarse sin necesidad de desafectación",
+      "Pueden desafectarse libremente por resolución del Alcalde",
+      "No pueden desafectarse y destinarse a otros servicios o finalidades sin autorización previa de la Administración educativa"
+    ],
+    "correct": 3,
+    "exp": "La disposición adicional única.1 del Decreto 347/2002 dice: «Los edificios de las Entidades locales destinados a centros educativos no podrán desafectarse y destinarse a otros servicios o finalidades sin autorización previa de la Administración educativa». El simple trámite de audiencia es el régimen de las viviendas de profesores (apartado 2), no el de los edificios escolares.",
+    "fuente": "Disposición adicional única.1 Decreto 347/2002 de Aragón",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué parte de la Ley 7/1999, de Administración Local de Aragón, regula los bienes de las entidades locales?",
+    "options": [
+      "El título VI, artículos 170 a 190",
+      "El título VII, artículos 169 a 192",
+      "El título V, artículos 79 a 83",
+      "El título VI, artículos 169 a 192"
+    ],
+    "correct": 3,
+    "exp": "El título VI de la Ley 7/1999 se rubrica «Bienes de las entidades locales» y va del art. 169 (bienes de las entidades locales) al art. 192 (fomento de la reforestación); el título VII empieza en el art. 193. El preámbulo del Decreto 347/2002 lo confirma: su título I desarrolla «el Título VI (arts. 169 a 192) de la Ley de Administración Local de Aragón». Los arts. 79 a 83 son los de la LBRL.",
+    "fuente": "Título VI (arts. 169 a 192) LALA (Ley 7/1999 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 55 del Reglamento de Bienes de las Entidades Locales (RD 1372/1986), en relación con el procedimiento de investigación de bienes:",
+    "options": [
+      "Todas las cuestiones, incluidas las de naturaleza civil, se resuelven en vía contencioso-administrativa",
+      "Las cuestiones de naturaleza civil corresponden a la jurisdicción ordinaria, y la resolución del expediente puede impugnarse en vía contencioso-administrativa",
+      "La resolución del expediente solo puede impugnarse ante la jurisdicción civil",
+      "La resolución del expediente es firme y no admite impugnación judicial"
+    ],
+    "correct": 1,
+    "exp": "El art. 55 RBEL dispone: «1. El conocimiento de las cuestiones de naturaleza civil que se susciten con ocasión de la investigación practicada corresponderá a la jurisdicción ordinaria. 2. Los afectados por la resolución del expediente de investigación podrán impugnarla en vía contencioso-administrativa». El Reglamento aragonés (arts. 48 a 53) no regula este punto, por lo que se aplica el estatal como supletorio.",
+    "fuente": "Art. 55.1 y 55.2 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 65 del Reglamento de Bienes de las Entidades Locales (RD 1372/1986), el acuerdo resolutorio del deslinde:",
+    "options": [
+      "No es ejecutivo hasta que lo confirme una sentencia firme",
+      "Solo puede impugnarse ante la jurisdicción civil",
+      "Es ejecutivo y solo puede impugnarse en vía contencioso-administrativa, sin perjuicio de que quienes se estimen lesionados hagan valer sus derechos ante la jurisdicción ordinaria",
+      "Necesita la aprobación del órgano competente de la Comunidad Autónoma para ser ejecutivo"
+    ],
+    "correct": 2,
+    "exp": "El art. 65 RBEL dice: «El acuerdo resolutorio de deslinde será ejecutivo y sólo podrá ser impugnado en vía contencioso-administrativa, sin perjuicio de que cuantos se estimen lesionados en sus derechos pueden hacerlos valer ante la jurisdicción ordinaria». El Reglamento aragonés atribuye la aprobación al Pleno (art. 60) pero no regula su ejecutividad ni su impugnación, por lo que se aplica el estatal como supletorio.",
+    "fuente": "Art. 65 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 72 del Reglamento de Bienes de las Entidades Locales (RD 1372/1986), cuando los bienes de una Corporación local están situados fuera de su término municipal, la investigación, el deslinde y la reivindicación en vía administrativa:",
+    "options": [
+      "Corresponden en exclusiva a la entidad en cuyo territorio radican los bienes, que adquiere su titularidad",
+      "Solo pueden ejercerse mediante acción ante los tribunales civiles",
+      "Requieren autorización previa de la Diputación Provincial",
+      "Pueden ejecutarse mediante exhorto a la entidad en cuyo territorio radiquen, para que por su mediación se desarrollen los actos correspondientes"
+    ],
+    "correct": 3,
+    "exp": "El art. 72 RBEL dispone que las Corporaciones locales «podrán ejecutar en vía administrativa la investigación, el deslinde y reivindicación de los bienes situados fuera del término de su jurisdicción, mediante exhorto a la Entidad en cuyo territorio radicaren, para que, por su mediación, se desarrollen los actos correspondientes». El Reglamento aragonés no contiene una regla equivalente.",
+    "fuente": "Art. 72 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 11 · lote 2026-10-22 · 32 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 11, [
+  {
+    "q": "Según el art. 193.1.a) de la Ley 7/1999, de Administración Local de Aragón, ¿qué medio de intervención de las entidades locales en la actividad de los ciudadanos recoge esa letra?",
+    "options": [
+      "Ordenanzas y Decretos normativos de emergencia",
+      "Ordenanzas e instrumentos de planeamiento",
+      "Reglamentos orgánicos y bandos extraordinarios",
+      "Ordenanzas fiscales y precios públicos"
+    ],
+    "correct": 0,
+    "exp": "El art. 193.1.a) de la Ley 7/1999 (redacción del Decreto-ley 1/2010) recoge «Ordenanzas y Decretos normativos de emergencia». Es una diferencia con el art. 84.1.a) LBRL, que dice «ordenanzas y bandos». Los instrumentos de planeamiento figuran en el art. 122.1 del Decreto 347/2002, no en la ley; ni los reglamentos orgánicos ni las ordenanzas fiscales son medios de intervención del art. 193.1.",
+    "fuente": "Art. 193.1.a) Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 193.2 de la Ley 7/1999, de Administración Local de Aragón, la actividad de intervención de las entidades locales se ajustará a los principios de:",
+    "options": [
+      "Legalidad, jerarquía normativa, publicidad e irretroactividad",
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación",
+      "Igualdad de trato, congruencia con los motivos y fines justificativos, respeto a la libertad individual y proporcionalidad",
+      "Autonomía local, suficiencia financiera y solidaridad interterritorial"
+    ],
+    "correct": 2,
+    "exp": "El art. 193.2 de la Ley 7/1999 enumera cuatro principios: igualdad de trato, congruencia con los motivos y fines justificativos, respeto a la libertad individual y proporcionalidad. La LBRL (art. 84.2) habla de igualdad de trato, necesidad y proporcionalidad. Las demás series son principios de otras materias (fuentes del Derecho, organización administrativa, financiación local), no de la intervención en la actividad privada.",
+    "fuente": "Art. 193.2 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 194 bis de la Ley 7/1999, de Administración Local de Aragón, salvo que una ley sectorial establezca lo contrario, ¿con qué instrumento pueden las entidades locales sustituir la licencia por una comunicación previa o una declaración responsable?",
+    "options": [
+      "Con un bando de la Alcaldía",
+      "Con un decreto del Gobierno de Aragón",
+      "Con un convenio con la Comunidad Autónoma",
+      "Con sus ordenanzas"
+    ],
+    "correct": 3,
+    "exp": "El art. 194 bis de la Ley 7/1999 (añadido por el Decreto-ley 1/2010) permite a las entidades locales «prever en sus ordenanzas» esa sustitución. La entidad local puede verificar en cualquier momento los requisitos y ordenar, por resolución motivada, el cese de la actuación. No se hace por bando, por decreto autonómico ni por convenio.",
+    "fuente": "Art. 194 bis Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 198.2 de la Ley 7/1999, de Administración Local de Aragón, la potestad de intervención local sobre las actividades o servicios de interés público que prestan los particulares podrá comprender:",
+    "options": [
+      "La asunción por la entidad local de la titularidad de la actividad",
+      "La aprobación de las tarifas",
+      "La fijación de los salarios del personal de las empresas del sector",
+      "La expropiación de las empresas que presten la actividad"
+    ],
+    "correct": 1,
+    "exp": "El art. 198.2 de la Ley 7/1999 dice que esa potestad «podrá comprender la regulación de las bases generales de prestación del servicio, la autorización de su ejercicio, la aprobación de las tarifas, así como el régimen de infracciones y sanciones». La entidad local no asume la titularidad de la actividad privada (lo precisa el art. 168 del Decreto 347/2002), y la ley no incluye ni los salarios del sector ni la expropiación de las empresas.",
+    "fuente": "Art. 198.2 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 200 de la Ley 7/1999, de Administración Local de Aragón, ¿cuándo deben las entidades locales aprobar el reglamento que regula un servicio público local que crean?",
+    "options": [
+      "Dentro de los seis meses siguientes al inicio de su prestación",
+      "Antes de empezar a prestarlo",
+      "Al terminar el primer ejercicio presupuestario de funcionamiento",
+      "Solo si el servicio va a gestionarse de forma indirecta"
+    ],
+    "correct": 1,
+    "exp": "El art. 200 de la Ley 7/1999 exige acordar de manera expresa la creación del servicio y aprobar el reglamento que lo regule «antes de empezar a prestarlo», cualquiera que sea la forma de gestión. También deben fijar las modalidades de prestación y el régimen estatutario de los usuarios.",
+    "fuente": "Art. 200 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205.5 de la Ley 7/1999, de Administración Local de Aragón, el acuerdo que aprueba la prestación de servicios en régimen de monopolio comporta:",
+    "options": [
+      "La disolución de las empresas privadas que prestaban el servicio",
+      "La exención de los tributos locales para el servicio monopolizado",
+      "La declaración de utilidad pública y la necesidad de ocupación de los bienes o adquisición de los derechos afectados por el servicio",
+      "La transferencia de la titularidad del servicio a la Comunidad Autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 205.5 de la Ley 7/1999 dispone que ese acuerdo «comportará la declaración de utilidad pública y la necesidad de ocupación de los bienes o adquisición de los derechos afectados por el servicio», lo que permite expropiarlos. La ley no prevé la disolución de empresas, exenciones tributarias ni el traspaso del servicio a la Comunidad Autónoma.",
+    "fuente": "Art. 205.5 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 209.2 de la Ley 7/1999, de Administración Local de Aragón, cuando el capital de la sociedad mercantil que gestiona directamente un servicio pertenece íntegramente a la entidad local, las funciones de Junta General las asume:",
+    "options": [
+      "La Junta de Gobierno Local",
+      "El Pleno de la entidad",
+      "El Alcalde o Presidente de la entidad",
+      "Una comisión designada por el Consejo de Administración"
+    ],
+    "correct": 1,
+    "exp": "El art. 209.2 de la Ley 7/1999 dispone que «el Pleno de la entidad asumirá las funciones de Junta General cuando el capital social pertenezca íntegramente a la entidad local». En Zaragoza, la designación de los representantes municipales en los órganos de las sociedades participadas corresponde al Gobierno de Zaragoza (art. 14.1 n) Ley 10/2017). El art. 249.2 del Decreto 347/2002 repite la regla.",
+    "fuente": "Art. 209.2 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 122.1 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002) enumera los medios de intervención de las entidades locales en la actividad de los ciudadanos. ¿Cuál de ellos no figura en el art. 84.1 LBRL?",
+    "options": [
+      "Las ordenanzas y bandos",
+      "Los instrumentos de planeamiento",
+      "Las órdenes individuales de hacer o prohibiciones",
+      "La sujeción a licencia y otros actos de control preventivo"
+    ],
+    "correct": 1,
+    "exp": "El art. 122.1 del Decreto 347/2002 recoge: a) ordenanzas y bandos; b) instrumentos de planeamiento; c) sujeción a licencia y otros actos de control preventivo; d) órdenes individuales de hacer o prohibiciones. Los instrumentos de planeamiento (urbanísticos y sectoriales, art. 122.2) no aparecen en el art. 84.1 LBRL; los otros tres sí.",
+    "fuente": "Art. 122.1.b) Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 151 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), si se transmite una licencia y los sujetos que intervienen no lo comunican a la entidad local:",
+    "options": [
+      "Ambos serán responsables solidarios de los daños que puedan derivarse de su actuación",
+      "La licencia queda extinguida automáticamente",
+      "Solo responde el nuevo titular de los daños que se causen",
+      "La transmisión es nula y el adquirente debe solicitar una nueva licencia"
+    ],
+    "correct": 0,
+    "exp": "El art. 151 del Decreto 347/2002 permite transmitir las licencias (salvo las concedidas por cualidades personales o de número limitado) comunicándolo por escrito; si en un mes no se notifica que no procede, la transmisión es eficaz. Si no se comunica, el apartado 3 no extingue la licencia ni anula la transmisión: hace a ambos «responsables solidarios de los daños que puedan derivarse de su actuación».",
+    "fuente": "Art. 151.3 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 152.2 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), en defecto de regulación específica, ¿en qué plazo debe comenzar la actuación autorizada por una licencia para que no se entienda caducada?",
+    "options": [
+      "Seis meses",
+      "Un mes",
+      "Tres meses",
+      "Un año"
+    ],
+    "correct": 0,
+    "exp": "El art. 152.2 del Decreto 347/2002 dispone que, en defecto de regulación específica, «regirá el plazo de seis meses para el comienzo de la actuación autorizada»; transcurrido, la licencia se entiende caducada, aunque puede prorrogarse por causas justificadas. Hay que tramitar un procedimiento con audiencia del interesado (152.3). Las licencias urbanísticas se rigen por la legislación urbanística de Aragón (152.4).",
+    "fuente": "Art. 152.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 153.3 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), la revocación de una licencia porque la Corporación adopta nuevos criterios de apreciación recogidos en la normativa aplicable:",
+    "options": [
+      "No da derecho a indemnización en ningún caso",
+      "Solo se indemniza si el titular lo pide en el plazo de un mes",
+      "Comporta el resarcimiento de los daños y perjuicios que se causaren",
+      "No es posible: solo cabe revocar una licencia por incumplimiento del titular"
+    ],
+    "correct": 2,
+    "exp": "El art. 153.3 del Decreto 347/2002 permite revocar las licencias por cambio o desaparición de las circunstancias y también por la adopción de nuevos criterios de apreciación. En este último caso, la revocación «comportará el resarcimiento de los daños y perjuicios que se causaren», previo procedimiento con audiencia de los interesados. La norma no condiciona la indemnización a una solicitud en un mes.",
+    "fuente": "Art. 153.3 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 164.3 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), ¿cómo deben formalizarse las órdenes individuales que dicten las entidades locales?",
+    "options": [
+      "Deben ser verbales, salvo que el destinatario pida que se le comuniquen por escrito",
+      "Deben ser escritas y publicarse en el Boletín Oficial de Aragón antes de ejecutarse",
+      "Deben ser escritas, pero no necesitan motivación",
+      "Deben ser claras, por escrito y motivadas, y pueden ser verbales cuando razones de excepcional urgencia lo justifiquen"
+    ],
+    "correct": 3,
+    "exp": "El art. 164.3 del Decreto 347/2002 dispone: «La orden deberá ser clara, formalizada por escrito y motivada. Podrá ser verbal, cuando razones de excepcional urgencia lo justifiquen». La regla es la forma escrita y la motivación es obligatoria. La norma no exige publicarlas en el BOA. La competencia es del Alcalde, salvo que las ordenanzas la atribuyan a otro órgano (164.2).",
+    "fuente": "Art. 164.3 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), cuando un particular autorizado ejerce una actividad o presta un servicio de interés público cuya tutela corresponde a la entidad local:",
+    "options": [
+      "La entidad local asume la titularidad de la actividad y responde subsidiariamente de los daños",
+      "La entidad local no asume la titularidad de la actividad ni responde de los daños causados a terceros por las personas autorizadas",
+      "La actividad se convierte en un servicio público local gestionado por concesión",
+      "La entidad local responde solidariamente con el autorizado de los daños causados a terceros"
+    ],
+    "correct": 1,
+    "exp": "El art. 168 del Decreto 347/2002 dispone que la entidad local «no asumirá la titularidad de la actividad privada que se preste y no será responsable de los daños causados a terceros por las personas autorizadas», sin perjuicio de las sanciones. La autorización tampoco crea relación contractual con la entidad local (art. 169.6), así que la actividad no pasa a ser un servicio público concedido.",
+    "fuente": "Art. 168 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 179.3 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), el importe de una subvención local, sola o junto con otras ayudas de otras Administraciones o de instituciones privadas:",
+    "options": [
+      "Puede superar el coste de la actividad si lo autoriza el Pleno",
+      "No puede superar en ningún caso el coste de la actividad que desarrolle el beneficiario",
+      "Puede superar el coste de la actividad si esta es de interés social",
+      "No tiene límite cuando la subvención se concede por concurso público"
+    ],
+    "correct": 1,
+    "exp": "El art. 179.3 del Decreto 347/2002 prohíbe que la subvención, «aislada o conjuntamente con otras ayudas de otras Administraciones públicas o instituciones privadas, supere el coste de la actividad a desarrollar por el beneficiario». La regla no admite excepciones: ni el acuerdo del Pleno, ni el interés social de la actividad, ni la forma de concesión.",
+    "fuente": "Art. 179.3 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 181 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), ¿a cuál de estos supuestos no se aplican las normas del Reglamento sobre subvenciones?",
+    "options": [
+      "A las ayudas a asociaciones vecinales para sus actividades culturales",
+      "A los auxilios económicos a particulares que realicen actividades de interés público",
+      "A las subvenciones a entidades privadas que complementen actividades de la entidad local",
+      "A las transferencias presupuestarias al concesionario de un servicio público para garantizar el equilibrio financiero de la concesión"
+    ],
+    "correct": 3,
+    "exp": "El art. 181 del Decreto 347/2002 excluye: a) las transferencias al concesionario de un servicio público para garantizar el equilibrio financiero de la concesión; b) las cesiones de uso de inmuebles a entidades o instituciones públicas, que se rigen por la normativa de bienes; y c) las subvenciones indirectas reguladas por la legislación tributaria o sectorial. Las ayudas a entidades privadas y particulares que realizan actividades de interés público son precisamente las subvenciones del art. 176.",
+    "fuente": "Art. 181.a) Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 187.2 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), la renuncia del beneficiario a una subvención:",
+    "options": [
+      "Se formulará por escrito y deberá ser previa al inicio de la actividad subvencionada o a su cobro; si es posterior, habrá que reintegrar lo percibido",
+      "Solo es posible con autorización expresa del Pleno de la entidad",
+      "No es posible una vez notificada la concesión",
+      "Puede hacerse en cualquier momento sin obligación de reintegro"
+    ],
+    "correct": 0,
+    "exp": "El art. 187.2 del Decreto 347/2002 permite renunciar y quedar liberado de la carga o finalidad de la subvención. La renuncia «se formulará por escrito y deberá ser previa al inicio de la actividad subvencionada o a su cobro»; si se hace después, el beneficiario reintegrará las cantidades percibidas. No hace falta autorización del Pleno.",
+    "fuente": "Art. 187.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 232.2 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), los servicios que impliquen ejercicio de autoridad se prestarán:",
+    "options": [
+      "Por gestión directa mediante organismo autónomo local",
+      "Por gestión directa mediante sociedad mercantil de capital íntegramente local",
+      "Por gestión directa de la propia entidad, sin órgano especial",
+      "Por la forma de gestión, directa o indirecta, que acuerde el Pleno"
+    ],
+    "correct": 2,
+    "exp": "El art. 232.2 del Decreto 347/2002 va más allá de prohibir la gestión indirecta: estos servicios «serán prestados por gestión directa de la propia Entidad sin órgano especial». Quedan excluidos, por tanto, el organismo autónomo y la sociedad mercantil. Los servicios que supongan potestades y prerrogativas públicas en general deben prestarse mediante formas de gestión directa sujetas al Derecho público (232.1).",
+    "fuente": "Art. 232.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 236.1 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), en la gestión directa mediante organización especial, ¿cuántos miembros puede tener como máximo el Consejo de Administración en un municipio de más de 20.000 habitantes?",
+    "options": [
+      "Cinco",
+      "Siete",
+      "Nueve",
+      "Quince"
+    ],
+    "correct": 2,
+    "exp": "El art. 236.1 del Decreto 347/2002 limita el Consejo de Administración, nombrado por el Pleno, a cinco miembros en los municipios de menos de 20.000 habitantes y a nueve en los de población superior y en las entidades supramunicipales. La mitad más uno deben ser miembros de la Corporación, y el resto, personas profesionalmente cualificadas, con representación de los usuarios.",
+    "fuente": "Art. 236.1 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 255.2 del Reglamento aragonés de Bienes, Actividades, Servicios y Obras (Decreto 347/2002), el Gerente, el personal directivo y el resto del personal de una sociedad mercantil local de capital íntegramente público:",
+    "options": [
+      "Tienen carácter laboral y no adquieren en ningún caso la condición de funcionario",
+      "Son funcionarios de carrera de la entidad local",
+      "Pueden ser funcionarios o laborales, según decida el Consejo de Administración",
+      "Tienen la condición de personal eventual de la Corporación"
+    ],
+    "correct": 0,
+    "exp": "El art. 255.2 del Decreto 347/2002 dispone que todo el personal de la sociedad «tendrá carácter laboral y no adquirirá en ningún caso la condición de funcionario». La selección del personal no directivo exige convocatoria pública y procesos basados en igualdad, mérito y capacidad. El art. 209.3 de la Ley 7/1999 sujeta también este personal al derecho laboral.",
+    "fuente": "Art. 255.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.3 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), sus disposiciones son de aplicación:",
+    "options": [
+      "Solo a la Administración de la Comunidad Autónoma y a sus organismos públicos",
+      "A las entidades locales de Aragón y a sus organismos autónomos y entidades de derecho público",
+      "A las entidades locales de Aragón solo cuando concedan subvenciones financiadas por la Comunidad Autónoma",
+      "A las entidades locales de Aragón de más de 20.000 habitantes"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.3 del texto refundido dispone que sus disposiciones «serán de aplicación a las entidades locales de la Comunidad Autónoma de Aragón, así como a sus organismos autónomos y entidades de derecho público». La ley no limita su aplicación a las subvenciones financiadas por la Comunidad Autónoma ni a una población mínima. Por eso rige también las subvenciones del Ayuntamiento de Zaragoza, junto con la normativa básica estatal (art. 3.1).",
+    "fuente": "Art. 2.3 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.4 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), ¿cuál de estas aportaciones dinerarias de una entidad local queda fuera del ámbito de la ley?",
+    "options": [
+      "Las ayudas a asociaciones vecinales para sus actividades",
+      "Las subvenciones previstas nominativamente en su presupuesto",
+      "Las ayudas a clubes deportivos concedidas en concurrencia competitiva",
+      "Las cuotas a las asociaciones de entidades locales constituidas para la protección y promoción de sus intereses comunes"
+    ],
+    "correct": 3,
+    "exp": "El art. 1.4 del texto refundido excluye las cuotas, ordinarias o extraordinarias, que pagan las entidades locales o comarcales a las asociaciones que pueden constituir, de ámbito estatal o autonómico, para proteger y promover sus intereses comunes. Las ayudas a asociaciones, a clubes y las subvenciones nominativas sí son subvenciones sujetas a la ley.",
+    "fuente": "Art. 1.4 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.c) del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), cuando la beneficiaria de una subvención es una entidad local, debe acreditar, entre otros extremos:",
+    "options": [
+      "Que tiene aprobado un plan estratégico de subvenciones propio",
+      "Que está al día en la obligación de rendir sus cuentas a la Cámara de Cuentas de Aragón",
+      "Que tiene más de 5.000 habitantes",
+      "Que liquidó el presupuesto del ejercicio anterior con superávit"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.c) del texto refundido exige a la entidad local beneficiaria acreditar que está al día en la rendición de cuentas a la Cámara de Cuentas de Aragón, que ha adoptado medidas de racionalización del gasto y que ha presentado planes económico-financieros si sus cuentas presentan desequilibrios o acumulan deudas con proveedores. No exige un plan estratégico propio, una población mínima ni un superávit.",
+    "fuente": "Art. 9.c) TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 38.3 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), ¿a partir de qué importe de subvenciones de capital concedidas es preceptivo pedir que la Intervención General, o el órgano de control equivalente de la entidad local, designe un representante para comprobar materialmente la inversión?",
+    "options": [
+      "Cuando excedan de 90.000 euros",
+      "Cuando excedan de 60.000 euros",
+      "Cuando excedan de 200.000 euros",
+      "Cuando excedan de 900.000 euros"
+    ],
+    "correct": 2,
+    "exp": "El art. 38.3 del texto refundido fija el umbral en 200.000 euros. La cifra de 90.000 euros es la del art. 38.2, a partir de la cual el propio órgano concedente debe comprobar materialmente las inversiones en activos tangibles y levantar acta, sin representante de la Intervención.",
+    "fuente": "Art. 38.3 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.2 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente, el interés de demora aplicable en materia de subvenciones es:",
+    "options": [
+      "El interés legal del dinero incrementado en un 25 por 100",
+      "El interés legal del dinero, sin incremento",
+      "El interés legal del dinero incrementado en un 10 por 100",
+      "El interés legal del dinero incrementado en un 50 por 100"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.2 del texto refundido fija como interés de demora en materia de subvenciones «el interés legal del dinero incrementado en un 25 por 100, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente». Se exige, por ejemplo, en los reintegros desde el pago de la subvención (art. 47.1). Las cantidades a reintegrar son ingresos de derecho público (48.1).",
+    "fuente": "Art. 48.2 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85 bis.1.a) LBRL, las entidades públicas empresariales locales quedan adscritas a una Concejalía, Área u órgano equivalente, pero también podrán estarlo a:",
+    "options": [
+      "Un organismo autónomo local",
+      "Una sociedad mercantil local",
+      "Una mancomunidad de municipios",
+      "La Diputación Provincial"
+    ],
+    "correct": 0,
+    "exp": "El art. 85 bis.1.a) LBRL dispone que estos entes «deberán quedar adscritas a una Concejalía, Área u órgano equivalente de la entidad local, si bien, en el caso de las entidades públicas empresariales, también podrán estarlo a un organismo autónomo local». No prevé la adscripción a una sociedad mercantil, a una mancomunidad ni a la Diputación.",
+    "fuente": "Art. 85 bis.1.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85 bis.1.a) LBRL, ¿a qué entes pueden asignar excepcionalmente sus estatutos la función de dirigir o coordinar a otros entes de la misma o distinta naturaleza?",
+    "options": [
+      "A los organismos autónomos locales",
+      "A las sociedades mercantiles locales",
+      "A las entidades públicas empresariales locales",
+      "A las mancomunidades de municipios"
+    ],
+    "correct": 2,
+    "exp": "El art. 85 bis.1.a) LBRL dispone: «Excepcionalmente, podrán existir entidades públicas empresariales cuyos estatutos les asignen la función de dirigir o coordinar a otros entes de la misma o distinta naturaleza». La excepción solo se prevé para las entidades públicas empresariales, no para los organismos autónomos, las sociedades mercantiles ni las mancomunidades.",
+    "fuente": "Art. 85 bis.1.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85 bis.1.b) LBRL, en los municipios de gran población (título X), el titular del máximo órgano de dirección de un organismo autónomo local o de una entidad pública empresarial local tiene la consideración de:",
+    "options": [
+      "Órgano superior",
+      "Personal eventual",
+      "Miembro de la Junta de Gobierno Local",
+      "Órgano directivo"
+    ],
+    "correct": 3,
+    "exp": "El art. 85 bis.1.b) LBRL dispone: «En los municipios señalados en el título X, tendrá la consideración de órgano directivo». Coincide con el art. 130.1.B) LBRL, que incluye a estos titulares entre los órganos directivos. Los órganos superiores son el Alcalde y los miembros de la Junta de Gobierno (art. 130.1.A).",
+    "fuente": "Art. 85 bis.1.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85 bis.1 LBRL, en los municipios donde no existe Junta de Gobierno, las referencias que ese artículo hace a la Junta de Gobierno se entienden hechas:",
+    "options": [
+      "Al Alcalde",
+      "Al Pleno",
+      "A la Comisión Especial de Cuentas",
+      "Al consejo rector del organismo autónomo"
+    ],
+    "correct": 1,
+    "exp": "El último párrafo del art. 85 bis.1 LBRL dispone: «Las referencias efectuadas en el presente artículo a la Junta de Gobierno, se entenderán efectuadas al Pleno en los municipios en que no exista aquélla». Afecta, por ejemplo, a las normas sobre condiciones retributivas del personal (letra e).",
+    "fuente": "Art. 85 bis.1, último párrafo, LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85 bis.2.c) LBRL, ¿qué deben determinar además los estatutos de las entidades públicas empresariales locales?",
+    "options": [
+      "El capital social que deben aportar las Administraciones públicas",
+      "Los órganos a los que se confiera el ejercicio de las potestades administrativas",
+      "La forma de designación de la Junta General",
+      "Los servicios que se prestarán en régimen de monopolio"
+    ],
+    "correct": 1,
+    "exp": "El art. 85 bis.2.c) LBRL dispone que, en el caso de las entidades públicas empresariales, los estatutos «también determinarán los órganos a los que se confiera el ejercicio de las potestades administrativas». El capital social y la Junta General son propios de las sociedades mercantiles locales (art. 85 ter.2 y 3). Prestar un servicio en monopolio exige un expediente propio, aprobado por el Pleno y por la Comunidad Autónoma (art. 86.2).",
+    "fuente": "Art. 85 bis.2.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85 bis.2 LBRL, ¿cuál de los siguientes extremos deben comprender los estatutos de los organismos autónomos locales y de las entidades públicas empresariales locales?",
+    "options": [
+      "La plantilla de personal de toda la entidad local de la que dependen",
+      "El reglamento orgánico de la entidad local de la que dependen",
+      "El tipo de interés de sus operaciones de crédito",
+      "El régimen relativo a recursos humanos, patrimonio y contratación"
+    ],
+    "correct": 3,
+    "exp": "El art. 85 bis.2 LBRL enumera el contenido de los estatutos: a) máximos órganos de dirección y su designación; b) funciones, competencias y potestades; c) en las EPEL, órganos que ejercen potestades administrativas; d) patrimonio y recursos económicos; e) «el régimen relativo a recursos humanos, patrimonio y contratación»; f) régimen presupuestario, contable y de control. La plantilla y el reglamento orgánico son de la propia entidad local, y el tipo de interés de los créditos no forma parte de los estatutos.",
+    "fuente": "Art. 85 bis.2.e) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 86.3 LBRL, la Administración del Estado podrá impugnar los actos y acuerdos de las entidades locales sobre iniciativa económica y reserva de servicios cuando:",
+    "options": [
+      "Incumplan la legislación de estabilidad presupuestaria y sostenibilidad financiera",
+      "No hayan sido aprobados por unanimidad del Pleno",
+      "Afecten a servicios mínimos obligatorios",
+      "Se hayan adoptado sin informe previo de la Comunidad Autónoma"
+    ],
+    "correct": 0,
+    "exp": "El art. 86.3 LBRL (redacción de la Ley 27/2013) permite al Estado impugnar estos actos y acuerdos, con arreglo al Capítulo III del Título V de la LBRL, «cuando incumplan la legislación de estabilidad presupuestaria y sostenibilidad financiera». La ley no exige unanimidad ni informe autonómico previo, y la impugnación no depende de que el servicio sea mínimo obligatorio.",
+    "fuente": "Art. 86.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85.2.A) LBRL, la memoria justificativa del asesoramiento recibido que se eleva al Pleno cuando se opta por una entidad pública empresarial o una sociedad mercantil local incluirá:",
+    "options": [
+      "Un análisis del mercado sobre la oferta y la demanda existentes",
+      "El informe previo y vinculante del órgano competente de la Comunidad Autónoma",
+      "Los informes sobre el coste del servicio y el apoyo técnico recibido, que deberán ser publicitados",
+      "La relación nominal del personal que se adscribirá al nuevo ente"
+    ],
+    "correct": 2,
+    "exp": "El art. 85.2.A) LBRL exige que conste en el expediente la memoria justificativa del asesoramiento recibido, que se eleva al Pleno y en la que «se incluirán los informes sobre el coste del servicio, así como, el apoyo técnico recibido, que deberán ser publicitados». El análisis del mercado es propio del expediente de iniciativa económica (art. 86.1). El informe que se recaba es el del interventor local, no uno autonómico.",
+    "fuente": "Art. 85.2.A), párrafo segundo, LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  }
+]);
