@@ -1,0 +1,55 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 9,
+  "fecha": "2026-10-22",
+  "preguntas": [
+    {
+      "q": "Según el art. 13.3 de la LCSP, podrán contratarse obras definidas mediante proyectos independientes relativos a cada una de las partes de una obra completa siempre que esas partes sean susceptibles de utilización independiente o puedan ser sustancialmente definidas y, además:",
+      "options": [
+        "Preceda un informe favorable de la Intervención sobre la financiación de todas las partes de la obra",
+        "Todas las partes se adjudiquen al mismo contratista mediante un procedimiento abierto",
+        "La obra completa se financie íntegramente con cargo al presupuesto de un único ejercicio",
+        "Preceda autorización del órgano de contratación que funde la conveniencia de esa contratación"
+      ],
+      "correct": 3,
+      "exp": "La regla general del art. 13.3 es que el contrato de obras se refiere a una obra completa. Como excepción, el párrafo segundo permite contratar por proyectos independientes cada parte de la obra si las partes son susceptibles de utilización independiente o pueden ser sustancialmente definidas «y preceda autorización administrativa del órgano de contratación que funde la conveniencia de la referida contratación». La ley no pone un límite de 50.000 euros por parte, no exige que todas las partes las ejecute el mismo contratista ni que la obra se financie en un solo ejercicio.",
+      "fuente": "Art. 13.3, párrafo segundo, LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 (última actualización 09/04/2026) descargado por el revisor; cita literal localizada. Pregunta correcta: art. 13.3, párrafo 2.º, exige «autorización administrativa del órgano de contratación que funde la conveniencia»; los tres distractores son falsos. Pero la explicación no es exacta: dice que «la ley no pone un límite de 50.000 euros por parte», distractor que no existe en las opciones, y no menciona el informe favorable de la Intervención, que sí es una opción. Arreglo: sustituir esa frase por «La ley no exige informe de la Intervención sobre la financiación, que todas las partes las ejecute el mismo contratista por procedimiento abierto ni que la obra se financie en un solo ejercicio». | Revisor 2 (DUDOSA): Respuesta correcta según el art. 13.3, párr. 2.º LCSP («y preceda autorización administrativa del órgano de contratación que funde la conveniencia de la referida contratación») y los tres distractores son falsos. Pero la explicación no es exacta: rebate un distractor que no existe («La ley no pone un límite de 50.000 euros por parte») y no menciona el que sí está (informe favorable de la Intervención). Arreglo: sustituir esa frase por «La ley no exige un informe previo de la Intervención, que todas las partes las ejecute el mismo contratista mediante procedimiento abierto ni que la obra se financie en un solo ejercicio».",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 18.3 de la LCSP, el contrato mixto que contenga elementos de una concesión de obras o de una concesión de servicios deberá acompañarse:",
+      "options": [
+        "De un informe previo y vinculante de la Junta Consultiva de Contratación Pública del Estado",
+        "De la autorización del órgano de contratación para dividir el contrato en lotes separados",
+        "De un plan económico-financiero informado por el Interventor y aprobado, en su caso, por el Pleno de la entidad",
+        "Del estudio de viabilidad y, en su caso, del anteproyecto de construcción y explotación de las obras"
+      ],
+      "correct": 3,
+      "exp": "El párrafo segundo del art. 18.3 dispone que, si el contrato mixto contiene elementos de una concesión de obras o de servicios, «deberá acompañarse del correspondiente estudio de viabilidad y, en su caso, del anteproyecto de construcción y explotación de las obras previstos en los artículos 247, 248 y 285». (El párrafo primero exige proyecto cuando la obra supera los 50.000 euros.) La ley no exige aquí informe de la Junta Consultiva, autorización para dividir en lotes ni un plan económico-financiero aprobado por el Interventor.",
+      "fuente": "Art. 18.3, párrafo segundo, LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 (última actualización 09/04/2026) descargado por el revisor; cita literal localizada. Pregunta correcta: art. 18.3, párrafo 2.º (estudio de viabilidad y, en su caso, anteproyecto de los arts. 247, 248 y 285); los distractores son falsos y no repite la existente del párrafo 1.º. Pero la explicación describe mal un distractor: dice que la ley no exige «un plan económico-financiero aprobado por el Interventor», y la opción habla de un plan «informado por el Interventor y aprobado, en su caso, por el Pleno». Arreglo: «ni un plan económico-financiero informado por el Interventor y aprobado por el Pleno». | Revisor 2 (CONFIRMADA): Art. 18.3, párr. 2.º LCSP verificado: el mixto con elementos de concesión «deberá acompañarse del correspondiente estudio de viabilidad y, en su caso, del anteproyecto» (arts. 247, 248 y 285). Distractores falsos. La pregunta existente del 18.3 trata el párr. 1.º (proyecto si la obra supera 50.000 €).",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según la DA 3.ª.3 de la LCSP, en la comprobación material de la inversión, el órgano interventor de la Entidad Local podrá estar asistido en la recepción por:",
+      "options": [
+        "El director de obra, que certifica que la prestación se ha ejecutado conforme al proyecto aprobado y al contrato",
+        "El responsable del contrato designado por el órgano de contratación para supervisar su ejecución",
+        "Un técnico especializado en el objeto del contrato, distinto del director de obra y del responsable del contrato",
+        "Un representante del contratista propuesto en su oferta, con la conformidad del órgano de contratación"
+      ],
+      "correct": 2,
+      "exp": "La DA 3.ª.3 (redacción de la Ley 31/2022) dice que el órgano interventor «podrá estar asistido en la recepción por un técnico especializado en el objeto del contrato, que deberá ser diferente del director de obra y del responsable del contrato». Por eso no pueden ser el director de obra ni el responsable del contrato, y menos aún un representante del contratista.",
+      "fuente": "Disposición adicional tercera, apartado 3, LCSP (Ley 9/2017, redacción de la Ley 31/2022)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 (última actualización 09/04/2026) descargado por el revisor; cita literal localizada. El contenido es correcto: la DA 3.ª.3 (redacción de la Ley 31/2022) dice «técnico especializado en el objeto del contrato, que deberá ser diferente del director de obra y del responsable del contrato». Pero la correcta se delata por la forma: dice «distinto del director de obra y del responsable del contrato», que son justo dos de los distractores. Se descartan esos dos por la propia redacción de las opciones y solo queda elegir frente al representante del contratista, que no es plausible. Arreglo: dejar la correcta como «Un técnico especializado en el objeto del contrato» con distractores que no menciona (p. ej., un técnico de la Diputación provincial designado al efecto; el jefe del servicio gestor del contrato; un auditor externo), o preguntar directamente de quién debe ser diferente ese técnico. | Revisor 2 (CONFIRMADA): DA 3.ª.3 LCSP vigente verificada: «técnico especializado en el objeto del contrato, que deberá ser diferente del director de obra y del responsable del contrato». Los distractores son falsos. No repite la pregunta existente (quién hace la comprobación material). Nota menor: la correcta nombra a dos distractores, pero las longitudes son homogéneas y no se acierta por la forma.",
+      "_motivo": "veredicto DUDOSA"
+    }
+  ]
+}

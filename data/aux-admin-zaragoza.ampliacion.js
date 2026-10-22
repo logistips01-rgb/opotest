@@ -55698,3 +55698,488 @@ window.addQuestions('aux-admin-zaragoza', 3, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 9 · lote 2026-10-22 · 37 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 9, [
+  {
+    "q": "Según el art. 12.2 de la LCSP, los contratos del sector público que no sean de obras, concesión de obras, concesión de servicios, suministro o servicios se calificarán:",
+    "options": [
+      "Como contratos administrativos especiales, salvo que una ley les atribuya expresamente carácter privado",
+      "Como contratos mixtos, aplicando las reglas del art. 18 sobre la prestación principal",
+      "Según las normas de derecho administrativo o de derecho privado que les sean de aplicación",
+      "Como contratos privados en todo caso, aunque los celebre una Administración Pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.1 reserva las normas de la sección 1.ª para calificar los cinco contratos típicos (obras, concesión de obras, concesión de servicios, suministro y servicios). Para los demás, el art. 12.2 remite a «las normas de derecho administrativo o de derecho privado que les sean de aplicación». No son en todo caso administrativos especiales ni en todo caso privados: depende de la norma aplicable. Y el contrato mixto no es una categoría residual, sino el que contiene prestaciones de contratos de distinta clase (art. 18.1).",
+    "fuente": "Art. 12.2 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.1.b) de la LCSP, también es contrato de obras el que tiene por objeto la realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza:",
+    "options": [
+      "Una influencia decisiva en el tipo o el proyecto de la obra",
+      "La dirección facultativa de la obra durante su ejecución",
+      "La propiedad del terreno sobre el que se va a construir",
+      "La financiación mayoritaria de la obra mediante subvenciones"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.1 recoge dos objetos posibles del contrato de obras. El de la letra b) es «la realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza una influencia decisiva en el tipo o el proyecto de la obra». El precepto no se refiere a la dirección facultativa, a la propiedad del terreno ni a la financiación de la obra.",
+    "fuente": "Art. 13.1.b) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.3 de la LCSP, se podrán celebrar contratos de obras sin referirse a una obra completa:",
+    "options": [
+      "Cuando su valor estimado no supere los 40.000 euros y se tramite como contrato menor de obras",
+      "En los supuestos del art. 30.4, de ejecución de obras por la propia Administración",
+      "Cuando la obra se financie con una subvención de otra Administración que no cubra la obra entera",
+      "Cuando lo acuerde la Mesa de contratación de forma motivada, por razones técnicas o económicas"
+    ],
+    "correct": 1,
+    "exp": "El párrafo tercero del art. 13.3 admite contratos de obras que no se refieran a una obra completa «en los supuestos previstos en el apartado 4 del artículo 30» de la Ley, «cuando la responsabilidad de la obra completa corresponda a la Administración por tratarse de un supuesto de ejecución de obras por la propia Administración Pública». El importe de la obra, su forma de financiación o un acuerdo de la Mesa de contratación no son causas para prescindir de la obra completa.",
+    "fuente": "Art. 13.3, párrafo tercero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 de la LCSP, el contrato de concesión de obras podrá comprender, además de su objeto propio:",
+    "options": [
+      "La garantía por la Administración de que el concesionario recuperará las inversiones",
+      "Las actuaciones de reposición y gran reparación necesarias para mantener la obra apta",
+      "La transmisión al concesionario de la propiedad de la obra al término de la concesión",
+      "La gestión de servicios públicos que no guarden relación con la obra ni le sirvan de soporte"
+    ],
+    "correct": 1,
+    "exp": "El art. 14.2 permite que la concesión de obras comprenda también: a) la adecuación, reforma y modernización de la obra, y b) «las actuaciones de reposición y gran reparación que sean exigibles en relación con los elementos que ha de reunir cada una de las obras para mantenerse apta». Garantizar al concesionario que recuperará la inversión es lo contrario del riesgo operacional que exige el art. 14.4. Tampoco prevé el precepto la transmisión de la propiedad de la obra ni la gestión de servicios ajenos a ella.",
+    "fuente": "Art. 14.2.b) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.3 de la LCSP, cuando las obras accesorias o vinculadas a la obra principal de una concesión de obras puedan ser objeto de explotación o aprovechamiento económico, estos corresponderán:",
+    "options": [
+      "A la Administración concedente, que podrá licitar su explotación mediante un contrato independiente",
+      "A la Administración y al concesionario por partes iguales, salvo que los pliegos dispongan otra cosa",
+      "Al concesionario, pero solo cuando se haya extinguido la concesión de la obra principal",
+      "Al concesionario, junto con la explotación de la obra principal, en la forma que fijen los pliegos"
+    ],
+    "correct": 3,
+    "exp": "El art. 14.3 permite que el contrato obligue al concesionario a proyectar, ejecutar, conservar, reponer y reparar las obras accesorias o vinculadas a la principal. Si esas obras pueden explotarse o aprovecharse económicamente, la explotación y el aprovechamiento «corresponderán al concesionario conjuntamente con la explotación de la obra principal, en la forma determinada por los pliegos respectivos». No corresponden a la Administración, no se reparten a partes iguales y no se aplazan al fin de la concesión.",
+    "fuente": "Art. 14.3 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.4 de la LCSP, al que remite también el art. 15.2 para la concesión de servicios, ¿qué se entiende por «riesgo de suministro»?",
+    "options": [
+      "El relativo al suministro de las obras o servicios, en particular que la prestación de los servicios no se ajuste a la demanda",
+      "El riesgo de que suba el precio de las materias primas y de los demás bienes que el concesionario necesita adquirir",
+      "El riesgo de que la Administración concedente se retrase en el pago del precio que, en su caso, acompaña al derecho de explotación",
+      "El riesgo de que los proveedores del concesionario incumplan los plazos de entrega de los materiales necesarios"
+    ],
+    "correct": 0,
+    "exp": "El riesgo operacional que se transfiere al concesionario abarca el riesgo de demanda, el de suministro o ambos. El art. 14.4 define el riesgo de suministro como «el relativo al suministro de las obras o servicios objeto del contrato, en particular el riesgo de que la prestación de los servicios no se ajuste a la demanda». No se refiere a los precios de lo que compra el concesionario, a los retrasos en los pagos de la Administración ni a los incumplimientos de sus proveedores. El art. 15.2 aplica este concepto a la concesión de servicios.",
+    "fuente": "Art. 14.4, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.4 de la LCSP, la parte de los riesgos transferidos al concesionario debe suponer una exposición real a las incertidumbres del mercado, de modo que cualquier pérdida potencial estimada en que incurra el concesionario:",
+    "options": [
+      "Sea compensada por la Administración concedente",
+      "No supere el importe de la garantía definitiva",
+      "No sea meramente nominal o desdeñable",
+      "Quede cubierta por un seguro obligatorio"
+    ],
+    "correct": 2,
+    "exp": "El último inciso del art. 14.4 exige que la parte de los riesgos transferidos suponga «una exposición real a las incertidumbres del mercado que implique que cualquier pérdida potencial estimada en que incurra el concesionario no es meramente nominal o desdeñable». Que la Administración compense las pérdidas, limitarlas a la garantía definitiva o cubrirlas con un seguro obligatorio eliminaría esa exposición real, y la ley no prevé nada de eso.",
+    "fuente": "Art. 14.4, párrafo segundo, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 de la LCSP, y sin perjuicio de lo previsto para los programas de ordenador, no tendrán la consideración de contrato de suministro los contratos relativos a:",
+    "options": [
+      "Bienes consumibles o de fácil deterioro por el uso",
+      "Energía primaria o energía transformada",
+      "Bienes que deban fabricarse con arreglo a características fijadas por la entidad contratante",
+      "Propiedades incorporales o valores negociables"
+    ],
+    "correct": 3,
+    "exp": "El art. 16.2 excluye del contrato de suministro «los contratos relativos a propiedades incorporales o valores negociables», salvo lo dispuesto en el art. 16.3.b) para los programas de ordenador. Los otros tres supuestos sí son suministro: la adquisición de energía primaria o transformada (art. 16.3.d), los contratos de fabricación (art. 16.3.c) y la compra de bienes consumibles, que son bienes muebles (art. 16.1).",
+    "fuente": "Art. 16.2 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3.a) de la LCSP, el contrato en que el empresario se obliga a entregar una pluralidad de bienes de forma sucesiva y por precio unitario, sin que la cuantía total se defina con exactitud al celebrarlo por estar subordinadas las entregas a las necesidades del adquirente, se considera:",
+    "options": [
+      "Un contrato de servicios",
+      "Un contrato mixto de suministro y servicios",
+      "En todo caso, un contrato de suministro",
+      "Un contrato privado de compraventa"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.3 enumera contratos que «en todo caso» se consideran de suministro. El primero, letra a), es aquel en que «el empresario se obligue a entregar una pluralidad de bienes de forma sucesiva y por precio unitario sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato, por estar subordinadas las entregas a las necesidades del adquirente». Lo que se entrega son bienes, así que no es servicio, ni mixto, ni un contrato privado.",
+    "fuente": "Art. 16.3.a) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3.b) de la LCSP, los contratos de adquisición de programas de ordenador desarrollados a medida se consideran:",
+    "options": [
+      "Contratos de suministro",
+      "Contratos de servicios",
+      "Contratos mixtos de suministro y servicios",
+      "Contratos privados"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.3.b) considera suministro la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus dispositivos y programas, y la cesión del derecho de uso de estos, «a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, que se considerarán contratos de servicios». La ley no los califica como mixtos ni como privados.",
+    "fuente": "Art. 16.3.b) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3.c) de la LCSP, los contratos de fabricación, en los que las cosas que ha de entregar el empresario deben elaborarse con arreglo a características peculiares fijadas previamente por la entidad contratante, son contratos de suministro:",
+    "options": [
+      "Aun cuando la entidad contratante se obligue a aportar, total o parcialmente, los materiales",
+      "Solo si el empresario aporta la totalidad de los materiales necesarios para la fabricación",
+      "Solo si su valor estimado no alcanza el umbral de los contratos sujetos a regulación armonizada",
+      "Solo si los bienes fabricados no van a incorporarse después a una obra de la entidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.3.c) incluye siempre entre los suministros los contratos de fabricación con características peculiares fijadas por la entidad contratante, «aun cuando esta se obligue a aportar, total o parcialmente, los materiales precisos». La calificación no depende de quién aporte los materiales, del valor estimado ni del destino posterior de los bienes.",
+    "fuente": "Art. 16.3.c) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17 de la LCSP, el contrato en que el adjudicatario se obliga a ejecutar un servicio de forma sucesiva y por precio unitario es:",
+    "options": [
+      "Un contrato de servicios",
+      "Un contrato de suministro",
+      "Un contrato de concesión de servicios",
+      "Un contrato mixto de servicios y suministro"
+    ],
+    "correct": 0,
+    "exp": "El art. 17 define los contratos de servicios como prestaciones de hacer consistentes en desarrollar una actividad u obtener un resultado distinto de una obra o un suministro, «incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario». Las entregas sucesivas por precio unitario solo hacen suministro el contrato cuando lo que se entrega son bienes (art. 16.3.a). No es concesión, porque no se paga con el derecho a explotar el servicio (art. 15.1).",
+    "fuente": "Art. 17, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1.a) de la LCSP, en un contrato mixto compuesto en parte por servicios y en parte por suministros, el objeto principal se determina en función de:",
+    "options": [
+      "La prestación que el órgano de contratación declare principal en el pliego de cláusulas",
+      "El mayor de los valores estimados de los respectivos servicios o suministros",
+      "La prestación de mayor duración, con independencia de su valor estimado",
+      "La prestación que deba ejecutarse en primer lugar según el programa de trabajo"
+    ],
+    "correct": 1,
+    "exp": "En los mixtos de obras, suministros o servicios rige, como regla, el carácter de la prestación principal (art. 18.1.a, párrafo primero). Pero en los compuestos en parte por servicios y en parte por suministros, y en los que mezclan servicios especiales del Anexo IV con otros servicios, la ley fija cómo se determina el objeto principal: «en función de cuál sea el mayor de los valores estimados de los respectivos servicios o suministros». No lo decide el pliego, la duración ni el orden de ejecución.",
+    "fuente": "Art. 18.1.a), párrafo segundo, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1.b) de la LCSP, si un contrato mixto reúne prestaciones de obras, suministros o servicios y prestaciones de una concesión, las prestaciones son separables y se decide adjudicar un contrato único, se aplicarán:",
+    "options": [
+      "Siempre las normas de la concesión, cualquiera que sea el valor estimado de las prestaciones de obras, suministros o servicios",
+      "Las normas del contrato cuya prestación tenga mayor duración, aunque su valor estimado sea inferior",
+      "Las de obras, suministros o servicios si su valor estimado supera los umbrales de los arts. 20 a 22; si no, las de concesión",
+      "Las normas que elija el órgano de contratación, motivándolo en el expediente y haciéndolo constar en el pliego"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.1.b).2.º dispone que, si las prestaciones son separables y se adjudica un contrato único, «se aplicarán las normas relativas a los contratos de obras, suministros o servicios cuando el valor estimado de las prestaciones correspondientes a estos contratos supere las cuantías establecidas en los artículos 20, 21 y 22», y «en otro caso» las de concesión de obras y de servicios. No se aplican siempre las normas de la concesión, y la ley no atiende a la duración ni deja la elección al órgano de contratación. (Si las prestaciones no son separables, se atiende a la prestación principal: art. 18.1.b).1.º.)",
+    "fuente": "Art. 18.1.b).2.º LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En un municipio que no es de gran población, la DA 2.ª.1 de la LCSP atribuye al Alcalde los contratos plurianuales de hasta cuatro años (prórrogas incluidas) si el importe acumulado de todas sus anualidades no supera seis millones de euros ni el 10 % de los recursos ordinarios del presupuesto:",
+    "options": [
+      "De cada ejercicio del contrato",
+      "Del último ejercicio",
+      "Del primer ejercicio",
+      "Del ejercicio ya liquidado"
+    ],
+    "correct": 2,
+    "exp": "En los municipios de régimen común, la DA 2.ª.1 incluye en la competencia del Alcalde los contratos plurianuales de hasta cuatro años, prórrogas incluidas, «siempre que el importe acumulado de todas sus anualidades no supere ni el porcentaje indicado, referido a los recursos ordinarios del presupuesto del primer ejercicio, ni la cuantía señalada». El porcentaje no se calcula ejercicio por ejercicio, ni sobre el último ejercicio ni sobre el ya liquidado. En los municipios de gran población, como Zaragoza, no se aplica este reparto: contrata la Junta de Gobierno Local, cualquiera que sea el importe o la duración (DA 2.ª.4).",
+    "fuente": "Disposición adicional segunda, apartado 1, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 2.ª.7 de la LCSP, en la Mesa de contratación de una Entidad Local actuará como Secretario de la Mesa:",
+    "options": [
+      "Un miembro electo de la Corporación",
+      "Un empleado eventual de la Corporación",
+      "Un representante de las organizaciones empresariales del sector",
+      "Un funcionario de la Corporación"
+    ],
+    "correct": 3,
+    "exp": "La DA 2.ª.7, tras fijar la presidencia y los vocales de la Mesa, dispone: «Actuará como Secretario un funcionario de la Corporación». Los miembros electos pueden ser vocales (sin superar un tercio del total), pero no secretario. El personal eventual no puede formar parte de la Mesa en ningún caso (párrafo tercero). Y la ley no prevé representantes empresariales.",
+    "fuente": "Disposición adicional segunda, apartado 7, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 2.ª.7 de la LCSP, el personal eventual de una Entidad Local:",
+    "options": [
+      "No podrá en ningún caso formar parte de la Mesa ni emitir informes de valoración de ofertas",
+      "Podrá formar parte de la Mesa solo cuando no existan funcionarios de carrera suficientemente cualificados",
+      "Podrá emitir informes de valoración de las ofertas, pero no formar parte de la Mesa",
+      "Podrá formar parte de la Mesa con voz pero sin voto, y no emitir informes de valoración"
+    ],
+    "correct": 0,
+    "exp": "La DA 2.ª.7, párrafo tercero, dice: «En ningún caso podrá formar parte de las Mesas de contratación ni emitir informes de valoración de las ofertas, personal eventual». La excepción por falta de funcionarios de carrera suficientemente cualificados se refiere al personal funcionario interino, no al eventual. Tampoco puede emitir informes de valoración, y la ley no le permite estar en la Mesa con voz y sin voto.",
+    "fuente": "Disposición adicional segunda, apartado 7, párrafo tercero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 2.ª.7 de la LCSP, forman parte de la Mesa de contratación de una Entidad Local, como vocales, el Secretario, el Interventor y los que designe el órgano de contratación, sin que su número, en total, sea inferior a:",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correct": 1,
+    "exp": "La DA 2.ª.7 enumera como vocales al Secretario (o titular del asesoramiento jurídico), al Interventor (o titular del control económico-presupuestario) y a los que designe el órgano de contratación entre funcionarios de carrera, personal laboral o miembros electos, «sin que su número, en total, sea inferior a tres». Los miembros electos no pueden superar un tercio del total.",
+    "fuente": "Disposición adicional segunda, apartado 7, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 2.ª.8 de la LCSP, el comité de expertos que valora los criterios que dependen de un juicio de valor podrá estar integrado, en las Entidades Locales, por:",
+    "options": [
+      "Personal eventual con cualificación apropiada, designado por el Alcalde o Presidente de la entidad",
+      "Funcionarios de carrera o laborales fijos cualificados que no hayan participado en redactar la documentación técnica",
+      "Miembros electos de la Corporación con cualificación apropiada, siempre que no superen un tercio de los miembros del comité",
+      "Los técnicos que redactaron la documentación técnica del contrato, por su mayor conocimiento del objeto"
+    ],
+    "correct": 1,
+    "exp": "La DA 2.ª.8 permite que el comité de expertos del art. 146.2.a) esté integrado en las Entidades Locales «por cualquier personal funcionario de carrera o laboral fijo con cualificación apropiada que no haya participado en la redacción de la documentación técnica del contrato de que se trate», y siempre con un técnico jurista especializado en contratación pública. No caben el personal eventual ni los miembros electos (la regla del tercio es de la Mesa, DA 2.ª.7), y quedan fuera precisamente quienes redactaron la documentación técnica.",
+    "fuente": "Disposición adicional segunda, apartado 8, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 2.ª.5 de la LCSP, las Juntas de Contratación que potestativamente constituyan las Entidades Locales actuarán como órgano de contratación en los contratos de suministro que se refieran a:",
+    "options": [
+      "Bienes consumibles o de fácil deterioro por el uso",
+      "Equipos y sistemas para el tratamiento de la información",
+      "Energía primaria o energía transformada",
+      "Bienes fabricados con arreglo a características fijadas por la entidad"
+    ],
+    "correct": 0,
+    "exp": "La DA 2.ª.5 delimita la actuación de las Juntas de Contratación por materias: en obras, trabajos de reparación simple, conservación y mantenimiento; en suministros, los «que se refieran a bienes consumibles o de fácil deterioro por el uso»; y en servicios, con el límite del 10 % de los recursos ordinarios o las demás condiciones del precepto. Los equipos informáticos, la energía y los contratos de fabricación son suministros (art. 16.3), pero no están entre los que la DA 2.ª.5 atribuye a las Juntas.",
+    "fuente": "Disposición adicional segunda, apartado 5, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En un municipio que no es de gran población, la DA 2.ª.9 de la LCSP atribuye al Alcalde la celebración de contratos privados y la adquisición de bienes inmuebles hasta el 10 % de los recursos ordinarios del presupuesto y tres millones de euros. ¿Qué magnitud se compara con esos límites?",
+    "options": [
+      "El valor estimado del contrato, incluidas las eventuales prórrogas",
+      "El precio de adjudicación del contrato, excluido el IVA",
+      "El valor catastral del inmueble, actualizado a la fecha de la licitación",
+      "El presupuesto base de licitación, en los términos del art. 100.1"
+    ],
+    "correct": 3,
+    "exp": "A diferencia de la DA 2.ª.1, que mide los contratos de obras, suministro, servicios, concesiones y administrativos especiales por su valor estimado, la DA 2.ª.9 atribuye al Alcalde los contratos privados, las concesiones sobre bienes y la adquisición de inmuebles y derechos «cuando el presupuesto base de licitación, en los términos definidos en el artículo 100.1», no supere el 10 % de los recursos ordinarios ni tres millones de euros (en la enajenación del patrimonio se atiende a su valor). En los municipios de gran población, como Zaragoza, estas competencias son de la Junta de Gobierno Local, cualquiera que sea el importe (DA 2.ª.11).",
+    "fuente": "Disposición adicional segunda, apartado 9, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.2 de la LCSP, las Entidades Locales podrán tramitar anticipadamente los contratos:",
+    "options": [
+      "Los declarados de emergencia por acontecimientos catastróficos, situaciones de grave peligro o de defensa nacional",
+      "Los contratos menores de suministros y servicios cuyo valor estimado sea inferior a 15.000 euros, IVA excluido",
+      "Los que empiecen a ejecutarse el ejercicio siguiente o cuya financiación dependa de un préstamo, crédito o subvención",
+      "Los plurianuales cuya duración, incluidas las eventuales prórrogas, supere los cuatro años de ejecución material"
+    ],
+    "correct": 2,
+    "exp": "La DA 3.ª.2 permite tramitar anticipadamente «los contratos cuya ejecución material haya de comenzar en el ejercicio siguiente o aquellos cuya financiación dependa de un préstamo, un crédito o una subvención solicitada a otra entidad pública o privada». La emergencia, la condición de contrato menor o una duración superior a cuatro años no son los supuestos que contempla.",
+    "fuente": "Disposición adicional tercera, apartado 2, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.2 de la LCSP, cuando una Entidad Local tramita anticipadamente un contrato cuya financiación depende de un préstamo o de una subvención solicitada, la adjudicación se somete a:",
+    "options": [
+      "La condición resolutoria de que el préstamo o la subvención se denieguen en el plazo de un año",
+      "La autorización previa de la comunidad autónoma que ejerza la tutela financiera sobre la entidad",
+      "El informe favorable del Tribunal de Cuentas sobre la suficiencia de los recursos que lo financian",
+      "La condición suspensiva de que se consoliden efectivamente los recursos que han de financiarlo"
+    ],
+    "correct": 3,
+    "exp": "La DA 3.ª.2 permite la tramitación anticipada «sometiendo la adjudicación a la condición suspensiva de la efectiva consolidación de los recursos que han de financiar el contrato correspondiente». Es una condición suspensiva, no resolutoria, y la ley no exige autorización autonómica ni informe del Tribunal de Cuentas.",
+    "fuente": "Disposición adicional tercera, apartado 2, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.3 de la LCSP, la fiscalización del órgano Interventor de la Entidad Local recae también sobre la valoración de las repercusiones de cada nuevo contrato en el cumplimiento de los principios de estabilidad presupuestaria y sostenibilidad financiera, excepto en:",
+    "options": [
+      "Los contratos de concesión de servicios",
+      "Los contratos menores",
+      "Los no sujetos a regulación armonizada",
+      "Los financiados con subvenciones"
+    ],
+    "correct": 1,
+    "exp": "La DA 3.ª.3, en su redacción vigente (Ley 31/2022, en vigor desde el 1-ene-2023), dice que la fiscalización del Interventor «recaerá también sobre la valoración que se incorpore al expediente de contratación sobre las repercusiones de cada nuevo contrato, excepto los contratos menores», en el cumplimiento de la estabilidad presupuestaria y la sostenibilidad financiera (art. 7.3 de la LO 2/2012). La única excepción son los contratos menores.",
+    "fuente": "Disposición adicional tercera, apartado 3, LCSP (Ley 9/2017, redacción de la Ley 31/2022)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.4 de la LCSP, en los contratos celebrados en los municipios de menos de 5.000 habitantes, la aprobación del gasto podrá sustituirse por:",
+    "options": [
+      "Una certificación de existencia de crédito del Secretario-Interventor o, en su caso, del Interventor",
+      "Un informe del Tesorero sobre la disponibilidad de fondos en la tesorería municipal",
+      "Una resolución del Alcalde, sin necesidad de certificación ni de informe de ningún otro órgano",
+      "Un acuerdo de la Diputación provincial por el que asuma el gasto con cargo a sus planes provinciales"
+    ],
+    "correct": 0,
+    "exp": "La DA 3.ª.4 establece que, en los municipios de menos de 5.000 habitantes, «la aprobación del gasto podrá ser sustituida por una certificación de existencia de crédito que se expedirá por el Secretario Interventor o, en su caso, por el Interventor de la Corporación». No se prevé informe del Tesorero, resolución del Alcalde sin certificación ni acuerdo de la Diputación. Es una especialidad de los municipios pequeños, que no se aplica en Zaragoza.",
+    "fuente": "Disposición adicional tercera, apartado 4, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.5 de la LCSP, en los contratos de concesión de obras y de servicios de las Entidades Locales, el expediente que acredita la conveniencia y oportunidad de la medida exigido por el art. 86.1 de la LBRL se tramitará conjuntamente con:",
+    "options": [
+      "El estudio de viabilidad regulado en la LCSP",
+      "El pliego de prescripciones técnicas particulares",
+      "El proyecto de presupuesto del ejercicio siguiente",
+      "La propuesta de adjudicación de la Mesa de contratación"
+    ],
+    "correct": 0,
+    "exp": "La DA 3.ª.5 dispone que, en las concesiones de obras y de servicios, el expediente acreditativo de la conveniencia y oportunidad que exige el art. 86.1 de la LBRL, con el contenido que fije el reglamento, «se tramitará conjuntamente con el estudio de viabilidad regulado en esta Ley». No se tramita con el pliego de prescripciones técnicas, con el presupuesto ni con la propuesta de adjudicación.",
+    "fuente": "Disposición adicional tercera, apartado 5, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.6 de la LCSP, cuando un municipio carezca de oficinas o unidades propias de supervisión de proyectos, la supervisión de sus proyectos de obras podrá efectuarse por:",
+    "options": [
+      "La Oficina Independiente de Regulación y Supervisión de la Contratación, previa solicitud",
+      "El director facultativo de la obra que vaya a contratarse, bajo su responsabilidad",
+      "Las de la correspondiente Diputación provincial o Administración autonómica uniprovincial",
+      "La Junta Consultiva de Contratación Pública del Estado o el órgano autonómico equivalente"
+    ],
+    "correct": 2,
+    "exp": "La DA 3.ª.6 aplica a los contratos de obras locales las normas de supervisión de proyectos del art. 235. La supervisión la hacen las oficinas o unidades de la propia entidad o, «en el caso de municipios que carezcan de ellas, por las de la correspondiente Diputación provincial o Administración autonómica uniprovincial». La Oficina Independiente de Regulación y Supervisión de la Contratación y la Junta Consultiva no supervisan proyectos, y el director de la obra no es un órgano de supervisión.",
+    "fuente": "Disposición adicional tercera, apartado 6, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.6 de la LCSP, en el acuerdo por el que una Entidad Local aprueba un proyecto de obras se recogerá expresamente:",
+    "options": [
+      "La identidad del contratista que ejecutará la obra",
+      "La referencia a la supervisión favorable del proyecto",
+      "La conformidad de la Diputación provincial con el proyecto",
+      "El informe favorable de la Mesa de contratación"
+    ],
+    "correct": 1,
+    "exp": "La última frase de la DA 3.ª.6 dice: «En el acuerdo de aprobación de los proyectos se recogerá expresamente la referencia a la supervisión favorable del mismo». El contratista aún no se conoce cuando se aprueba el proyecto, la Diputación solo supervisa cuando el municipio carece de oficinas propias, y la Mesa de contratación no informa los proyectos.",
+    "fuente": "Disposición adicional tercera, apartado 6, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.7 de la LCSP, en los municipios de menos de 5.000 habitantes, cuando la financiación de una obra exceda de un presupuesto anual y se redacten proyectos independientes para cada una de sus partes, la ejecución de cada proyecto:",
+    "options": [
+      "Deberá adjudicarse necesariamente al contratista que ejecutó la primera parte de la obra",
+      "Deberá integrarse en un único contrato dividido en lotes, uno por cada proyecto",
+      "Requerirá la autorización previa de la comunidad autónoma y un contrato por cada ejercicio",
+      "Podrá ser objeto de un contrato diferente, sin perjuicio de los arts. 99 y 101"
+    ],
+    "correct": 3,
+    "exp": "La DA 3.ª.7 permite, en los municipios de menos de 5.000 habitantes, redactar proyectos independientes para cada parte de una obra cuya financiación exceda de un presupuesto anual, si las partes son susceptibles de utilización separada o pueden definirse sustancialmente. Añade: «La ejecución de cada uno de los proyectos podrá ser objeto de un contrato diferente, sin perjuicio de la aplicación de los artículos 99 y 101». No obliga a adjudicar al mismo contratista ni a hacer un único contrato por lotes, ni exige autorización autonómica (en estos municipios la autorización es del Pleno, DA 2.ª.3).",
+    "fuente": "Disposición adicional tercera, apartado 7, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.8 de la LCSP, el informe jurídico (del Secretario o, en los municipios de gran población, del titular de la asesoría jurídica) es preceptivo, entre otros casos, en:",
+    "options": [
+      "La formalización del contrato en documento administrativo",
+      "La devolución de la garantía definitiva",
+      "La revisión de precios y las prórrogas de los contratos",
+      "La designación de los vocales de la Mesa de contratación"
+    ],
+    "correct": 2,
+    "exp": "La DA 3.ª.8 hace preceptivo el informe jurídico «en la aprobación de expedientes de contratación, modificación de contratos, revisión de precios, prórrogas, mantenimiento del equilibrio económico, interpretación y resolución de los contratos». La formalización, la devolución de la garantía y la designación de los vocales de la Mesa no están en esa lista. En los municipios de gran población, como Zaragoza, estos informes los emite el titular de la asesoría jurídica (párrafo segundo).",
+    "fuente": "Disposición adicional tercera, apartado 8, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En un municipio de gran población como Zaragoza, ¿a quién corresponde, según la DA 3.ª.8 de la LCSP, la coordinación de las obligaciones de publicidad e información establecidas en la Ley 19/2013, de Transparencia?",
+    "options": [
+      "Al titular del Órgano de Apoyo a la Junta de Gobierno",
+      "Al titular de la asesoría jurídica, que emite también los informes jurídicos",
+      "Al Secretario General del Pleno del Ayuntamiento",
+      "Al titular de la Intervención General municipal"
+    ],
+    "correct": 0,
+    "exp": "La DA 3.ª.8 atribuye con carácter general al Secretario la coordinación de las obligaciones de publicidad e información de la Ley 19/2013. En los municipios acogidos al Título X de la LBRL (gran población), el párrafo segundo reparte esas funciones: los informes jurídicos atribuidos al Secretario corresponden al titular de la asesoría jurídica, y «la coordinación de las obligaciones de publicidad e información antedichas corresponderá al titular del Órgano de Apoyo a la Junta de Gobierno». No corresponde, por tanto, a la asesoría jurídica, al Secretario General del Pleno ni al Interventor.",
+    "fuente": "Disposición adicional tercera, apartado 8, párrafo segundo, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En un municipio que no es de gran población, ¿a quién atribuye la DA 3.ª.8 de la LCSP la coordinación de las obligaciones de publicidad e información que establece la Ley 19/2013, de Transparencia?",
+    "options": [
+      "Al Interventor",
+      "Al Alcalde",
+      "Al Tesorero",
+      "Al Secretario"
+    ],
+    "correct": 3,
+    "exp": "El párrafo primero de la DA 3.ª.8, aplicable a los municipios de régimen común, dice: «Corresponderá también al Secretario la coordinación de las obligaciones de publicidad e información que se establecen en la Ley 19/2013». En los municipios de gran población, como Zaragoza, esa coordinación pasa al titular del Órgano de Apoyo a la Junta de Gobierno (párrafo segundo).",
+    "fuente": "Disposición adicional tercera, apartado 8, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.9 de la LCSP, en los contratos de las Entidades Locales que tengan por objeto la adquisición de bienes inmuebles, el importe de la adquisición podrá aplazarse:",
+    "options": [
+      "Hasta dos años, previo informe favorable del Interventor sobre la capacidad de financiación",
+      "Hasta cuatro años, con los trámites de las Haciendas Locales para compromisos de gastos futuros",
+      "Hasta seis años, si lo acuerda el Pleno por mayoría absoluta del número legal de miembros",
+      "Hasta diez años, si el inmueble se va a destinar a la prestación de un servicio público obligatorio"
+    ],
+    "correct": 1,
+    "exp": "La DA 3.ª.9 dispone que el importe de la adquisición de bienes inmuebles «podrá ser objeto de un aplazamiento de hasta cuatro años, con sujeción a los trámites previstos en la normativa reguladora de las Haciendas Locales para los compromisos de gastos futuros». Los demás plazos y requisitos no figuran en la ley.",
+    "fuente": "Disposición adicional tercera, apartado 9, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.9 de la LCSP, el aplazamiento de pago previsto para la adquisición de bienes inmuebles por las Entidades Locales también podrá utilizarse para:",
+    "options": [
+      "La adquisición de bienes muebles de valor histórico o artístico declarados de interés cultural",
+      "La compra de títulos del capital de entidades del sector público de la Entidad Local, para reestructurarlas",
+      "Los contratos plurianuales de suministro de energía primaria o transformada de los edificios municipales",
+      "Las obras de urbanización que se ejecuten por los propietarios mediante el sistema de compensación urbanística"
+    ],
+    "correct": 1,
+    "exp": "La DA 3.ª.9 añade: «Este aplazamiento también podrá ser utilizado para la adquisición de títulos representativos de la titularidad del capital de entidades que formen parte del sector público de la Entidad local para su reestructuración». No extiende el aplazamiento a los bienes muebles de valor histórico o artístico, a los suministros de energía ni a las obras de urbanización.",
+    "fuente": "Disposición adicional tercera, apartado 9, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.10 de la LCSP, además de al sistema estatal de contratación centralizada y a las centrales de las Comunidades Autónomas y de otras Entidades Locales, las Entidades Locales podrán adherirse a las centrales de contratación que creen:",
+    "options": [
+      "Las cámaras oficiales de comercio, industria, servicios y navegación de la provincia",
+      "Las empresas privadas de compras agregadas inscritas en el registro de licitadores",
+      "Los colegios profesionales del sector de la construcción y de la ingeniería civil",
+      "Las asociaciones de entidades locales de la disposición adicional quinta de la LBRL"
+    ],
+    "correct": 3,
+    "exp": "La DA 3.ª.10 permite a las Entidades Locales adherirse, además de al sistema estatal y a las centrales autonómicas y de otras Entidades Locales (art. 228.3), a «las centrales de contratación que creen conforme a esta Ley las asociaciones de entidades locales a que se refiere la disposición adicional quinta» de la LBRL, así como a las creadas por la Administración General del Estado. Las cámaras de comercio, las empresas privadas y los colegios profesionales no aparecen en el precepto.",
+    "fuente": "Disposición adicional tercera, apartado 10, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.11 de la LCSP, pueden licitar un contrato de concesión de servicios no sujeto a regulación armonizada que abarque la gestión de dos o más servicios públicos diferentes los municipios de población inferior a:",
+    "options": [
+      "20.000 habitantes",
+      "5.000 habitantes",
+      "50.000 habitantes",
+      "10.000 habitantes"
+    ],
+    "correct": 0,
+    "exp": "La DA 3.ª.11 dice: «Los Municipios de población inferior a 20.000 habitantes podrán licitar contratos no sujetos a regulación armonizada de concesión de servicios que se refieran a la gestión de dos o más servicios públicos diferentes», siempre que la anualidad media no supere 200.000 euros y se justifique la necesidad objetiva de gestionarlos de forma unificada. La cifra de 5.000 habitantes es la de otras especialidades (DA 2.ª.3 y 6, DA 3.ª.4 y 7). Las de 10.000 y 50.000 no aparecen en estas disposiciones.",
+    "fuente": "Disposición adicional tercera, apartado 11, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.11 de la LCSP, un municipio de menos de 20.000 habitantes puede licitar un único contrato de concesión de servicios no sujeto a regulación armonizada para gestionar dos o más servicios públicos diferentes, siempre que la anualidad media del contrato no supere:",
+    "options": [
+      "100.000 euros",
+      "500.000 euros",
+      "200.000 euros",
+      "1.000.000 de euros"
+    ],
+    "correct": 2,
+    "exp": "La DA 3.ª.11 lo permite «siempre y cuando la anualidad media del contrato no supere los 200.000 euros», y además exige que el órgano de contratación justifique en el expediente la necesidad objetiva de gestionar esos servicios de forma unificada. El pliego de cláusulas administrativas particulares debe precisar el ámbito funcional y territorial del contrato.",
+    "fuente": "Disposición adicional tercera, apartado 11, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  }
+]);
