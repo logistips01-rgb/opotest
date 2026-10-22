@@ -298,6 +298,7 @@ h2.section-title{
   cursor:pointer;
 }
 .mode-btn.secondary{background:var(--card);color:var(--teal);box-shadow:var(--shadow);}
+a.mode-btn{text-decoration:none;}
 .mode-btn.danger{background:var(--bad-soft);color:var(--bad);}
 .mode-btn:active{transform:scale(0.98);}
 .mode-btn .sub{font-family:var(--body);font-weight:400;opacity:.8;font-size:13px;}
@@ -637,3 +638,100 @@ h2.section-title{
   .screen,.racha-card,.racha-overlay{animation:none;}
   .confeti{display:none;}
 }
+
+/* ===== Esquemas: enlaces desde la lista de temas ===== */
+.col-a,.col-b{display:flex;flex-direction:column;gap:14px;min-width:0;}
+.esq-link svg{width:18px;height:18px;flex:none;}
+.tema-row{display:grid;grid-template-columns:minmax(0,1fr);gap:6px;}
+.tema-row.con-esquema{grid-template-columns:minmax(0,1fr) 62px;}
+.tema-esq{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:2px;
+  background:var(--card);
+  color:var(--teal);
+  border-radius:14px;
+  text-decoration:none;
+  font-size:10.5px;
+  font-weight:700;
+}
+.tema-esq svg{width:19px;height:19px;}
+.tema-esq:hover{background:var(--teal-soft);}
+.kbd-hint{display:none;}
+
+/* ===== Ordenador =====
+   A partir de 960 px la app deja de ser una columna de móvil: menú lateral
+   en el test, inicio y temas a dos columnas, y la pregunta centrada a un
+   ancho cómodo de lectura. */
+@media (min-width:960px){
+  body{align-items:flex-start;}
+  #app{max-width:1200px;min-height:100vh;box-shadow:0 0 0 1px var(--line);}
+  header{padding:16px 28px 14px;}
+  header h1{font-size:18px;}
+  .logo{font-size:23px;}
+  .screen{padding:28px 32px 40px;gap:16px;}
+
+  /* inicio y portada de la oposición: dos columnas */
+  .pg-hub #screen-hub{
+    display:grid;
+    grid-template-columns:minmax(0,5fr) minmax(0,7fr);
+    gap:32px;
+    align-items:start;
+  }
+  .pg-hub .col-a{position:sticky;top:96px;}
+  /* portada del test: resumen y botones en una franja, temas a lo ancho */
+  .pg-test #screen-home.dos-col{gap:24px;}
+  .pg-test #screen-home .col-a{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;}
+  .pg-test #screen-home .col-a .chips{grid-column:1 / -1;}
+  .pg-test #screen-home .col-a .mode-btn{border-radius:16px;}
+  .pg-test #screen-home:not(.dos-col) > *{width:100%;max-width:780px;margin-left:auto;margin-right:auto;}
+  .pg-hub .opo-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));}
+  .pg-test #screen-home.dos-col .tema-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;}
+  .pg-test .tema-list .empty-list{grid-column:1 / -1;}
+
+  /* test: menú lateral en vez de barra inferior */
+  .pg-test #app{
+    display:grid;
+    grid-template-columns:220px minmax(0,1fr);
+    grid-template-rows:auto 1fr;
+    align-content:start;
+  }
+  .pg-test header{grid-column:1 / -1;}
+  .pg-test .screen{grid-column:2;grid-row:2;}
+  .pg-test .bottom-nav{
+    grid-column:1;
+    grid-row:2;
+    position:sticky;
+    top:72px;
+    align-self:start;
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+    background:transparent;
+    padding:28px 12px;
+  }
+  .pg-test .nav-btn{
+    flex-direction:row;
+    justify-content:flex-start;
+    gap:12px;
+    font-size:15px;
+    padding:11px 14px;
+    border-radius:12px;
+  }
+  .pg-test .nav-btn:hover{background:var(--surface);}
+  .pg-test .nav-btn.active{background:var(--teal-soft);}
+
+  /* pregunta, resultados, fallos y progreso: columna de lectura */
+  .pg-test #screen-quiz > *,
+  .pg-test #screen-result > *{width:100%;max-width:780px;margin-left:auto;margin-right:auto;}
+  .question-text{font-size:20px;}
+  .option{font-size:16px;padding:14px 16px;}
+  .kbd-hint{display:block;font-size:12px;color:var(--muted);}
+
+  /* esquemas */
+  .pg-esquema #app{max-width:980px;}
+  .pg-esquema .screen > *{width:100%;max-width:880px;margin-left:auto;margin-right:auto;}
+}
+@media (min-width:960px) and (hover:none){ .kbd-hint{display:none;} }

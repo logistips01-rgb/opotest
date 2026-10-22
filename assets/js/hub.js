@@ -21,7 +21,9 @@
   }
 
   async function render(){
-    const opos = window.OPOSICIONES;
+    // Las ocultas (catalog.js) no cuentan para nada en el inicio; la
+    // exportación sí las incluye para no perder su progreso.
+    const opos = window.OPOSICIONES.filter(o=>!o.oculta);
     const states = await window.OpoStore.loadMany(opos.map(o=>o.slug));
     const counts = await window.OpoStore.getCounts();
     const hoy = window.OpoStore.hoy();
@@ -37,7 +39,9 @@
     // cada oposición lleva la suya y sumarlas no tendría sentido.
     const racha = ultimo ? (ultimo.state.streak || 0) : 0;
 
+    // Dos columnas en ordenador (ver base.css); en el móvil se apilan.
     let html = `
+      <div class="col-a">
       <h2 class="hello">${saludo()}, Alma
         <small>${hechasHoy ? `Llevas ${fmt(hechasHoy)} pregunta${hechasHoy===1?'':'s'} hoy` : 'Hoy aún no has empezado'}</small>
       </h2>
@@ -63,6 +67,8 @@
         <div class="chip amber"><b>${fmt(racha)}</b><small>Aciertos seguidos</small></div>
         <div class="chip rose"><b>${fmt(fallos)}</b><small>Fallos por repasar</small></div>
       </div>
+      </div>
+      <div class="col-b">
       <h2 class="section-title">Tus oposiciones</h2>
       <div class="opo-list">
     `;
@@ -104,6 +110,7 @@
         <button class="mode-btn secondary" id="btn-import">Importar</button>
       </div>
       <input type="file" id="file-import" accept="application/json,.json" class="hidden">
+      </div>
     `;
 
     screen.innerHTML = html;

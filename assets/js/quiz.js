@@ -20,7 +20,7 @@
   };
 
   /* ---------------- utilidades ---------------- */
-  const { esc, fmt, ring } = window.UI;
+  const { esc, fmt, ring, icon } = window.UI;
   function shuffle(arr){
     const a=[...arr];
     for(let i=a.length-1;i>0;i--){
@@ -50,6 +50,7 @@
   }
   function showScreen(name){
     Object.values(screens).forEach(s=>s.classList.add('hidden'));
+    screens.home.classList.remove('dos-col');   // solo la portada usa dos columnas
     screens[name].classList.remove('hidden');
     document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));
     window.scrollTo(0,0);
@@ -75,6 +76,7 @@
 
   function renderHome(){
     showScreen('home');
+    screens.home.classList.add('dos-col');
     document.querySelector('[data-nav="home"]').classList.add('active');
 
     let totalSeen=0, totalCorrect=0;
@@ -82,7 +84,10 @@
     const pct = totalSeen ? Math.round((totalCorrect/totalSeen)*100) : null;
     const totalQ = window.countQuestions(QUESTIONS);
 
+    // col-a / col-b: en ordenador, resumen a la izquierda y temas a la
+    // derecha (ver base.css); en el móvil se apilan.
     screens.home.innerHTML = `
+      <div class="col-a">
       <div class="chips three">
         <div class="chip"><b>${fmt(totalSeen)}</b><small>Respondidas</small></div>
         <div class="chip"><b>${pct===null?'—':pct+' %'}</b><small>Aciertos</small></div>
@@ -90,6 +95,9 @@
       </div>
       <button class="mode-btn" id="btn-mix">Examen mezclado <span class="sub">${Math.min(MIX_SIZE,totalQ)} preguntas</span></button>
       <button class="mode-btn secondary" id="btn-repaso-fallos">Repasar mis fallos</button>
+      ${(meta.esquemas||[]).length ? `<a class="mode-btn secondary esq-link" href="esquema.html?opo=${encodeURIComponent(meta.slug)}">${icon('doc')}Esquemas de estudio <span class="sub">${meta.esquemas.length} tema${meta.esquemas.length===1?"":"s"} · ver o imprimir</span></a>` : ''}
+      </div>
+      <div class="col-b">
       <h2 class="section-title">Temas</h2>
       <div class="seg" role="tablist">
         <button data-f="todos" role="tab">Todos</button>
@@ -97,6 +105,7 @@
         <button data-f="dominados" role="tab">Dominados</button>
       </div>
       <div class="tema-list" id="tema-list"></div>
+      </div>
     `;
 
     document.getElementById('btn-mix').addEventListener('click', ()=>startQuiz('mix'));
@@ -129,12 +138,16 @@
       if(total && n.pct !== null) detalle += ' · ' + n.pct + ' % de aciertos';
       else if(total) detalle += ' · sin empezar';
       const dots = [0,1,2].map(i=>`<i class="${i<n.puntos?'f':''}"></i>`).join('');
+      const conEsquema = (meta.esquemas||[]).includes(t.id);
       html += `
-        <button class="tema-item" data-tema="${t.id}" ${total===0?'disabled':''}>
-          <span class="n">${t.id}</span>
-          <span><span class="tt">${esc(t.title)}</span><span class="mm">${detalle}</span></span>
-          <span class="dots${n.pct!==null && n.pct<50 ? ' warn':''}" aria-label="Nivel ${n.puntos} de 3">${dots}</span>
-        </button>
+        <div class="tema-row${conEsquema?' con-esquema':''}">
+          <button class="tema-item" data-tema="${t.id}" ${total===0?'disabled':''}>
+            <span class="n">${t.id}</span>
+            <span><span class="tt">${esc(t.title)}</span><span class="mm">${detalle}</span></span>
+            <span class="dots${n.pct!==null && n.pct<50 ? ' warn':''}" aria-label="Nivel ${n.puntos} de 3">${dots}</span>
+          </button>
+          ${conEsquema ? `<a class="tema-esq" href="esquema.html?opo=${encodeURIComponent(meta.slug)}&tema=${t.id}" title="Esquema del tema ${t.id}">${icon('doc')}<span>Esquema</span></a>` : ''}
+        </div>
       `;
     });
     if(!lista.length){
@@ -218,6 +231,7 @@
         <span>${i+1} de ${qs.length} · ${quizState.correctCount} acierto${quizState.correctCount===1?'':'s'}</span>
         ${rachaHtml()}
       </div>
+      <div class="kbd-hint">Teclas A, B, C, D para responder · Intro para seguir</div>
       <div class="question-box">
         <div class="question-tema">Tema ${q.tema} · ${esc(temaTitle(q.tema))}</div>
         <div class="question-text">${esc(q.q)}</div>
@@ -501,6 +515,26 @@
       renderHome();
     });
   }
+
+  /* ---------------- TECLADO (ordenador) ----------------
+     A-D o 1-4 eligen opción en el orden en que se ven; Intro o la flecha
+     derecha pasan a la siguiente. No actúa con la celebración de racha
+     abierta ni fuera de la pantalla de pregunta. */
+  document.addEventListener('keydown', ev=>{
+    if(ev.ctrlKey || ev.metaKey || ev.altKey) return;
+    if(screens.quiz.classList.contains('hidden') || document.querySelector('.racha-overlay')) return;
+    const k = ev.key.toLowerCase();
+    const pos = 'abcd'.indexOf(k) >= 0 ? 'abcd'.indexOf(k) : '1234'.indexOf(k);
+    if(pos >= 0 && k.length === 1){
+      const opts = screens.quiz.querySelectorAll('.option');
+      if(opts[pos] && !quizState.answered){ ev.preventDefault(); opts[pos].click(); }
+      return;
+    }
+    if(k === 'enter' || k === 'arrowright'){
+      const next = document.getElementById('btn-next');
+      if(next){ ev.preventDefault(); next.click(); }
+    }
+  });
 
   /* ---------------- NAVEGACIÓN ---------------- */
   document.querySelectorAll('.nav-btn').forEach(btn=>{

@@ -9,6 +9,8 @@
    los siguientes son ampliaciones (addQuestions) y pueden faltar.
    No hay que tocar nada más: el hub y el motor de test la
    recogen automáticamente.
+   Con `oculta:true` la oposición no sale en el inicio, pero sigue
+   cargando por enlace directo y su progreso se exporta igual.
    ======================================================= */
 (function(){
   'use strict';
@@ -22,7 +24,10 @@
       // los archivos de ampliación cuando los crea
       files:['data/aux-admin-zaragoza.js', 'data/aux-admin-zaragoza.ampliacion.js'],
       // nº aproximado de preguntas; se corrige solo al abrir la oposición
-      preguntas:5745
+      preguntas:5745,
+      // temas con esquema de estudio en data/esquemas/<slug>/tNN.js
+      // (tools/validar-esquemas.js avisa si esta lista no coincide)
+      esquemas:[5]
     },
     {
       slug:'policia-local-zaragoza',
@@ -31,7 +36,10 @@
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
       files:['data/policia-local-zaragoza.js'],
-      preguntas:4690
+      preguntas:4690,
+      // oculta en el inicio desde el 22-oct-2026 a petición del usuario
+      // (de momento no se usa); el banco y el progreso se conservan
+      oculta:true
     },
     {
       slug:'tecnico-rrhh-prevencion-zaragoza',
@@ -45,7 +53,9 @@
       preguntas:0,
       // sin preguntas todavía: la tarjeta del hub lleva a esta página de
       // resumen de la convocatoria en vez de al test (ver hub.js)
-      infoPage:'convocatoria-tecnico-rrhh-prevencion.html'
+      infoPage:'convocatoria-tecnico-rrhh-prevencion.html',
+      // oculta en el inicio desde el 22-oct-2026 a petición del usuario
+      oculta:true
     }
     /* Policía Nacional · Escala Básica y Auxiliar Administrativo (DGA) se
        retiraron del catálogo el 22-ago-2026 a petición del usuario. Los
