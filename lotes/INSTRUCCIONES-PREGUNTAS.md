@@ -55,6 +55,7 @@ Archivo `lotes/nuevas/<id-lote>.json`:
 6. **No repetir** enunciados ni preguntar lo mismo con otras palabras. Compara con las preguntas
    existentes del tema y del tema 21.
 7. Reparte la opción correcta entre las cuatro posiciones (más o menos un cuarto en cada una).
+7 bis. **La correcta no puede delatarse por la forma.** Las cuatro opciones deben tener longitud y nivel de detalle parecidos. Si la correcta necesita un matiz, los distractores también llevan uno, igual de plausible. Comprueba que en el lote la correcta no sea la más larga en más de un tercio de las preguntas. Los revisores marcan DUDOSA cualquier pregunta que se acierte solo por la longitud.
 8. Frases claras, sin dobles negaciones ni trampas de redacción.
 
 ## Reglas de revisión (cada revisor, por su cuenta)
