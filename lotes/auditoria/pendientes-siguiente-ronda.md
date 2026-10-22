@@ -52,3 +52,4 @@ Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
 ## Añadido 22-oct (revisor 1 de t14-1)
 - Tema 14, pregunta existente «Según el art. 122.5 de la LBRL, corresponde al Pleno… elegir de entre sus miembros al que haya de presidir determinadas comisiones…»: el art. 122.5 no dice eso, y en Zaragoza los presidentes de comisión los nombra el Alcalde (art. 12.1.e Ley 10/2017). Revisar o retirar.
 - Tema 14, nuevo lote: pregunta del art. 11.3 letra r) (delegación de la propuesta de iniciativa legislativa) apartada por choque con el art. 123.3 LBRL.
+- Tema 5, pregunta existente #136 (art. 23.1, ampliación de plazos): da por hecho que el superior jerárquico solo propone; el texto («a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar») es ambiguo. Revisar la explicación o retirar (aviso del redactor de t05-1).
