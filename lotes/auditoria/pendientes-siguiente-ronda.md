@@ -17,3 +17,7 @@ propuesta, revisor independiente y `tools/aplicar-cambios.js --tipo correccion`.
 
 ## Tema 3 (revisor 2 del lote t03-1)
 - La pregunta existente sobre el art. 41 a) EAA usa como distractor «La designación de los Senadores en representación de Aragón», que también es función de las Cortes (art. 41 c). Hay que cambiar ese distractor.
+
+## Cupo de discapacidad en Aragón (revisor 1 del lote t18-1)
+- Según el revisor, el art. 27.2 de la Ley aragonesa 5/2019, de derechos de las personas con discapacidad, eleva el cupo de reserva al 8 %. Hay que comprobar si se aplica a las entidades locales aragonesas (Zaragoza). Si se aplica, las preguntas y el esquema del tema 18 que dan el 7 % del art. 59.1 TREBEP como cifra deben avisar de la regla aragonesa.
+- Tema 19: hay una pregunta que da por vigente el art. 4.f RD 896/1991 (preside el tribunal el Presidente de la Corporación); choca con el TREBEP 60.2-3. Se incluye en las correcciones en curso (lotes/auditoria/pendientes-varias).

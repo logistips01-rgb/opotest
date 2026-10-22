@@ -1,0 +1,607 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 18,
+ "lote": "t18-1",
+ "preguntas": [
+  {
+   "q": "¿Cuál de los siguientes NO figura entre los principios que, según el art. 55.2 del TREBEP, deben garantizar los procedimientos de selección del personal funcionario y laboral?",
+   "options": [
+    "Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar",
+    "Transparencia",
+    "Agilidad, sin perjuicio de la objetividad, en los procesos de selección",
+    "Preferencia de los aspirantes con experiencia previa en la Administración convocante"
+   ],
+   "correct": 3,
+   "exp": "El art. 55.2 enumera, además de igualdad, mérito y capacidad: publicidad de las convocatorias y sus bases; transparencia; imparcialidad y profesionalidad de los miembros de los órganos de selección; independencia y discrecionalidad técnica de esos órganos; adecuación entre el contenido de los procesos y las funciones o tareas; y agilidad, sin perjuicio de la objetividad. Una preferencia por la experiencia previa en la Administración convocante no es uno de esos principios.",
+   "fuente": "Art. 55.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 55.2 TREBEP (texto original, sin modificaciones, consolidado BOE act. 03/10/2026): las letras e) adecuación, b) transparencia y f) agilidad figuran literalmente; la «preferencia por experiencia previa» no aparece. Explicación y cita exactas. No repite la pregunta existente del 55.2 (aquella pide reconocer principios; esta, el intruso). Ojo: una de sus opciones da literalmente la respuesta de la pregunta del 55.2.e) de este mismo lote; es refuerzo, no repetición. | Revisor 2 (DUDOSA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 55.2: adecuación (e), transparencia (b) y agilidad (f) figuran y la preferencia por experiencia previa no, así que la marcada es correcta. Pero hay solapamiento: (1) en el fondo coincide en parte con T18 del banco «Según el art. 55.2… entre otros principios… Publicidad, transparencia y objetividad», que también pide reconocer la lista del 55.2 con transparencia; (2) da como cierta, palabra por palabra, la respuesta de la pregunta 3 del lote (art. 55.2.e); (3) su enunciado («selección del personal funcionario y laboral») contesta la pregunta 4. Arreglo: cambiar el distractor de adecuación por «Imparcialidad y profesionalidad de los miembros de los órganos de selección» y quitar «del personal funcionario y laboral» del enunciado. Además, la correcta es una opción absurda que se descarta sin saber la norma."
+  },
+  {
+   "q": "Según el art. 55.2.d) del TREBEP, la independencia y la discrecionalidad técnica deben garantizarse en la actuación de:",
+   "options": [
+    "Los órganos competentes para efectuar el nombramiento",
+    "Los órganos competentes para aprobar la oferta de empleo público",
+    "Las organizaciones sindicales que colaboren en los procesos selectivos",
+    "Los órganos de selección"
+   ],
+   "correct": 3,
+   "exp": "El art. 55.2.d) recoge el principio de «independencia y discrecionalidad técnica en la actuación de los órganos de selección». No se refiere a los órganos que aprueban la oferta, a los que nombran ni a los sindicatos.",
+   "fuente": "Art. 55.2.d) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 55.2.d) literal: «Independencia y discrecionalidad técnica en la actuación de los órganos de selección». Distractores falsos. Sin pregunta equivalente en t17/t18/t21. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 55.2.d) literal: «Independencia y discrecionalidad técnica en la actuación de los órganos de selección». Los distractores (órgano que nombra, el que aprueba la oferta, sindicatos) no aparecen en esa letra. No hay pregunta equivalente en los temas 17, 18 ni 21."
+  },
+  {
+   "q": "El art. 55.2.e) del TREBEP exige la adecuación entre el contenido de los procesos selectivos y:",
+   "options": [
+    "El nivel de titulación exigido para el acceso",
+    "El número de plazas convocadas",
+    "Las funciones o tareas a desarrollar",
+    "Las retribuciones del puesto de trabajo"
+   ],
+   "correct": 2,
+   "exp": "El art. 55.2.e) establece como principio la «adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar». El número de plazas, las retribuciones y la titulación no son el término de comparación de ese principio (la titulación es un requisito general del art. 56.1.e).",
+   "fuente": "Art. 55.2.e) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 55.2.e) literal. Distractores (titulación, número de plazas, retribuciones) falsos; la referencia al 56.1.e) de la explicación es correcta. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 55.2.e) literal: «Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar». Los distractores son falsos. No figura en el banco. Ojo: la pregunta 1 del lote reproduce esta respuesta como opción cierta; ver la nota de la 1."
+  },
+  {
+   "q": "Según el art. 55.2 del TREBEP, las Administraciones Públicas deben seleccionar mediante procedimientos que garanticen los principios de igualdad, mérito y capacidad y los demás que enumera ese apartado:",
+   "options": [
+    "Solo a su personal funcionario, de carrera o interino",
+    "Solo a su personal laboral fijo",
+    "A su personal funcionario y laboral",
+    "Solo a su personal funcionario de carrera"
+   ],
+   "correct": 2,
+   "exp": "El art. 55.2 dispone que las Administraciones Públicas «seleccionarán a su personal funcionario y laboral» mediante procedimientos que garanticen esos principios. No se limita a los funcionarios (de carrera o interinos) ni al personal laboral fijo.",
+   "fuente": "Art. 55.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 55.2: «seleccionarán a su personal funcionario y laboral». Las demás opciones restringen indebidamente el ámbito. No repite la pregunta existente del 55.2 (principios). | Revisor 2 (DUDOSA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Correcta según el art. 55.2 («seleccionarán a su personal funcionario y laboral»). Pero la forma la delata: los tres distractores empiezan por «Solo» y la correcta es la única sin restricción. Además, el enunciado de la pregunta 1 del lote ya dice «procedimientos de selección del personal funcionario y laboral». Es de poco valor y está cerca de T17 (art. 11.3, selección del personal laboral según igualdad, mérito y capacidad). Arreglo: reescribir los distractores sin la marca «Solo», o descartarla."
+  },
+  {
+   "q": "Según el art. 56.1.c) del TREBEP, una edad máxima de acceso al empleo público distinta de la general solo podrá establecerse:",
+   "options": [
+    "Por ley",
+    "Por la relación de puestos de trabajo",
+    "Por las bases de cada convocatoria",
+    "Por reglamento del Gobierno o del Consejo de Gobierno autonómico"
+   ],
+   "correct": 0,
+   "exp": "El art. 56.1.c) dice que «Sólo por ley podrá establecerse otra edad máxima, distinta de la edad de jubilación forzosa, para el acceso al empleo público». Ni las bases, ni la relación de puestos ni un reglamento bastan.",
+   "fuente": "Art. 56.1.c) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.1.c) literal: «Sólo por ley podrá establecerse otra edad máxima, distinta de la edad de jubilación forzosa». La pregunta existente del 56.1.c) pregunta la edad mínima (16), no esto. Para Zaragoza rige el art. 56 TREBEP, básico (el art. 135 TRRL, que pedía 18 años, queda desplazado y no afecta a esta respuesta). | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 56.1.c) literal: «Sólo por ley podrá establecerse otra edad máxima, distinta de la edad de jubilación forzosa». Las RPT, las bases y el reglamento son falsos. El banco solo tiene la edad mínima de 16 años (T18, art. 56.1.c), así que no la repite."
+  },
+  {
+   "q": "Además de tener cumplidos dieciséis años, el art. 56.1.c) del TREBEP exige, con carácter general, para participar en los procesos selectivos:",
+   "options": [
+    "No haber cumplido los cuarenta y cinco años, salvo que la convocatoria disponga otra cosa",
+    "No exceder, en su caso, de la edad máxima de jubilación forzosa",
+    "No superar la edad mínima exigida para la jubilación voluntaria",
+    "No haber cumplido los cincuenta y cinco años"
+   ],
+   "correct": 1,
+   "exp": "El art. 56.1.c) exige «tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa». El TREBEP no fija como límite general los 45 ni los 55 años, ni la edad de la jubilación voluntaria; otra edad máxima solo puede fijarla una ley.",
+   "fuente": "Art. 56.1.c) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.1.c) literal: «Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa». Distractores (45, 55 años, jubilación voluntaria) falsos. No repite la existente (edad mínima): el enunciado da los 16 años y pregunta el límite superior. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 56.1.c): «Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa». Ni los 45 años, ni los 55, ni la edad de jubilación voluntaria están en el precepto. El banco pregunta solo la edad mínima, así que esta no la repite."
+  },
+  {
+   "q": "Según el art. 56.1.d) del TREBEP, si el aspirante es nacional de otro Estado, para participar en los procesos selectivos se le exige además:",
+   "options": [
+    "Presentar un certificado de buena conducta expedido por la oficina consular española de su Estado de origen dentro del plazo de presentación de solicitudes",
+    "No estar inhabilitado o en situación equivalente ni sometido a sanción disciplinaria o equivalente que le impida, en su Estado, acceder al empleo público",
+    "Acreditar al menos cinco años de residencia legal y continuada en España y carecer de antecedentes penales en cualquiera de los Estados en que haya residido",
+    "Haber prestado servicios en la Administración pública de su Estado de origen durante el tiempo mínimo que fije la convocatoria del proceso selectivo"
+   ],
+   "correct": 1,
+   "exp": "El art. 56.1.d), tras exigir no haber sido separado ni estar inhabilitado, añade: «En el caso de ser nacional de otro Estado, no hallarse inhabilitado o en situación equivalente ni haber sido sometido a sanción disciplinaria o equivalente que impida, en su Estado, en los mismos términos el acceso al empleo público». El precepto no exige residencia mínima, servicios previos en su país ni certificados consulares.",
+   "fuente": "Art. 56.1.d) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.1.d), último inciso, literal. Ninguna de las otras tres (certificado consular, cinco años de residencia, servicios previos) está en el precepto. Opciones de longitud equilibrada. La existente del 56.1.d) pregunta por la separación por expediente disciplinario: distinta. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 56.1.d), segundo inciso, comprobado. La paráfrasis de la correcta es fiel. El TREBEP no exige certificado consular, residencia de cinco años sin antecedentes ni servicios previos en el país de origen. Las longitudes son parejas. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 56.2 del TREBEP, para cubrir los puestos de trabajo en las comunidades autónomas que gocen de dos lenguas oficiales, las Administraciones Públicas, en el ámbito de sus competencias:",
+   "options": [
+    "Solo podrán valorar la lengua cooficial como mérito en la fase de concurso",
+    "Deberán exigir en todo caso el conocimiento de ambas lenguas como requisito de participación",
+    "Deberán reservar la mitad de las plazas a quienes acrediten el conocimiento de la lengua cooficial",
+    "Deberán prever la selección de empleados públicos debidamente capacitados"
+   ],
+   "correct": 3,
+   "exp": "El art. 56.2 dispone que las Administraciones Públicas, en el ámbito de sus competencias, «deberán prever la selección de empleados públicos debidamente capacitados para cubrir los puestos de trabajo en las Comunidades Autónomas que gocen de dos lenguas oficiales». No impone que el conocimiento de ambas lenguas sea siempre requisito, ni una reserva de plazas, ni lo limita a un mérito.",
+   "fuente": "Art. 56.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.2 literal: «deberán prever la selección de empleados públicos debidamente capacitados». Distractores falsos según el texto. Dentro del epígrafe (acceso). Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 56.2 literal: «deberán prever la selección de empleados públicos debidamente capacitados para cubrir los puestos de trabajo en las Comunidades Autónomas que gocen de dos lenguas oficiales». El precepto no impone requisito obligatorio, reserva ni mérito exclusivo. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 56.3 del TREBEP, los requisitos específicos que pueden exigirse además de los generales deben guardar relación objetiva y proporcionada con las funciones y tareas, y habrán de establecerse en todo caso:",
+   "options": [
+    "Por el órgano de selección, una vez iniciado el proceso",
+    "De manera abstracta y general",
+    "De manera individualizada, atendiendo a las circunstancias de cada aspirante",
+    "Por acuerdo con la representación sindical"
+   ],
+   "correct": 1,
+   "exp": "El art. 56.3 permite exigir «otros requisitos específicos que guarden relación objetiva y proporcionada con las funciones asumidas y las tareas a desempeñar» y añade: «En todo caso, habrán de establecerse de manera abstracta y general». Fijarlos de forma individualizada, por acuerdo sindical o por el órgano de selección ya iniciado el proceso contradice esa exigencia o no aparece en el precepto.",
+   "fuente": "Art. 56.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.3 literal: «En todo caso, habrán de establecerse de manera abstracta y general». Distractores falsos. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 56.3 literal: «En todo caso, habrán de establecerse de manera abstracta y general». Los distractores son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 57.1 del TREBEP, los nacionales de los Estados miembros de la Unión Europea pueden acceder como personal funcionario, en igualdad de condiciones que los españoles, a los empleos públicos, con excepción de aquellos que:",
+   "options": [
+    "Exijan una titulación universitaria de grado o superior, salvo que el título obtenido en otro Estado miembro haya sido previamente homologado en España",
+    "Impliquen, directa o indirectamente, participación en el ejercicio del poder público o en la salvaguardia de los intereses del Estado o de las Administraciones Públicas",
+    "Estén reservados por la relación de puestos de trabajo a funcionarios con más de cinco años de antigüedad en el cuerpo o escala correspondiente de la Administración convocante",
+    "Pertenezcan a la Administración local o a los organismos públicos y entidades de derecho público dependientes o vinculados a ella"
+   ],
+   "correct": 1,
+   "exp": "El art. 57.1 exceptúa los empleos públicos «que directa o indirectamente impliquen una participación en el ejercicio del poder público o en las funciones que tienen por objeto la salvaguardia de los intereses del Estado o de las Administraciones Públicas». No excluye por la titulación exigida, por pertenecer a la Administración local ni por la antigüedad.",
+   "fuente": "Art. 57.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57.1, primer párrafo, literal (la opción correcta parafrasea fielmente «participación en el ejercicio del poder público o en las funciones que tienen por objeto la salvaguardia de los intereses del Estado o de las AAPP»). Revisada la similitud señalada con el 57.1 existente: aquella pregunta quién accede (nacionales UE); esta, la excepción. No repite en el fondo. Aplicable igual a la Administración local. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 57.1, párrafo primero literal. La titulación, la antigüedad y la Administración local no son excepciones. Hay una pregunta cercana en el banco, T18 «Según el art. 57.1… los nacionales de: → Estados miembros de la UE», pero pregunta otra cosa (quién accede, no la excepción). Las longitudes están equilibradas."
+  },
+  {
+   "q": "Según el art. 57.1 del TREBEP, ¿quién determina las agrupaciones de funcionarios contempladas en el artículo 76 a las que no pueden acceder los nacionales de otros Estados?",
+   "options": [
+    "El Ministerio competente en materia de asuntos exteriores",
+    "Las Cortes Generales, mediante ley orgánica",
+    "Los órganos de gobierno de las Administraciones Públicas",
+    "Los órganos de selección, en cada convocatoria"
+   ],
+   "correct": 2,
+   "exp": "El segundo párrafo del art. 57.1 dice: «los órganos de gobierno de las Administraciones Públicas determinarán las agrupaciones de funcionarios contempladas en el artículo 76 a las que no puedan acceder los nacionales de otros Estados». No lo hacen las Cortes, un ministerio ni los órganos de selección.",
+   "fuente": "Art. 57.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57.1, segundo párrafo, literal: «los órganos de gobierno de las Administraciones Públicas determinarán las agrupaciones de funcionarios contempladas en el artículo 76...». Distractores falsos. No repite ninguna pregunta de t17/t18/t21 (las de 68.2 y 70.2 mencionan los órganos de gobierno para otras cosas). | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 57.1, párrafo segundo literal: «los órganos de gobierno de las Administraciones Públicas determinarán las agrupaciones de funcionarios contempladas en el artículo 76…». Los distractores son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 57.2 del TREBEP, el régimen de acceso al empleo público de los nacionales de la Unión Europea se aplica también a los descendientes de los españoles y de esos nacionales, y a los de su cónyuge, siempre que sean:",
+   "options": [
+    "Menores de veintiún años o mayores de dicha edad dependientes",
+    "De cualquier edad, siempre que residan legalmente en España",
+    "Menores de dieciocho años, sin excepción",
+    "Menores de veinticinco años que convivan con ellos"
+   ],
+   "correct": 0,
+   "exp": "El art. 57.2 extiende el régimen del apartado 1 a los descendientes y a los del cónyuge que «sean menores de veintiún años o mayores de dicha edad dependientes». No fija los 18 ni los 25 años, y no basta la residencia legal con independencia de la edad.",
+   "fuente": "Art. 57.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57.2 literal: «sean menores de veintiún años o mayores de dicha edad dependientes». Distractores falsos. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 57.2: «sean menores de veintiún años o mayores de dicha edad dependientes». El precepto no habla de 18 ni de 25 años ni de cualquier edad. No figura en el banco."
+  },
+  {
+   "q": "Conforme al art. 57.2 del TREBEP, al cónyuge de los españoles y de los nacionales de otros Estados miembros de la Unión Europea se le aplican las previsiones de acceso del apartado 1 de ese artículo:",
+   "options": [
+    "Solo si también es nacional de un Estado miembro de la Unión Europea",
+    "Solo tras dos años de matrimonio y de residencia legal y continuada en España",
+    "Cualquiera que sea su nacionalidad, siempre que no estén separados de derecho",
+    "Cualquiera que sea su nacionalidad, aunque estén separados de derecho"
+   ],
+   "correct": 2,
+   "exp": "El art. 57.2 dice que las previsiones del apartado 1 se aplican, «cualquiera que sea su nacionalidad, al cónyuge de los españoles y de los nacionales de otros Estados miembros de la Unión Europea, siempre que no estén separados de derecho». No exige nacionalidad comunitaria ni un tiempo de matrimonio o residencia, y la separación de derecho excluye la extensión.",
+   "fuente": "Art. 57.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57.2 literal: «cualquiera que sea su nacionalidad, al cónyuge ... siempre que no estén separados de derecho». La opción «aunque estén separados de derecho» es falsa. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 57.2: «cualquiera que sea su nacionalidad, al cónyuge… siempre que no estén separados de derecho». Los distractores (nacionalidad comunitaria, dos años de matrimonio, «aunque estén separados») son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 57.4 del TREBEP, los extranjeros con residencia legal en España a los que no se aplican los apartados 1 a 3 de ese artículo pueden acceder a las Administraciones Públicas, en igualdad de condiciones que los españoles, como:",
+   "options": [
+    "Personal laboral",
+    "Personal funcionario interino",
+    "Personal eventual",
+    "Personal funcionario de carrera"
+   ],
+   "correct": 0,
+   "exp": "El art. 57.4 permite a los extranjeros con residencia legal en España acceder a las Administraciones Públicas «como personal laboral, en igualdad de condiciones que los españoles». El acceso como personal funcionario (de carrera o interino) solo se abre a los nacionales de los apartados 1 a 3 o si una ley de las Cortes Generales o de una asamblea legislativa autonómica exime del requisito de la nacionalidad (art. 57.5).",
+   "fuente": "Art. 57.4 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57.4 literal: los extranjeros con residencia legal pueden acceder «como personal laboral». La cita del apartado es correcta (la pregunta existente rotulada 57.4 trata en realidad del 57.5, exención por ley; no se solapan). El enunciado ancla la respuesta al 57.4, que solo menciona personal laboral. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 57.4: los extranjeros con residencia legal pueden acceder «como personal laboral, en igualdad de condiciones que los españoles». El precepto no menciona a interinos, eventuales ni funcionarios de carrera, y el acceso como funcionario sin nacionalidad requiere una ley (57.5). No figura en el banco (T18 sobre el 57.5 pregunta por la ley que exime)."
+  },
+  {
+   "q": "Según el art. 58 del TREBEP, para acceder a las Administraciones Públicas, los funcionarios de nacionalidad española de Organismos Internacionales deben:",
+   "options": [
+    "Acreditar cinco años de servicios en el organismo internacional, sin necesidad de otras pruebas",
+    "Obtener un informe favorable del Ministerio competente en materia de asuntos exteriores",
+    "Poseer la titulación requerida y superar los correspondientes procesos selectivos",
+    "Superar un concurso específico de méritos, sin pruebas de capacidad"
+   ],
+   "correct": 2,
+   "exp": "El art. 58 dice que las Administraciones Públicas establecerán los requisitos y condiciones de acceso de estos funcionarios «siempre que posean la titulación requerida y superen los correspondientes procesos selectivos». No prevé un acceso por mera antigüedad, por informe ministerial ni por un concurso de méritos sin pruebas.",
+   "fuente": "Art. 58 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 58 literal: «siempre que posean la titulación requerida y superen los correspondientes procesos selectivos». Distractores falsos. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 58, primera frase: «siempre que posean la titulación requerida y superen los correspondientes procesos selectivos». Los distractores son falsos. No figura en el banco."
+  },
+  {
+   "q": "Conforme al art. 58 del TREBEP, los funcionarios de nacionalidad española de Organismos Internacionales que participen en un proceso selectivo:",
+   "options": [
+    "Podrán quedar exentos de las pruebas que tengan por objeto acreditar conocimientos ya exigidos para el desempeño de su puesto en el organismo internacional",
+    "Quedarán exentos de todas las pruebas del proceso selectivo con la sola presentación de su nombramiento en el organismo internacional correspondiente",
+    "Deberán realizar siempre todas las pruebas del proceso selectivo, sin exención de ninguna clase, en igualdad de condiciones con el resto de aspirantes",
+    "Solo podrán quedar exentos de acreditar la titulación requerida, cuando la hayan acreditado ya ante el organismo internacional en que prestan servicios"
+   ],
+   "correct": 0,
+   "exp": "El art. 58 establece que estos funcionarios «podrán quedar exentos de la realización de aquellas pruebas que tengan por objeto acreditar conocimientos ya exigidos para el desempeño de su puesto en el organismo internacional correspondiente». La exención es posible y parcial: no abarca todas las pruebas ni la titulación, que el propio artículo exige.",
+   "fuente": "Art. 58 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 58, segundo inciso, literal: «Podrán quedar exentos de la realización de aquellas pruebas que tengan por objeto acreditar conocimientos ya exigidos...». Las otras tres contradicen el texto (exención total, ninguna exención, solo titulación). Longitudes equilibradas. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 58, segunda frase literal: «Podrán quedar exentos de la realización de aquellas pruebas que tengan por objeto acreditar conocimientos ya exigidos…». Los distractores (exención total, ninguna exención, exención de la titulación) son falsos. La correcta es la más larga por muy poco (155 frente a 149-151), no la delata."
+  },
+  {
+   "q": "Según el art. 59.1 del TREBEP, el cupo de reserva para personas con discapacidad en las ofertas de empleo público se establece de modo que progresivamente se alcance:",
+   "options": [
+    "El cinco por ciento de los efectivos totales en cada Administración Pública",
+    "El dos por ciento de las plazas de cada cuerpo o escala",
+    "El siete por ciento de los efectivos totales en cada Administración Pública",
+    "El dos por ciento de los efectivos totales en cada Administración Pública"
+   ],
+   "correct": 3,
+   "exp": "El art. 59.1 fija un cupo no inferior al 7 % de las vacantes «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». El 7 % se refiere a las vacantes ofertadas, no a los efectivos; el 5 % es la parte mínima de las plazas para discapacidades distintas de la intelectual; y el otro 2 % del precepto es el de las plazas para discapacidad intelectual, no un porcentaje de cada cuerpo.",
+   "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Respuesta correcta (art. 59.1: «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública») y distractores falsos; no repite las existentes del 59.1 (7 %, 2 % intelectual) ni la del examen oficial del t21 (5 %), aunque es muy confundible con ellas. Pero la explicación es inexacta: dice que «el 5 % es la parte mínima de las plazas para discapacidades distintas de la intelectual», y el 59.1 no fija ese mínimo: dice que al menos el 2 % será para discapacidad intelectual «y el resto» para cualquier otro tipo (el 5 % solo resulta si el cupo es exactamente del 7 % y la reserva intelectual exactamente del 2 %). Arreglo: sustituir por «el 5 % es el resto del cupo mínimo del 7 % una vez reservado el 2 % para discapacidad intelectual». Nota para Zaragoza: el art. 27.2 de la Ley aragonesa 5/2019 (BOE-A-2019-7785) eleva el cupo al 8 % en las «ofertas de empleo público» con el mismo objetivo del 2 % de efectivos (referido a la Administración autonómica); no cambia esta respuesta, pero conviene no afirmar en la explicación cifras del 7 %/5 % como si fueran las únicas aplicables en Aragón. | Revisor 2 (DUDOSA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). La respuesta es correcta: art. 59.1, «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». Los distractores son falsos. No repite las del banco (7 % en T18, 2 % de discapacidad intelectual en T18, 5 % en T21 P20). Pero la explicación no es exacta: dice que «el 5 % es la parte mínima de las plazas para discapacidades distintas de la intelectual». El precepto no fija ningún mínimo para ese grupo: reserva «al menos» el 2 % a la discapacidad intelectual y «el resto» a las demás, así que el 5 % es lo que queda del 7 % mínimo cuando la intelectual se queda en el 2 % (un tope, no un mínimo). Arreglo: «el 5 % no aparece como tal en el precepto: es lo que resta del cupo mínimo del 7 % si a la discapacidad intelectual se reserva justo el 2 %»."
+  },
+  {
+   "q": "Según el art. 59.1 del TREBEP, las vacantes del cupo de reserva se cubren entre personas con discapacidad siempre que superen los procesos selectivos y acrediten:",
+   "options": [
+    "Su discapacidad y un año de residencia en la comunidad autónoma convocante",
+    "Una discapacidad igual o superior al cincuenta por ciento",
+    "Su inscripción como demandantes de empleo durante al menos seis meses",
+    "Su discapacidad y la compatibilidad con el desempeño de las tareas"
+   ],
+   "correct": 3,
+   "exp": "El art. 59.1 exige que las personas con discapacidad «superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas». No pide un grado del 50 %, inscripción como demandantes de empleo ni residencia previa.",
+   "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 59.1 literal: «siempre que superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas». Distractores (50 %, demandante de empleo, residencia) falsos. No repite las existentes del 59.1 (porcentajes). | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 59.1 literal: «acrediten su discapacidad y la compatibilidad con el desempeño de las tareas». El precepto no exige un grado del 50 %, inscripción como demandante ni residencia. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 59.2 del TREBEP, cada Administración Pública adoptará, en favor de las personas con discapacidad, las medidas precisas para establecer:",
+   "options": [
+    "Las adaptaciones y ajustes razonables de tiempos y medios en el proceso selectivo y, superado este, las adaptaciones en el puesto de trabajo",
+    "Una puntuación adicional en la fase de oposición, proporcional al grado de discapacidad, y preferencia en la elección de destino",
+    "La exención de las pruebas prácticas y físicas, una vez acreditada la discapacidad, y una reducción de jornada durante el primer año",
+    "Pruebas selectivas distintas y de menor dificultad que las del turno general y, superado el proceso, un puesto de trabajo de su elección"
+   ],
+   "correct": 0,
+   "exp": "El art. 59.2 obliga a cada Administración a establecer «las adaptaciones y ajustes razonables de tiempos y medios en el proceso selectivo y, una vez superado dicho proceso, las adaptaciones en el puesto de trabajo». No prevé pruebas distintas, puntos adicionales ni exención de pruebas.",
+   "fuente": "Art. 59.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 59.2 literal. Distractores (puntos adicionales, exención de pruebas, pruebas distintas) no están en el precepto. Longitudes equilibradas. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 59.2 literal. Los distractores (puntos extra, exención de pruebas, pruebas distintas) son falsos. La correcta es la más larga por poco (140 frente a 128-136), no la delata. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 60.1 del TREBEP, los órganos de selección serán:",
+   "options": [
+    "Colegiados",
+    "Unipersonales o colegiados, según disponga la convocatoria",
+    "Colegiados solo en los procesos de acceso a los subgrupos A1 y A2",
+    "Unipersonales"
+   ],
+   "correct": 0,
+   "exp": "El art. 60.1 empieza: «Los órganos de selección serán colegiados». El TREBEP no admite órganos unipersonales ni limita la colegialidad a determinados subgrupos.",
+   "fuente": "Art. 60.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 60.1 literal: «Los órganos de selección serán colegiados». Revisada la similitud señalada: la existente del 60.1 pregunta la paridad entre mujer y hombre; esta, la colegialidad. No repite en el fondo. En la Administración local rige igual (el art. 4.e del RD 896/1991 también prevé tribunales colegiados). | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 60.1: «Los órganos de selección serán colegiados». Los distractores son falsos. El banco pregunta del 60.1 solo la paridad (T18), así que esta no la repite."
+  },
+  {
+   "q": "Según el art. 60.2 del TREBEP, no podrán formar parte de los órganos de selección:",
+   "options": [
+    "Los funcionarios interinos y los funcionarios de carrera con menos de cinco años de antigüedad",
+    "El personal de elección o de designación política, los funcionarios interinos y el personal eventual",
+    "El personal eventual, los funcionarios interinos y el personal laboral fijo",
+    "El personal de elección o de designación política y los funcionarios de carrera de otras Administraciones"
+   ],
+   "correct": 1,
+   "exp": "El art. 60.2 excluye exactamente a tres colectivos: «El personal de elección o de designación política, los funcionarios interinos y el personal eventual». No menciona al personal laboral fijo, a los funcionarios de carrera de otras Administraciones ni ninguna antigüedad mínima.",
+   "fuente": "Art. 60.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 60.2 literal; la opción correcta es la lista exacta y las otras incluyen colectivos no excluidos (laboral fijo, funcionarios de carrera de otras Administraciones, antigüedad). Sin equivalente en el banco. Aviso para la sesión principal (no afecta al veredicto): el art. 4.f del RD 896/1991 («Actuará como Presidente el de la Corporación o miembro de la misma en quien delegue») es incompatible con este 60.2 básico y el banco del tema 19 tiene una pregunta que lo presenta como vigente; conviene revisarla o matizarla. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 60.2 literal: quedan excluidos el personal de elección o de designación política, los interinos y el eventual. Cada distractor añade un colectivo que el precepto no excluye (laboral fijo, carrera de otras Administraciones, antigüedad de menos de cinco años), así que como enumeración son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 60.3 del TREBEP, la pertenencia a los órganos de selección será siempre:",
+   "options": [
+    "A título individual, sin que pueda ostentarse en representación o por cuenta de nadie",
+    "A título individual, salvo la del secretario, que actúa en representación del órgano convocante",
+    "En representación de la Administración convocante",
+    "En representación de las organizaciones sindicales, en al menos la mitad de sus miembros"
+   ],
+   "correct": 0,
+   "exp": "El art. 60.3 dice que la pertenencia a los órganos de selección «será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie». No cabe representar a la Administración, a los sindicatos ni, en el caso del secretario, al órgano convocante.",
+   "fuente": "Art. 60.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 60.3 literal: «será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie». Distractores falsos. Sin equivalente en el banco. Mismo aviso que en la del 60.2: el RD 896/1991, art. 4.f, prevé «un representante de la Comunidad Autónoma» entre los vocales, regla desplazada por este precepto básico. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 60.3 literal. El matiz del secretario y la representación de la Administración o de los sindicatos son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.2 del TREBEP, las pruebas de los procesos selectivos podrán consistir, entre otras, en:",
+   "options": [
+    "La valoración exclusiva de la antigüedad en la Administración convocante",
+    "La comprobación del dominio de lenguas extranjeras",
+    "La acreditación de la vecindad en el municipio convocante",
+    "La presentación de informes de recomendación de anteriores empleadores"
+   ],
+   "correct": 1,
+   "exp": "El art. 61.2 dice que las pruebas podrán consistir en la comprobación de los conocimientos y la capacidad analítica (de forma oral o escrita), en ejercicios que demuestren habilidades y destrezas, «en la comprobación del dominio de lenguas extranjeras y, en su caso, en la superación de pruebas físicas». La antigüedad, la vecindad o las recomendaciones no son pruebas previstas.",
+   "fuente": "Art. 61.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.2, segundo párrafo, literal: «en la comprobación del dominio de lenguas extranjeras». Antigüedad, vecindad y recomendaciones no son pruebas. La existente rotulada 61.2 trata en realidad de los sistemas del 61.6: no se solapan. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.2, párrafo segundo: entre otras, «la comprobación del dominio de lenguas extranjeras». La antigüedad exclusiva, la vecindad y las recomendaciones no son pruebas. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.3 del TREBEP, cuando un proceso selectivo incluya, además de las preceptivas pruebas de capacidad, la valoración de méritos de los aspirantes, a dicha valoración:",
+   "options": [
+    "Podrá otorgársele como máximo el cuarenta por ciento de la puntuación total, que se sumará a la de la oposición",
+    "Solo podrá otorgársele una puntuación proporcionada que nunca determinará por sí misma el resultado del proceso",
+    "Solo podrá otorgársele puntuación para deshacer los empates entre aspirantes con igual nota en la oposición",
+    "Deberá otorgársele la misma puntuación máxima que a la fase de oposición, para garantizar el equilibrio entre ambas"
+   ],
+   "correct": 1,
+   "exp": "El art. 61.3 dice que esos procesos «sólo podrán otorgar a dicha valoración una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado del proceso selectivo». El TREBEP no fija un porcentaje máximo, no exige igualar la puntuación de la oposición ni reduce los méritos a criterio de desempate.",
+   "fuente": "Art. 61.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.3 literal: «una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado del proceso selectivo». El TREBEP no fija el 40 % ni el criterio de desempate ni la igualdad de puntuaciones. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.3 literal: «una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado». El 61.3 no fija un 40 % (ese porcentaje es de la Ley 20/2021 para la estabilización, no del TREBEP), ni la usa solo para desempatar ni exige igualar las puntuaciones. Las longitudes son parejas. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.4 del TREBEP, las Administraciones Públicas podrán crear órganos especializados y permanentes para la organización de procesos selectivos, y podrán encomendar estas funciones a:",
+   "options": [
+    "Las organizaciones sindicales más representativas",
+    "Las universidades públicas, con carácter exclusivo",
+    "Empresas privadas de selección de personal",
+    "Los Institutos o Escuelas de Administración Pública"
+   ],
+   "correct": 3,
+   "exp": "El art. 61.4 permite crear órganos especializados y permanentes para organizar los procesos selectivos, «pudiéndose encomendar estas funciones a los Institutos o Escuelas de Administración Pública». No menciona empresas privadas, sindicatos ni universidades.",
+   "fuente": "Art. 61.4 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.4 literal: «pudiéndose encomendar estas funciones a los Institutos o Escuelas de Administración Pública». Distractores falsos. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.4 literal: «pudiéndose encomendar estas funciones a los Institutos o Escuelas de Administración Pública». Los distractores son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.5 del TREBEP, para asegurar la objetividad y la racionalidad de los procesos selectivos, las pruebas podrán completarse con diversos elementos. ¿Cuál de los siguientes NO figura entre ellos?",
+   "options": [
+    "La superación de cursos o de periodos de prácticas",
+    "La realización de pruebas psicotécnicas o de entrevistas",
+    "La exposición curricular por los candidatos",
+    "Un informe de idoneidad de la junta de personal"
+   ],
+   "correct": 3,
+   "exp": "El art. 61.5 permite completar las pruebas con la superación de cursos o de periodos de prácticas, la exposición curricular, pruebas psicotécnicas o entrevistas, y añade que podrán exigirse reconocimientos médicos. Un informe de idoneidad de la junta de personal no aparece en el precepto.",
+   "fuente": "Art. 61.5 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.5 literal: cursos, periodos de prácticas, exposición curricular, pruebas psicotécnicas, entrevistas y reconocimientos médicos; el informe de la junta de personal no figura. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.5: los cursos o periodos de prácticas, la exposición curricular, las pruebas psicotécnicas y las entrevistas figuran; el informe de la junta de personal no. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.6 del TREBEP, el sistema de concurso, consistente únicamente en la valoración de méritos, puede aplicarse a la selección de funcionarios de carrera:",
+   "options": [
+    "Cuando el número de aspirantes no supere el de plazas convocadas",
+    "Solo para el acceso al subgrupo C2 y a las agrupaciones profesionales",
+    "Solo en virtud de ley y con carácter excepcional",
+    "Siempre que lo prevean las bases de la convocatoria"
+   ],
+   "correct": 2,
+   "exp": "El art. 61.6 fija como sistemas de los funcionarios de carrera la oposición y el concurso-oposición, y añade: «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos». No basta la convocatoria, ni depende del número de aspirantes o del subgrupo.",
+   "fuente": "Art. 61.6 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): La respuesta es la literal del art. 61.6, segundo párrafo («Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso»), pero para el personal de un municipio como Zaragoza el banco enseña otra cosa: el art. 91.2 LBRL (ley) prevé para toda la selección local el «sistema de concurso, oposición o concurso-oposición libre», y el art. 2 del RD 896/1991 (preguntado en el examen oficial, tema 21) admite el concurso cuando «por la naturaleza de las plazas» sea más adecuado, eligiéndolo las bases (art. 4.b). El distractor «Siempre que lo prevean las bases de la convocatoria» y la frase de la explicación «No basta la convocatoria» chocan con esa normativa local. Arreglo: cambiar ese distractor por otro inequívoco (p. ej., «Cuando lo acuerde el órgano de selección») y añadir a la explicación que, en la Administración local, el art. 91.2 LBRL y el art. 2 del RD 896/1991 mencionan el concurso, pero el art. 61.6 TREBEP, básico y posterior, lo limita a lo que disponga una ley y con carácter excepcional. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.6, párrafo segundo literal: «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso». Los distractores son falsos. No repite T18 (sobre que la oposición y el concurso-oposición son los sistemas) ni T21 P19 (art. 2 del RD 896/1991, otra norma)."
+  },
+  {
+   "q": "Según el art. 61.6 del TREBEP, los sistemas selectivos de oposición y de concurso-oposición de los funcionarios de carrera deberán incluir, en todo caso:",
+   "options": [
+    "Una entrevista personal con cada aspirante para valorar su adecuación al puesto de trabajo",
+    "Una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación",
+    "Una fase de concurso en la que se valore la experiencia profesional previa de los aspirantes",
+    "Un curso selectivo de formación, posterior a las pruebas, en un Instituto o Escuela de Administración Pública"
+   ],
+   "correct": 1,
+   "exp": "El art. 61.6 dice que la oposición y el concurso-oposición «deberán incluir, en todo caso, una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación». Los cursos y las entrevistas son complementos posibles (art. 61.5), no obligatorios, y la oposición no tiene fase de concurso.",
+   "fuente": "Art. 61.6 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.6, primer párrafo, literal: «deberán incluir, en todo caso, una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación». Distractores falsos («en todo caso» excluye la fase de concurso, que la oposición no tiene). Coherente con el RD 896/1991. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.6, párrafo primero literal: «una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación». La entrevista, la fase de concurso y el curso selectivo no son obligatorios. No repite T18, que pregunta cuáles son los sistemas, no su contenido obligatorio."
+  },
+  {
+   "q": "Según el art. 61.7 del TREBEP, los sistemas selectivos del personal laboral fijo son:",
+   "options": [
+    "La oposición, el concurso-oposición o la contratación directa en casos de urgencia",
+    "La oposición y el concurso-oposición, sin que quepa el concurso de méritos",
+    "El concurso-oposición y la libre designación",
+    "La oposición, el concurso-oposición o el concurso de valoración de méritos"
+   ],
+   "correct": 3,
+   "exp": "El art. 61.7 dispone que los sistemas selectivos del personal laboral fijo «serán los de oposición, concurso-oposición, con las características establecidas en el apartado anterior, o concurso de valoración de méritos». A diferencia de los funcionarios de carrera, el concurso no requiere ley; la libre designación y la contratación directa no son sistemas selectivos.",
+   "fuente": "Art. 61.7 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.7 literal: oposición, concurso-oposición o concurso de valoración de méritos. Coherente con el art. 91.2 LBRL para el personal laboral local. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.7, párrafo primero literal: oposición, concurso-oposición o concurso de valoración de méritos. Los distractores son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.7 del TREBEP, las Administraciones Públicas podrán negociar las formas de colaboración que, en el marco de los convenios colectivos, fijen la actuación en el desarrollo de los procesos selectivos de:",
+   "options": [
+    "Las empresas de trabajo temporal",
+    "Los colegios profesionales",
+    "Las asociaciones de aspirantes",
+    "Las organizaciones sindicales"
+   ],
+   "correct": 3,
+   "exp": "El segundo párrafo del art. 61.7 dice que las Administraciones Públicas «podrán negociar las formas de colaboración que en el marco de los convenios colectivos fijen la actuación de las organizaciones sindicales en el desarrollo de los procesos selectivos». No se refiere a empresas de trabajo temporal, colegios profesionales ni asociaciones de aspirantes.",
+   "fuente": "Art. 61.7 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.7, segundo párrafo, literal: «fijen la actuación de las organizaciones sindicales en el desarrollo de los procesos selectivos». Distractores falsos. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.7, párrafo segundo literal: «fijen la actuación de las organizaciones sindicales en el desarrollo de los procesos selectivos». Los distractores son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.8 del TREBEP, los órganos de selección no podrán proponer el acceso a la condición de funcionario de un número de aprobados superior al de plazas convocadas:",
+   "options": [
+    "En ningún caso",
+    "Excepto en los procesos de promoción interna",
+    "Excepto cuando lo acuerde el órgano de selección por unanimidad",
+    "Excepto cuando así lo prevea la propia convocatoria"
+   ],
+   "correct": 3,
+   "exp": "El art. 61.8 prohíbe proponer más aprobados que plazas convocadas, «excepto cuando así lo prevea la propia convocatoria». La excepción depende de la convocatoria, no de una decisión unánime del órgano de selección ni del tipo de proceso.",
+   "fuente": "Art. 61.8 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.8, primer párrafo, literal: «excepto cuando así lo prevea la propia convocatoria». «En ningún caso», unanimidad y promoción interna son falsas. El RD 896/1991 no contiene regla distinta. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.8, párrafo primero literal: «excepto cuando así lo prevea la propia convocatoria». «En ningún caso», la promoción interna y la unanimidad son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 61.8 del TREBEP, si el órgano de selección ha propuesto tantos aspirantes como plazas convocadas y alguno renuncia antes de su nombramiento o toma de posesión, para asegurar la cobertura de las plazas:",
+   "options": [
+    "El órgano de selección podrá nombrar directamente funcionarios de carrera a los aspirantes que sigan a los propuestos, por su orden",
+    "Las plazas no cubiertas se acumularán obligatoriamente a las de la siguiente oferta de empleo público de esa Administración",
+    "El órgano convocante podrá requerir del órgano de selección una relación complementaria de los aspirantes que sigan a los propuestos",
+    "El órgano de selección deberá anular el proceso selectivo y el órgano convocante tendrá que convocar uno nuevo para cubrir las plazas que hayan quedado vacantes"
+   ],
+   "correct": 2,
+   "exp": "El art. 61.8 prevé que, en ese caso, «el órgano convocante podrá requerir del órgano de selección relación complementaria de los aspirantes que sigan a los propuestos, para su posible nombramiento como funcionarios de carrera». Quien la pide es el órgano convocante, y el órgano de selección no nombra: solo propone.",
+   "fuente": "Art. 61.8 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 61.8, segundo párrafo, literal: el órgano convocante puede requerir del órgano de selección relación complementaria. Las otras tres contradicen el texto (el tribunal no nombra; no hay acumulación obligatoria ni anulación). Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.8, párrafo segundo literal: el órgano convocante puede requerir del órgano de selección una relación complementaria. Los distractores (nombramiento directo por el órgano de selección, acumulación obligatoria a la siguiente oferta, anulación) son falsos. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 62.1.b) del TREBEP, el nombramiento como funcionario de carrera, efectuado por el órgano o autoridad competente:",
+   "options": [
+    "Será publicado en el Diario Oficial correspondiente",
+    "Deberá ser ratificado por el órgano de selección",
+    "Se notificará personalmente al interesado, sin necesidad de publicación",
+    "Se publicará únicamente en el tablón de anuncios del órgano convocante"
+   ],
+   "correct": 0,
+   "exp": "El art. 62.1.b) exige el «Nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente». No basta la notificación ni el tablón de anuncios, y el órgano de selección no ratifica el nombramiento.",
+   "fuente": "Art. 62.1.b) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 62.1.b) literal: «que será publicado en el Diario Oficial correspondiente» (para Zaragoza, el diario oficial que corresponda; ninguna opción lo contradice). Revisada la similitud con la existente del 62.1: aquella pregunta por el acatamiento y la toma de posesión; esta, por la publicación del nombramiento. No repite. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 62.1.b) literal: «Nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente». Los distractores son falsos. T18 del banco sobre el 62.1 no pregunta por la publicación."
+  },
+  {
+   "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de varios requisitos. ¿Cuál va inmediatamente después de la superación del proceso selectivo?",
+   "options": [
+    "El acto de acatamiento de la Constitución",
+    "La adscripción a un puesto de la relación de puestos de trabajo",
+    "El nombramiento por el órgano o autoridad competente",
+    "La toma de posesión"
+   ],
+   "correct": 2,
+   "exp": "El art. 62.1 enumera, en este orden y con cumplimiento sucesivo: a) superación del proceso selectivo; b) nombramiento por el órgano o autoridad competente, publicado en el diario oficial; c) acto de acatamiento de la Constitución, del Estatuto de Autonomía y del resto del ordenamiento; d) toma de posesión dentro del plazo. La adscripción a un puesto no es uno de esos requisitos.",
+   "fuente": "Art. 62.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Correcta según el art. 62.1 (b) nombramiento va tras a) superación), pero repite en el fondo la pregunta existente del tema 18 «Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:», que pregunta por la misma secuencia del 62.1 y cuyo enunciado ya da esta respuesta (superar el proceso → ser nombrado). También la del tema 19 sobre el art. 137 TRRL pregunta la misma secuencia. Pregunta lo mismo con otras palabras. | Revisor 2 (RECHAZADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). El contenido es correcto (art. 62.1: a) superación, b) nombramiento, c) acatamiento, d) toma de posesión), pero repite en el fondo T18 del banco «Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además: …», cuyo enunciado ya da la secuencia superación → nombramiento y cuya respuesta cubre el acatamiento y la toma de posesión. Con eso no queda ningún eslabón del 62.1 sin preguntar."
+  },
+  {
+   "q": "Según el art. 62.2 del TREBEP, ¿qué ocurre con quienes, una vez superado el proceso selectivo, no acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria?",
+   "options": [
+    "Serán nombrados funcionarios en prácticas hasta que acrediten los requisitos exigidos",
+    "No podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a ellos",
+    "Serán nombrados funcionarios interinos mientras acreditan los requisitos exigidos",
+    "Dispondrán de un plazo de un año, desde el nombramiento, para acreditarlos"
+   ],
+   "correct": 1,
+   "exp": "El art. 62.2 dispone que «no podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a quienes no acrediten, una vez superado el proceso selectivo, que reúnen los requisitos y condiciones exigidos en la convocatoria». No hay nombramiento provisional ni plazo adicional para acreditarlos.",
+   "fuente": "Art. 62.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 62.2 literal: «no podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a quienes no acrediten...». Distractores (prácticas, interinidad, plazo de un año) falsos. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 62.2 literal: «no podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a quienes no acrediten…». El precepto no prevé prácticas, interinidad ni un plazo de un año. No figura en el banco."
+  },
+  {
+   "q": "Según el art. 63 del TREBEP, ¿cuál de las siguientes sanciones disciplinarias, una vez firme, es causa de pérdida de la condición de funcionario de carrera?",
+   "options": [
+    "La separación del servicio",
+    "La suspensión firme de funciones por el máximo de seis años",
+    "El demérito",
+    "El traslado forzoso con cambio de localidad de residencia"
+   ],
+   "correct": 0,
+   "exp": "El art. 63.d) recoge como causa de pérdida «La sanción disciplinaria de separación del servicio que tuviere carácter firme». Las demás son sanciones del art. 96.1 que no extinguen la relación: la suspensión firme lleva a la situación de suspensión de funciones (art. 90), que hace perder el puesto si supera seis meses, pero no la condición de funcionario; el traslado forzoso y el demérito tampoco la hacen perder.",
+   "fuente": "Art. 63.d) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Correcta (art. 63.d) y explicación exacta (arts. 90 y 96.1), pero repite en el fondo preguntas existentes del tema 17: «¿Cuál de las siguientes causas de pérdida de la condición de funcionario exige, según el TREBEP, que el acto administrativo o judicial correspondiente tenga carácter firme? → La sanción disciplinaria de separación del servicio», «Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida..., el art. 63.d) exige que... → tenga carácter firme» y la del 63 «¿Cuál NO es causa de pérdida?», que tiene la separación firme como opción verdadera. Las tres enseñan ya que la separación firme es la sanción que hace perder la condición; cambiar solo los distractores no aporta un dato nuevo. | Revisor 2 (RECHAZADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Correcta según el art. 63.d), pero repite en el fondo tres preguntas del banco del tema 17: «¿Cuál de las siguientes causas de pérdida… exige… carácter firme? → La sanción disciplinaria de separación del servicio», «Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida… → tenga carácter firme» y la de «NO es causa (art. 63)», que tiene como opción cierta la separación firme. Que la separación firme es causa de pérdida ya está preguntado. (La explicación sobre el art. 90.1 es exacta.)"
+  },
+  {
+   "q": "Según el art. 67.3 del TREBEP, el funcionario podrá solicitar la prolongación de la permanencia en el servicio activo, como máximo hasta los setenta años:",
+   "options": [
+    "En los términos que fije el convenio colectivo o el acuerdo de condiciones de trabajo aplicable",
+    "Solo si no reúne el periodo mínimo de cotización exigido para causar la pensión de jubilación",
+    "En los términos de las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+    "En los términos que acuerde el Pleno de cada entidad local para su propio personal funcionario"
+   ],
+   "correct": 2,
+   "exp": "El art. 67.3 dice: «en los términos de las leyes de Función Pública que se dicten en desarrollo de este Estatuto, se podrá solicitar la prolongación de la permanencia en el servicio activo como máximo hasta que se cumpla setenta años de edad», y la Administración resolverá de forma motivada. El TREBEP no remite a convenios ni a acuerdos plenarios, ni lo condiciona a la falta de cotización. Ojo: para el funcionario incluido en el Régimen General de la Seguridad Social, la edad de jubilación forzosa no es la de 65 años del art. 67.3, sino la que fijen las normas de ese régimen para la pensión contributiva sin coeficiente reductor por razón de la edad (art. 67.4).",
+   "fuente": "Art. 67.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 67.3, segundo párrafo, literal: «en los términos de las leyes de Función Pública que se dicten en desarrollo de este Estatuto». Revisada la similitud con las cuatro existentes del 67.3 en el t17 (65 años, 70 años, resolución motivada, exclusión): ninguna pregunta por esta remisión; no repite. La nota sobre el 67.4 es exacta y relevante para Zaragoza (funcionarios locales en el Régimen General). Ninguna norma local cambia la respuesta, que es la literal del TREBEP. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 67.3, párrafo segundo literal: «en los términos de las leyes de Función Pública que se dicten en desarrollo de este Estatuto». Los distractores son falsos. El banco del tema 17 ya pregunta el máximo de 70 años, la resolución motivada y la exclusión de quienes tienen normas estatales específicas, pero no este inciso, así que no hay repetición. La nota sobre el 67.4 es exacta."
+  },
+  {
+   "q": "Según el art. 87.1.f) del TREBEP, será declarado en situación de servicios especiales el funcionario de carrera que:",
+   "options": [
+    "Desempeñe responsabilidades de miembro de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas",
+    "Forme parte como vocal de un órgano de selección convocado por otra Administración Pública distinta de aquella en la que presta servicios",
+    "Desempeñe en su propio Ayuntamiento un puesto de jefe de negociado obtenido por concurso de méritos entre funcionarios de carrera",
+    "Sea concejal de un ayuntamiento distinto del suyo, sin percibir retribución y sin desempeñar el cargo en régimen de dedicación exclusiva"
+   ],
+   "correct": 0,
+   "exp": "El art. 87.1.f) incluye en servicios especiales, además de los cargos electivos locales retribuidos y de dedicación exclusiva y de las responsabilidades de órganos superiores y directivos municipales, el desempeño de «responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas». El concejal sin retribución ni dedicación exclusiva no cumple los requisitos de esa letra; ocupar un puesto por concurso o ser vocal de un tribunal no cambia la situación de servicio activo.",
+   "fuente": "Art. 87.1.f) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 87.1.f) literal, tercer supuesto: «responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas» (pertinente para Zaragoza, municipio de gran población con órgano del art. 137 LBRL). El concejal sin retribución ni dedicación exclusiva no cumple la letra f); vocal de tribunal y jefe de negociado siguen en servicio activo. Las existentes del 87.1.f) preguntan por «retribuidos y de dedicación exclusiva», no por este supuesto. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 87.1.f), tercer supuesto literal: «cuando se desempeñen responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas». El concejal sin retribución ni dedicación exclusiva no entra en la letra f), y el vocal de tribunal o el jefe de negociado por concurso siguen en servicio activo. No repite T18 sobre el 87.1.f (que pregunta el requisito «retribuidos y de dedicación exclusiva»), porque esta pregunta otro supuesto. La correcta es la más larga por poco (145 frente a 129-137), no la delata."
+  },
+  {
+   "q": "Según el art. 89.4 del TREBEP, además del cuidado de cada hijo por naturaleza o por adopción, da derecho a un periodo de excedencia de hasta tres años el cuidado de cada menor sujeto a:",
+   "options": [
+    "Acogimiento residencial en un centro público",
+    "Guarda con fines de adopción o acogimiento permanente",
+    "Tutela ordinaria de un familiar hasta el cuarto grado",
+    "Acogimiento familiar temporal"
+   ],
+   "correct": 1,
+   "exp": "El art. 89.4 reconoce la excedencia de hasta tres años «para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, o de cada menor sujeto a guarda con fines de adopción o acogimiento permanente», contados desde el nacimiento o la resolución judicial o administrativa. El precepto no menciona el acogimiento temporal ni el residencial, ni la tutela.",
+   "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 89.4, primer párrafo, literal (redacción vigente desde el 22/08/2024): «o de cada menor sujeto a guarda con fines de adopción o acogimiento permanente». Acogimiento temporal o residencial y tutela no figuran. Las existentes del 89.4 preguntan por la duración, el cómputo y la reserva, no por esto. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 89.4, párrafo primero literal: «o de cada menor sujeto a guarda con fines de adopción o acogimiento permanente». El precepto no recoge el acogimiento temporal ni el residencial ni la tutela (y el familiar del segundo párrafo es hasta el segundo grado). El banco pregunta la duración de tres años y el cómputo, no los sujetos causantes, así que no la repite."
+  },
+  {
+   "q": "Según el art. 94.2.a) del TREBEP, el principio de legalidad y tipicidad de las faltas y sanciones se garantiza a través de la predeterminación normativa o, en el caso del personal laboral, de:",
+   "options": [
+    "Los acuerdos de la junta de personal",
+    "Las instrucciones del órgano competente en materia de personal",
+    "Los convenios colectivos",
+    "Los contratos individuales de trabajo"
+   ],
+   "correct": 2,
+   "exp": "El art. 94.2.a) recoge el «Principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos». Ni el contrato individual, ni las instrucciones internas, ni la junta de personal (órgano de representación de los funcionarios) pueden tipificar faltas.",
+   "fuente": "Art. 94.2.a) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 94.2.a) literal: «a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos». Distractores falsos. La existente del 94.2.a) pregunta qué principio recoge la letra a), no el instrumento de tipificación para el personal laboral: no repite. | Revisor 2 (RECHAZADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Correcta según el art. 94.2.a), pero repite en el fondo lo que ya pregunta el tema 18 del banco: «Según la letra p) del art. 95.2… en el caso del personal laboral, la tipificación de faltas muy graves adicionales corresponde a… → Los convenios colectivos», «Según el art. 95.3… ¿qué órgano establece las faltas graves…? → … o los convenios colectivos en el caso de personal laboral» y la de la letra p) sobre las faltas tipificadas por ley o por convenio. Además, otra pregunta del tema 18 ya pide el principio de la letra a) del 94.2 (legalidad y tipicidad). Que la tipicidad del personal laboral se fija por convenio colectivo ya está preguntado."
+  }
+ ]
+}

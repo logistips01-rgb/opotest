@@ -54806,3 +54806,436 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 18 · lote 2026-10-22 · 33 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "Según el art. 55.2.d) del TREBEP, la independencia y la discrecionalidad técnica deben garantizarse en la actuación de:",
+    "options": [
+      "Los órganos competentes para efectuar el nombramiento",
+      "Los órganos competentes para aprobar la oferta de empleo público",
+      "Las organizaciones sindicales que colaboren en los procesos selectivos",
+      "Los órganos de selección"
+    ],
+    "correct": 3,
+    "exp": "El art. 55.2.d) recoge el principio de «independencia y discrecionalidad técnica en la actuación de los órganos de selección». No se refiere a los órganos que aprueban la oferta, a los que nombran ni a los sindicatos.",
+    "fuente": "Art. 55.2.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 55.2.e) del TREBEP exige la adecuación entre el contenido de los procesos selectivos y:",
+    "options": [
+      "El nivel de titulación exigido para el acceso",
+      "El número de plazas convocadas",
+      "Las funciones o tareas a desarrollar",
+      "Las retribuciones del puesto de trabajo"
+    ],
+    "correct": 2,
+    "exp": "El art. 55.2.e) establece como principio la «adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar». El número de plazas, las retribuciones y la titulación no son el término de comparación de ese principio (la titulación es un requisito general del art. 56.1.e).",
+    "fuente": "Art. 55.2.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.1.c) del TREBEP, una edad máxima de acceso al empleo público distinta de la general solo podrá establecerse:",
+    "options": [
+      "Por ley",
+      "Por la relación de puestos de trabajo",
+      "Por las bases de cada convocatoria",
+      "Por reglamento del Gobierno o del Consejo de Gobierno autonómico"
+    ],
+    "correct": 0,
+    "exp": "El art. 56.1.c) dice que «Sólo por ley podrá establecerse otra edad máxima, distinta de la edad de jubilación forzosa, para el acceso al empleo público». Ni las bases, ni la relación de puestos ni un reglamento bastan.",
+    "fuente": "Art. 56.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de tener cumplidos dieciséis años, el art. 56.1.c) del TREBEP exige, con carácter general, para participar en los procesos selectivos:",
+    "options": [
+      "No haber cumplido los cuarenta y cinco años, salvo que la convocatoria disponga otra cosa",
+      "No exceder, en su caso, de la edad máxima de jubilación forzosa",
+      "No superar la edad mínima exigida para la jubilación voluntaria",
+      "No haber cumplido los cincuenta y cinco años"
+    ],
+    "correct": 1,
+    "exp": "El art. 56.1.c) exige «tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa». El TREBEP no fija como límite general los 45 ni los 55 años, ni la edad de la jubilación voluntaria; otra edad máxima solo puede fijarla una ley.",
+    "fuente": "Art. 56.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.1.d) del TREBEP, si el aspirante es nacional de otro Estado, para participar en los procesos selectivos se le exige además:",
+    "options": [
+      "Presentar un certificado de buena conducta expedido por la oficina consular española de su Estado de origen dentro del plazo de presentación de solicitudes",
+      "No estar inhabilitado o en situación equivalente ni sometido a sanción disciplinaria o equivalente que le impida, en su Estado, acceder al empleo público",
+      "Acreditar al menos cinco años de residencia legal y continuada en España y carecer de antecedentes penales en cualquiera de los Estados en que haya residido",
+      "Haber prestado servicios en la Administración pública de su Estado de origen durante el tiempo mínimo que fije la convocatoria del proceso selectivo"
+    ],
+    "correct": 1,
+    "exp": "El art. 56.1.d), tras exigir no haber sido separado ni estar inhabilitado, añade: «En el caso de ser nacional de otro Estado, no hallarse inhabilitado o en situación equivalente ni haber sido sometido a sanción disciplinaria o equivalente que impida, en su Estado, en los mismos términos el acceso al empleo público». El precepto no exige residencia mínima, servicios previos en su país ni certificados consulares.",
+    "fuente": "Art. 56.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.2 del TREBEP, para cubrir los puestos de trabajo en las comunidades autónomas que gocen de dos lenguas oficiales, las Administraciones Públicas, en el ámbito de sus competencias:",
+    "options": [
+      "Solo podrán valorar la lengua cooficial como mérito en la fase de concurso",
+      "Deberán exigir en todo caso el conocimiento de ambas lenguas como requisito de participación",
+      "Deberán reservar la mitad de las plazas a quienes acrediten el conocimiento de la lengua cooficial",
+      "Deberán prever la selección de empleados públicos debidamente capacitados"
+    ],
+    "correct": 3,
+    "exp": "El art. 56.2 dispone que las Administraciones Públicas, en el ámbito de sus competencias, «deberán prever la selección de empleados públicos debidamente capacitados para cubrir los puestos de trabajo en las Comunidades Autónomas que gocen de dos lenguas oficiales». No impone que el conocimiento de ambas lenguas sea siempre requisito, ni una reserva de plazas, ni lo limita a un mérito.",
+    "fuente": "Art. 56.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.3 del TREBEP, los requisitos específicos que pueden exigirse además de los generales deben guardar relación objetiva y proporcionada con las funciones y tareas, y habrán de establecerse en todo caso:",
+    "options": [
+      "Por el órgano de selección, una vez iniciado el proceso",
+      "De manera abstracta y general",
+      "De manera individualizada, atendiendo a las circunstancias de cada aspirante",
+      "Por acuerdo con la representación sindical"
+    ],
+    "correct": 1,
+    "exp": "El art. 56.3 permite exigir «otros requisitos específicos que guarden relación objetiva y proporcionada con las funciones asumidas y las tareas a desempeñar» y añade: «En todo caso, habrán de establecerse de manera abstracta y general». Fijarlos de forma individualizada, por acuerdo sindical o por el órgano de selección ya iniciado el proceso contradice esa exigencia o no aparece en el precepto.",
+    "fuente": "Art. 56.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57.1 del TREBEP, los nacionales de los Estados miembros de la Unión Europea pueden acceder como personal funcionario, en igualdad de condiciones que los españoles, a los empleos públicos, con excepción de aquellos que:",
+    "options": [
+      "Exijan una titulación universitaria de grado o superior, salvo que el título obtenido en otro Estado miembro haya sido previamente homologado en España",
+      "Impliquen, directa o indirectamente, participación en el ejercicio del poder público o en la salvaguardia de los intereses del Estado o de las Administraciones Públicas",
+      "Estén reservados por la relación de puestos de trabajo a funcionarios con más de cinco años de antigüedad en el cuerpo o escala correspondiente de la Administración convocante",
+      "Pertenezcan a la Administración local o a los organismos públicos y entidades de derecho público dependientes o vinculados a ella"
+    ],
+    "correct": 1,
+    "exp": "El art. 57.1 exceptúa los empleos públicos «que directa o indirectamente impliquen una participación en el ejercicio del poder público o en las funciones que tienen por objeto la salvaguardia de los intereses del Estado o de las Administraciones Públicas». No excluye por la titulación exigida, por pertenecer a la Administración local ni por la antigüedad.",
+    "fuente": "Art. 57.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57.1 del TREBEP, ¿quién determina las agrupaciones de funcionarios contempladas en el artículo 76 a las que no pueden acceder los nacionales de otros Estados?",
+    "options": [
+      "El Ministerio competente en materia de asuntos exteriores",
+      "Las Cortes Generales, mediante ley orgánica",
+      "Los órganos de gobierno de las Administraciones Públicas",
+      "Los órganos de selección, en cada convocatoria"
+    ],
+    "correct": 2,
+    "exp": "El segundo párrafo del art. 57.1 dice: «los órganos de gobierno de las Administraciones Públicas determinarán las agrupaciones de funcionarios contempladas en el artículo 76 a las que no puedan acceder los nacionales de otros Estados». No lo hacen las Cortes, un ministerio ni los órganos de selección.",
+    "fuente": "Art. 57.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57.2 del TREBEP, el régimen de acceso al empleo público de los nacionales de la Unión Europea se aplica también a los descendientes de los españoles y de esos nacionales, y a los de su cónyuge, siempre que sean:",
+    "options": [
+      "Menores de veintiún años o mayores de dicha edad dependientes",
+      "De cualquier edad, siempre que residan legalmente en España",
+      "Menores de dieciocho años, sin excepción",
+      "Menores de veinticinco años que convivan con ellos"
+    ],
+    "correct": 0,
+    "exp": "El art. 57.2 extiende el régimen del apartado 1 a los descendientes y a los del cónyuge que «sean menores de veintiún años o mayores de dicha edad dependientes». No fija los 18 ni los 25 años, y no basta la residencia legal con independencia de la edad.",
+    "fuente": "Art. 57.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 57.2 del TREBEP, al cónyuge de los españoles y de los nacionales de otros Estados miembros de la Unión Europea se le aplican las previsiones de acceso del apartado 1 de ese artículo:",
+    "options": [
+      "Solo si también es nacional de un Estado miembro de la Unión Europea",
+      "Solo tras dos años de matrimonio y de residencia legal y continuada en España",
+      "Cualquiera que sea su nacionalidad, siempre que no estén separados de derecho",
+      "Cualquiera que sea su nacionalidad, aunque estén separados de derecho"
+    ],
+    "correct": 2,
+    "exp": "El art. 57.2 dice que las previsiones del apartado 1 se aplican, «cualquiera que sea su nacionalidad, al cónyuge de los españoles y de los nacionales de otros Estados miembros de la Unión Europea, siempre que no estén separados de derecho». No exige nacionalidad comunitaria ni un tiempo de matrimonio o residencia, y la separación de derecho excluye la extensión.",
+    "fuente": "Art. 57.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57.4 del TREBEP, los extranjeros con residencia legal en España a los que no se aplican los apartados 1 a 3 de ese artículo pueden acceder a las Administraciones Públicas, en igualdad de condiciones que los españoles, como:",
+    "options": [
+      "Personal laboral",
+      "Personal funcionario interino",
+      "Personal eventual",
+      "Personal funcionario de carrera"
+    ],
+    "correct": 0,
+    "exp": "El art. 57.4 permite a los extranjeros con residencia legal en España acceder a las Administraciones Públicas «como personal laboral, en igualdad de condiciones que los españoles». El acceso como personal funcionario (de carrera o interino) solo se abre a los nacionales de los apartados 1 a 3 o si una ley de las Cortes Generales o de una asamblea legislativa autonómica exime del requisito de la nacionalidad (art. 57.5).",
+    "fuente": "Art. 57.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 58 del TREBEP, para acceder a las Administraciones Públicas, los funcionarios de nacionalidad española de Organismos Internacionales deben:",
+    "options": [
+      "Acreditar cinco años de servicios en el organismo internacional, sin necesidad de otras pruebas",
+      "Obtener un informe favorable del Ministerio competente en materia de asuntos exteriores",
+      "Poseer la titulación requerida y superar los correspondientes procesos selectivos",
+      "Superar un concurso específico de méritos, sin pruebas de capacidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 58 dice que las Administraciones Públicas establecerán los requisitos y condiciones de acceso de estos funcionarios «siempre que posean la titulación requerida y superen los correspondientes procesos selectivos». No prevé un acceso por mera antigüedad, por informe ministerial ni por un concurso de méritos sin pruebas.",
+    "fuente": "Art. 58 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 58 del TREBEP, los funcionarios de nacionalidad española de Organismos Internacionales que participen en un proceso selectivo:",
+    "options": [
+      "Podrán quedar exentos de las pruebas que tengan por objeto acreditar conocimientos ya exigidos para el desempeño de su puesto en el organismo internacional",
+      "Quedarán exentos de todas las pruebas del proceso selectivo con la sola presentación de su nombramiento en el organismo internacional correspondiente",
+      "Deberán realizar siempre todas las pruebas del proceso selectivo, sin exención de ninguna clase, en igualdad de condiciones con el resto de aspirantes",
+      "Solo podrán quedar exentos de acreditar la titulación requerida, cuando la hayan acreditado ya ante el organismo internacional en que prestan servicios"
+    ],
+    "correct": 0,
+    "exp": "El art. 58 establece que estos funcionarios «podrán quedar exentos de la realización de aquellas pruebas que tengan por objeto acreditar conocimientos ya exigidos para el desempeño de su puesto en el organismo internacional correspondiente». La exención es posible y parcial: no abarca todas las pruebas ni la titulación, que el propio artículo exige.",
+    "fuente": "Art. 58 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 59.1 del TREBEP, las vacantes del cupo de reserva se cubren entre personas con discapacidad siempre que superen los procesos selectivos y acrediten:",
+    "options": [
+      "Su discapacidad y un año de residencia en la comunidad autónoma convocante",
+      "Una discapacidad igual o superior al cincuenta por ciento",
+      "Su inscripción como demandantes de empleo durante al menos seis meses",
+      "Su discapacidad y la compatibilidad con el desempeño de las tareas"
+    ],
+    "correct": 3,
+    "exp": "El art. 59.1 exige que las personas con discapacidad «superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas». No pide un grado del 50 %, inscripción como demandantes de empleo ni residencia previa.",
+    "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 59.2 del TREBEP, cada Administración Pública adoptará, en favor de las personas con discapacidad, las medidas precisas para establecer:",
+    "options": [
+      "Las adaptaciones y ajustes razonables de tiempos y medios en el proceso selectivo y, superado este, las adaptaciones en el puesto de trabajo",
+      "Una puntuación adicional en la fase de oposición, proporcional al grado de discapacidad, y preferencia en la elección de destino",
+      "La exención de las pruebas prácticas y físicas, una vez acreditada la discapacidad, y una reducción de jornada durante el primer año",
+      "Pruebas selectivas distintas y de menor dificultad que las del turno general y, superado el proceso, un puesto de trabajo de su elección"
+    ],
+    "correct": 0,
+    "exp": "El art. 59.2 obliga a cada Administración a establecer «las adaptaciones y ajustes razonables de tiempos y medios en el proceso selectivo y, una vez superado dicho proceso, las adaptaciones en el puesto de trabajo». No prevé pruebas distintas, puntos adicionales ni exención de pruebas.",
+    "fuente": "Art. 59.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 60.1 del TREBEP, los órganos de selección serán:",
+    "options": [
+      "Colegiados",
+      "Unipersonales o colegiados, según disponga la convocatoria",
+      "Colegiados solo en los procesos de acceso a los subgrupos A1 y A2",
+      "Unipersonales"
+    ],
+    "correct": 0,
+    "exp": "El art. 60.1 empieza: «Los órganos de selección serán colegiados». El TREBEP no admite órganos unipersonales ni limita la colegialidad a determinados subgrupos.",
+    "fuente": "Art. 60.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 60.2 del TREBEP, no podrán formar parte de los órganos de selección:",
+    "options": [
+      "Los funcionarios interinos y los funcionarios de carrera con menos de cinco años de antigüedad",
+      "El personal de elección o de designación política, los funcionarios interinos y el personal eventual",
+      "El personal eventual, los funcionarios interinos y el personal laboral fijo",
+      "El personal de elección o de designación política y los funcionarios de carrera de otras Administraciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 60.2 excluye exactamente a tres colectivos: «El personal de elección o de designación política, los funcionarios interinos y el personal eventual». No menciona al personal laboral fijo, a los funcionarios de carrera de otras Administraciones ni ninguna antigüedad mínima.",
+    "fuente": "Art. 60.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 60.3 del TREBEP, la pertenencia a los órganos de selección será siempre:",
+    "options": [
+      "A título individual, sin que pueda ostentarse en representación o por cuenta de nadie",
+      "A título individual, salvo la del secretario, que actúa en representación del órgano convocante",
+      "En representación de la Administración convocante",
+      "En representación de las organizaciones sindicales, en al menos la mitad de sus miembros"
+    ],
+    "correct": 0,
+    "exp": "El art. 60.3 dice que la pertenencia a los órganos de selección «será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie». No cabe representar a la Administración, a los sindicatos ni, en el caso del secretario, al órgano convocante.",
+    "fuente": "Art. 60.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.2 del TREBEP, las pruebas de los procesos selectivos podrán consistir, entre otras, en:",
+    "options": [
+      "La valoración exclusiva de la antigüedad en la Administración convocante",
+      "La comprobación del dominio de lenguas extranjeras",
+      "La acreditación de la vecindad en el municipio convocante",
+      "La presentación de informes de recomendación de anteriores empleadores"
+    ],
+    "correct": 1,
+    "exp": "El art. 61.2 dice que las pruebas podrán consistir en la comprobación de los conocimientos y la capacidad analítica (de forma oral o escrita), en ejercicios que demuestren habilidades y destrezas, «en la comprobación del dominio de lenguas extranjeras y, en su caso, en la superación de pruebas físicas». La antigüedad, la vecindad o las recomendaciones no son pruebas previstas.",
+    "fuente": "Art. 61.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.3 del TREBEP, cuando un proceso selectivo incluya, además de las preceptivas pruebas de capacidad, la valoración de méritos de los aspirantes, a dicha valoración:",
+    "options": [
+      "Podrá otorgársele como máximo el cuarenta por ciento de la puntuación total, que se sumará a la de la oposición",
+      "Solo podrá otorgársele una puntuación proporcionada que nunca determinará por sí misma el resultado del proceso",
+      "Solo podrá otorgársele puntuación para deshacer los empates entre aspirantes con igual nota en la oposición",
+      "Deberá otorgársele la misma puntuación máxima que a la fase de oposición, para garantizar el equilibrio entre ambas"
+    ],
+    "correct": 1,
+    "exp": "El art. 61.3 dice que esos procesos «sólo podrán otorgar a dicha valoración una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado del proceso selectivo». El TREBEP no fija un porcentaje máximo, no exige igualar la puntuación de la oposición ni reduce los méritos a criterio de desempate.",
+    "fuente": "Art. 61.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.4 del TREBEP, las Administraciones Públicas podrán crear órganos especializados y permanentes para la organización de procesos selectivos, y podrán encomendar estas funciones a:",
+    "options": [
+      "Las organizaciones sindicales más representativas",
+      "Las universidades públicas, con carácter exclusivo",
+      "Empresas privadas de selección de personal",
+      "Los Institutos o Escuelas de Administración Pública"
+    ],
+    "correct": 3,
+    "exp": "El art. 61.4 permite crear órganos especializados y permanentes para organizar los procesos selectivos, «pudiéndose encomendar estas funciones a los Institutos o Escuelas de Administración Pública». No menciona empresas privadas, sindicatos ni universidades.",
+    "fuente": "Art. 61.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.5 del TREBEP, para asegurar la objetividad y la racionalidad de los procesos selectivos, las pruebas podrán completarse con diversos elementos. ¿Cuál de los siguientes NO figura entre ellos?",
+    "options": [
+      "La superación de cursos o de periodos de prácticas",
+      "La realización de pruebas psicotécnicas o de entrevistas",
+      "La exposición curricular por los candidatos",
+      "Un informe de idoneidad de la junta de personal"
+    ],
+    "correct": 3,
+    "exp": "El art. 61.5 permite completar las pruebas con la superación de cursos o de periodos de prácticas, la exposición curricular, pruebas psicotécnicas o entrevistas, y añade que podrán exigirse reconocimientos médicos. Un informe de idoneidad de la junta de personal no aparece en el precepto.",
+    "fuente": "Art. 61.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.6 del TREBEP, los sistemas selectivos de oposición y de concurso-oposición de los funcionarios de carrera deberán incluir, en todo caso:",
+    "options": [
+      "Una entrevista personal con cada aspirante para valorar su adecuación al puesto de trabajo",
+      "Una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación",
+      "Una fase de concurso en la que se valore la experiencia profesional previa de los aspirantes",
+      "Un curso selectivo de formación, posterior a las pruebas, en un Instituto o Escuela de Administración Pública"
+    ],
+    "correct": 1,
+    "exp": "El art. 61.6 dice que la oposición y el concurso-oposición «deberán incluir, en todo caso, una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación». Los cursos y las entrevistas son complementos posibles (art. 61.5), no obligatorios, y la oposición no tiene fase de concurso.",
+    "fuente": "Art. 61.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.7 del TREBEP, los sistemas selectivos del personal laboral fijo son:",
+    "options": [
+      "La oposición, el concurso-oposición o la contratación directa en casos de urgencia",
+      "La oposición y el concurso-oposición, sin que quepa el concurso de méritos",
+      "El concurso-oposición y la libre designación",
+      "La oposición, el concurso-oposición o el concurso de valoración de méritos"
+    ],
+    "correct": 3,
+    "exp": "El art. 61.7 dispone que los sistemas selectivos del personal laboral fijo «serán los de oposición, concurso-oposición, con las características establecidas en el apartado anterior, o concurso de valoración de méritos». A diferencia de los funcionarios de carrera, el concurso no requiere ley; la libre designación y la contratación directa no son sistemas selectivos.",
+    "fuente": "Art. 61.7 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.7 del TREBEP, las Administraciones Públicas podrán negociar las formas de colaboración que, en el marco de los convenios colectivos, fijen la actuación en el desarrollo de los procesos selectivos de:",
+    "options": [
+      "Las empresas de trabajo temporal",
+      "Los colegios profesionales",
+      "Las asociaciones de aspirantes",
+      "Las organizaciones sindicales"
+    ],
+    "correct": 3,
+    "exp": "El segundo párrafo del art. 61.7 dice que las Administraciones Públicas «podrán negociar las formas de colaboración que en el marco de los convenios colectivos fijen la actuación de las organizaciones sindicales en el desarrollo de los procesos selectivos». No se refiere a empresas de trabajo temporal, colegios profesionales ni asociaciones de aspirantes.",
+    "fuente": "Art. 61.7 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.8 del TREBEP, los órganos de selección no podrán proponer el acceso a la condición de funcionario de un número de aprobados superior al de plazas convocadas:",
+    "options": [
+      "En ningún caso",
+      "Excepto en los procesos de promoción interna",
+      "Excepto cuando lo acuerde el órgano de selección por unanimidad",
+      "Excepto cuando así lo prevea la propia convocatoria"
+    ],
+    "correct": 3,
+    "exp": "El art. 61.8 prohíbe proponer más aprobados que plazas convocadas, «excepto cuando así lo prevea la propia convocatoria». La excepción depende de la convocatoria, no de una decisión unánime del órgano de selección ni del tipo de proceso.",
+    "fuente": "Art. 61.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.8 del TREBEP, si el órgano de selección ha propuesto tantos aspirantes como plazas convocadas y alguno renuncia antes de su nombramiento o toma de posesión, para asegurar la cobertura de las plazas:",
+    "options": [
+      "El órgano de selección podrá nombrar directamente funcionarios de carrera a los aspirantes que sigan a los propuestos, por su orden",
+      "Las plazas no cubiertas se acumularán obligatoriamente a las de la siguiente oferta de empleo público de esa Administración",
+      "El órgano convocante podrá requerir del órgano de selección una relación complementaria de los aspirantes que sigan a los propuestos",
+      "El órgano de selección deberá anular el proceso selectivo y el órgano convocante tendrá que convocar uno nuevo para cubrir las plazas que hayan quedado vacantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 61.8 prevé que, en ese caso, «el órgano convocante podrá requerir del órgano de selección relación complementaria de los aspirantes que sigan a los propuestos, para su posible nombramiento como funcionarios de carrera». Quien la pide es el órgano convocante, y el órgano de selección no nombra: solo propone.",
+    "fuente": "Art. 61.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.1.b) del TREBEP, el nombramiento como funcionario de carrera, efectuado por el órgano o autoridad competente:",
+    "options": [
+      "Será publicado en el Diario Oficial correspondiente",
+      "Deberá ser ratificado por el órgano de selección",
+      "Se notificará personalmente al interesado, sin necesidad de publicación",
+      "Se publicará únicamente en el tablón de anuncios del órgano convocante"
+    ],
+    "correct": 0,
+    "exp": "El art. 62.1.b) exige el «Nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente». No basta la notificación ni el tablón de anuncios, y el órgano de selección no ratifica el nombramiento.",
+    "fuente": "Art. 62.1.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.2 del TREBEP, ¿qué ocurre con quienes, una vez superado el proceso selectivo, no acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria?",
+    "options": [
+      "Serán nombrados funcionarios en prácticas hasta que acrediten los requisitos exigidos",
+      "No podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a ellos",
+      "Serán nombrados funcionarios interinos mientras acreditan los requisitos exigidos",
+      "Dispondrán de un plazo de un año, desde el nombramiento, para acreditarlos"
+    ],
+    "correct": 1,
+    "exp": "El art. 62.2 dispone que «no podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a quienes no acrediten, una vez superado el proceso selectivo, que reúnen los requisitos y condiciones exigidos en la convocatoria». No hay nombramiento provisional ni plazo adicional para acreditarlos.",
+    "fuente": "Art. 62.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.3 del TREBEP, el funcionario podrá solicitar la prolongación de la permanencia en el servicio activo, como máximo hasta los setenta años:",
+    "options": [
+      "En los términos que fije el convenio colectivo o el acuerdo de condiciones de trabajo aplicable",
+      "Solo si no reúne el periodo mínimo de cotización exigido para causar la pensión de jubilación",
+      "En los términos de las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+      "En los términos que acuerde el Pleno de cada entidad local para su propio personal funcionario"
+    ],
+    "correct": 2,
+    "exp": "El art. 67.3 dice: «en los términos de las leyes de Función Pública que se dicten en desarrollo de este Estatuto, se podrá solicitar la prolongación de la permanencia en el servicio activo como máximo hasta que se cumpla setenta años de edad», y la Administración resolverá de forma motivada. El TREBEP no remite a convenios ni a acuerdos plenarios, ni lo condiciona a la falta de cotización. Ojo: para el funcionario incluido en el Régimen General de la Seguridad Social, la edad de jubilación forzosa no es la de 65 años del art. 67.3, sino la que fijen las normas de ese régimen para la pensión contributiva sin coeficiente reductor por razón de la edad (art. 67.4).",
+    "fuente": "Art. 67.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.1.f) del TREBEP, será declarado en situación de servicios especiales el funcionario de carrera que:",
+    "options": [
+      "Desempeñe responsabilidades de miembro de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas",
+      "Forme parte como vocal de un órgano de selección convocado por otra Administración Pública distinta de aquella en la que presta servicios",
+      "Desempeñe en su propio Ayuntamiento un puesto de jefe de negociado obtenido por concurso de méritos entre funcionarios de carrera",
+      "Sea concejal de un ayuntamiento distinto del suyo, sin percibir retribución y sin desempeñar el cargo en régimen de dedicación exclusiva"
+    ],
+    "correct": 0,
+    "exp": "El art. 87.1.f) incluye en servicios especiales, además de los cargos electivos locales retribuidos y de dedicación exclusiva y de las responsabilidades de órganos superiores y directivos municipales, el desempeño de «responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas». El concejal sin retribución ni dedicación exclusiva no cumple los requisitos de esa letra; ocupar un puesto por concurso o ser vocal de un tribunal no cambia la situación de servicio activo.",
+    "fuente": "Art. 87.1.f) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 89.4 del TREBEP, además del cuidado de cada hijo por naturaleza o por adopción, da derecho a un periodo de excedencia de hasta tres años el cuidado de cada menor sujeto a:",
+    "options": [
+      "Acogimiento residencial en un centro público",
+      "Guarda con fines de adopción o acogimiento permanente",
+      "Tutela ordinaria de un familiar hasta el cuarto grado",
+      "Acogimiento familiar temporal"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.4 reconoce la excedencia de hasta tres años «para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, o de cada menor sujeto a guarda con fines de adopción o acogimiento permanente», contados desde el nacimiento o la resolución judicial o administrativa. El precepto no menciona el acogimiento temporal ni el residencial, ni la tutela.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);

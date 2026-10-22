@@ -1,0 +1,119 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 18,
+  "fecha": "2026-10-22",
+  "preguntas": [
+    {
+      "q": "¿Cuál de los siguientes NO figura entre los principios que, según el art. 55.2 del TREBEP, deben garantizar los procedimientos de selección del personal funcionario y laboral?",
+      "options": [
+        "Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar",
+        "Transparencia",
+        "Agilidad, sin perjuicio de la objetividad, en los procesos de selección",
+        "Preferencia de los aspirantes con experiencia previa en la Administración convocante"
+      ],
+      "correct": 3,
+      "exp": "El art. 55.2 enumera, además de igualdad, mérito y capacidad: publicidad de las convocatorias y sus bases; transparencia; imparcialidad y profesionalidad de los miembros de los órganos de selección; independencia y discrecionalidad técnica de esos órganos; adecuación entre el contenido de los procesos y las funciones o tareas; y agilidad, sin perjuicio de la objetividad. Una preferencia por la experiencia previa en la Administración convocante no es uno de esos principios.",
+      "fuente": "Art. 55.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 55.2 TREBEP (texto original, sin modificaciones, consolidado BOE act. 03/10/2026): las letras e) adecuación, b) transparencia y f) agilidad figuran literalmente; la «preferencia por experiencia previa» no aparece. Explicación y cita exactas. No repite la pregunta existente del 55.2 (aquella pide reconocer principios; esta, el intruso). Ojo: una de sus opciones da literalmente la respuesta de la pregunta del 55.2.e) de este mismo lote; es refuerzo, no repetición. | Revisor 2 (DUDOSA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 55.2: adecuación (e), transparencia (b) y agilidad (f) figuran y la preferencia por experiencia previa no, así que la marcada es correcta. Pero hay solapamiento: (1) en el fondo coincide en parte con T18 del banco «Según el art. 55.2… entre otros principios… Publicidad, transparencia y objetividad», que también pide reconocer la lista del 55.2 con transparencia; (2) da como cierta, palabra por palabra, la respuesta de la pregunta 3 del lote (art. 55.2.e); (3) su enunciado («selección del personal funcionario y laboral») contesta la pregunta 4. Arreglo: cambiar el distractor de adecuación por «Imparcialidad y profesionalidad de los miembros de los órganos de selección» y quitar «del personal funcionario y laboral» del enunciado. Además, la correcta es una opción absurda que se descarta sin saber la norma.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 55.2 del TREBEP, las Administraciones Públicas deben seleccionar mediante procedimientos que garanticen los principios de igualdad, mérito y capacidad y los demás que enumera ese apartado:",
+      "options": [
+        "Solo a su personal funcionario, de carrera o interino",
+        "Solo a su personal laboral fijo",
+        "A su personal funcionario y laboral",
+        "Solo a su personal funcionario de carrera"
+      ],
+      "correct": 2,
+      "exp": "El art. 55.2 dispone que las Administraciones Públicas «seleccionarán a su personal funcionario y laboral» mediante procedimientos que garanticen esos principios. No se limita a los funcionarios (de carrera o interinos) ni al personal laboral fijo.",
+      "fuente": "Art. 55.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 55.2: «seleccionarán a su personal funcionario y laboral». Las demás opciones restringen indebidamente el ámbito. No repite la pregunta existente del 55.2 (principios). | Revisor 2 (DUDOSA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Correcta según el art. 55.2 («seleccionarán a su personal funcionario y laboral»). Pero la forma la delata: los tres distractores empiezan por «Solo» y la correcta es la única sin restricción. Además, el enunciado de la pregunta 1 del lote ya dice «procedimientos de selección del personal funcionario y laboral». Es de poco valor y está cerca de T17 (art. 11.3, selección del personal laboral según igualdad, mérito y capacidad). Arreglo: reescribir los distractores sin la marca «Solo», o descartarla.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 59.1 del TREBEP, el cupo de reserva para personas con discapacidad en las ofertas de empleo público se establece de modo que progresivamente se alcance:",
+      "options": [
+        "El cinco por ciento de los efectivos totales en cada Administración Pública",
+        "El dos por ciento de las plazas de cada cuerpo o escala",
+        "El siete por ciento de los efectivos totales en cada Administración Pública",
+        "El dos por ciento de los efectivos totales en cada Administración Pública"
+      ],
+      "correct": 3,
+      "exp": "El art. 59.1 fija un cupo no inferior al 7 % de las vacantes «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». El 7 % se refiere a las vacantes ofertadas, no a los efectivos; el 5 % es la parte mínima de las plazas para discapacidades distintas de la intelectual; y el otro 2 % del precepto es el de las plazas para discapacidad intelectual, no un porcentaje de cada cuerpo.",
+      "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Respuesta correcta (art. 59.1: «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública») y distractores falsos; no repite las existentes del 59.1 (7 %, 2 % intelectual) ni la del examen oficial del t21 (5 %), aunque es muy confundible con ellas. Pero la explicación es inexacta: dice que «el 5 % es la parte mínima de las plazas para discapacidades distintas de la intelectual», y el 59.1 no fija ese mínimo: dice que al menos el 2 % será para discapacidad intelectual «y el resto» para cualquier otro tipo (el 5 % solo resulta si el cupo es exactamente del 7 % y la reserva intelectual exactamente del 2 %). Arreglo: sustituir por «el 5 % es el resto del cupo mínimo del 7 % una vez reservado el 2 % para discapacidad intelectual». Nota para Zaragoza: el art. 27.2 de la Ley aragonesa 5/2019 (BOE-A-2019-7785) eleva el cupo al 8 % en las «ofertas de empleo público» con el mismo objetivo del 2 % de efectivos (referido a la Administración autonómica); no cambia esta respuesta, pero conviene no afirmar en la explicación cifras del 7 %/5 % como si fueran las únicas aplicables en Aragón. | Revisor 2 (DUDOSA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). La respuesta es correcta: art. 59.1, «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». Los distractores son falsos. No repite las del banco (7 % en T18, 2 % de discapacidad intelectual en T18, 5 % en T21 P20). Pero la explicación no es exacta: dice que «el 5 % es la parte mínima de las plazas para discapacidades distintas de la intelectual». El precepto no fija ningún mínimo para ese grupo: reserva «al menos» el 2 % a la discapacidad intelectual y «el resto» a las demás, así que el 5 % es lo que queda del 7 % mínimo cuando la intelectual se queda en el 2 % (un tope, no un mínimo). Arreglo: «el 5 % no aparece como tal en el precepto: es lo que resta del cupo mínimo del 7 % si a la discapacidad intelectual se reserva justo el 2 %».",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 61.6 del TREBEP, el sistema de concurso, consistente únicamente en la valoración de méritos, puede aplicarse a la selección de funcionarios de carrera:",
+      "options": [
+        "Cuando el número de aspirantes no supere el de plazas convocadas",
+        "Solo para el acceso al subgrupo C2 y a las agrupaciones profesionales",
+        "Solo en virtud de ley y con carácter excepcional",
+        "Siempre que lo prevean las bases de la convocatoria"
+      ],
+      "correct": 2,
+      "exp": "El art. 61.6 fija como sistemas de los funcionarios de carrera la oposición y el concurso-oposición, y añade: «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos». No basta la convocatoria, ni depende del número de aspirantes o del subgrupo.",
+      "fuente": "Art. 61.6 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es la literal del art. 61.6, segundo párrafo («Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso»), pero para el personal de un municipio como Zaragoza el banco enseña otra cosa: el art. 91.2 LBRL (ley) prevé para toda la selección local el «sistema de concurso, oposición o concurso-oposición libre», y el art. 2 del RD 896/1991 (preguntado en el examen oficial, tema 21) admite el concurso cuando «por la naturaleza de las plazas» sea más adecuado, eligiéndolo las bases (art. 4.b). El distractor «Siempre que lo prevean las bases de la convocatoria» y la frase de la explicación «No basta la convocatoria» chocan con esa normativa local. Arreglo: cambiar ese distractor por otro inequívoco (p. ej., «Cuando lo acuerde el órgano de selección») y añadir a la explicación que, en la Administración local, el art. 91.2 LBRL y el art. 2 del RD 896/1991 mencionan el concurso, pero el art. 61.6 TREBEP, básico y posterior, lo limita a lo que disponga una ley y con carácter excepcional. | Revisor 2 (CONFIRMADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Art. 61.6, párrafo segundo literal: «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso». Los distractores son falsos. No repite T18 (sobre que la oposición y el concurso-oposición son los sistemas) ni T21 P19 (art. 2 del RD 896/1991, otra norma).",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de varios requisitos. ¿Cuál va inmediatamente después de la superación del proceso selectivo?",
+      "options": [
+        "El acto de acatamiento de la Constitución",
+        "La adscripción a un puesto de la relación de puestos de trabajo",
+        "El nombramiento por el órgano o autoridad competente",
+        "La toma de posesión"
+      ],
+      "correct": 2,
+      "exp": "El art. 62.1 enumera, en este orden y con cumplimiento sucesivo: a) superación del proceso selectivo; b) nombramiento por el órgano o autoridad competente, publicado en el diario oficial; c) acto de acatamiento de la Constitución, del Estatuto de Autonomía y del resto del ordenamiento; d) toma de posesión dentro del plazo. La adscripción a un puesto no es uno de esos requisitos.",
+      "fuente": "Art. 62.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Correcta según el art. 62.1 (b) nombramiento va tras a) superación), pero repite en el fondo la pregunta existente del tema 18 «Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:», que pregunta por la misma secuencia del 62.1 y cuyo enunciado ya da esta respuesta (superar el proceso → ser nombrado). También la del tema 19 sobre el art. 137 TRRL pregunta la misma secuencia. Pregunta lo mismo con otras palabras. | Revisor 2 (RECHAZADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). El contenido es correcto (art. 62.1: a) superación, b) nombramiento, c) acatamiento, d) toma de posesión), pero repite en el fondo T18 del banco «Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además: …», cuyo enunciado ya da la secuencia superación → nombramiento y cuya respuesta cubre el acatamiento y la toma de posesión. Con eso no queda ningún eslabón del 62.1 sin preguntar.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 63 del TREBEP, ¿cuál de las siguientes sanciones disciplinarias, una vez firme, es causa de pérdida de la condición de funcionario de carrera?",
+      "options": [
+        "La separación del servicio",
+        "La suspensión firme de funciones por el máximo de seis años",
+        "El demérito",
+        "El traslado forzoso con cambio de localidad de residencia"
+      ],
+      "correct": 0,
+      "exp": "El art. 63.d) recoge como causa de pérdida «La sanción disciplinaria de separación del servicio que tuviere carácter firme». Las demás son sanciones del art. 96.1 que no extinguen la relación: la suspensión firme lleva a la situación de suspensión de funciones (art. 90), que hace perder el puesto si supera seis meses, pero no la condición de funcionario; el traslado forzoso y el demérito tampoco la hacen perder.",
+      "fuente": "Art. 63.d) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Correcta (art. 63.d) y explicación exacta (arts. 90 y 96.1), pero repite en el fondo preguntas existentes del tema 17: «¿Cuál de las siguientes causas de pérdida de la condición de funcionario exige, según el TREBEP, que el acto administrativo o judicial correspondiente tenga carácter firme? → La sanción disciplinaria de separación del servicio», «Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida..., el art. 63.d) exige que... → tenga carácter firme» y la del 63 «¿Cuál NO es causa de pérdida?», que tiene la separación firme como opción verdadera. Las tres enseñan ya que la separación firme es la sanción que hace perder la condición; cambiar solo los distractores no aporta un dato nuevo. | Revisor 2 (RECHAZADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Correcta según el art. 63.d), pero repite en el fondo tres preguntas del banco del tema 17: «¿Cuál de las siguientes causas de pérdida… exige… carácter firme? → La sanción disciplinaria de separación del servicio», «Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida… → tenga carácter firme» y la de «NO es causa (art. 63)», que tiene como opción cierta la separación firme. Que la separación firme es causa de pérdida ya está preguntado. (La explicación sobre el art. 90.1 es exacta.)",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 94.2.a) del TREBEP, el principio de legalidad y tipicidad de las faltas y sanciones se garantiza a través de la predeterminación normativa o, en el caso del personal laboral, de:",
+      "options": [
+        "Los acuerdos de la junta de personal",
+        "Las instrucciones del órgano competente en materia de personal",
+        "Los convenios colectivos",
+        "Los contratos individuales de trabajo"
+      ],
+      "correct": 2,
+      "exp": "El art. 94.2.a) recoge el «Principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos». Ni el contrato individual, ni las instrucciones internas, ni la junta de personal (órgano de representación de los funcionarios) pueden tipificar faltas.",
+      "fuente": "Art. 94.2.a) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 94.2.a) literal: «a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos». Distractores falsos. La existente del 94.2.a) pregunta qué principio recoge la letra a), no el instrumento de tipificación para el personal laboral: no repite. | Revisor 2 (RECHAZADA): Cotejado con el consolidado del TREBEP descargado del BOE (última actualización publicada el 03/10/2026; la única redacción pendiente de vigor afecta al art. 49.e, ajeno a esta pregunta). Correcta según el art. 94.2.a), pero repite en el fondo lo que ya pregunta el tema 18 del banco: «Según la letra p) del art. 95.2… en el caso del personal laboral, la tipificación de faltas muy graves adicionales corresponde a… → Los convenios colectivos», «Según el art. 95.3… ¿qué órgano establece las faltas graves…? → … o los convenios colectivos en el caso de personal laboral» y la de la letra p) sobre las faltas tipificadas por ley o por convenio. Además, otra pregunta del tema 18 ya pide el principio de la letra a) del 94.2 (legalidad y tipicidad). Que la tipicidad del personal laboral se fija por convenio colectivo ya está preguntado.",
+      "_motivo": "veredicto RECHAZADA"
+    }
+  ]
+}
