@@ -58932,3 +58932,189 @@ window.addQuestions('aux-admin-zaragoza', 5, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 6 · lote 2026-10-23 · 14 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 6, [
+  {
+    "q": "Según la LPAC, ¿en cuál de los siguientes casos la ley usa una fórmula imperativa («deberá») y no potestativa («podrá»)?",
+    "options": [
+      "Adoptar medidas de protección de los datos personales de actos con varios destinatarios",
+      "Consultar al INE el domicilio del Padrón para iniciar un procedimiento de oficio",
+      "Indicar en la convocatoria selectiva el medio de las sucesivas publicaciones",
+      "Establecer formas complementarias de notificación por otros medios de difusión"
+    ],
+    "correct": 2,
+    "exp": "El art. 45.1 b) dispone, para los actos de procedimientos selectivos o de concurrencia competitiva, que «la convocatoria del procedimiento deberá indicar el medio donde se efectuarán las sucesivas publicaciones». Las demás son facultades: las Administraciones «podrán adoptar» medidas de protección de datos cuando el acto tenga varios destinatarios (art. 40.5), «podrán recabar» del INE el domicilio del Padrón para iniciar un procedimiento de oficio (art. 41.4) y «podrán establecer otras formas de notificación complementarias» (art. 44).",
+    "fuente": "Art. 45.1 b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 35.1 LPAC, un acto favorable al interesado dictado en el ejercicio de potestades discrecionales:",
+    "options": [
+      "No precisa motivación, porque no limita derechos ni intereses",
+      "Solo debe motivarse si un tercero interpone recurso contra él",
+      "Solo debe motivarse si lo exige una norma con rango de ley",
+      "Debe motivarse, por haberse dictado en ejercicio de esas potestades"
+    ],
+    "correct": 3,
+    "exp": "El art. 35.1 i) obliga a motivar «Los actos que se dicten en el ejercicio de potestades discrecionales», sin excepción para los actos favorables. Que el acto no limite derechos (letra a) no lo exime, porque basta con que concurra uno de los supuestos del art. 35.1. Tampoco depende de que se recurra ni de que lo exija una ley: la exigencia de una disposición legal o reglamentaria expresa es un supuesto adicional de la misma letra i).",
+    "fuente": "Art. 35.1 i) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.2 LPAC, cuando un órgano ejerce su competencia de forma verbal, quien efectúa y firma la constancia escrita del acto debe expresar en la comunicación:",
+    "options": [
+      "La hora exacta en que se dictó el acto",
+      "La identidad de los testigos presentes",
+      "La autoridad de la que procede el acto",
+      "La conformidad del interesado con el acto"
+    ],
+    "correct": 2,
+    "exp": "El art. 36.2 dispone que la constancia escrita del acto verbal «se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente, expresando en la comunicación del mismo la autoridad de la que procede». No exige hacer constar la hora, testigos ni la conformidad del interesado.",
+    "fuente": "Art. 36.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.1 LPAC, el dispositivo electrónico o la dirección de correo electrónico que identifique el interesado servirán:",
+    "options": [
+      "Para practicar cualquier notificación, con plena validez",
+      "Para practicar las notificaciones de mero trámite",
+      "Para practicar notificaciones si no está obligado a la vía electrónica",
+      "Para enviar avisos, pero no para practicar notificaciones"
+    ],
+    "correct": 3,
+    "exp": "El último párrafo del art. 41.1 dispone: «el interesado podrá identificar un dispositivo electrónico y/o una dirección de correo electrónico que servirán para el envío de los avisos regulados en este artículo, pero no para la práctica de notificaciones». Las notificaciones electrónicas se practican por comparecencia en la sede o en la dirección electrónica habilitada única (art. 43.1).",
+    "fuente": "Art. 41.1, último párrafo, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un interesado obligado a recibir las notificaciones por medios electrónicos comparece de forma espontánea en una oficina de asistencia en materia de registro y solicita que se le notifique en ese momento. Según el art. 41.1 LPAC:",
+    "options": [
+      "La Administración podrá notificarle en ese momento por medios no electrónicos",
+      "No cabe notificarle en papel, porque está obligado a la vía electrónica",
+      "Solo podrá notificársele en papel si renuncia antes a la vía electrónica",
+      "La notificación en papel no surtirá efecto hasta que acceda a la sede"
+    ],
+    "correct": 0,
+    "exp": "El art. 41.1 fija la notificación electrónica como preferente y obligatoria para quien esté obligado a recibirla, pero añade: «No obstante lo anterior, las Administraciones podrán practicar las notificaciones por medios no electrónicos» cuando, entre otros casos, «la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento» (letra a). La excepción no distingue entre obligados y no obligados, y no exige renunciar a la vía electrónica.",
+    "fuente": "Art. 41.1 a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un interesado está obligado a recibir las notificaciones por medios electrónicos y la Administración debe notificarle un acto que contiene un cheque a su favor. Según el art. 41 LPAC, esa notificación:",
+    "options": [
+      "Se practicará electrónicamente, porque el interesado está obligado a ello",
+      "Se practicará electrónicamente, salvo que pida expresamente el papel",
+      "Se practicará por el medio que libremente elija el órgano notificante",
+      "No se practicará por medios electrónicos, por contener un medio de pago"
+    ],
+    "correct": 3,
+    "exp": "El art. 41.2 dispone: «En ningún caso se efectuarán por medios electrónicos las siguientes notificaciones: […] b) Las que contengan medios de pago a favor de los obligados, tales como cheques». La expresión «en ningún caso» se impone aunque el interesado esté obligado a la vía electrónica, y no deja la elección al interesado ni al órgano.",
+    "fuente": "Art. 41.2 b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.3 LPAC, en los procedimientos iniciados a solicitud del interesado, la notificación será electrónica:",
+    "options": [
+      "Siempre, con independencia del medio que el interesado haya señalado en su solicitud",
+      "Únicamente cuando el interesado la haya señalado así en su solicitud",
+      "En los casos en que exista obligación de relacionarse así con la Administración",
+      "Únicamente cuando la resolución notificada ponga fin a la vía administrativa"
+    ],
+    "correct": 2,
+    "exp": "El art. 41.3 dispone que en estos procedimientos «la notificación se practicará por el medio señalado al efecto por aquel. Esta notificación será electrónica en los casos en los que exista obligación de relacionarse de esta forma con la Administración». Será electrónica cuando el interesado la elija y también cuando esté obligado, aunque haya señalado otro medio, así que no es «únicamente» cuando la elige. Tampoco lo es «siempre», y no depende de que la resolución ponga fin a la vía administrativa.",
+    "fuente": "Art. 41.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.4 LPAC, en los procedimientos iniciados de oficio, las Administraciones pueden recabar del Instituto Nacional de Estadística los datos sobre el domicilio del interesado recogidos en el Padrón Municipal:",
+    "options": [
+      "Para cualquier trámite, hasta la resolución del procedimiento",
+      "A los solos efectos de la iniciación del procedimiento",
+      "Solo para notificar la resolución que ponga fin al procedimiento",
+      "Solo si el interesado lo ha autorizado de forma expresa"
+    ],
+    "correct": 1,
+    "exp": "El art. 41.4 dispone: «En los procedimientos iniciados de oficio, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal». La consulta se limita a la iniciación, no a cualquier trámite ni a la notificación de la resolución final, y la ley no la condiciona a la autorización del interesado.",
+    "fuente": "Art. 41.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.6 LPAC, si la Administración no envía el aviso de puesta a disposición de una notificación al dispositivo o correo electrónico comunicado por el interesado:",
+    "options": [
+      "La notificación será nula de pleno derecho",
+      "La notificación será anulable, si el interesado lo alega",
+      "Ello no impide que la notificación sea plenamente válida",
+      "No empieza a contar el plazo de diez días naturales"
+    ],
+    "correct": 2,
+    "exp": "El art. 41.6 obliga a enviar ese aviso, pero añade: «La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida». Su falta no hace la notificación nula ni anulable. El plazo de diez días naturales del art. 43.2 se cuenta desde la puesta a disposición, no desde el aviso.",
+    "fuente": "Art. 41.6 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47.1 a) LPAC, son nulos de pleno derecho los actos que lesionen los derechos y libertades susceptibles de amparo constitucional. ¿Cuál de los siguientes actos incurriría en esa causa?",
+    "options": [
+      "El que lesione el derecho a disfrutar de una vivienda digna",
+      "El que lesione el derecho a disfrutar de un medio ambiente adecuado",
+      "El que lesione el derecho de reunión pacífica y sin armas",
+      "El que lesione el derecho de los españoles al trabajo"
+    ],
+    "correct": 2,
+    "exp": "El art. 47.1 a) declara nulos «Los que lesionen los derechos y libertades susceptibles de amparo constitucional». Según el art. 53.2 de la Constitución, el recurso de amparo protege el art. 14, la Sección primera del Capítulo segundo del Título I (arts. 15 a 29) y la objeción de conciencia del art. 30. El derecho de reunión (art. 21 CE) está en esa Sección primera. El derecho al trabajo (art. 35, Sección segunda), el medio ambiente (art. 45) y la vivienda (art. 47), estos dos últimos principios rectores del Capítulo tercero, no son susceptibles de amparo.",
+    "fuente": "Art. 47.1 a) LPAC (Ley 39/2015) y art. 53.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un acto es dictado por un órgano incompetente por razón de la materia, pero la incompetencia no es manifiesta. Según los arts. 47.1 b) y 48.1 LPAC, el acto es:",
+    "options": [
+      "Anulable, porque la nulidad exige incompetencia manifiesta",
+      "Nulo de pleno derecho, por ser incompetente por la materia",
+      "Válido, porque solo la incompetencia territorial lo invalida",
+      "Inexistente, por faltar un elemento esencial del acto"
+    ],
+    "correct": 0,
+    "exp": "El art. 47.1 b) solo declara nulos «Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio». Si la incompetencia no es manifiesta, el vicio es una infracción del ordenamiento que da lugar a la anulabilidad (art. 48.1: «Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico»). El art. 52.3 prevé convalidar la «incompetencia no determinante de nulidad». La LPAC no recoge la categoría de acto inexistente.",
+    "fuente": "Arts. 47.1 b) y 48.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes vicios determina la anulabilidad del acto, y no su nulidad de pleno derecho, según los arts. 47 y 48 LPAC?",
+    "options": [
+      "Que el acto se dicte como consecuencia de una infracción penal",
+      "Actuar fuera de plazo cuando lo imponga la naturaleza del plazo",
+      "Que el acto tenga un contenido imposible",
+      "Prescindir total y absolutamente del procedimiento legalmente establecido"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.3 dispone: «La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo». Los otros tres son causas de nulidad de pleno derecho: el acto dictado como consecuencia de una infracción penal (art. 47.1 d), el de contenido imposible (art. 47.1 c) y el dictado prescindiendo total y absolutamente del procedimiento (art. 47.1 e).",
+    "fuente": "Art. 48.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes actuaciones configura la LPAC como un deber de la Administración, y no como una simple facultad?",
+    "options": [
+      "Refundir en un único acto los nombramientos de la misma naturaleza",
+      "Poner en la sede electrónica las notificaciones practicadas en papel",
+      "Publicar antes del BOE un anuncio en el boletín de la provincia",
+      "Publicar de forma conjunta los aspectos comunes de varios actos"
+    ],
+    "correct": 1,
+    "exp": "El art. 42.1 dispone: «Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante». Las demás son facultades: la refundición de actos de la misma naturaleza («podrán refundirse», art. 36.3), el anuncio previo en el boletín provincial («previamente y con carácter facultativo», art. 44) y la publicación conjunta de los aspectos coincidentes («podrán publicarse de forma conjunta», art. 45.2).",
+    "fuente": "Art. 42.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes actuaciones configura la LPAC como una facultad de la Administración («podrá»), y no como un deber?",
+    "options": [
+      "Cursar la notificación en diez días desde que se dicta el acto",
+      "Conservar los trámites que no habrían cambiado sin la infracción",
+      "Publicar en el BOE el anuncio cuando la notificación es infructuosa",
+      "Requerir a otra Administración que anule el acto que considera ilegal"
+    ],
+    "correct": 3,
+    "exp": "El art. 39.5 dispone que la Administración que deba dictar un acto basado en otro de una Administración distinta que entienda ilegal «podrá requerir a ésta previamente para que anule o revise el acto». Las demás son deberes: la notificación «deberá ser cursada dentro del plazo de diez días» (art. 40.2), el órgano «dispondrá siempre la conservación» de esos trámites (art. 51) y, si la notificación es infructuosa, la ley ordena que «se hará por medio de un anuncio» en el BOE (art. 44).",
+    "fuente": "Art. 39.5 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  }
+]);
