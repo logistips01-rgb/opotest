@@ -1,311 +1,87 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 20,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-23",
   "preguntas": [
     {
-      "q": "Según el art. 25.c) del TRLUA, entre las obras de urbanización que los promotores de actuaciones de urbanización deben costear y, en su caso, ejecutar, se entienden incluidas:",
+      "q": "La prestación patrimonial que puede establecerse mediante Ordenanza municipal para legitimar usos privados del suelo no urbanizable no incluidos en el art. 34.1.a) del TRLUA se devenga, según el art. 31.6.b):",
       "options": [
-        "Solo las obras interiores de la actuación, nunca las de conexión con los sistemas generales exteriores",
-        "Las de potabilización, suministro y depuración de agua que se requieran y las infraestructuras y servicios de transporte público que el planeamiento exija para garantizar una movilidad sostenible",
-        "Las de edificación de las viviendas protegidas reservadas por el planeamiento",
-        "Las de conservación y mantenimiento de la urbanización durante los diez años siguientes a su recepción"
+        "Anualmente, mientras se mantenga el uso autorizado del suelo",
+        "De una vez, con ocasión del otorgamiento de la licencia urbanística",
+        "Al terminar las obras, sobre el coste real y efectivo de estas",
+        "En dos plazos: al solicitar la licencia y al terminar las obras"
       ],
       "correct": 1,
-      "exp": "El art. 25.c) TRLUA obliga al promotor a costear todas las obras de urbanización de la actuación, incluidas las de conexión con los sistemas generales exteriores y su ampliación o refuerzo, y precisa que entre ellas se entienden incluidas las de potabilización, suministro y depuración de agua y las infraestructuras y servicios de transporte público exigidos por el planeamiento. No se limita a las obras interiores, ni comprende la edificación de viviendas ni una conservación de diez años.",
-      "fuente": "Art. 25.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (195 caracteres frente a 77-102), y se acierta por la forma sin conocer la norma. El contenido es correcto: art. 25.c), párrafo 2.º, literal. Además los distractores son débiles: «Solo… nunca…» o la edificación de viviendas, que no es obra de urbanización. Arreglo: acortar la correcta a «Las de potabilización, suministro y depuración de agua que se requieran» y dar tres distractores de la misma longitud y tipo (otras obras plausibles que el art. 25 no incluye). | Revisor 2 (CONFIRMADA): Art. 25.c), párrafo 2.º, literal. La letra c) incluye expresamente las conexiones exteriores. El art. 25 no incluye la edificación de vivienda protegida ni una conservación de diez años. Sin repetición con las existentes del 25 y del 25.e).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "¿Cuál de las siguientes es una obligación de los promotores de actuaciones de urbanización en suelo urbano no consolidado y urbanizable delimitado, según el art. 25 del TRLUA?",
-      "options": [
-        "Edificar los solares resultantes en el plazo máximo de un año desde la recepción de la urbanización",
-        "Garantizar el realojamiento de los ocupantes legales que se precise desalojar de inmuebles del ámbito que constituyan su residencia habitual, así como el retorno cuando tengan derecho a él",
-        "Ceder gratuitamente al municipio, en todo caso, el veinte por ciento del aprovechamiento medio",
-        "Constituir por tiempo indefinido una entidad urbanística de conservación"
-      ],
-      "correct": 1,
-      "exp": "El art. 25.f) TRLUA impone al promotor garantizar el realojamiento de los ocupantes legales desalojados que tengan allí su residencia habitual y el retorno cuando proceda. El art. 25 no fija un plazo de un año para edificar ni obliga a constituir una entidad de conservación. La cesión de aprovechamiento es la del suelo donde se ubique el aprovechamiento subjetivo de la Administración (art. 25.e), que con carácter general es el 10 % y solo excepcionalmente puede llegar al 20 % (arts. 127 y 128); no es un 20 % en todo caso.",
-      "fuente": "Art. 25.f) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (188 caracteres frente a 72-99), y se acierta por la forma sin conocer la norma. El contenido es correcto: art. 25.f) vigente. Las cifras de la explicación (10 % general y hasta 20 %) cuadran con los arts. 127.3, 127.5.c) y 128.1-3. Arreglo: acortar la correcta a «Garantizar el realojamiento de los ocupantes legales desalojados que tengan allí su residencia habitual» (unos 100 caracteres), o alargar los distractores con detalles parecidos. | Revisor 2 (CONFIRMADA): Art. 25.f) literal. El art. 25 no recoge un plazo de un año para edificar, ni una cesión del 20 % «en todo caso» (la regla general es el 10 %: arts. 127.3, 128.1 y 128.3), ni la constitución de una entidad de conservación. Explicación correcta en lo sustancial.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "El documento o memoria mediante el que se formula la consulta sobre la viabilidad de la transformación de suelo urbanizable no delimitado (art. 26 TRLUA) debe incluir, como contenido mínimo:",
-      "options": [
-        "El proyecto de urbanización del sector, con su presupuesto y pliego de condiciones",
-        "El proyecto de reparcelación del ámbito, con la cuenta de liquidación provisional",
-        "La declaración ambiental estratégica emitida por el órgano ambiental",
-        "Una propuesta de plazos indicativos y forma de gestión de la actividad de ejecución, así como la acreditación de la cualificación técnica y económica de los consultantes"
-      ],
-      "correct": 3,
-      "exp": "El art. 26.2 TRLUA fija el contenido mínimo de la consulta: a) propuesta de ámbito con anticipo de la gestión en una o varias unidades de ejecución; b) propuesta de plazos indicativos y forma de gestión, y acreditación de la cualificación técnica y económica de los consultantes; c) avance de la ordenación propuesta. La consulta es previa a cualquier instrumento, por lo que no exige proyectos de urbanización o de reparcelación ni la declaración ambiental estratégica.",
-      "fuente": "Art. 26.2.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (169 caracteres frente a 68-82), y se acierta por la forma sin conocer la norma. El contenido es correcto: art. 26.2.b) vigente, y los proyectos de urbanización y reparcelación y la DAE no forman parte del contenido mínimo. Arreglo: acortar a «Una propuesta de plazos indicativos y forma de gestión de la actividad de ejecución» o redactar los distractores con la misma extensión. | Revisor 2 (CONFIRMADA): Art. 26.2.b) literal. El contenido mínimo son solo las letras a) a c). Ni el proyecto de urbanización, ni el de reparcelación, ni la DAE forman parte de él. No coincide con las existentes de los apartados 26.1, 26.3, 26.4, 26.5 y 26.6.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Si el municipio reclama informe al Consejo Provincial de Urbanismo antes de responder a la consulta sobre viabilidad del art. 26 del TRLUA, el plazo de tres meses para evacuar la consulta:",
-      "options": [
-        "Se amplía automáticamente a seis meses",
-        "Queda suspendido durante el plazo previsto para la emisión de ese informe",
-        "Sigue corriendo, y su transcurso sin respuesta determina la inviabilidad de la propuesta",
-        "Vuelve a computarse íntegramente desde la recepción del informe"
-      ],
-      "correct": 1,
-      "exp": "El art. 26.4 TRLUA establece que el plazo de tres meses para evacuar la consulta queda suspendido durante el plazo del apartado 6 (tres meses para el informe del Consejo Provincial de Urbanismo) si el municipio reclama ese informe. No se amplía a seis meses ni se reinicia. Además, el silencio en la consulta tiene sentido positivo: se considera viable la delimitación y transformación.",
-      "fuente": "Art. 26.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 26.4, último inciso, vigente: el plazo de tres meses se suspende durante el plazo del apartado 6 (tres meses para el informe del CPU). Los distractores son falsos (el silencio es positivo). No repite la pregunta existente sobre el 26.4, que trata del plazo y del sentido del silencio, no de la suspensión. | Revisor 2 (DUDOSA): La respuesta marcada es correcta: según el art. 26.4, el plazo de tres meses «quedará suspendido durante el plazo previsto en el apartado 6», que es de tres meses para el informe del CPU. El problema es el distractor «Se amplía automáticamente a seis meses»: como la suspensión dura el plazo previsto (3 meses), el efecto práctico es que la consulta puede tardar en total 3+3 = 6 meses, y un opositor podría defender esa opción. Arreglo: sustituirlo por un distractor claramente falso, p. ej. «Se reduce a la mitad» o «Queda interrumpido y el municipio debe resolver en un mes desde la recepción del informe». Lo demás es correcto (silencio positivo, art. 26.4).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "La respuesta municipal a la consulta sobre viabilidad de la delimitación y transformación de suelo urbanizable no delimitado vincula a la Administración de la Comunidad Autónoma:",
-      "options": [
-        "Solo cuando, antes de responder, el municipio hubiese recabado y obtenido informe favorable del Consejo Provincial de Urbanismo competente",
-        "En todo caso, desde su publicación en el «Boletín Oficial de Aragón»",
-        "Nunca, porque la respuesta solo vincula al municipio",
-        "Solo cuando la consulta se haya entendido resuelta por silencio"
-      ],
-      "correct": 0,
-      "exp": "Según el art. 26.6 TRLUA, la Administración autonómica solo queda vinculada si el municipio, antes de responder, recabó y obtuvo informe favorable del Consejo Provincial de Urbanismo. Ese informe produce efecto durante cuatro años, salvo revisión anterior del plan general. La publicación en el BOA vincula al municipio (art. 26.5), no a la Comunidad Autónoma. Por eso es falso que no la vincule nunca y también que la vincule el silencio.",
-      "fuente": "Art. 26.6 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (138 caracteres frente a 52-68), y se acierta por la forma sin conocer la norma. El contenido es correcto: art. 26.6, primer inciso, vigente. No repite la pregunta existente sobre el 26.6, que trata de la duración de cuatro años del informe. Arreglo: acortar a «Solo si el municipio obtuvo antes informe favorable del Consejo Provincial de Urbanismo» o equilibrar los distractores. | Revisor 2 (CONFIRMADA): Art. 26.6 literal y distractores falsos. Precisión menor en la explicación: según el art. 26.5, al municipio lo vincula su respuesta a la consulta, que además debe publicarse en el BOA. No lo vincula la publicación como tal. Convendría redactarlo así, aunque el error no afecta a la pregunta. No repite la existente del 26.6 (vigencia de cuatro años).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Conforme al art. 29.3 del TRLUA, la autorización de usos y obras de carácter provisional que no dificulten la ejecución del planeamiento:",
-      "options": [
-        "Solo puede otorgarse en suelo no urbanizable genérico",
-        "Da derecho a indemnización por el valor de las obras cuando se ordene su demolición",
-        "Puede otorgarse en cualquier clase de suelo, de forma excepcional y motivada, y esos usos y obras habrán de cesar y ser demolidos sin indemnización alguna cuando lo acuerde el órgano municipal competente",
-        "Requiere en todo caso la autorización especial del Consejo Provincial de Urbanismo"
-      ],
-      "correct": 2,
-      "exp": "El art. 29.3 TRLUA permite autorizar en cualquier clase de suelo, de forma excepcional y motivada, usos y obras provisionales que no dificulten la ejecución del planeamiento. Habrán de cesar y demolerse sin indemnización alguna cuando lo acuerde el órgano municipal competente. Esas condiciones, aceptadas por el propietario, se hacen constar en el Registro de la Propiedad. No se limita al suelo no urbanizable genérico ni exige autorización del Consejo Provincial de Urbanismo.",
-      "fuente": "Art. 29.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (203 caracteres frente a 53-83), y se acierta por la forma sin conocer la norma. Es la duda que señaló el redactor y se confirma: la pregunta es trivial. El contenido es correcto (art. 29.3 vigente). Arreglo: preguntar un solo elemento, por ejemplo «cuando lo acuerde el órgano municipal competente, esos usos y obras habrán de cesar y demolerse: a) sin indemnización alguna; b) con indemnización del valor de las obras; c) con indemnización solo si llevan más de cinco años; d) previa autorización del CPU», todas de longitud parecida. | Revisor 2 (CONFIRMADA): Art. 29.3 literal: en cualquier clase de suelo, sin indemnización, por acuerdo del órgano municipal competente. La ley no limita estos usos al suelo no urbanizable genérico ni exige al CPU. Distractores falsos.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Las construcciones e instalaciones en suelo no urbanizable genérico que deban someterse a evaluación de impacto ambiental o a autorización ambiental integrada:",
-      "options": [
-        "Deben obtener primero la autorización especial municipal y después someterse a la evaluación ambiental",
-        "Están prohibidas en todo caso en el suelo no urbanizable genérico",
-        "No se someten al procedimiento de autorización especial; el órgano ambiental consulta al Consejo Provincial de Urbanismo, cuyo informe es vinculante en los aspectos que señala la Ley",
-        "Se autorizan por el Ayuntamiento Pleno sin necesidad de informe del Consejo Provincial de Urbanismo"
-      ],
-      "correct": 2,
-      "exp": "El art. 35.2 TRLUA excluye estas construcciones del procedimiento de autorización especial. En su lugar, el órgano ambiental consulta al Consejo Provincial de Urbanismo, y su informe es vinculante en cuanto a las afecciones supralocales, la justificación del emplazamiento en el medio rural, la posibilidad de formación de núcleo de población, la rehabilitación y los parámetros urbanísticos. Si discrepan, el Consejero competente puede requerir que resuelva el Gobierno de Aragón.",
-      "fuente": "Art. 35.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (182 caracteres frente a 65-102), y se acierta por la forma sin conocer la norma. Es la duda que señaló el redactor y se confirma. El contenido es correcto (art. 35.2 vigente, informe del CPU vinculante en los aspectos tasados). Arreglo: acortar la correcta a «No se someten al procedimiento de autorización especial» con tres distractores de su misma extensión, o preguntar por separado el carácter del informe del CPU. | Revisor 2 (CONFIRMADA): Art. 35.2 comprobado: estas construcciones no pasan por la autorización especial. El órgano ambiental consulta al CPU, cuyo informe es vinculante en los aspectos tasados, y si hay discrepancia puede resolver el Gobierno de Aragón. Distractores falsos.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "En suelo no urbanizable, los usos que no estén expresamente permitidos ni prohibidos por el planeamiento se considerarán, según el art. 46.3 del TRLUA:",
-      "options": [
-        "Autorizables con las condiciones establecidas por la Ley y por la legislación sectorial, en especial la relativa a protección ambiental",
-        "Prohibidos",
-        "Permitidos sin necesidad de título habilitante",
-        "Sujetos a la previa modificación del plan general"
-      ],
-      "correct": 0,
-      "exp": "El art. 46.3 TRLUA establece que, en suelo no urbanizable, los usos no expresamente permitidos ni prohibidos se consideran autorizables, con las condiciones de la Ley y de la legislación sectorial, en especial la ambiental. No se presumen prohibidos, no quedan libres de título habilitante y no exigen modificar el plan.",
-      "fuente": "Art. 46.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (135 caracteres frente a 10-49), y se acierta por la forma sin conocer la norma. La respuesta clave, «Autorizables», es una palabra; la cola «con las condiciones… protección ambiental» la delata. El contenido es correcto (art. 46.3, no afectado por la Ley 2/2023, que solo añadió el apartado 5). Arreglo: dejar la correcta en «Autorizables» o «Autorizables, con las condiciones de la Ley y de la legislación sectorial» y los distractores en «Prohibidos», «Permitidos sin título habilitante» y «Sujetos a previa modificación del plan general». | Revisor 2 (CONFIRMADA): Art. 46.3, en el artículo que regula la ordenación pormenorizada en suelo no urbanizable, literal: «autorizables». Distractores falsos.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Si concurren varios proyectos de plan parcial de iniciativa no municipal, ¿cuál tiene preferencia en la tramitación según el art. 58.1 del TRLUA?",
-      "options": [
-        "El que proponga una mayor cesión de aprovechamiento al municipio",
-        "El suscrito por propietarios que representen más de la mitad de la superficie de los terrenos del sector o, en su defecto, el que primero se hubiera formulado ante el municipio en expediente completo",
-        "El que obtenga en primer lugar el informe favorable del Consejo Provincial de Urbanismo",
-        "El presentado por el propietario titular de la mayor finca individual del sector"
-      ],
-      "correct": 1,
-      "exp": "El art. 58.1 TRLUA da preferencia al proyecto suscrito por propietarios que representen más de la mitad de la superficie del sector y, en su defecto, al primero formulado en expediente completo. La mayor cesión, el orden de los informes del Consejo Provincial de Urbanismo o el tamaño de la finca de un propietario no son criterios legales.",
-      "fuente": "Art. 58.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (199 caracteres frente a 64-87), y se acierta por la forma sin conocer la norma. El contenido es correcto (art. 58.1 vigente). Arreglo: acortar a «El suscrito por propietarios que representen más de la mitad de la superficie del sector» y dar distractores del mismo tipo y longitud (dos tercios, la cuarta parte, el primero que obtenga el informe del CPU). | Revisor 2 (CONFIRMADA): Art. 58.1 literal. Ninguno de los otros criterios figura en la ley.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Cuando el Gobierno de Aragón, por grave incumplimiento municipal de competencias urbanísticas, suspende la eficacia de instrumentos de planeamiento y atribuye al Departamento competente la potestad de planeamiento municipal, ¿qué límites temporales fija el art. 83.2 del TRLUA?",
-      "options": [
-        "La suspensión no podrá superar dos años ni la atribución cuatro",
-        "Ambas medidas tienen una duración máxima de un año",
-        "La suspensión no podrá superar seis meses ni la atribución tres años",
-        "La suspensión no podrá ser superior a un año ni la atribución a cinco, contados desde la adopción del acuerdo"
-      ],
-      "correct": 3,
-      "exp": "El art. 83.2 TRLUA permite al Gobierno de Aragón suspender el planeamiento y, excepcionalmente, atribuir al Departamento la potestad de planeamiento. Antes debe dar audiencia al municipio y obtener los informes del Consejo Provincial de Urbanismo y del Consejo de Ordenación del Territorio de Aragón, el dictamen del Consejo Consultivo y el acuerdo de las Cortes de Aragón. La suspensión no puede superar un año y la atribución, cinco.",
-      "fuente": "Art. 83.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (109 caracteres frente a 50-68), y se acierta por la forma sin conocer la norma. La cola «contados desde la adopción del acuerdo» solo aparece en la correcta y la delata. Las cifras de un año y cinco años son correctas (art. 83.2 vigente). Arreglo: quitar esa cola o añadir una equivalente a los distractores. | Revisor 2 (CONFIRMADA): Art. 83.2, párrafo 2.º, literal: suspensión de un año como máximo y atribución de cinco. Los trámites previos que enumera la explicación (audiencia, CPU, COTA, Consejo Consultivo y Cortes) son exactos.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 123.4 del TRLUA, las entidades urbanísticas de conservación:",
-      "options": [
-        "Son entidades de Derecho privado no sujetas a tutela municipal",
-        "Tienen naturaleza administrativa, están sujetas a la tutela del municipio y pueden solicitarle la vía de apremio para exigir las cuotas de conservación",
-        "Están sujetas a la tutela del Consejo Provincial de Urbanismo y no pueden acudir a la vía de apremio",
-        "Tienen naturaleza administrativa, pero solo pueden reclamar las cuotas ante la jurisdicción civil"
-      ],
-      "correct": 1,
-      "exp": "El art. 123.4 TRLUA atribuye a las entidades urbanísticas de conservación naturaleza administrativa, las somete a la tutela del municipio y les permite pedirle la vía de apremio para cobrar las cuotas de conservación. Por eso son falsas las opciones que las califican de privadas, las someten a la tutela del Consejo Provincial de Urbanismo o les niegan el apremio.",
-      "fuente": "Art. 123.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (151 caracteres frente a 62-100), y se acierta por la forma sin conocer la norma. Es la duda que señaló el redactor: es la única opción con los tres elementos completos del precepto. El contenido es correcto (art. 123.4 vigente). Arreglo: que cada distractor tenga la misma estructura de tres elementos y cambie solo uno, por ejemplo «Tienen naturaleza privada, están sujetas a la tutela del municipio y pueden solicitarle la vía de apremio…» o «Tienen naturaleza administrativa, están sujetas a la tutela del CPU y pueden solicitarle la vía de apremio…». | Revisor 2 (CONFIRMADA): Art. 123.4 literal. Distractores falsos (las entidades no son privadas, la tutela no es del CPU y sí pueden acudir a la vía de apremio).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "En suelo urbanizable, respecto del porcentaje de aprovechamiento correspondiente al municipio, el art. 128.3 del TRLUA dispone que:",
-      "options": [
-        "El plan general puede incrementarlo excepcionalmente, de forma específicamente motivada y con estudio económico-financiero, hasta un máximo del veinte por ciento del aprovechamiento medio de referencia, y no puede reducirse en ningún caso",
-        "El plan general puede reducirlo hasta el cinco por ciento en los sectores cuyas parcelas tengan un valor inferior al medio",
-        "Es siempre del diez por ciento, sin posibilidad de modificación",
-        "El Ayuntamiento Pleno puede incrementarlo hasta el treinta por ciento"
-      ],
-      "correct": 0,
-      "exp": "El art. 128.3 TRLUA permite al plan general elevar excepcionalmente el porcentaje municipal hasta el 20 % del aprovechamiento medio de referencia. Solo cabe en sectores donde el valor de las parcelas resultantes sea sensiblemente superior al medio, con motivación específica y estudio económico-financiero. El mismo precepto prohíbe reducirlo en ningún caso. La reducción solo está prevista para el suelo urbano no consolidado (art. 127.5.b).",
-      "fuente": "Art. 128.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (238 caracteres frente a 63-122), y se acierta por la forma sin conocer la norma. Es la duda que señaló el redactor y se confirma: es trivial. El contenido es correcto (art. 128.3 vigente: incremento excepcional hasta el 20 % y prohibición de reducir). Arreglo: preguntar un solo dato, por ejemplo «el plan general puede incrementar excepcionalmente el porcentaje municipal hasta un máximo de: 20 % / 15 % / 25 % / 30 % del aprovechamiento medio de referencia», o «¿puede reducirse? No, en ningún caso / Sí, hasta el 5 % / …» con opciones de igual longitud. | Revisor 2 (CONFIRMADA): Art. 128.3 literal: puede incrementarse hasta el 20 % y no puede reducirse en ningún caso. La reducción solo existe en el suelo urbano no consolidado (127.5.b). La opción correcta omite el requisito de que el valor de las parcelas sea «sensiblemente superior», pero lo que dice no es falso.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "En las actuaciones aisladas, gestionadas mediante proyectos de obras ordinarias, el art. 131.2.a) del TRLUA exige en todo caso que sus características generales sean aprobadas:",
-      "options": [
-        "Por el Alcalde, previa información pública por plazo de un mes",
-        "Por el Ayuntamiento Pleno, previa información pública por plazo de veinte días",
-        "Por el Consejo Provincial de Urbanismo, previa audiencia de los propietarios durante diez días",
-        "Por el Alcalde, sin necesidad de información pública"
-      ],
-      "correct": 1,
-      "exp": "El art. 131.2.a) TRLUA dispone que los proyectos de obras ordinarias se rigen por la legislación de régimen local. En todo caso, el Ayuntamiento Pleno debe aprobar sus características generales, previa información pública de veinte días.",
-      "fuente": "Art. 131.2.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "exp": "El art. 31.6.b) TRLUA fija la cuantía máxima de esta prestación (el cinco por ciento del importe total de la inversión en obras, construcciones e instalaciones) y dispone que «se devengará de una vez con ocasión del otorgamiento de la licencia urbanística». No es una prestación periódica ni se liquida al terminar las obras o en dos plazos.",
+      "fuente": "Art. 31.6.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Es literal del art. 131.2.a), pero induce a error en Zaragoza. El art. 8.7 TRLUA dispone que las atribuciones a órganos municipales no impiden que, conforme a la legislación de régimen local, la competencia corresponda a la Junta de Gobierno Local u otros órganos. El art. 14.1.d) de la Ley 10/2017 de capitalidad de Zaragoza (BOE-A-2018-1683) atribuye al Gobierno de Zaragoza la aprobación de los proyectos de urbanización y de obra ordinaria. Enseñar «el Pleno, en todo caso» a un opositor de Zaragoza es arriesgado y la explicación no lo advierte. Ante la duda, rechazo. Alternativa como pregunta nueva: preguntar solo el plazo de información pública (veinte días) y explicar en la exp el art. 8.7 TRLUA y el art. 14.1.d) de la Ley 10/2017. | Revisor 2 (CONFIRMADA): Art. 131.2.a) literal: aprobación por el Ayuntamiento Pleno con información pública de veinte días. Distractores falsos.",
+      "notaRevision": "Revisor 1 (RECHAZADA): El dato es correcto (art. 31.6.b: «se devengará de una vez con ocasión del otorgamiento de la licencia urbanística»), pero repite casi literalmente el enunciado de la pregunta existente del tema 20 sobre la cuantía máxima del 5 % del mismo art. 31.6.b), cuya explicación ya enseña el devengo. Dos enunciados casi idénticos con distinta respuesta inducen a confusión y el devengo de esta prestación es un detalle menor; se descarta por repetición (regla 6). | Revisor 2 (CONFIRMADA): Art. 31.6.b) verificado literal: «se devengará de una vez con ocasión del otorgamiento de la licencia urbanística». Distractores falsos. El banco ya pregunta la cuantía máxima (5 %) de esta misma prestación; esta pregunta pide el devengo, dato distinto: no es repetición.",
       "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el art. 137.2 del TRLUA, los proyectos de urbanización:",
+      "q": "El anuncio de información pública y licitación de un programa de urbanización debe incluir una garantía provisional equivalente, según el art. 175.3.h) del TRLUA, al:",
       "options": [
-        "Pueden modificar las previsiones del planeamiento que desarrollan si lo aprueba el Ayuntamiento Pleno",
-        "Pueden establecer la ordenación pormenorizada en defecto de plan parcial",
-        "En ningún caso podrán contener determinaciones sobre ordenación ni régimen del suelo y de la edificación, aunque pueden efectuar las adaptaciones exigidas por la ejecución material de las obras",
-        "Solo pueden comprender las obras de una única unidad de ejecución"
-      ],
-      "correct": 2,
-      "exp": "El art. 137.2 TRLUA prohíbe que los proyectos de urbanización contengan determinaciones sobre ordenación o régimen del suelo y de la edificación o modifiquen el planeamiento. Solo permite las adaptaciones que exija la ejecución material de las obras. Pueden abarcar una o varias unidades de ejecución, o la ejecución directa de sistemas generales.",
-      "fuente": "Art. 137.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (193 caracteres frente a 65-101), y se acierta por la forma sin conocer la norma. Es la duda que señaló el redactor y se confirma. El contenido es correcto (art. 137.2 vigente). Arreglo: acortar a «No pueden contener determinaciones sobre ordenación ni régimen del suelo y de la edificación» (unos 90 caracteres) y mantener distractores de longitud parecida. | Revisor 2 (CONFIRMADA): Art. 137.2 literal. Los proyectos de urbanización tampoco pueden modificar el planeamiento ni establecer ordenación, y pueden abarcar una o varias unidades. Distractores falsos.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Si al entrar en vigor un nuevo plan una licencia de edificación ya obtenida resulta incompatible con las nuevas determinaciones y la edificación ya se ha iniciado, el municipio:",
-      "options": [
-        "Deberá revocar la licencia en todo caso y sin indemnización",
-        "Deberá permitir la terminación de las obras sin que el edificio quede fuera de ordenación",
-        "Deberá suspender la licencia durante dos años hasta la revisión del plan",
-        "Podrá revocar la licencia o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación"
+        "Cinco por ciento del presupuesto estimado de las cargas de urbanización",
+        "Diez por ciento del presupuesto estimado de las cargas de urbanización",
+        "Seis por ciento del presupuesto estimado de las cargas de urbanización",
+        "Dos por ciento del presupuesto estimado de las cargas de urbanización"
       ],
       "correct": 3,
-      "exp": "El art. 233.1.a) TRLUA, para edificaciones ya iniciadas, deja al municipio elegir entre revocar la licencia o permitir terminar las obras, con el edificio fuera de ordenación. Si la edificación no se ha iniciado, procede la revocación (art. 233.1.b). En cualquier caso hay audiencia del interesado y, si se revoca, la resolución fija la indemnización que corresponda según la legislación estatal (art. 233.2).",
-      "fuente": "Art. 233.1.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "exp": "El art. 175.3.h) TRLUA exige que el anuncio incluya una «Garantía provisional equivalente al dos por ciento del presupuesto estimado de las cargas de urbanización». No hay que confundirla con la garantía que debe prestar y mantener el urbanizador, no inferior al diez por ciento de las cargas de urbanización (art. 169.1), ni con el seis por ciento de los planes parciales de iniciativa no municipal (art. 59.g).",
+      "fuente": "Art. 175.3.h) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): El contenido es correcto (art. 233.1.a), pero repite la pregunta existente sobre el 233.1.b). El enunciado es casi idéntico (licencia obtenida, nuevo plan incompatible; solo cambia «ya iniciada» por «no iniciada») y la respuesta nueva es literalmente el distractor de la existente («Podrá revocar la licencia o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación»), cuya explicación ya enseña la regla de la letra a). Es preguntar lo mismo con otras palabras (regla 6). Resuelve la duda del redactor: sí, la repite. | Revisor 2 (CONFIRMADA): Art. 233.1.a) literal. Es complementaria de la existente del 233.1.b) (obra no iniciada), así que no la repite. Distractores falsos.",
+      "notaRevision": "Revisor 1 (RECHAZADA): El dato es exacto (art. 175.3.h: garantía provisional del 2 % del presupuesto estimado de las cargas de urbanización) y los distractores son falsos, pero el contenido mínimo del anuncio de licitación de un programa de urbanización es un detalle del procedimiento de adjudicación, no un «aspecto básico» de la gestión urbanística (epígrafe del tema 20). Además, se confunde fácilmente con la existente del 10 % del art. 169.1 y con la del 6 % de los arts. 59.g y 154.3. | Revisor 2 (CONFIRMADA): Art. 175.3.h) verificado: garantía provisional del 2 % del presupuesto estimado de las cargas de urbanización. Los distractores del 10 % (art. 169.1, garantía del urbanizador), del 6 % (arts. 59.g y 154.3.d) y del 5 % son falsos para este supuesto. Explicación exacta.",
       "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "En los planes de desarrollo que regularizan parcelaciones ilegales, en cuanto al mantenimiento de la urbanización, el art. 251.m) del TRLUA permite al municipio:",
+      "q": "En la tramitación en competencia de un programa de urbanización, la información pública se convoca, según el art. 177.1 del TRLUA, por un plazo mínimo de:",
       "options": [
-        "Exigir una entidad de conservación solo por un plazo máximo de cinco años",
-        "Exigir una entidad de conservación solo si no recibe cesiones de suelo de sistemas",
-        "Exigir la constitución por tiempo indefinido de una entidad de conservación en la que se integren todos los propietarios, aunque reciba cesiones de suelo de sistemas",
-        "Encomendar la conservación al Consejo Provincial de Urbanismo"
+        "Un mes desde la última publicación del edicto",
+        "Veinte días hábiles desde la publicación en el BOA",
+        "Dos meses desde la última publicación del edicto",
+        "Tres meses desde la notificación a los propietarios"
       ],
       "correct": 2,
-      "exp": "El art. 251.m) TRLUA exige un documento de garantías y compromisos para la ejecución y conservación de la urbanización. Permite al municipio exigir, aunque reciba cesiones de suelo de sistemas, una entidad de conservación por tiempo indefinido que integre a todos los propietarios. No hay plazo máximo de cinco años ni intervención del Consejo Provincial de Urbanismo.",
-      "fuente": "Art. 251.m) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "exp": "El art. 177.1 TRLUA dispone que «La información pública se convocará por plazo mínimo de dos meses contados desde la última publicación del edicto» en la sección provincial del BOA y en un periódico de los dos de mayor circulación de la provincia. No es preceptiva la notificación formal e individual a los propietarios, aunque antes del edicto debe remitirse un aviso a quienes consten en el catastro como titulares. El plazo de un mes es el de presentación de proposiciones jurídico-económicas en plica cerrada tras la información pública (art. 177.3).",
+      "fuente": "Art. 177.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
       "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (165 caracteres frente a 61-82), y se acierta por la forma sin conocer la norma. La correcta incluye además el inciso «aunque reciba cesiones de suelo de sistemas», que contradice directamente un distractor. El contenido es correcto (art. 251.m) vigente). No repite las preguntas existentes sobre el 251.c) y el 251.l). Arreglo: acortar a «Exigir por tiempo indefinido una entidad de conservación que integre a todos los propietarios» y dar distractores paralelos (plazo máximo de cinco/diez años, solo los propietarios edificados…). | Revisor 2 (CONFIRMADA): Art. 251.m) literal (Título V, regularización de parcelaciones ilegales). Distractores falsos. Distinta de las existentes del 251.c) y del 251.l).",
-      "_motivo": "veredicto DUDOSA"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): El dato es exacto (art. 177.1: información pública por plazo mínimo de dos meses desde la última publicación del edicto) y los distractores son falsos, pero el plazo de información pública en la tramitación en competencia de programas de urbanización (arts. 175-180) es un detalle procedimental de la gestión por urbanizador y queda fuera de los «aspectos básicos» del epígrafe. Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 177.1 verificado: plazo mínimo de dos meses desde la última publicación del edicto. El mes es el plazo de las plicas, desde el fin de la información pública (177.3). Los demás distractores son falsos. Sin duplicado (el banco tiene 178.3 y 179.4).",
+      "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "En los ámbitos de regularización de parcelaciones ilegales, el art. 253.3 del TRLUA establece que los únicos usos lucrativos admisibles son:",
+      "q": "Según el art. 212.4 del TRLUA, las obras de edificación de los sectores concertados de urbanización prioritaria deben iniciarse dentro del plazo de:",
       "options": [
-        "La vivienda unifamiliar y plurifamiliar en cualquier tipología y los usos terciarios de proximidad",
-        "Exclusivamente los agrícolas y ganaderos, sin ningún uso residencial",
-        "La vivienda unifamiliar, los agrícolas vinculados a la explotación familiar, con posibilidad de invernaderos y viveros, y los ganaderos compatibles con la dedicación residencial",
-        "La vivienda unifamiliar y los usos industriales de pequeña entidad"
+        "Un año desde la aprobación definitiva del planeamiento",
+        "Seis meses desde la recepción de las obras de urbanización",
+        "Dos años desde la finalización de las obras de urbanización",
+        "Cuatro años desde la declaración del sector concertado"
       ],
       "correct": 2,
-      "exp": "El art. 253.3 TRLUA limita los usos lucrativos a tres: la vivienda unifamiliar, los agrícolas vinculados a la explotación familiar (incluidos invernaderos y viveros) y los ganaderos compatibles con la residencia. Solo se admite la vivienda unifamiliar aislada o pareada, nunca más de una vivienda por parcela. Quedan fuera los usos terciarios e industriales, y el uso residencial no está excluido.",
-      "fuente": "Art. 253.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "exp": "El art. 212.4 TRLUA dispone que «Las obras de edificación de los sectores concertados de urbanización prioritaria se iniciarán dentro del plazo de dos años desde la finalización de las obras de urbanización». El plazo de seis meses del art. 212.2 se refiere a la redacción del planeamiento y del proyecto de urbanización y a la aprobación inicial del planeamiento, contado desde la publicación del acuerdo de declaración en el BOA.",
+      "fuente": "Art. 212.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
       "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (177 caracteres frente a 66-98), y se acierta por la forma sin conocer la norma. Es la única enumeración completa. El contenido es correcto (art. 253.3, primer inciso, vigente) y no repite la pregunta existente sobre el 253.3, que trata del segundo inciso (tipología residencial). Arreglo: que los distractores sean enumeraciones de tres usos de longitud similar, por ejemplo «La vivienda unifamiliar, los terciarios de proximidad y los industriales de pequeña entidad». | Revisor 2 (CONFIRMADA): Art. 253.3, primera frase, literal. La existente del 253.3 pregunta otra cosa (unifamiliar aislada o pareada), así que no hay repetición. Distractores falsos: plurifamiliar, exclusión del uso residencial, uso industrial.",
-      "_motivo": "veredicto DUDOSA"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): El dato es exacto (art. 212.4: dos años desde la finalización de las obras de urbanización) y los distractores son falsos, pero los sectores concertados de urbanización prioritaria son una figura especial y su plazo de edificación no es un «aspecto básico» del epígrafe. Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 212.4 verificado: dos años desde la finalización de las obras de urbanización. Los seis meses del 212.2 son otro trámite. Distractores falsos. En Zaragoza (Ley 10/2017, art. 24.c) solo cambia quién gestiona, no el plazo.",
+      "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "La suspensión de los suministros de energía, agua, gas y telefonía ordenada junto con una orden de paralización de obras solo podrá levantarse, según el art. 274.3 del TRLUA:",
+      "q": "En el concurso para la sustitución del propietario incumplidor instado por un interesado mediante un programa de edificación (art. 223 TRLUA), si transcurre el plazo máximo para resolver sin notificarse resolución expresa:",
       "options": [
-        "Por caducidad, transcurridos seis meses desde la orden",
-        "Cuando el interesado abone la multa impuesta",
-        "Una vez legalizadas las obras, usos o edificaciones, mediante notificación expresa de la Administración a las empresas suministradoras",
-        "A solicitud de la empresa suministradora, con certificado del técnico director de la obra"
-      ],
-      "correct": 2,
-      "exp": "El art. 274.3 TRLUA solo permite levantar la suspensión de suministros tras la legalización de las obras, usos o edificaciones, mediante notificación expresa de la Administración a las suministradoras. Los costes de suspender y reanudar el suministro corren solidariamente a cargo de la empresa suministradora y del solicitante del suministro (art. 274.2).",
-      "fuente": "Art. 274.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (134 caracteres frente a 44-89), y se acierta por la forma sin conocer la norma. La cola «mediante notificación expresa… a las empresas suministradoras» solo aparece en la correcta. El contenido y la explicación son correctos (art. 274.3 vigente; los costes solidarios están, en efecto, en el 274.2). Arreglo: dejar la correcta en «Una vez legalizadas las obras, usos o edificaciones» o alargar los distractores de forma equivalente. | Revisor 2 (CONFIRMADA): Art. 274.3 literal. El distractor de los seis meses no se confunde con la caducidad del 269.6, que se cuenta desde el inicio del procedimiento y no levanta la suspensión de suministros según el 274.3. Distractores falsos.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "En las infracciones en materia de parcelaciones, el art. 280.2 del TRLUA declara responsables a:",
-      "options": [
-        "Los propietarios iniciales de los terrenos posteriormente divididos y el promotor de la actividad, considerando por tal al agente o intermediario que intervenga en la operación",
-        "Únicamente los adquirentes de los lotes resultantes",
-        "El notario y el registrador que autorizaron e inscribieron la división",
-        "Exclusivamente las empresas suministradoras que dieron servicio a los lotes"
+        "El interesado puede entender aprobado el programa por silencio positivo",
+        "El interesado debe entender desestimado el programa por silencio negativo",
+        "Se produce la caducidad del procedimiento y el archivo de las actuaciones",
+        "El plazo para resolver se prorroga automáticamente por otros tres meses"
       ],
       "correct": 0,
-      "exp": "El art. 280.2 TRLUA hace responsables a los propietarios iniciales de los terrenos divididos y al promotor, incluido el agente o intermediario. Las empresas suministradoras responden por no exigir la licencia o no suspender los suministros (art. 280.3), no por la parcelación en sí.",
-      "fuente": "Art. 280.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "exp": "El art. 223.5 TRLUA dispone que, transcurrido el plazo máximo para resolver sin resolución expresa notificada, «el interesado podrá entender aprobado a todos los efectos y por acto presunto producido por silencio administrativo positivo el programa de edificación presentado». Es lo contrario de lo que ocurre con las licencias urbanísticas, cuyo silencio es desestimatorio (art. 239).",
+      "fuente": "Art. 223.5 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
       "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La opción correcta es mucho más larga y detallada que los distractores (176 caracteres frente a 51-75), y se acierta por la forma sin conocer la norma. Además los distractores son débiles («Únicamente», «Exclusivamente», notario y registrador). El contenido es correcto (art. 280.2 vigente) y no repite las preguntas existentes sobre el 280.1 y el 280.6. Arreglo: acortar a «Los propietarios iniciales de los terrenos divididos y el promotor de la actividad» y usar distractores plausibles del mismo artículo: «La junta de compensación, el urbanizador y el constructor» (280.1), «Las empresas suministradoras» (280.3) y «Los adquirentes de los lotes resultantes». | Revisor 2 (CONFIRMADA): Art. 280.2 literal. Distractores falsos (las suministradoras responden por el 280.3). Distinta de las existentes del 280.1 y del 280.6.",
-      "_motivo": "veredicto DUDOSA"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): El texto del art. 223.5 TRLUA es el citado (silencio positivo para el programa de edificación presentado). Pero el concurso de sustitución del propietario instado por un interesado mediante programa de edificación es un procedimiento muy específico, fuera de los «aspectos básicos» del epígrafe. Además, la explicación presenta el silencio positivo «a todos los efectos» sin advertir que el art. 11.3 TRLSRU, que es básico, impide adquirir por silencio facultades contrarias a la ordenación (regla 10). Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 223.5 verificado literal: silencio positivo; el interesado puede entender aprobado el programa de edificación presentado. El enunciado se ciñe al programa de edificación y no se confunde con la imposición forzosa del 223.4. El 223.5 es regla especial frente a la remisión del 223.1 al procedimiento de los programas de urbanización, cuyo silencio equivale a rechazo (178.3 y 179.4); por eso es inequívoco que el desestimado es falso. Tampoco choca con el art. 11.4 del TRLSRU, porque la edificación sigue necesitando licencia (art. 132.2). Sugerencia opcional para la explicación: contrastar también con los arts. 178.3 y 179.4.",
+      "_motivo": "veredicto RECHAZADA"
     }
   ]
 }

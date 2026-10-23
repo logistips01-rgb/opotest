@@ -60307,3 +60307,462 @@ window.addQuestions('aux-admin-zaragoza', 12, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 20 · lote 2026-10-23 · 35 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 20, [
+  {
+    "q": "Según el art. 22.3 del TRLUA, el Registro administrativo de entidades colaboradoras lo lleva:",
+    "options": [
+      "El Departamento competente en materia de urbanismo",
+      "Cada Ayuntamiento en cuyo término actúe la entidad",
+      "El Consejo Provincial de Urbanismo de cada provincia",
+      "La comarca a la que pertenezca el municipio afectado"
+    ],
+    "correct": 0,
+    "exp": "El art. 22.3 TRLUA crea el Registro administrativo de entidades colaboradoras y dispone que lo llevará el Departamento competente en materia de urbanismo, es decir, la Administración de la Comunidad Autónoma. No lo llevan los Ayuntamientos, el Consejo Provincial de Urbanismo ni las comarcas.",
+    "fuente": "Art. 22.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En suelo no urbanizable genérico, ¿cuál de las siguientes construcciones puede autorizarse mediante el título habilitante urbanístico correspondiente, sin seguir el procedimiento de autorización especial (art. 34.1 TRLUA)?",
+    "options": [
+      "Las de interés público o social cuyo emplazamiento en el medio rural sea conveniente",
+      "La rehabilitación de bordas, torres u otros edificios rurales tradicionales",
+      "Las vinculadas a la ejecución, mantenimiento y servicio de las obras públicas",
+      "La vivienda unifamiliar aislada en municipios que no cuenten con plan general"
+    ],
+    "correct": 2,
+    "exp": "El art. 34.1.b) TRLUA permite a los municipios autorizar mediante el título habilitante urbanístico correspondiente las construcciones vinculadas a la ejecución, mantenimiento y servicio de las obras públicas (y la letra a, las de explotaciones agrarias o ganaderas). En cambio, las construcciones de interés público o social, la vivienda unifamiliar aislada en municipios sin plan general y la rehabilitación de bordas, torres y edificios rurales tradicionales están en el art. 35.1, letras a), b) y c), y siguen el procedimiento de autorización especial del art. 36.",
+    "fuente": "Art. 34.1.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En las obras de rehabilitación de edificios rurales tradicionales en suelo no urbanizable genérico de un municipio sin planeamiento, y a falta de regulación en la directriz especial de urbanismo, las normas subsidiarias o las directrices de ordenación territorial, el art. 35.1.c) del TRLUA permite ampliar:",
+    "options": [
+      "Hasta un 50 % de la superficie ya construida, pudiendo alcanzar 50 m² en cualquier caso",
+      "Hasta un 10 % de la superficie ya construida, pudiendo alcanzar 15 m² en cualquier caso",
+      "Hasta un 100 % de la superficie ya construida, sin ningún otro límite en metros cuadrados",
+      "Hasta un 20 % de la superficie ya construida, pudiendo alcanzar 20 m² en cualquier caso"
+    ],
+    "correct": 3,
+    "exp": "El art. 35.1.c) TRLUA, en la redacción de la Ley 2/2023 (en vigor desde el 28-4-2023), dispone que en municipios sin planeamiento se está a la directriz especial de urbanismo, las normas subsidiarias o las directrices de ordenación territorial y que, en ausencia de regulación, «se podrá ampliar hasta un veinte por ciento de la superficie ya construida, pudiendo alcanzar 20 m2 en cualquier caso». El límite del cien por cien es el tope del incremento que puede fijar el plan general, no la regla para municipios sin planeamiento.",
+    "fuente": "Art. 35.1.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando los instrumentos de ordenación territorial, los planes de ordenación de los recursos naturales, la legislación sectorial o el planeamiento prevean usos que puedan llevarse a cabo en suelo no urbanizable especial sin lesionar el valor protegido, ¿qué procedimiento se aplica para autorizarlos según el art. 37.2 del TRLUA?",
+    "options": [
+      "La previa aprobación de un plan especial independiente para cada uso",
+      "Una autorización singular del Gobierno de Aragón, previo informe ambiental",
+      "Los de los arts. 34 a 36 previstos para el suelo no urbanizable genérico",
+      "Una declaración de interés autonómico tramitada por el Departamento"
+    ],
+    "correct": 2,
+    "exp": "El art. 37.2 TRLUA, en la redacción de la Ley 2/2023 (en vigor desde el 28-4-2023), dispone que para autorizar esos usos en suelo no urbanizable especial «se aplicarán, en su caso, los procedimientos establecidos en los artículos 34 a 36 para la autorización de usos en suelo no urbanizable genérico», sin perjuicio de las demás autorizaciones, licencias o controles preceptivos. No exige un plan especial para cada uso, una autorización singular del Gobierno de Aragón ni una declaración de interés autonómico.",
+    "fuente": "Art. 37.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 42.3 del TRLUA, los módulos mínimos de reserva para dotaciones locales en el suelo urbano no consolidado serán:",
+    "options": [
+      "Los que fije cada plan general, sin mínimos legales de referencia",
+      "La mitad de los exigidos por la Ley en el suelo urbanizable delimitado",
+      "Los que determine en cada caso el Consejo Provincial de Urbanismo",
+      "Los establecidos en el art. 54 de la Ley para los planes parciales"
+    ],
+    "correct": 3,
+    "exp": "El art. 42.3 TRLUA remite a los módulos del art. 54, propios de los planes parciales: «Los módulos mínimos de reserva para dotaciones locales en el suelo urbano no consolidado serán los establecidos en el artículo 54 de esta Ley para los planes parciales». Solo cuando el plan general incorpora un programa de rehabilitación urbana puede reducirlos o eliminarlos de forma justificada (art. 42.4.a), y el resto de opciones no tiene apoyo en la Ley.",
+    "fuente": "Art. 42.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Pueden los planes parciales contener las determinaciones propias del proyecto de urbanización, según el art. 52.2 del TRLUA?",
+    "options": [
+      "Sí, y en tal caso sustituirán al proyecto de urbanización",
+      "No, ambos instrumentos deben aprobarse siempre por separado",
+      "Solo en suelo urbanizable no delimitado y con informe autonómico",
+      "Solo cuando el plan parcial sea de iniciativa municipal"
+    ],
+    "correct": 0,
+    "exp": "El art. 52.2 TRLUA dispone que «Los planes parciales podrán contener las determinaciones propias del proyecto de urbanización, al que en tal caso sustituirán». La Ley no limita esa posibilidad a una clase de suelo ni a la iniciativa municipal, y tampoco obliga a tramitarlos siempre por separado (añade que cualesquiera instrumentos de gestión podrán tramitarse simultáneamente con el plan parcial, en expediente separado).",
+    "fuente": "Art. 52.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el suelo urbanizable no delimitado, la tramitación de planes parciales de iniciativa no municipal requerirá la previa consulta sobre la viabilidad de la transformación urbanística, según el art. 58.3 del TRLUA:",
+    "options": [
+      "En todo caso, cualquiera que sea el sector",
+      "Cuando así lo establezca el plan general",
+      "Solo si el sector supera las diez hectáreas",
+      "Solo si lo solicita el Consejo Provincial de Urbanismo"
+    ],
+    "correct": 1,
+    "exp": "El art. 58.3 TRLUA, dentro de las especialidades de los planes parciales de iniciativa no municipal, dispone que en suelo urbanizable no delimitado la tramitación de planes parciales requerirá la previa consulta de viabilidad del art. 26 «si así lo estableciere el plan general». Por tanto no es exigible en todo caso, y la Ley no fija umbrales de superficie ni la hace depender de una petición del Consejo Provincial de Urbanismo.",
+    "fuente": "Art. 58.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La declaración de un conjunto de interés cultural obliga al municipio a redactar planes especiales para su protección. Según el art. 66.2 del TRLUA, esa formulación no será preceptiva cuando:",
+    "options": [
+      "El conjunto se sitúe íntegramente en suelo urbano consolidado del municipio",
+      "El municipio incorpore sus determinaciones directamente al plan general",
+      "El Gobierno de Aragón apruebe un plan de protección de ámbito autonómico",
+      "El municipio no alcance los cinco mil habitantes de derecho"
+    ],
+    "correct": 1,
+    "exp": "El art. 66.1 TRLUA impone al municipio la obligación de redactar uno o varios planes especiales de protección del conjunto de interés cultural, que se aprueban por el procedimiento de los planes parciales. El art. 66.2 prevé una única excepción: no será preceptivo «cuando el municipio acuerde incorporar directamente en el plan general de ordenación urbana las determinaciones propias de tales planes especiales». La clase de suelo, un plan autonómico o la población del municipio no son excepciones legales.",
+    "fuente": "Art. 66.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para la aprobación de las ordenanzas de edificación y urbanización, el art. 69.3 del TRLUA dispone que se aplicarán las reglas de competencia y procedimiento establecidas en:",
+    "options": [
+      "La legislación de régimen local",
+      "Los arts. 48 a 50 del TRLUA, propios del plan general",
+      "El art. 57 del TRLUA, propio de los planes parciales",
+      "El art. 68 del TRLUA, propio de los estudios de detalle"
+    ],
+    "correct": 0,
+    "exp": "El art. 69.3 TRLUA remite a la legislación de régimen local: «Para la aprobación de las ordenanzas, se aplicarán las reglas de competencia y procedimiento establecidas en la legislación de régimen local». No se siguen los procedimientos urbanísticos del plan general, de los planes parciales ni de los estudios de detalle. En Zaragoza, esa legislación es la Ley 10/2017 de capitalidad: el Gobierno de Zaragoza aprueba los proyectos de ordenanzas (art. 14.1.a) y el Pleno las aprueba (art. 11.1.d).",
+    "fuente": "Art. 69.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76.1 del TRLUA, la modificación de una delimitación del suelo urbano:",
+    "options": [
+      "Debe tramitarse siempre por las reglas de modificación de los planes generales",
+      "Requiere la previa aprobación de un plan general de ordenación urbana",
+      "Solo puede tramitarla la comarca, previo informe favorable del municipio",
+      "Sigue los procedimientos de los arts. 74 o 75, no las reglas de modificación de planes"
+    ],
+    "correct": 3,
+    "exp": "El art. 76.1 TRLUA dispone que cualquier modificación de una delimitación del suelo urbano «podrá hacerse indistintamente con arreglo a los procedimientos establecidos en los artículos 74 y 75, sin que sean de aplicación las reglas establecidas para las modificaciones de los instrumentos de planeamiento urbanístico». Es coherente con el art. 70.2, que niega a la delimitación el carácter de instrumento de planeamiento. El art. 75 permite que la formule la comarca, pero no en exclusiva.",
+    "fuente": "Art. 76.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según las definiciones del art. 124 del TRLUA, la superficie edificable, medida en metros cuadrados, que expresa el contenido urbanístico lucrativo de un terreno que su propietario y, en su caso, el municipio podrán incorporar a su patrimonio es:",
+    "options": [
+      "El aprovechamiento objetivo",
+      "El aprovechamiento medio",
+      "El aprovechamiento subjetivo",
+      "El índice de edificabilidad neta"
+    ],
+    "correct": 2,
+    "exp": "El art. 124.4 TRLUA define el aprovechamiento subjetivo como la superficie edificable que expresa el contenido urbanístico lucrativo de un terreno que su propietario y, en su caso, el municipio podrán incorporar a su patrimonio. El aprovechamiento objetivo (art. 124.3) es la superficie edificable homogeneizada que permite el planeamiento sobre un terreno; el índice de edificabilidad (art. 124.1) se expresa en metros cuadrados de techo por metro cuadrado de suelo; y el aprovechamiento medio se regula en el art. 125.",
+    "fuente": "Art. 124.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el aprovechamiento objetivo atribuido por el planeamiento en una unidad de ejecución o sector supera al subjetivo de los propietarios incluidos en ellos, el excedente corresponde, según el art. 129.1 del TRLUA:",
+    "options": [
+      "A los propietarios, en proporción a sus fincas",
+      "Al urbanizador o, en su caso, a la junta de compensación",
+      "Al propietario de la finca de mayor superficie",
+      "A la Administración"
+    ],
+    "correct": 3,
+    "exp": "El art. 129.1 TRLUA dispone que «el excedente corresponderá a la Administración», que podrá destinarlo a compensar a los propietarios de unidades de ejecución en situación inversa o a los de suelo destinado a dotaciones locales en suelo urbano consolidado o a sistemas generales. No se reparte entre los propietarios ni corresponde al urbanizador o a la junta de compensación.",
+    "fuente": "Art. 129.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 132.1 del TRLUA, los propietarios de suelo urbano consolidado pueden ejecutar actuaciones aisladas sobre sus propias parcelas o solares:",
+    "options": [
+      "Previa aprobación de un programa de urbanización en competencia",
+      "Previa aprobación de un proyecto de reparcelación de la manzana",
+      "Sin más requisito que la obtención de la licencia correspondiente",
+      "Previa delimitación de una unidad de ejecución por el municipio"
+    ],
+    "correct": 2,
+    "exp": "El art. 132.1 TRLUA permite a los propietarios de suelo urbano consolidado ejecutar actuaciones aisladas sobre sus parcelas o solares «sin más requisito que la obtención de la licencia correspondiente», con previa o simultánea realización de las obras de urbanización pendientes. Los programas de urbanización, la reparcelación y la delimitación de unidades de ejecución son propios de las actuaciones integradas.",
+    "fuente": "Art. 132.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando los instrumentos de gestión urbanística se tramitan simultáneamente al planeamiento que establece la ordenación pormenorizada, el art. 135 del TRLUA dispone que su aprobación definitiva:",
+    "options": [
+      "Podrá producirse antes de la aprobación inicial del planeamiento",
+      "Estará condicionada a la aprobación definitiva del planeamiento",
+      "Corresponderá en todo caso al Consejo Provincial de Urbanismo",
+      "Se entenderá producida con la aprobación inicial del planeamiento"
+    ],
+    "correct": 1,
+    "exp": "El art. 135 TRLUA permite tramitar los instrumentos de gestión simultánea o posteriormente al planeamiento que establezca la ordenación pormenorizada y prevea actuaciones integradas. En caso de tramitación simultánea, «la aprobación definitiva de los instrumentos de gestión estará condicionada a la aprobación definitiva del instrumento de planeamiento correspondiente». No puede adelantarse al planeamiento ni se entiende producida con su aprobación inicial, y la Ley no la atribuye al Consejo Provincial de Urbanismo.",
+    "fuente": "Art. 135 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 143.b) del TRLUA, no son objeto de nueva adjudicación en la reparcelación los terrenos edificados con aprovechamiento no ajustado al planeamiento, no destinados a usos incompatibles, cuando la diferencia, en más o en menos, entre el aprovechamiento que les corresponde según el plan y el que correspondería al propietario en proporción a su derecho en la reparcelación sea igual o inferior al:",
+    "options": [
+      "Quince por ciento de este último",
+      "Diez por ciento de este último",
+      "Veinte por ciento de este último",
+      "Cinco por ciento de este último"
+    ],
+    "correct": 0,
+    "exp": "El art. 143.b) TRLUA excluye de nueva adjudicación, conservándose las propiedades primitivas, los terrenos edificados con aprovechamiento no ajustado al planeamiento cuando esa diferencia «sea igual o inferior al quince por ciento de este último», siempre que no estuvieran destinados a usos incompatibles con la ordenación urbanística. Caben la regularización de lindes y las compensaciones económicas que procedan.",
+    "fuente": "Art. 143.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 147.1 del TRLUA, los proyectos de reparcelación se tramitan conforme al procedimiento establecido en la Ley para:",
+    "options": [
+      "Los estudios de detalle",
+      "Los planes parciales de iniciativa municipal",
+      "Los planes generales de ordenación urbana",
+      "Las modificaciones de menor entidad del plan general"
+    ],
+    "correct": 0,
+    "exp": "El art. 147.1 TRLUA dispone que «Los proyectos de reparcelación se tramitarán conforme al procedimiento establecido para los estudios de detalle en esta Ley», y que su modificación sigue el mismo procedimiento. La pregunta se refiere al procedimiento, no al órgano: en Zaragoza, la aprobación de los instrumentos de gestión urbanística corresponde al Gobierno de Zaragoza (art. 14.1.d de la Ley 10/2017 de capitalidad; véase también el art. 8.7 TRLUA).",
+    "fuente": "Art. 147.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 156.4 del TRLUA, los acuerdos de la junta de compensación son susceptibles de recurso ante:",
+    "options": [
+      "El Consejo Provincial de Urbanismo",
+      "El municipio",
+      "La jurisdicción civil, por ser una entidad privada",
+      "La Dirección General competente en materia de urbanismo"
+    ],
+    "correct": 1,
+    "exp": "El art. 156.4 TRLUA dispone que «Los acuerdos de la junta serán susceptibles de recurso ante el municipio». La junta es una entidad colaboradora de la Administración (art. 156.2), sujeta a la tutela municipal, y por eso sus acuerdos no se recurren ante la jurisdicción civil ni ante órganos autonómicos.",
+    "fuente": "Art. 156.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 165.1 del TRLUA, el urbanizador en la gestión indirecta por urbanizador:",
+    "options": [
+      "Ha de ser propietario de más de la mitad del suelo y lo designa el municipio",
+      "Ha de ser una sociedad urbanística pública y se designa sin concurrencia alguna",
+      "Puede ser o no titular del suelo afectado y se elige en pública competencia",
+      "Ha de ser titular de todo el suelo y constituirse en junta de compensación"
+    ],
+    "correct": 2,
+    "exp": "El art. 165.1 TRLUA define al urbanizador como el agente público responsable de ejecutar la urbanización en la gestión indirecta por urbanizador, y dispone que «Podrá ser o no titular del suelo afectado por la actuación y será seleccionado en pública competencia». No se le exige ser propietario ni ser una sociedad pública, y la junta de compensación pertenece a otro sistema, la gestión indirecta por compensación.",
+    "fuente": "Art. 165.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 183.1 del TRLUA, las actuaciones que requieren la ejecución de obras de edificación de nueva construcción en sustitución de edificios previamente demolidos, junto con las obras complementarias sobre la urbanización material del ámbito, son actuaciones de:",
+    "options": [
+      "Regeneración urbana",
+      "Rehabilitación edificatoria",
+      "Reforma interior aislada",
+      "Renovación urbana"
+    ],
+    "correct": 3,
+    "exp": "El art. 183.1 TRLUA distingue tres actuaciones de rehabilitación urbana. Son de renovación urbana (letra c) las que requieren obras de edificación de nueva construcción en sustitución de edificios previamente demolidos, con sus obras complementarias de urbanización. La regeneración urbana (letra b) incluye obras de rehabilitación edificatoria y otras sobre el espacio público. La rehabilitación edificatoria (letra a) consiste en obras de conservación, mejora, reforma, modificación y actualización de edificios existentes. La «reforma interior aislada» no es una categoría del precepto.",
+    "fuente": "Art. 183.1.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 187 del TRLUA, las infraestructuras y equipamientos públicos al servicio de áreas inferiores establecidas por el planeamiento se califican como:",
+    "options": [
+      "Dotaciones locales",
+      "Sistemas generales",
+      "Sistemas generales de interés supralocal",
+      "Equipamientos complementarios privados"
+    ],
+    "correct": 0,
+    "exp": "El art. 187 TRLUA califica las infraestructuras y equipamientos urbanísticos públicos como sistemas generales o dotaciones locales. Los sistemas generales están al servicio de toda o gran parte de la población del municipio (art. 187.2) y pueden ser municipales o de interés supralocal o autonómico. Las dotaciones locales (art. 187.3) comprenden los que están al servicio de áreas inferiores establecidas por el planeamiento y su conexión con los sistemas generales. Los equipamientos privados son solo complementarios de los mínimos legales.",
+    "fuente": "Art. 187.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En suelo urbano consolidado, los terrenos destinados por el planeamiento a sistemas generales o dotaciones locales se obtendrán, según el art. 190 del TRLUA:",
+    "options": [
+      "Únicamente mediante compraventa o permuta voluntaria",
+      "Mediante expropiación u ocupación directa",
+      "Mediante su inclusión obligatoria en un plan especial de reforma interior",
+      "Mediante su adscripción a un sector de suelo urbanizable delimitado"
+    ],
+    "correct": 1,
+    "exp": "El art. 190 TRLUA dispone que, en suelo urbano consolidado, estos terrenos «se obtendrán mediante expropiación u ocupación directa», fijándose pericialmente el valor de los terrenos y aprovechamientos. Fuera del suelo urbano consolidado, la regla es la cesión obligatoria derivada de la inclusión o adscripción a unidades de ejecución (arts. 188 y 189).",
+    "fuente": "Art. 190 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Publicada y notificada a los interesados la relación de terrenos y propietarios afectados por una ocupación directa, ¿cuándo puede llevarse a cabo la ocupación según el art. 192.2 del TRLUA?",
+    "options": [
+      "Transcurridos quince días desde la publicación",
+      "Transcurrido un mes desde la notificación",
+      "Transcurridos tres meses desde la notificación",
+      "En el mismo acto de la notificación, sin plazo"
+    ],
+    "correct": 1,
+    "exp": "El art. 192.2 TRLUA dispone que «La ocupación sólo podrá llevarse a cabo transcurrido el plazo de un mes desde la notificación». En ese momento se levanta un acta con el lugar y la fecha, los titulares y la situación registral, la superficie ocupada y los aprovechamientos, y la unidad de ejecución donde se harán efectivos.",
+    "fuente": "Art. 192.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando para ejecutar un plan baste constituir una servidumbre y no se obtenga convenio con el propietario, podrá imponerse conforme a la legislación de expropiación forzosa siempre que el justiprecio no exceda, según el art. 198.1 del TRLUA:",
+    "options": [
+      "De la mitad del importe de la expropiación completa del dominio",
+      "De la cuarta parte del importe de la expropiación completa del dominio",
+      "De las tres cuartas partes del importe de la expropiación completa",
+      "Del diez por ciento del valor catastral de la finca afectada"
+    ],
+    "correct": 0,
+    "exp": "El art. 198.1 TRLUA permite imponer la servidumbre por el procedimiento expropiatorio, a falta de convenio, «siempre que el justiprecio que procediere abonar no exceda de la mitad del importe correspondiente a la expropiación completa del dominio».",
+    "fuente": "Art. 198.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Una vez delimitada una unidad de ejecución que haya de gestionarse directamente por expropiación, el art. 202 del TRLUA establece que sobre su superficie:",
+    "options": [
+      "Pueden otorgarse licencias de edificación hasta que se apruebe definitivamente el justiprecio",
+      "Solo se prohíben las obras de nueva planta; las de reforma y ampliación siguen siendo posibles",
+      "Puede edificarse si el propietario renuncia a que lo construido se le indemnice",
+      "No se puede construir ni modificar lo existente, salvo obras provisionales o de consolidación"
+    ],
+    "correct": 3,
+    "exp": "El art. 202.1 TRLUA dispone que sobre esa superficie «no se podrá realizar construcción alguna ni modificar las existentes». El apartado 2 permite al municipio autorizar expresamente obras de carácter provisional o de consolidación conforme a los arts. 29.3 y 82.3. No caben licencias de edificación hasta el justiprecio, obras de reforma o ampliación, ni edificar a cambio de renunciar a la indemnización.",
+    "fuente": "Art. 202 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el procedimiento de tasación conjunta, el proyecto de expropiación se expone al público para que los interesados formulen observaciones y reclamaciones, según el art. 204.2 del TRLUA, por término de:",
+    "options": [
+      "Veinte días",
+      "Quince días",
+      "Un mes",
+      "Dos meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 204.2 TRLUA dispone que el proyecto de expropiación «será expuesto al público por término de un mes» para observaciones y reclamaciones, en particular sobre titularidad o valoración. También es de un mes el plazo de alegaciones tras la notificación individual de las tasaciones (art. 204.5). Los veinte días son el plazo para manifestar disconformidad con la valoración una vez aprobado el expediente (art. 205.1).",
+    "fuente": "Art. 204.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Notificada la resolución aprobatoria del expediente de tasación conjunta, ¿de qué plazo disponen los titulares para manifestar su disconformidad con la valoración y qué ocurre si no lo hacen (art. 205 TRLUA)?",
+    "options": [
+      "Un mes; si no se oponen, el expediente pasa de oficio al Jurado de Expropiación",
+      "Quince días; si no se oponen, el procedimiento caduca y debe iniciarse otro",
+      "Dos meses; si no se oponen, la Administración formula una nueva hoja de aprecio",
+      "Veinte días; si no se oponen, se entiende aceptada la valoración del expediente"
+    ],
+    "correct": 3,
+    "exp": "El art. 205.1 TRLUA concede a los titulares un término de veinte días para manifestar por escrito su disconformidad con la valoración. Si la manifiestan, el expediente y la hoja de aprecio impugnada se trasladan al Jurado Aragonés de Expropiación (art. 205.2). Si no se oponen en esos veinte días, «se entenderá aceptada la que se fijó en el acto aprobatorio del expediente», y el justiprecio queda determinado definitivamente y de conformidad (art. 205.3).",
+    "fuente": "Art. 205.1 y 205.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 219 del TRLUA, el incumplimiento del deber de edificar habilita al municipio, de oficio o a instancia de interesado y previa audiencia del obligado, para:",
+    "options": [
+      "Imponer una multa por infracción muy grave y desclasificar el solar afectado",
+      "Expropiarlo o ejecutar el planeamiento mediante sustitución del propietario",
+      "Declarar la caducidad de la licencia y la reversión del solar al municipio",
+      "Ocupar directamente el solar e incorporarlo a una unidad de ejecución"
+    ],
+    "correct": 1,
+    "exp": "El art. 219 TRLUA dispone que el incumplimiento del deber de edificar habilita al municipio para decretar «la expropiación por incumplimiento de la función social de la propiedad o proceder a la ejecución del planeamiento mediante sustitución del propietario», además de las demás consecuencias de la legislación básica. La ejecución por sustitución se desarrolla en los arts. 220 a 224.",
+    "fuente": "Art. 219 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando un mismo acto de edificación requiere licencia urbanística y autorización municipal expresa relativa a la adecuación de las obras al ejercicio de una actividad, el art. 231.1 del TRLUA dispone que:",
+    "options": [
+      "Serán objeto de resolución única, sin perjuicio de tramitar piezas separadas",
+      "Se resolverá primero la autorización de actividad y después la licencia",
+      "Se resolverá primero la licencia urbanística y después la de actividad",
+      "La licencia urbanística absorbe la autorización, que no se tramita"
+    ],
+    "correct": 0,
+    "exp": "El art. 231.1 TRLUA dispone que, en ese caso, licencia y autorización «serán objeto de resolución única, sin perjuicio de la formación y tramitación de piezas separadas para cada intervención administrativa», sea o no clasificada la actividad. No hay dos resoluciones sucesivas ni la licencia absorbe la autorización.",
+    "fuente": "Art. 231.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si el interesado solicita concesiones, licencias o autorizaciones previas de competencia estatal o autonómica, el plazo para resolver la licencia urbanística, según el art. 231.2 del TRLUA:",
+    "options": [
+      "Sigue corriendo y, a su término, la licencia se entiende desestimada",
+      "Se interrumpe desde esa solicitud hasta que tales autorizaciones se otorguen",
+      "Se amplía automáticamente en tres meses más, sin necesidad de acuerdo",
+      "Se reduce a la mitad, para no demorar en exceso la resolución final"
+    ],
+    "correct": 1,
+    "exp": "El art. 231.2 TRLUA dispone que el plazo para resolver las licencias urbanísticas «se interrumpirá desde la solicitud por el interesado de las concesiones, licencias o autorizaciones de carácter previo atribuidas a la competencia de la Administración del Estado o de la Comunidad Autónoma hasta su otorgamiento». El plazo no sigue corriendo ni se amplía o reduce en una cuantía fija.",
+    "fuente": "Art. 231.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para autorizar la edificación de terrenos incluidos en unidad de ejecución que aún no son solar, se exige garantía por el cincuenta por ciento del coste de las obras de urbanización pendientes. Según el art. 236.2 del TRLUA, en todo caso debe mantenerse una garantía superior al:",
+    "options": [
+      "Diez por ciento del total previsto",
+      "Veinticinco por ciento del total previsto",
+      "Quince por ciento del total previsto",
+      "Cinco por ciento del total previsto"
+    ],
+    "correct": 2,
+    "exp": "El art. 236.2 TRLUA exige que, antes de otorgar la licencia, se hayan contratado las obras de urbanización y se haya constituido garantía por el cincuenta por ciento del coste de las obras pendientes, «manteniéndose en todo caso una garantía superior al quince por ciento del total previsto», actualizable y vigente hasta la total terminación y aprobación municipal. La garantía puede reducirse a medida que se completan fases.",
+    "fuente": "Art. 236.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 237.1 del TRLUA, como trámite previo al suministro de energía eléctrica, agua, gas y telefonía (sin perjuicio de los suministros provisionales de obra) se requiere:",
+    "options": [
+      "Informe favorable de los servicios técnicos municipales tras visita de inspección",
+      "Inscripción de la obra nueva terminada en el Registro de la Propiedad",
+      "Acreditación del pago del impuesto sobre construcciones, instalaciones y obras",
+      "Certificación del director de obra que acredite el cumplimiento de la licencia"
+    ],
+    "correct": 3,
+    "exp": "El art. 237.1 TRLUA exige «certificación del facultativo director de las obras, acreditativa del cumplimiento de la correspondiente licencia urbanística, como trámite previo al suministro de energía eléctrica, agua, gas y telefonía». Según el art. 237.2, los suministros provisionales de obra no pueden contratarse como definitivos ni prolongarse más allá de la obra sin esa certificación.",
+    "fuente": "Art. 237.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando las obras de conservación y rehabilitación ordenadas rebasen el contenido normal del deber de conservación para obtener mejoras o beneficios de interés general, el art. 255.4 del TRLUA dispone que se ejecutarán:",
+    "options": [
+      "Íntegramente a costa del propietario, sin derecho a compensación alguna",
+      "A partes iguales entre el propietario y la entidad que las haya ordenado",
+      "A costa de la entidad que lo ordene, en la cuantía que exceda de dicho deber",
+      "A costa de los ocupantes del inmueble, en proporción a su superficie"
+    ],
+    "correct": 2,
+    "exp": "El art. 255.3 TRLUA pone a cargo de los propietarios las obras de conservación o rehabilitación dentro del límite del deber normal de conservación. El art. 255.4 añade que, si las obras lo rebasan para obtener mejoras o beneficios de interés general, «se ejecutarán a costa de la entidad que lo ordene en la cuantía que exceda de dicho deber». No hay reparto a partes iguales ni cargo a los ocupantes.",
+    "fuente": "Art. 255.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Adoptada una orden de ejecución, ¿se admite después un expediente de declaración de ruina, según el art. 257.2 del TRLUA?",
+    "options": [
+      "Sí, siempre, porque la declaración de ruina prevalece sobre la orden",
+      "Solo si el propietario ha pagado antes el coste de las obras ordenadas",
+      "Solo si lo solicitan los ocupantes del inmueble afectado por la orden",
+      "Solo si un informe técnico acredita que la ruina habría llegado igualmente"
+    ],
+    "correct": 3,
+    "exp": "El art. 257.2 TRLUA dispone que tras la orden de ejecución no se admite expediente de ruina, «salvo que se acredite mediante informe técnico de facultativo competente que la ruina hubiese sobrevenido igualmente, conforme a criterios objetivos, de haberse ejecutado las obras ordenadas». Si el interesado incumple la orden y por ello se produce la ruina, el límite del deber de conservación se amplía en lo necesario para restaurar el inmueble.",
+    "fuente": "Art. 257.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 267 del TRLUA, corresponde a los inspectores urbanísticos, en su ámbito de competencias:",
+    "options": [
+      "Proponer la incoación de los expedientes sancionadores que procedan",
+      "Imponer directamente las sanciones por las infracciones urbanísticas leves",
+      "Acordar la demolición de las obras ejecutadas sin título habilitante",
+      "Resolver los expedientes de legalización de obras ya terminadas"
+    ],
+    "correct": 0,
+    "exp": "El art. 267 TRLUA atribuye a los inspectores urbanísticos tres funciones: investigar y comprobar el cumplimiento del ordenamiento urbanístico, proponer medidas provisionales y definitivas, y «La propuesta de incoación de los expedientes sancionadores que procedan». Imponer sanciones o acordar la demolición o la legalización no les corresponde: son decisiones de los órganos competentes (arts. 268, 269 y 285).",
+    "fuente": "Art. 267.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si una actividad constitutiva de infracción urbanística se realiza al amparo de un título habilitante y de acuerdo con sus determinaciones, el art. 281.1 del TRLUA dispone que:",
+    "options": [
+      "Puede sancionarse de inmediato, con independencia del título otorgado",
+      "No puede sancionarse mientras no se anule el acto que la autoriza",
+      "Solo puede sancionarse al técnico que redactó el proyecto aprobado",
+      "La infracción se considera prescrita desde que se otorgó el título"
+    ],
+    "correct": 1,
+    "exp": "El art. 281.1 TRLUA establece que en ese caso «no se puede imponer ninguna sanción mientras no se anule el acto administrativo que las autoriza», y que el procedimiento de anulación interrumpe el plazo de prescripción de la infracción. Si la anulación deriva de la del planeamiento o instrumento de gestión, no se sanciona a quienes actuaron ateniéndose a esos actos, salvo que los promovieran con dolo, culpa o negligencia grave (art. 281.2).",
+    "fuente": "Art. 281.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  }
+]);
