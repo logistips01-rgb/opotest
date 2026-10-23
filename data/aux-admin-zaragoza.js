@@ -11125,18 +11125,6 @@ const QUESTIONS = {
     "fuente": "Arts. 10.c) y 12 RBEL (RD 1372/1986)"
   },
   {
-    "q": "¿Qué órgano municipal ostenta, con carácter general, las competencias reglamentarias de organización interna en materia de gestión y custodia del patrimonio local, sin perjuicio de las competencias del Pleno en materia de disposición?",
-    "options": [
-      "El Consejo de Estado",
-      "El Juzgado de Primera Instancia del partido judicial",
-      "El Defensor del Pueblo",
-      "El Alcalde, en su función de dirección de la administración municipal"
-    ],
-    "correct": 3,
-    "exp": "El Alcalde, como responsable de la dirección de la administración municipal (art. 21 LBRL), ejerce funciones de gestión ordinaria sobre el patrimonio, sin perjuicio de las competencias específicas del Pleno en materia de disposición y alteración de bienes.",
-    "fuente": "Art. 21 LBRL (Ley 7/1985)"
-  },
-  {
     "q": "En relación con el patrimonio municipal del suelo, ¿qué característica especial tiene su enajenación respecto al régimen general de los bienes patrimoniales?",
     "options": [
       "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta",
@@ -11497,18 +11485,6 @@ const QUESTIONS = {
     "fuente": "Arts. 79 a 83 LBRL (Ley 7/1985); DF 2.ª LPAP (Ley 33/2003); Título VI Ley 7/1999; Título I y preámbulo del Decreto 347/2002 (RBASO); art. 1.2 RBEL (RD 1372/1986)"
   },
   {
-    "q": "¿Qué órgano es, típicamente, el competente para aprobar la incorporación de un nuevo bien al inventario municipal tras su adquisición?",
-    "options": [
-      "Un notario, sin intervención administrativa alguna",
-      "El Tribunal de Cuentas, en todos los casos sin excepción",
-      "El Registro de la Propiedad, de forma automática",
-      "El Pleno de la Corporación, al que corresponde acordar la aprobación del inventario ya formado, su rectificación y su comprobación"
-    ],
-    "correct": 3,
-    "exp": "El art. 34 RBEL reserva al Pleno de la Corporación la aprobación del inventario ya formado, su rectificación y su comprobación; la incorporación de un nuevo bien se materializa precisamente en la rectificación anual del art. 33.1. El inventario lo autoriza el Secretario con el visto bueno del Presidente (art. 32.1), pero la aprobación es plenaria.",
-    "fuente": "Arts. 32.1, 33 y 34 RBEL (RD 1372/1986)"
-  },
-  {
     "q": "¿En qué año fue aprobado el reglamento de bienes de las entidades locales?",
     "options": [
       "1986.",
@@ -11785,40 +11761,16 @@ const QUESTIONS = {
     "fuente": "Art. 18 RBEL (RD 1372/1986)"
   },
   {
-    "q": "¿A quién le corresponde realizar la aprobación del Inventario de bienes de una entidad local?",
+    "q": "En el Ayuntamiento de Zaragoza, ¿a qué órgano corresponde la aprobación del inventario de bienes y de sus rectificaciones anuales?",
     "options": [
       "A la Comunidad Autónoma respectiva.",
-      "A la Comisión de Gobierno.",
-      "Al Alcalde.",
+      "Al Gobierno de Zaragoza.",
+      "A la Comisión Especial de Cuentas.",
       "Al Pleno."
     ],
-    "correct": 3,
-    "exp": "Art. 34: 'El Pleno de la Corporación local será el órgano competente para acordar la aprobación del inventario ya formado, su rectificación y comprobación'.",
-    "fuente": "Art. 34 RBEL (RD 1372/1986)"
-  },
-  {
-    "q": "¿A quién le corresponde realizar la rectificación del Inventario de bienes de una entidad local?",
-    "options": [
-      "Al Pleno.",
-      "A la Comunidad Autónoma respectiva.",
-      "Al Alcalde.",
-      "A la Comisión de Gobierno."
-    ],
-    "correct": 0,
-    "exp": "Art. 34: la rectificación (que el art. 33.1 ordena verificar anualmente) la acuerda el Pleno; el Secretario solo autoriza el inventario con el visto bueno del Presidente (art. 32.1).",
-    "fuente": "Art. 34 RBEL (RD 1372/1986)"
-  },
-  {
-    "q": "¿A quién le corresponde realizar la comprobación del Inventario de bienes de una entidad local?",
-    "options": [
-      "Al Alcalde.",
-      "Al Pleno.",
-      "A la Comisión de Gobierno.",
-      "A la Comunidad Autónoma respectiva."
-    ],
     "correct": 1,
-    "exp": "Art. 34: la comprobación (que el art. 33.2 exige siempre que se renueve la Corporación) también corresponde acordarla al Pleno.",
-    "fuente": "Art. 34 RBEL (RD 1372/1986)"
+    "exp": "El art. 14.1.g) de la Ley 10/2017, de régimen especial del municipio de Zaragoza, atribuye al Gobierno de Zaragoza (nombre que recibe allí la Junta de Gobierno Local) «los acuerdos relativos a la aceptación de bienes, alteración de la calificación jurídica de los bienes, mutaciones demaniales, desafectación de bienes comunales, aprobación del inventario y sus rectificaciones anuales». Es una atribución delegable (art. 14.2). En los demás municipios aragoneses la aprueba el Pleno: «Corresponde al Pleno de la respectiva Corporación la aprobación del inventario ya formado y de sus rectificaciones anuales» (art. 27.1 del Decreto 347/2002, RBASO; en el mismo sentido, art. 34 RBEL). En Zaragoza no rige esa regla, porque las competencias que la legislación autonómica atribuye a los órganos del Ayuntamiento «se ejercerán conforme a la distribución de competencias prevista en esta Ley» (DA 1.ª.4 de la Ley 10/2017). La Comunidad Autónoma solo recibe copia de las rectificaciones anuales.",
+    "fuente": "Art. 14.1.g) Ley 10/2017; art. 27.1 RBASO (Decreto 347/2002); art. 34 RBEL"
   },
   {
     "q": "¿Qué documento es necesario para inscribir en el Registro de la propiedad los bienes inmuebles de una entidad local?",
@@ -15525,7 +15477,7 @@ const QUESTIONS = {
     "fuente": "Art. 12.1 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 12.2 de la LBRL, la creación o supresión de municipios, así como la alteración de términos municipales, se regula por:",
+    "q": "Según el art. 13.1 de la LBRL, la creación o supresión de municipios, así como la alteración de términos municipales, se regula por:",
     "options": [
       "Un decreto del Consejo de Ministros sin más intervención",
       "Exclusivamente el Código Civil",
@@ -15533,8 +15485,8 @@ const QUESTIONS = {
       "La legislación de las Comunidades Autónomas sobre régimen local"
     ],
     "correct": 3,
-    "exp": "Art. 12.2: 'La creación o supresión de municipios, así como la alteración de términos municipales, se regulará por la legislación de las Comunidades Autónomas sobre régimen local.'",
-    "fuente": "Art. 12.2 LBRL (Ley 7/1985)"
+    "exp": "Art. 13.1 LBRL: «La creación o supresión de municipios, así como la alteración de términos municipales, se regularán por la legislación de las Comunidades Autónomas sobre régimen local». En Aragón, esa legislación es la Ley 7/1999, de Administración Local de Aragón, cuyo art. 14 dice que la resolución definitiva del expediente «se efectuará por Decreto del Gobierno de Aragón». No la regula un decreto del Consejo de Ministros, ni el Código Civil, ni el Reglamento de Población y Demarcación Territorial. El art. 12.2 dice otra cosa: «Cada municipio pertenecerá a una sola provincia».",
+    "fuente": "Art. 13.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 15 de la LBRL, el Estado y las Comunidades Autónomas, cuando en aplicación de sus respectivas competencias impongan a los municipios la prestación de servicios, deben tener en cuenta:",
@@ -15753,18 +15705,6 @@ const QUESTIONS = {
     "fuente": "Art. 125 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 126.2 de la LBRL, la Junta de Gobierno Local de un municipio de gran población está integrada por el Alcalde y un número de concejales:",
-    "options": [
-      "No inferior a la mitad del Pleno, en todo caso",
-      "No superior a un tercio del número legal de miembros del Pleno, además de los concejales",
-      "Igual al número total de concejales de la oposición",
-      "Fijado libremente sin ningún límite legal"
-    ],
-    "correct": 1,
-    "exp": "Art. 126.2: la Junta de Gobierno Local está integrada por el Alcalde y un número de concejales no superior a un tercio del número legal de miembros del Pleno, nombrados y separados libremente por el Alcalde.",
-    "fuente": "Art. 126.2 LBRL (Ley 7/1985)"
-  },
-  {
     "q": "Según el art. 127 de la LBRL, corresponde a la Junta de Gobierno Local de los municipios de gran población, entre otras atribuciones:",
     "options": [
       "La convocatoria de elecciones municipales",
@@ -15775,18 +15715,6 @@ const QUESTIONS = {
     "correct": 2,
     "exp": "Art. 127.1 a): corresponde a la Junta de Gobierno Local 'La aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones.'",
     "fuente": "Art. 127.1 a) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 127.1 de la LBRL, también corresponde a la Junta de Gobierno Local, entre otras, la competencia como órgano de contratación respecto de los contratos:",
-    "options": [
-      "De cualquier cuantía sin límite alguno, reservado únicamente a este órgano",
-      "Exclusivamente de suministro de material de oficina",
-      "Solo de importe inferior a mil euros",
-      "De cuantía relevante fijada por la legislación de contratos del sector público para municipios de gran población"
-    ],
-    "correct": 3,
-    "exp": "El art. 127.1 f) atribuye a la Junta de Gobierno Local las competencias como órgano de contratación que la legislación sobre contratos del sector público asigna específicamente a este órgano en los municipios de gran población.",
-    "fuente": "Art. 127.1 f) LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 128 de la LBRL, los distritos son:",
@@ -16173,18 +16101,6 @@ const QUESTIONS = {
     "fuente": "Art. 13.2 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 14 de la LBRL, corresponde a los municipios interesados, además de otras Administraciones, la iniciativa para:",
-    "options": [
-      "La alteración de términos municipales, que en todo caso debe ser resuelta por la Comunidad Autónoma",
-      "Aprobar tratados internacionales de límites fronterizos",
-      "Disolver la Diputación Provincial",
-      "Modificar el Estatuto de Autonomía de la Comunidad correspondiente"
-    ],
-    "correct": 0,
-    "exp": "Art. 14 LBRL: la alteración de términos municipales puede ser promovida, entre otros, por los propios municipios interesados, correspondiendo su resolución definitiva a la Comunidad Autónoma.",
-    "fuente": "Art. 14 LBRL (Ley 7/1985)"
-  },
-  {
     "q": "Según el art. 17 de la LBRL, la formación, mantenimiento, revisión y custodia del padrón municipal corresponde:",
     "options": [
       "Al Instituto Nacional de Estadística exclusivamente",
@@ -16343,62 +16259,50 @@ const QUESTIONS = {
   {
     "q": "Según el art. 26.2 de la LBRL, en los municipios con población inferior a 20.000 habitantes, es la Diputación Provincial o entidad equivalente la que coordina la prestación de determinados servicios mínimos, mediante:",
     "options": [
-      "La cesión de la titularidad del servicio al Estado central",
-      "La privatización obligatoria de todos los servicios afectados",
-      "Fórmulas de prestación unificada o supramunicipal, para reducir los costes efectivos de los servicios",
-      "La supresión directa de dichos servicios sin sustitución alguna"
+      "La cesión de la titularidad de los servicios a la Administración General del Estado",
+      "La privatización obligatoria de todos los servicios afectados mediante contratos de concesión",
+      "La prestación directa por la Diputación o fórmulas de gestión compartida, como consorcios o mancomunidades",
+      "La supresión de dichos servicios en los municipios afectados, sin sustitución alguna"
     ],
     "correct": 2,
-    "exp": "Art. 26.2 LBRL: en los municipios de menos de 20.000 habitantes, corresponde a la Diputación Provincial o entidad equivalente coordinar la prestación de determinados servicios mínimos, proponiendo fórmulas de prestación unificada o supramunicipal para reducir costes.",
+    "exp": "Art. 26.2 LBRL: en los municipios con población inferior a 20.000 habitantes, la Diputación provincial o entidad equivalente coordina la prestación de la recogida y tratamiento de residuos, el abastecimiento de agua potable a domicilio y la evacuación y tratamiento de aguas residuales, la limpieza viaria, el acceso a los núcleos de población, la pavimentación de vías urbanas y el alumbrado público. Para ello propone, con la conformidad de los municipios afectados, «la forma de prestación, consistente en la prestación directa por la Diputación o la implantación de fórmulas de gestión compartida a través de consorcios, mancomunidades u otras fórmulas». La expresión «fórmulas de prestación unificada o supramunicipal para reducir sus costes efectivos» no es de este artículo, sino del art. 36.2.a), sobre el plan provincial de cooperación. La STC 111/2016 anuló los incisos del art. 26.2 que dirigían la propuesta al Ministerio de Hacienda y Administraciones Públicas y le encomendaban decidir sobre ella. Ni la cesión al Estado, ni la privatización, ni la supresión de los servicios aparecen en el precepto.",
     "fuente": "Art. 26.2 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 26.3 de la LBRL, la Diputación Provincial, en el ejercicio de la coordinación a que se refiere el apartado 2, propone, con la conformidad de los municipios afectados, al Ministerio de Hacienda y Administraciones Públicas:",
+    "q": "Según el art. 26.2 de la LBRL, la forma de prestación que propone la Diputación para coordinar determinados servicios en los municipios de menos de 20.000 habitantes requiere la conformidad de:",
     "options": [
-      "La convocatoria de nuevas elecciones municipales anticipadas",
-      "La cesión de la totalidad de sus competencias al Estado",
-      "La disolución del municipio afectado",
-      "La forma de prestación de los servicios, consistente en la prestación directa por la Diputación o la implantación de fórmulas de gestión compartida"
+      "La Delegación del Gobierno en la Comunidad Autónoma",
+      "La Comunidad Autónoma que ejerza la tutela financiera",
+      "La mayoría de los municipios de la provincia",
+      "Los municipios afectados por esa coordinación"
     ],
     "correct": 3,
-    "exp": "Art. 26.3 LBRL: la Diputación, en su función de coordinación de servicios mínimos, propone al Ministerio competente, con la conformidad de los municipios afectados, la forma de prestación de los servicios (prestación directa por la Diputación o fórmulas de gestión compartida).",
-    "fuente": "Art. 26.3 LBRL (Ley 7/1985)"
+    "exp": "Art. 26.2 LBRL, párrafo segundo: «Para coordinar la citada prestación de servicios la Diputación propondrá, con la conformidad de los municipios afectados, […] la forma de prestación, consistente en la prestación directa por la Diputación o la implantación de fórmulas de gestión compartida a través de consorcios, mancomunidades u otras fórmulas». La Ley 27/2013 dirigía esa propuesta «al Ministerio de Hacienda y Administraciones Públicas», que decidía sobre ella con «el informe preceptivo de la Comunidad Autónoma si es la Administración que ejerce la tutela financiera». La Sentencia del Tribunal Constitucional 111/2016, de 9 de junio, declaró inconstitucionales y nulos esos incisos. El precepto vigente no pide la conformidad de la Comunidad Autónoma, de la Delegación del Gobierno ni del resto de municipios de la provincia: solo la de los municipios afectados. El art. 26.3 trata de otra cosa: la asistencia de las Diputaciones a los municipios, que se dirige preferentemente a los servicios mínimos.",
+    "fuente": "Art. 26.2 LBRL (Ley 7/1985); STC 111/2016"
   },
   {
-    "q": "Según el art. 27 de la LBRL, la Administración General del Estado, las Comunidades Autónomas y otras Entidades Locales pueden delegar en los municipios el ejercicio de competencias en materias que afecten a sus intereses propios, siempre que con ello se:",
+    "q": "Según el art. 27.1 de la LBRL, la delegación de competencias del Estado o de las Comunidades Autónomas en los municipios habrá de mejorar la eficiencia de la gestión pública, ser acorde con la legislación de estabilidad presupuestaria y sostenibilidad financiera y, además:",
     "options": [
-      "Mejore la eficiencia de la gestión pública y se alcance una mayor participación ciudadana",
-      "Reduzca de forma automática la financiación municipal, sin compensación",
-      "Suprima la responsabilidad de la Administración delegante",
-      "Elimine cualquier control posterior sobre la competencia delegada"
+      "Contribuir a eliminar duplicidades administrativas",
+      "Alcanzar una mayor participación ciudadana en la gestión",
+      "Suprimir la responsabilidad de la Administración delegante",
+      "Eliminar cualquier control posterior sobre la competencia delegada"
     ],
     "correct": 0,
-    "exp": "Art. 27.1 LBRL: la delegación de competencias en los municipios exige, entre otras condiciones, que mejore la eficiencia de la gestión pública y contribuya a una mayor participación ciudadana.",
-    "fuente": "Art. 27.1 LBRL (Ley 7/1985)"
+    "exp": "Art. 27.1 LBRL, párrafo segundo: «La delegación habrá de mejorar la eficiencia de la gestión pública, contribuir a eliminar duplicidades administrativas y ser acorde con la legislación de estabilidad presupuestaria y sostenibilidad financiera». Es la redacción de la Ley 27/2013. La de 1985 permitía delegar también a «otras entidades locales» y exigía «que con ello se mejore la eficacia de la gestión pública y se alcance una mayor participación ciudadana»; la participación ciudadana ya no figura entre los requisitos. Tampoco desaparece la responsabilidad ni el control de la Administración delegante: el art. 27.4 le permite dictar instrucciones, recabar información y, en su caso, revocar la delegación.",
+    "fuente": "Art. 27.1 LBRL (Ley 7/1985), en la redacción de la Ley 27/2013"
   },
   {
-    "q": "Según el art. 27.2 de la LBRL, la delegación de competencias debe ir acompañada, en todo caso, de:",
+    "q": "Según el art. 27.6 de la LBRL, la delegación de competencias debe ir acompañada, en todo caso, de:",
     "options": [
       "La supresión simultánea de una competencia estatal equivalente",
-      "La correspondiente financiación, para lo cual será necesaria la existencia de dotación presupuestaria adecuada y suficiente",
+      "La correspondiente financiación, con dotación presupuestaria adecuada y suficiente",
       "Una reducción proporcional de otras competencias propias del municipio",
       "Ninguna dotación adicional, entendiéndose que el municipio la asume gratuitamente"
     ],
     "correct": 1,
-    "exp": "Art. 27.2 LBRL: la delegación de competencias debe ir acompañada de la correspondiente financiación, exigiéndose dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante para cada ejercicio económico.",
-    "fuente": "Art. 27.2 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 27.3 de la LBRL, la disposición o el acuerdo de delegación de competencias debe determinar, entre otros extremos, el alcance, contenido, condiciones y duración de esta, que no podrá ser inferior a:",
-    "options": [
-      "Un año",
-      "Diez años",
-      "Cinco años",
-      "Seis meses"
-    ],
-    "correct": 2,
-    "exp": "Art. 27.3 c) LBRL: la delegación debe determinar 'El alcance, contenido, condiciones y duración de esta, que no podrá ser inferior a cinco años.'",
-    "fuente": "Art. 27.3 c) LBRL (Ley 7/1985)"
+    "exp": "Art. 27.6 LBRL: «La delegación habrá de ir acompañada en todo caso de la correspondiente financiación, para lo cual será necesaria la existencia de dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante para cada ejercicio económico, siendo nula sin dicha dotación». No exige suprimir una competencia estatal ni reducir otras competencias municipales, y el municipio no la asume gratis. El art. 27.2 trata de otra cosa: la delegación en dos o más municipios de la misma provincia debe seguir criterios homogéneos.",
+    "fuente": "Art. 27.6 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 121 de la LBRL, en relación con el Título X, ¿pueden los propios municipios promover, mediante iniciativa expresa del Pleno, su inclusión en el régimen de gran población aunque no alcancen los umbrales de población fijados?",
@@ -16509,16 +16413,16 @@ const QUESTIONS = {
     "fuente": "Art. 122.4 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 122.5 de la LBRL, corresponde al Pleno, entre otras funciones, elegir de entre sus miembros al que haya de presidir determinadas comisiones, así como al Secretario del Pleno, cuyas funciones se determinan en la propia ley y en:",
+    "q": "Según el art. 122.5 de la LBRL, las funciones del secretario general del Pleno de un municipio de gran población quedan reservadas a:",
     "options": [
-      "El reglamento orgánico municipal",
-      "Un decreto del Ministerio de Hacienda",
-      "La legislación electoral general exclusivamente",
-      "El Código Civil, con carácter supletorio"
+      "Funcionarios de Administración local con habilitación de carácter nacional",
+      "Concejales que el Pleno elija de entre sus miembros por mayoría absoluta",
+      "Personal eventual de confianza nombrado libremente por el Alcalde",
+      "Funcionarios de carrera del propio Ayuntamiento que designe la Junta de Gobierno Local"
     ],
     "correct": 0,
-    "exp": "Art. 122.5 LBRL: prevé la existencia de un Secretario del Pleno, cuyas funciones se detallan en la propia ley y se desarrollan, con mayor concreción, en el reglamento orgánico municipal de cada Ayuntamiento.",
-    "fuente": "Art. 122.5 LBRL (Ley 7/1985)"
+    "exp": "Art. 122.5 LBRL: las funciones del secretario general del Pleno, «que lo será también de las comisiones», son la redacción y custodia de las actas, las certificaciones, la asistencia al Presidente, la comunicación y publicación de los acuerdos y el asesoramiento legal. El último párrafo dice: «Dichas funciones quedan reservadas a funcionarios de Administración local con habilitación de carácter nacional». Su nombramiento «corresponderá al Presidente en los términos previstos en la disposición adicional octava», que remite a los sistemas de provisión del art. 99 y exige «en todo caso una previa convocatoria pública». Por eso no puede ser un concejal elegido por el Pleno, personal eventual ni cualquier funcionario del Ayuntamiento designado por la Junta de Gobierno Local. Rige también en Zaragoza, cuyo Pleno «contará con un Secretario General» (art. 10.3 de la Ley 10/2017).",
+    "fuente": "Art. 122.5 LBRL (Ley 7/1985); disposición adicional octava LBRL"
   },
   {
     "q": "¿Qué relación existe entre el régimen especial de Zaragoza (Ley 10/2017) y el régimen general de los municipios de gran población (Título X LBRL)?",
@@ -16605,16 +16509,16 @@ const QUESTIONS = {
     "fuente": "Art. 25.2 a) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 26.1 del TRLRHL en relación con los servicios mínimos del art. 26 LBRL, ¿puede un municipio quedar dispensado de la obligación de prestar alguno de los servicios mínimos legalmente exigidos?",
+    "q": "En la redacción vigente del art. 26 LBRL, dada por la Ley 27/2013, ¿se contempla que la Comunidad Autónoma dispense a un municipio de prestar los servicios mínimos obligatorios?",
     "options": [
-      "No, la obligación de prestar servicios mínimos es absoluta e inderogable en todo caso",
-      "Sí, pero solo mediante ley orgánica estatal",
-      "Sí, la Comunidad Autónoma puede dispensar de la obligación de prestar servicios mínimos cuando su cumplimiento resulte de muy difícil o imposible cumplimiento",
-      "No, únicamente puede dispensar el Estado, nunca la Comunidad Autónoma"
+      "Sí, cuando por sus características peculiares resulte de imposible o muy difícil cumplimiento prestarlos",
+      "Sí, pero solo a los municipios de menos de 5.000 habitantes y previo informe de la Diputación",
+      "No; esa dispensa la preveía el art. 26.2, y la Ley 27/2013 la suprimió al dar nueva redacción al artículo",
+      "No; el art. 26 solo permite que la dispense el Estado, a propuesta de la Diputación provincial"
     ],
     "correct": 2,
-    "exp": "El art. 26.2 LBRL (redacción vigente) permite a la Diputación o entidad equivalente, e incluso a la Comunidad Autónoma en determinados supuestos, dispensar o adaptar la prestación de servicios mínimos cuando resulte de muy difícil o imposible cumplimiento en atención a las características del municipio.",
-    "fuente": "Art. 26.2 LBRL (Ley 7/1985)"
+    "exp": "Hasta la Ley 27/2013, el art. 26.2 LBRL decía: «Los Municipios podrán solicitar de la Comunidad Autónoma respectiva la dispensa de la obligación de prestar los servicios mínimos que les correspondan según lo dispuesto en el número anterior cuando, por sus características peculiares, resulte de imposible o muy difícil cumplimiento el establecimiento y prestación de dichos servicios por el propio Ayuntamiento». La Ley 27/2013 (art. 1.9) dio nueva redacción al art. 26 y esa dispensa desapareció. Hoy el art. 26.1 dice que los municipios «deberán prestar, en todo caso,» los servicios que enumera, y el art. 26.2 regula otra cosa: «En los municipios con población inferior a 20.000 habitantes será la Diputación provincial o entidad equivalente la que coordinará la prestación de los siguientes servicios». El art. 26 vigente no prevé ninguna dispensa, ni autonómica ni estatal. La única que conserva la LBRL es distinta: el municipio resultante de una fusión «Queda dispensado de prestar nuevos servicios mínimos de los previstos en el artículo 26 que le corresponda por razón de su aumento poblacional» (art. 13.4.f). Aviso para Aragón: el art. 45 de la Ley 7/1999, de Administración Local de Aragón, anterior a la reforma de 2013 y no modificado, sigue diciendo que los municipios «podrán solicitar a la Diputación General de Aragón la dispensa de la obligación de prestar los servicios mínimos»; esta pregunta se refiere solo a la LBRL. Zaragoza, con más de 50.000 habitantes, debe prestar todos los servicios del art. 26.1, incluidos el transporte colectivo urbano de viajeros y el medio ambiente urbano.",
+    "fuente": "Art. 26 LBRL (Ley 7/1985), en la redacción de la Ley 27/2013"
   },
   {
     "q": "¿Cuál es la finalidad última que persigue el establecimiento de servicios mínimos obligatorios escalonados según población en el art. 26 LBRL?",

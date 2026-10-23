@@ -74,7 +74,8 @@ registerEsquema('aux-admin-zaragoza', 18, {
         {t: 'Nacionales de la UE: acceso como <b>funcionarios</b>, salvo empleos con participación en el poder público o salvaguardia de los intereses del Estado.', a: '57.1'},
         {t: 'También su cónyuge no separado de derecho y los descendientes <b>menores de 21 años</b> o mayores dependientes.', a: '57.2'},
         {t: 'Extranjeros con residencia legal: solo como <b>personal laboral</b>. Eximir de la nacionalidad para ser funcionario: <b>solo por ley</b> de las Cortes o de un parlamento autonómico.', a: '57.4-5'},
-        {t: 'Discapacidad: cupo <b>no inferior al 7 %</b> de las vacantes; de él, al menos el <b>2 %</b> de las plazas para discapacidad intelectual y el resto para otras discapacidades (con los mínimos: 2 % + <b>5 %</b>). Objetivo: llegar progresivamente al 2 % de los efectivos totales de cada Administración.', a: '59.1', examen: '2025'}
+        {t: 'Discapacidad: cupo <b>no inferior al 7 %</b> de las vacantes; de él, al menos el <b>2 %</b> de las plazas para discapacidad intelectual y el resto para otras discapacidades (con los mínimos: 2 % + <b>5 %</b>). Objetivo: llegar progresivamente al 2 % de los efectivos totales de cada Administración.', a: '59.1', examen: '2025'},
+        {t: 'En Aragón, también en Zaragoza: cupo <b>no inferior al 8 %</b>, con al menos un <b>2 %</b> para discapacidad intelectual y un <b>1 %</b> para enfermedad mental (grado igual o superior al 33 %). El 7 % del TREBEP es un mínimo; si preguntan «según el TREBEP», la respuesta sigue siendo el 7 %.', a: 'Ley 5/2019 de Aragón, art. 27.2'}
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Órganos de selección · art. 60', reglas: [

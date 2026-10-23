@@ -476,16 +476,16 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
     "confianza": "alta"
   },
   {
-    "q": "El número, características y retribuciones del personal eventual de las entidades locales:",
+    "q": "Según el art. 104.1 LBRL, el número, características y retribuciones del personal eventual de las entidades locales:",
     "options": [
-      "Los determina el Pleno de cada Corporación al comienzo de su mandato, y solo pueden modificarse con motivo de la aprobación de los Presupuestos anuales",
-      "Los fija la Junta de Gobierno Local en cualquier momento del mandato",
-      "Los fija el Alcalde mediante decreto, dando cuenta al Pleno en la sesión siguiente",
+      "Los determina el Pleno al comienzo del mandato, y solo pueden modificarse al aprobar los presupuestos anuales",
+      "Los determina el Pleno cuando lo considere oportuno, sin más límite que el número máximo de puestos del art. 104 bis",
+      "Los fija el Alcalde mediante decreto al comienzo del mandato, dando cuenta al Pleno en la sesión siguiente",
       "Los determina el Pleno en la sesión de aprobación de la liquidación del Presupuesto de cada ejercicio"
     ],
     "correct": 0,
-    "exp": "El art. 104.1 LBRL reserva al Pleno de cada Corporación la determinación del número, características y retribuciones del personal eventual al comienzo de su mandato, y limita su modificación a la aprobación de los Presupuestos anuales.",
-    "fuente": "Art. 104.1 LBRL (Ley 7/1985)",
+    "exp": "Art. 104.1 LBRL: «El número, características y retribuciones del personal eventual será determinado por el Pleno de cada Corporación, al comienzo de su mandato. Estas determinaciones sólo podrán modificarse con motivo de la aprobación de los presupuestos anuales». No se fijan en cualquier momento, ni por decreto del Alcalde, ni al aprobar la liquidación. Es la regla general. En los municipios de gran población, como Zaragoza, el art. 127.1.h) LBRL atribuye a la Junta de Gobierno Local «el número y régimen del personal eventual», y el art. 14.1.i) de la Ley 10/2017, de capitalidad, lo atribuye al Gobierno de Zaragoza, que es el nombre de la Junta de Gobierno Local en Zaragoza (disposición adicional segunda). Es una atribución que no se puede delegar (art. 14.2 de la Ley 10/2017). El nombramiento y el cese siguen correspondiendo al Alcalde (art. 104.2 LBRL).",
+    "fuente": "Art. 104.1 LBRL (Ley 7/1985); arts. 127.1.h) LBRL y 14.1.i) Ley 10/2017",
     "confianza": "alta"
   },
   {
@@ -22260,13 +22260,13 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "q": "El acuerdo de cesión gratuita de bienes de una entidad local, según el art. 110.1 RBEL, requiere...",
     "options": [
       "Mayoría absoluta del número legal de miembros de la Corporación",
-      "Mayoría simple de los miembros asistentes",
-      "Dos tercios del número de hecho de miembros",
-      "Unanimidad de los miembros de la Corporación"
+      "Mayoría simple de los miembros asistentes a la sesión",
+      "Dos tercios del número de hecho de miembros de la Corporación",
+      "Unanimidad de los miembros presentes de la Corporación"
     ],
     "correct": 0,
-    "exp": "El art. 110.1 RBEL exige que la cesión gratuita de bienes se adopte con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
-    "fuente": "Art. 110.1 RBEL",
+    "exp": "El art. 110.1 RBEL exige que la cesión gratuita de bienes se acuerde con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación. En Aragón lo dice el art. 119.2 del Decreto 347/2002 (RBASO): «la cesión gratuita deberá ser aprobada por el Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de sus miembros»; y el art. 47.2.ñ) LBRL incluye la «Cesión gratuita de bienes a otras Administraciones o instituciones públicas» entre los acuerdos que exigen esa mayoría. Es la regla general. En Zaragoza, municipio de gran población, el art. 47.3 LBRL remite la adopción de acuerdos al art. 123.2, que no incluye la cesión gratuita, y el art. 14.1.g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza las competencias relativas a la «adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal».",
+    "fuente": "Art. 110.1 RBEL; art. 119.2 RBASO (Decreto 347/2002); art. 47.2.ñ) LBRL; en Zaragoza, arts. 47.3 LBRL y 14.1.g) Ley 10/2017",
     "confianza": "alta"
   },
   {
@@ -22441,14 +22441,14 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
   {
     "q": "Las cesiones de parcelas a vecinos jornaleros a que se refiere el art. 116.2 RBEL deben ser acordadas por...",
     "options": [
-      "La Junta de Gobierno Local",
-      "El Ayuntamiento Pleno, con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
-      "La Comisión de Hacienda del Ayuntamiento",
-      "El Alcalde mediante decreto"
+      "La Diputación Provincial, a propuesta del Ayuntamiento interesado",
+      "El Ayuntamiento Pleno, por mayoría absoluta del número legal de miembros de la Corporación",
+      "El Ayuntamiento Pleno, por mayoría simple de los miembros presentes en la sesión",
+      "El Alcalde mediante decreto, dando cuenta al Pleno en la sesión siguiente"
     ],
     "correct": 1,
-    "exp": "El art. 116.2 RBEL exige que dichas cesiones sean acordadas por el Ayuntamiento Pleno con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
-    "fuente": "Art. 116.2 RBEL",
+    "exp": "El art. 116.2 RBEL exige que estas cesiones las acuerde el Ayuntamiento Pleno con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación. En Aragón, el art. 105.2 del Decreto 347/2002 (RBASO) recoge la misma regla para la cesión de parcelas a vecinos para plantar arbolado: «Dichas cesiones habrán de ser acordadas por el Ayuntamiento en Pleno, con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación». Es la regla general. En Zaragoza, el art. 14.1.g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza las competencias relativas a la «adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal», y las que la legislación autonómica atribuya a otros órganos se ejercen conforme a esa ley (DA 1.ª.4).",
+    "fuente": "Art. 116.2 RBEL; art. 105.2 RBASO (Decreto 347/2002); en Zaragoza, art. 14.1.g) Ley 10/2017",
     "confianza": "alta"
   },
   {
@@ -23056,14 +23056,14 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
   {
     "q": "Según el art. 102 RBEL, la cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por:",
     "options": [
-      "El Alcalde por delegación de competencias",
-      "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
-      "La Comisión Informativa correspondiente",
-      "La Junta de Gobierno Local por mayoría simple"
+      "La Diputación Provincial, por delegación del municipio titular",
+      "El Pleno de la Corporación, por mayoría absoluta del número legal de miembros",
+      "El Pleno de la Corporación, por mayoría simple de los miembros presentes",
+      "El Secretario de la Corporación, previo informe del Interventor"
     ],
     "correct": 1,
-    "exp": "Art. 102 RBEL: 'La cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por el Pleno de la Corporación, requiriéndose el voto favorable de la mayoría absoluta del número legal de miembros.'",
-    "fuente": "Art. 102 RBEL",
+    "exp": "Art. 102 RBEL: «La cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por el Pleno de la Corporación, requiriéndose el voto favorable de la mayoría absoluta del número legal de miembros». Exigen la misma mayoría el art. 47.2.i) LBRL («Cesión por cualquier título del aprovechamiento de los bienes comunales») y, en Aragón, el art. 126.4.g) de la Ley 7/1999, que incluye «la cesión, por cualquier título, de su aprovechamiento» entre los acuerdos que requieren la mayoría absoluta del número legal de miembros de la Corporación. No basta, por tanto, la mayoría simple, y no deciden la Diputación Provincial ni el Secretario. Es la regla general. En Zaragoza, el art. 14.1.g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza las competencias relativas al «aprovechamiento» del patrimonio municipal y la «desafectación de bienes comunales», y el Pleno no tiene atribuida esta materia (art. 11 de esa ley; art. 123 LBRL).",
+    "fuente": "Art. 102 RBEL (RD 1372/1986); art. 47.2.i) LBRL; art. 126.4.g) Ley 7/1999; en Zaragoza, art. 14.1.g) Ley 10/2017",
     "confianza": "alta"
   },
   {
@@ -23700,13 +23700,13 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "q": "Según el art. 34 RBEL, ¿qué órgano es competente para acordar la aprobación del inventario, su rectificación y comprobación?",
     "options": [
       "El Pleno de la Corporación local",
-      "La Junta de Gobierno Local",
+      "La Comisión Especial de Cuentas",
       "El Secretario de la Corporación",
       "El Alcalde-Presidente, por delegación permanente"
     ],
     "correct": 0,
-    "exp": "Art. 34: 'El Pleno de la Corporación local será el órgano competente para acordar la aprobación del inventario ya formado, su rectificación y comprobación.'",
-    "fuente": "Art. 34 RBEL (RD 1372/1986)",
+    "exp": "Art. 34 RBEL: «El Pleno de la Corporación local será el órgano competente para acordar la aprobación del inventario ya formado, su rectificación y comprobación». En Aragón dice lo mismo, para la aprobación y las rectificaciones anuales, el art. 27.1 del Decreto 347/2002 (RBASO). El Secretario autoriza el inventario con el visto bueno del Presidente (art. 32.1 RBEL), pero no lo aprueba. En Zaragoza la regla es otra: el art. 14.1.g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza la «aprobación del inventario y sus rectificaciones anuales».",
+    "fuente": "Art. 34 RBEL (RD 1372/1986); art. 27.1 RBASO; en Zaragoza, art. 14.1.g) Ley 10/2017",
     "confianza": "alta"
   },
   {
@@ -36846,11 +36846,11 @@ window.addQuestions('aux-admin-zaragoza', 3, [  {
       "La elección, de entre sus miembros, del Presidente de Aragón",
       "El nombramiento del Presidente del Tribunal Superior de Justicia",
       "La elección del Justicia de Aragón, sin intervención en su nombramiento ni cese",
-      "La designación de los Senadores en representación de Aragón"
+      "El nombramiento y la separación de los Consejeros del Gobierno de Aragón"
     ],
     "correct": 0,
-    "exp": "El art. 41.a) EAA atribuye a las Cortes de Aragón la elección, de entre sus miembros, del Presidente de Aragón.",
-    "fuente": "Art. 41.a) EAA",
+    "exp": "El art. 41.a) EAA atribuye a las Cortes de Aragón «La elección, de entre sus miembros, del Presidente de Aragón». Los Consejeros los «nombra y separa libremente» el Presidente (art. 53.2). El Presidente del Tribunal Superior de Justicia «Es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial» (art. 63.3). Y en cuanto al Justicia de Aragón, a las Cortes les corresponde «La elección, nombramiento y cese» (art. 41.b), no solo la elección.",
+    "fuente": "Art. 41.a) EAA (LO 5/2007)",
     "confianza": "alta"
   },
   {
@@ -40165,16 +40165,16 @@ window.addQuestions('aux-admin-zaragoza', 2, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el apartado 2.3 (Normativa Nacional) del II Plan de Igualdad de Zaragoza, ¿qué ley introdujo apartados relativos al Registro de Planes de Igualdad y a la igualdad retributiva, desarrollados después por el RD 901/2020 y el RD 902/2020, ambos de 13 de octubre?",
+    "q": "Según el apartado 2.3 (Normativa Nacional) del II Plan de Igualdad de Zaragoza, ¿qué norma introdujo apartados relativos al Registro de Planes de Igualdad y a la igualdad retributiva, desarrollados después por el RD 901/2020 y el RD 902/2020, ambos de 13 de octubre?",
     "options": [
-      "La Ley 6/2019, de 1 de marzo",
+      "El Real Decreto-ley 6/2019, de 1 de marzo",
       "La Ley 15/2022, de 12 de julio",
       "La Ley Orgánica 10/2022, de 6 de septiembre",
       "La Ley Orgánica 3/2007, de 22 de marzo"
     ],
     "correct": 0,
-    "exp": "El Plan indica: 'la ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, introduciendo nuevos apartados como el referido al Registro de Planes de Igualdad e igualdad retributiva (desarrolladas en el RD 901/2020 y RD 902/2020, de 13 de octubre)'.",
-    "fuente": "Marco normativo, apartado 2.3 Normativa Nacional, II Plan de Igualdad Zaragoza",
+    "exp": "El apartado 2.3 del Plan dice que la Ley Orgánica 3/2007 ha sido modificada por el «Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación», «introduciendo nuevos apartados como el referido al Registro de Planes de Igualdad e igualdad retributiva» (desarrollados en el RD 901/2020 y el RD 902/2020). Es un real decreto-ley, no una ley: en el PDF del Plan la palabra «Real Decreto-» queda al final de una página y «ley 6/2019» al principio de la siguiente. La Ley Orgánica 3/2007 es la norma modificada, no la que introdujo esos apartados.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza, apartado 2.3; RDL 6/2019 (BOE-A-2019-3244)",
     "confianza": "alta"
   },
   {
@@ -50153,13 +50153,13 @@ window.addQuestions("aux-admin-zaragoza", 18, [
   {
     "q": "Según el art. 55.2 del TREBEP, las Administraciones Públicas seleccionarán a su personal, entre otros principios, con arreglo a los de:",
     "options": [
-      "Discrecionalidad y confidencialidad absoluta",
+      "Confidencialidad y reserva de las convocatorias",
       "Proporcionalidad retributiva y jerarquía funcional",
       "Antigüedad exclusiva del solicitante",
-      "Publicidad, transparencia y objetividad"
+      "Publicidad, transparencia e imparcialidad"
     ],
     "correct": 3,
-    "exp": "Art. 55.2 TREBEP: las Administraciones Públicas seleccionan a su personal con arreglo a los principios de publicidad, transparencia, objetividad e igualdad de oportunidades, entre otros. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 55.2 TREBEP, principios con arreglo a los cuales se selecciona al personal, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "exp": "Art. 55.2 TREBEP: además de los principios constitucionales de igualdad, mérito y capacidad, los procedimientos de selección garantizarán estos: «Publicidad de las convocatorias y de sus bases»; transparencia; «Imparcialidad y profesionalidad de los miembros de los órganos de selección»; «Independencia y discrecionalidad técnica en la actuación de los órganos de selección»; «Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar», y «Agilidad, sin perjuicio de la objetividad, en los procesos de selección». La objetividad no figura como principio propio: solo aparece como límite de la agilidad. La confidencialidad de las convocatorias es lo contrario de la publicidad, y la proporcionalidad retributiva, la jerarquía o la antigüedad no aparecen en el precepto. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 55.2 TREBEP, principios con arreglo a los cuales se selecciona al personal, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
     "fuente": "Art. 55.2 TREBEP (RDLeg 5/2015)"
   },
   {
@@ -50211,39 +50211,39 @@ window.addQuestions("aux-admin-zaragoza", 18, [
     "fuente": "Art. 57.1 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 57.4 del TREBEP, por razones de interés general, puede eximirse del requisito de la nacionalidad para el acceso a la condición de personal funcionario, salvo para aquellos que impliquen participación directa o indirecta en el ejercicio de potestades públicas, mediante:",
+    "q": "Según el art. 57.5 del TREBEP, se puede eximir del requisito de la nacionalidad, por razones de interés general, para el acceso a la condición de personal funcionario mediante:",
     "options": [
       "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
       "Convenio internacional ratificado por España sin necesidad de ley",
-      "Decreto del Gobierno sin más trámite",
-      "Resolución del Secretario de Estado de Función Pública"
+      "Real decreto del Consejo de Ministros, previo informe del Consejo de Estado",
+      "Resolución de la Secretaría de Estado de Función Pública, publicada en el BOE"
     ],
     "correct": 0,
-    "exp": "Art. 57.4 TREBEP: la exención del requisito de nacionalidad, en su caso, se realiza mediante ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 57.4 TREBEP, exención del requisito de nacionalidad por ley, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
-    "fuente": "Art. 57.4 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 57.5 TREBEP: «Sólo por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas podrá eximirse del requisito de la nacionalidad por razones de interés general para el acceso a la condición de personal funcionario». Hace falta una ley: no basta un convenio internacional, un decreto del Gobierno ni una resolución administrativa. No hay que confundirlo con el art. 57.4, que permite a los extranjeros con residencia legal en España acceder a las Administraciones Públicas como personal laboral. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 57.5 TREBEP, exención del requisito de nacionalidad por ley, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 57.5 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 59.1 del TREBEP, en las ofertas de empleo público se reservará un cupo no inferior al:",
     "options": [
       "Cinco por ciento de las vacantes",
-      "Siete por ciento de las vacantes para personas con discapacidad",
+      "Siete por ciento de las vacantes",
       "Quince por ciento de las vacantes",
       "Tres por ciento de las vacantes"
     ],
     "correct": 1,
-    "exp": "Art. 59.1 TREBEP: se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 59.1 TREBEP, cupo de reserva para personas con discapacidad, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "exp": "Art. 59.1 TREBEP: «En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad». Es un mínimo común para todas las Administraciones. En Aragón lo eleva el art. 27.2 de la Ley 5/2019, de derechos y garantías de las personas con discapacidad en Aragón: «En las ofertas de empleo público se reservará un cupo no inferior al 8% de las vacantes para ser cubiertas entre personas con discapacidad», con al menos un 2 % para discapacidad intelectual y un 1 % para personas con enfermedad mental. Esa ley se aplica también «A las entidades que integran la Administración local» (art. 2.1.b), así que en las ofertas del Ayuntamiento de Zaragoza el cupo mínimo es del 8 %. Si la pregunta se refiere al TREBEP, como esta, la respuesta es el siete por ciento. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 59.1 TREBEP, cupo de reserva para personas con discapacidad, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
     "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 59.1 del TREBEP, de ese cupo del siete por ciento, al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad:",
     "options": [
       "Sensorial auditiva únicamente",
-      "discapacidad visual",
+      "Visual exclusivamente",
       "Intelectual",
       "Física exclusivamente"
     ],
     "correct": 2,
-    "exp": "Art. 59.1 TREBEP: al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad intelectual, y el resto para cualquier otro tipo de discapacidad. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 59.1 TREBEP, reserva del dos por ciento para personas con discapacidad intelectual, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "exp": "Art. 59.1 TREBEP: «La reserva del mínimo del siete por ciento se realizará de manera que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad». En Aragón, también en el Ayuntamiento de Zaragoza, rige el art. 27.2 de la Ley 5/2019, de derechos y garantías de las personas con discapacidad en Aragón, que eleva el cupo mínimo al 8 % y lo reparte así: «La reserva del mínimo del 8% se realizará de manera que, al menos, el 2% de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y un 1% para personas con enfermedad mental que acrediten un grado de discapacidad igual o superior al 33%». La reserva mínima para discapacidad intelectual es del 2 % con las dos normas. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 59.1 TREBEP, reserva del dos por ciento para personas con discapacidad intelectual, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
     "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)"
   },
   {
@@ -50271,27 +50271,27 @@ window.addQuestions("aux-admin-zaragoza", 18, [
     "fuente": "Art. 61.1 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 61.2 del TREBEP, los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el:",
+    "q": "Según el art. 61.6 del TREBEP, los sistemas selectivos de funcionarios de carrera serán los de oposición y:",
     "options": [
-      "Concurso exclusivo de méritos, como sistema general",
-      "Concurso-oposición, con las fases que se establezcan reglamentariamente",
-      "Sorteo público entre los candidatos presentados",
-      "Nombramiento directo por la autoridad competente"
+      "Concurso de valoración de méritos, como sistema general y ordinario",
+      "Concurso-oposición; el concurso solo cabe por ley, con carácter excepcional",
+      "Sorteo público entre los aspirantes que reúnan los requisitos exigidos",
+      "Nombramiento directo por la autoridad competente, previa entrevista"
     ],
     "correct": 1,
-    "exp": "Art. 61.2 TREBEP: los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el concurso-oposición, que deberán incluir, en todo caso, una o varias pruebas. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 61.2 TREBEP, sistemas selectivos de los funcionarios de carrera, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
-    "fuente": "Art. 61.2 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 61.6 TREBEP: «Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición que deberán incluir, en todo caso, una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación. Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos». El concurso no es, por tanto, un sistema general, y el sorteo o el nombramiento directo no son sistemas selectivos. El art. 61.2 trata de otra cosa: la conexión entre el tipo de pruebas y las tareas de los puestos, y el contenido posible de las pruebas. El Ayuntamiento de Zaragoza convoca las plazas de Auxiliar Administrativo por el sistema selectivo de oposición. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 61.6 TREBEP, sistemas selectivos de los funcionarios de carrera, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 61.6 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:",
     "options": [
-      "Superar un período de prácticas tutorizado de seis meses",
-      "Superar un examen médico adicional posterior al nombramiento",
-      "Prestar juramento o promesa y acatamiento a la Constitución y al resto del ordenamiento jurídico, y tomar posesión dentro del plazo establecido",
+      "Superar un período de prácticas tutorizado de seis meses tras la publicación del nombramiento",
+      "Superar un examen médico adicional posterior al nombramiento, ante el servicio de prevención",
+      "Realizar el acto de acatamiento de la Constitución y tomar posesión dentro del plazo establecido",
       "Obtener la aprobación expresa de una autoridad distinta a la que efectuó el nombramiento"
     ],
     "correct": 2,
-    "exp": "Art. 62.1 TREBEP: la condición de funcionario de carrera se adquiere sucesivamente por la superación del proceso selectivo, el nombramiento por el órgano competente, la prestación de juramento o promesa de acatamiento a la Constitución y al resto del ordenamiento jurídico, y la toma de posesión dentro del plazo establecido. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 62.1 TREBEP, adquisición de la condición de funcionario de carrera, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "exp": "Art. 62.1 TREBEP: la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de cuatro requisitos: «Superación del proceso selectivo»; «Nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente»; «Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico», y «Toma de posesión dentro del plazo que se establezca». El precepto habla de acto de acatamiento y no menciona el juramento ni la promesa. Un período de prácticas, un examen médico posterior o la aprobación de otra autoridad no son requisitos del art. 62.1. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 62.1 TREBEP, adquisición de la condición de funcionario de carrera, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
     "fuente": "Art. 62.1 TREBEP (RDLeg 5/2015)"
   },
   {

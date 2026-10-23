@@ -6,6 +6,392 @@
 window.ACTUALIZACIONES = window.ACTUALIZACIONES || {};
 window.ACTUALIZACIONES["aux-admin-zaragoza"] = [
  {
+  "id": "2026-10-23-correccion-7",
+  "fecha": "2026-10-23",
+  "tipo": "correccion",
+  "titulo": "Correcciones de la segunda ronda de revisión",
+  "texto": "Revisión independiente del banco contra el texto consolidado del BOE y del BOA: preguntas que citaban un artículo equivocado o un inciso anulado por el Tribunal Constitucional, explicaciones inexactas, opciones que delataban la respuesta por su longitud y preguntas repetidas (se archivan, no se borran).",
+  "preguntas": [
+   {
+    "tema": 14,
+    "q": "En la redacción vigente del art. 26 LBRL, dada por la Ley 27/2013, ¿se contempla que la Comunidad Autónoma dispense a un municipio de prestar los servicios mínimos obligatorios?",
+    "options": [
+     "Sí, cuando por sus características peculiares resulte de imposible o muy difícil cumplimiento prestarlos",
+     "Sí, pero solo a los municipios de menos de 5.000 habitantes y previo informe de la Diputación",
+     "No; esa dispensa la preveía el art. 26.2, y la Ley 27/2013 la suprimió al dar nueva redacción al artículo",
+     "No; el art. 26 solo permite que la dispense el Estado, a propuesta de la Diputación provincial"
+    ],
+    "antes": "Sí, la Comunidad Autónoma puede dispensar de la obligación de prestar servicios mínimos cuando su cumplimiento resulte de muy difícil o imposible cumplimiento",
+    "ahora": "No; esa dispensa la preveía el art. 26.2, y la Ley 27/2013 la suprimió al dar nueva redacción al artículo",
+    "nota": "Se reconvierte: el art. 26 LBRL vigente ya no prevé la dispensa autonómica de los servicios mínimos, suprimida en 2013. Se avisa del art. 45 de la ley aragonesa."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 26.2 de la LBRL, la forma de prestación que propone la Diputación para coordinar determinados servicios en los municipios de menos de 20.000 habitantes requiere la conformidad de:",
+    "options": [
+     "La Delegación del Gobierno en la Comunidad Autónoma",
+     "La Comunidad Autónoma que ejerza la tutela financiera",
+     "La mayoría de los municipios de la provincia",
+     "Los municipios afectados por esa coordinación"
+    ],
+    "antes": "La forma de prestación de los servicios, consistente en la prestación directa por la Diputación o la implantación de fórmulas de gestión compartida",
+    "ahora": "Los municipios afectados por esa coordinación",
+    "nota": "Se corrige el artículo (26.2, no 26.3) y se quita la mención al Ministerio, anulada por la STC 111/2016; ahora pregunta de quién se necesita la conformidad."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 26.2 de la LBRL, en los municipios con población inferior a 20.000 habitantes, es la Diputación Provincial o entidad equivalente la que coordina la prestación de determinados servicios mínimos, mediante:",
+    "options": [
+     "La cesión de la titularidad de los servicios a la Administración General del Estado",
+     "La privatización obligatoria de todos los servicios afectados mediante contratos de concesión",
+     "La prestación directa por la Diputación o fórmulas de gestión compartida, como consorcios o mancomunidades",
+     "La supresión de dichos servicios en los municipios afectados, sin sustitución alguna"
+    ],
+    "antes": "Fórmulas de prestación unificada o supramunicipal, para reducir los costes efectivos de los servicios",
+    "ahora": "La prestación directa por la Diputación o fórmulas de gestión compartida, como consorcios o mancomunidades",
+    "nota": "La opción correcta pasa a recoger las formas de prestación que cita el art. 26.2 (prestación directa por la Diputación o gestión compartida)."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 57.5 del TREBEP, se puede eximir del requisito de la nacionalidad, por razones de interés general, para el acceso a la condición de personal funcionario mediante:",
+    "options": [
+     "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
+     "Convenio internacional ratificado por España sin necesidad de ley",
+     "Real decreto del Consejo de Ministros, previo informe del Consejo de Estado",
+     "Resolución de la Secretaría de Estado de Función Pública, publicada en el BOE"
+    ],
+    "antes": "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
+    "ahora": "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
+    "nota": "Se corrige el artículo (57.5, no 57.4) y se quita del enunciado una excepción que no está en la ley."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 61.6 del TREBEP, los sistemas selectivos de funcionarios de carrera serán los de oposición y:",
+    "options": [
+     "Concurso de valoración de méritos, como sistema general y ordinario",
+     "Concurso-oposición; el concurso solo cabe por ley, con carácter excepcional",
+     "Sorteo público entre los aspirantes que reúnan los requisitos exigidos",
+     "Nombramiento directo por la autoridad competente, previa entrevista"
+    ],
+    "antes": "Concurso-oposición, con las fases que se establezcan reglamentariamente",
+    "ahora": "Concurso-oposición; el concurso solo cabe por ley, con carácter excepcional",
+    "nota": "Se corrige el artículo (61.6, no 61.2) y se quita de la opción correcta un inciso que no está en la ley."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 55.2 del TREBEP, las Administraciones Públicas seleccionarán a su personal, entre otros principios, con arreglo a los de:",
+    "options": [
+     "Confidencialidad y reserva de las convocatorias",
+     "Proporcionalidad retributiva y jerarquía funcional",
+     "Antigüedad exclusiva del solicitante",
+     "Publicidad, transparencia e imparcialidad"
+    ],
+    "antes": "Publicidad, transparencia y objetividad",
+    "ahora": "Publicidad, transparencia e imparcialidad",
+    "nota": "La opción correcta pasa a «Publicidad, transparencia e imparcialidad», que sí están en el art. 55.2, y se cambia un distractor en parte cierto."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:",
+    "options": [
+     "Superar un período de prácticas tutorizado de seis meses tras la publicación del nombramiento",
+     "Superar un examen médico adicional posterior al nombramiento, ante el servicio de prevención",
+     "Realizar el acto de acatamiento de la Constitución y tomar posesión dentro del plazo establecido",
+     "Obtener la aprobación expresa de una autoridad distinta a la que efectuó el nombramiento"
+    ],
+    "antes": "Prestar juramento o promesa y acatamiento a la Constitución y al resto del ordenamiento jurídico, y tomar posesión dentro del plazo establecido",
+    "ahora": "Realizar el acto de acatamiento de la Constitución y tomar posesión dentro del plazo establecido",
+    "nota": "La opción correcta pasa a recoger el «acto de acatamiento» del art. 62.1.c), sin el juramento o promesa que la ley no menciona."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 59.1 del TREBEP, en las ofertas de empleo público se reservará un cupo no inferior al:",
+    "options": [
+     "Cinco por ciento de las vacantes",
+     "Siete por ciento de las vacantes",
+     "Quince por ciento de las vacantes",
+     "Tres por ciento de las vacantes"
+    ],
+    "antes": "Siete por ciento de las vacantes para personas con discapacidad",
+    "ahora": "Siete por ciento de las vacantes",
+    "nota": "La explicación avisa de que en Aragón, también en Zaragoza, el cupo mínimo es del 8 % (art. 27.2 de la Ley 5/2019). La respuesta según el TREBEP sigue siendo el 7 %."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 59.1 del TREBEP, de ese cupo del siete por ciento, al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad:",
+    "options": [
+     "Sensorial auditiva únicamente",
+     "Visual exclusivamente",
+     "Intelectual",
+     "Física exclusivamente"
+    ],
+    "antes": "Intelectual",
+    "ahora": "Intelectual",
+    "nota": "La explicación avisa de que en Aragón el cupo mínimo es del 8 %, con un 2 % para discapacidad intelectual y un 1 % para enfermedad mental. La respuesta no cambia."
+   },
+   {
+    "tema": 19,
+    "q": "Según el art. 104.1 LBRL, el número, características y retribuciones del personal eventual de las entidades locales:",
+    "options": [
+     "Los determina el Pleno al comienzo del mandato, y solo pueden modificarse al aprobar los presupuestos anuales",
+     "Los determina el Pleno cuando lo considere oportuno, sin más límite que el número máximo de puestos del art. 104 bis",
+     "Los fija el Alcalde mediante decreto al comienzo del mandato, dando cuenta al Pleno en la sesión siguiente",
+     "Los determina el Pleno en la sesión de aprobación de la liquidación del Presupuesto de cada ejercicio"
+    ],
+    "antes": "Los determina el Pleno de cada Corporación al comienzo de su mandato, y solo pueden modificarse con motivo de la aprobación de los Presupuestos anuales",
+    "ahora": "Los determina el Pleno al comienzo del mandato, y solo pueden modificarse al aprobar los presupuestos anuales",
+    "nota": "Se acota el enunciado al art. 104.1 LBRL, la explicación avisa de que en Zaragoza decide el Gobierno de Zaragoza y se cambia un distractor que era la regla de Zaragoza."
+   },
+   {
+    "tema": 3,
+    "q": "Según el art. 41.a) EAA, ¿qué corresponde a las Cortes de Aragón?",
+    "options": [
+     "La elección, de entre sus miembros, del Presidente de Aragón",
+     "El nombramiento del Presidente del Tribunal Superior de Justicia",
+     "La elección del Justicia de Aragón, sin intervención en su nombramiento ni cese",
+     "El nombramiento y la separación de los Consejeros del Gobierno de Aragón"
+    ],
+    "antes": "La elección, de entre sus miembros, del Presidente de Aragón",
+    "ahora": "La elección, de entre sus miembros, del Presidente de Aragón",
+    "nota": "Se cambia un distractor que también era función de las Cortes (designación de Senadores, art. 41.c). La clave no cambia."
+   },
+   {
+    "tema": 2,
+    "q": "Según el apartado 2.3 (Normativa Nacional) del II Plan de Igualdad de Zaragoza, ¿qué norma introdujo apartados relativos al Registro de Planes de Igualdad y a la igualdad retributiva, desarrollados después por el RD 901/2020 y el RD 902/2020, ambos de 13 de octubre?",
+    "options": [
+     "El Real Decreto-ley 6/2019, de 1 de marzo",
+     "La Ley 15/2022, de 12 de julio",
+     "La Ley Orgánica 10/2022, de 6 de septiembre",
+     "La Ley Orgánica 3/2007, de 22 de marzo"
+    ],
+    "antes": "La Ley 6/2019, de 1 de marzo",
+    "ahora": "El Real Decreto-ley 6/2019, de 1 de marzo",
+    "nota": "La opción correcta pasa a «Real Decreto-ley 6/2019», que es lo que dice el Plan; antes decía «Ley 6/2019»."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 13.1 de la LBRL, la creación o supresión de municipios, así como la alteración de términos municipales, se regula por:",
+    "options": [
+     "Un decreto del Consejo de Ministros sin más intervención",
+     "Exclusivamente el Código Civil",
+     "El Reglamento de Población y Demarcación Territorial del Estado",
+     "La legislación de las Comunidades Autónomas sobre régimen local"
+    ],
+    "antes": "La legislación de las Comunidades Autónomas sobre régimen local",
+    "ahora": "La legislación de las Comunidades Autónomas sobre régimen local",
+    "nota": "Se corrige el artículo citado (13.1, no 12.2)."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 126.2 de la LBRL, la Junta de Gobierno Local de un municipio de gran población está integrada por el Alcalde y un número de concejales:",
+    "options": [
+     "No inferior a la mitad del Pleno, en todo caso",
+     "No superior a un tercio del número legal de miembros del Pleno, además de los concejales",
+     "Igual al número total de concejales de la oposición",
+     "Fijado libremente sin ningún límite legal"
+    ],
+    "antes": "No superior a un tercio del número legal de miembros del Pleno, además de los concejales",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: la clave tenía un error («además de los concejales») y, corregida, repetiría la pregunta sobre el art. 126.2 que ya está en el banco."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 127.1 de la LBRL, también corresponde a la Junta de Gobierno Local, entre otras, la competencia como órgano de contratación respecto de los contratos:",
+    "options": [
+     "De cualquier cuantía sin límite alguno, reservado únicamente a este órgano",
+     "Exclusivamente de suministro de material de oficina",
+     "Solo de importe inferior a mil euros",
+     "De cuantía relevante fijada por la legislación de contratos del sector público para municipios de gran población"
+    ],
+    "antes": "De cuantía relevante fijada por la legislación de contratos del sector público para municipios de gran población",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: pregunta por el art. 127.1.f) LBRL, derogado en 2007; la competencia de contratación de la Junta de Gobierno Local ya está en otras preguntas."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 14 de la LBRL, corresponde a los municipios interesados, además de otras Administraciones, la iniciativa para:",
+    "options": [
+     "La alteración de términos municipales, que en todo caso debe ser resuelta por la Comunidad Autónoma",
+     "Aprobar tratados internacionales de límites fronterizos",
+     "Disolver la Diputación Provincial",
+     "Modificar el Estatuto de Autonomía de la Comunidad correspondiente"
+    ],
+    "antes": "La alteración de términos municipales, que en todo caso debe ser resuelta por la Comunidad Autónoma",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: atribuía al art. 14 LBRL una regla sobre la iniciativa que no está ni en el art. 14 ni en el 13."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 27.1 de la LBRL, la delegación de competencias del Estado o de las Comunidades Autónomas en los municipios habrá de mejorar la eficiencia de la gestión pública, ser acorde con la legislación de estabilidad presupuestaria y sostenibilidad financiera y, además:",
+    "options": [
+     "Contribuir a eliminar duplicidades administrativas",
+     "Alcanzar una mayor participación ciudadana en la gestión",
+     "Suprimir la responsabilidad de la Administración delegante",
+     "Eliminar cualquier control posterior sobre la competencia delegada"
+    ],
+    "antes": "Mejore la eficiencia de la gestión pública y se alcance una mayor participación ciudadana",
+    "ahora": "Contribuir a eliminar duplicidades administrativas",
+    "nota": "Se reconvierte sobre la redacción vigente del art. 27.1 LBRL; la pregunta usaba la de 1985."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 27.6 de la LBRL, la delegación de competencias debe ir acompañada, en todo caso, de:",
+    "options": [
+     "La supresión simultánea de una competencia estatal equivalente",
+     "La correspondiente financiación, con dotación presupuestaria adecuada y suficiente",
+     "Una reducción proporcional de otras competencias propias del municipio",
+     "Ninguna dotación adicional, entendiéndose que el municipio la asume gratuitamente"
+    ],
+    "antes": "La correspondiente financiación, para lo cual será necesaria la existencia de dotación presupuestaria adecuada y suficiente",
+    "ahora": "La correspondiente financiación, con dotación presupuestaria adecuada y suficiente",
+    "nota": "Se corrige el artículo citado (27.6, no 27.2)."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 27.3 de la LBRL, la disposición o el acuerdo de delegación de competencias debe determinar, entre otros extremos, el alcance, contenido, condiciones y duración de esta, que no podrá ser inferior a:",
+    "options": [
+     "Un año",
+     "Diez años",
+     "Cinco años",
+     "Seis meses"
+    ],
+    "antes": "Cinco años",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: citaba mal el artículo y, corregida, repetiría la pregunta sobre la duración mínima de la delegación que ya está en el banco."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 122.5 de la LBRL, las funciones del secretario general del Pleno de un municipio de gran población quedan reservadas a:",
+    "options": [
+     "Funcionarios de Administración local con habilitación de carácter nacional",
+     "Concejales que el Pleno elija de entre sus miembros por mayoría absoluta",
+     "Personal eventual de confianza nombrado libremente por el Alcalde",
+     "Funcionarios de carrera del propio Ayuntamiento que designe la Junta de Gobierno Local"
+    ],
+    "antes": "El reglamento orgánico municipal",
+    "ahora": "Funcionarios de Administración local con habilitación de carácter nacional",
+    "nota": "Se reconvierte: la premisa (el Pleno elige a los presidentes de las comisiones y al secretario) no está en el art. 122.5; ahora pregunta a quién están reservadas las funciones del secretario general del Pleno."
+   },
+   {
+    "tema": 10,
+    "q": "En el Ayuntamiento de Zaragoza, ¿a qué órgano corresponde la aprobación del inventario de bienes y de sus rectificaciones anuales?",
+    "options": [
+     "A la Comunidad Autónoma respectiva.",
+     "Al Gobierno de Zaragoza.",
+     "A la Comisión Especial de Cuentas.",
+     "Al Pleno."
+    ],
+    "antes": "Al Pleno.",
+    "ahora": "Al Gobierno de Zaragoza.",
+    "nota": "Se reconvierte en una pregunta sobre Zaragoza: el inventario y sus rectificaciones anuales los aprueba el Gobierno de Zaragoza, no el Pleno."
+   },
+   {
+    "tema": 10,
+    "q": "¿A quién le corresponde realizar la rectificación del Inventario de bienes de una entidad local?",
+    "options": [
+     "Al Pleno.",
+     "A la Comunidad Autónoma respectiva.",
+     "Al Alcalde.",
+     "A la Comisión de Gobierno."
+    ],
+    "antes": "Al Pleno.",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: repetía la regla general del inventario (ya en la 10-253) sin valer para Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "¿A quién le corresponde realizar la comprobación del Inventario de bienes de una entidad local?",
+    "options": [
+     "Al Alcalde.",
+     "Al Pleno.",
+     "A la Comisión de Gobierno.",
+     "A la Comunidad Autónoma respectiva."
+    ],
+    "antes": "Al Pleno.",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: repetía la regla general del inventario (ya en la 10-253) y el órgano de la comprobación en Zaragoza no está claro en la ley."
+   },
+   {
+    "tema": 10,
+    "q": "¿Qué órgano es, típicamente, el competente para aprobar la incorporación de un nuevo bien al inventario municipal tras su adquisición?",
+    "options": [
+     "Un notario, sin intervención administrativa alguna",
+     "El Tribunal de Cuentas, en todos los casos sin excepción",
+     "El Registro de la Propiedad, de forma automática",
+     "El Pleno de la Corporación, al que corresponde acordar la aprobación del inventario ya formado, su rectificación y su comprobación"
+    ],
+    "antes": "El Pleno de la Corporación, al que corresponde acordar la aprobación del inventario ya formado, su rectificación y su comprobación",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: enunciado impreciso («típicamente») con una clave que no vale para Zaragoza ni es exacta en Aragón."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 34 RBEL, ¿qué órgano es competente para acordar la aprobación del inventario, su rectificación y comprobación?",
+    "options": [
+     "El Pleno de la Corporación local",
+     "La Comisión Especial de Cuentas",
+     "El Secretario de la Corporación",
+     "El Alcalde-Presidente, por delegación permanente"
+    ],
+    "antes": "El Pleno de la Corporación local",
+    "ahora": "El Pleno de la Corporación local",
+    "nota": "Se cambia un distractor que era la respuesta correcta en Zaragoza (la Junta de Gobierno Local) y la explicación avisa de que allí aprueba el inventario el Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "El acuerdo de cesión gratuita de bienes de una entidad local, según el art. 110.1 RBEL, requiere...",
+    "options": [
+     "Mayoría absoluta del número legal de miembros de la Corporación",
+     "Mayoría simple de los miembros asistentes a la sesión",
+     "Dos tercios del número de hecho de miembros de la Corporación",
+     "Unanimidad de los miembros presentes de la Corporación"
+    ],
+    "antes": "Mayoría absoluta del número legal de miembros de la Corporación",
+    "ahora": "Mayoría absoluta del número legal de miembros de la Corporación",
+    "nota": "La explicación añade la norma aragonesa (art. 119.2 RBASO) y avisa de que en Zaragoza la cesión gratuita corresponde al Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Las cesiones de parcelas a vecinos jornaleros a que se refiere el art. 116.2 RBEL deben ser acordadas por...",
+    "options": [
+     "La Diputación Provincial, a propuesta del Ayuntamiento interesado",
+     "El Ayuntamiento Pleno, por mayoría absoluta del número legal de miembros de la Corporación",
+     "El Ayuntamiento Pleno, por mayoría simple de los miembros presentes en la sesión",
+     "El Alcalde mediante decreto, dando cuenta al Pleno en la sesión siguiente"
+    ],
+    "antes": "El Ayuntamiento Pleno, con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+    "ahora": "El Ayuntamiento Pleno, por mayoría absoluta del número legal de miembros de la Corporación",
+    "nota": "Se cambia un distractor que era la regla de Zaragoza (la Junta de Gobierno Local) y la explicación avisa de que allí decide el Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 102 RBEL, la cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por:",
+    "options": [
+     "La Diputación Provincial, por delegación del municipio titular",
+     "El Pleno de la Corporación, por mayoría absoluta del número legal de miembros",
+     "El Pleno de la Corporación, por mayoría simple de los miembros presentes",
+     "El Secretario de la Corporación, previo informe del Interventor"
+    ],
+    "antes": "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+    "ahora": "El Pleno de la Corporación, por mayoría absoluta del número legal de miembros",
+    "nota": "Se cambian dos distractores que se acercaban a la regla de Zaragoza y la explicación avisa de que allí decide el Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "¿Qué órgano municipal ostenta, con carácter general, las competencias reglamentarias de organización interna en materia de gestión y custodia del patrimonio local, sin perjuicio de las competencias del Pleno en materia de disposición?",
+    "options": [
+     "El Consejo de Estado",
+     "El Juzgado de Primera Instancia del partido judicial",
+     "El Defensor del Pueblo",
+     "El Alcalde, en su función de dirección de la administración municipal"
+    ],
+    "antes": "El Alcalde, en su función de dirección de la administración municipal",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: atribuía al Alcalde, sin base literal, la gestión del patrimonio, que en Zaragoza es del Gobierno de Zaragoza."
+   }
+  ]
+ },
+ {
   "id": "2026-10-22-correccion-6",
   "fecha": "2026-10-22",
   "tipo": "correccion",

@@ -1,0 +1,122 @@
+[
+ {
+  "q": "Según el art. 126.2 de la LBRL, la Junta de Gobierno Local de un municipio de gran población está integrada por el Alcalde y un número de concejales:",
+  "options": [
+   "No inferior a la mitad del Pleno, en todo caso",
+   "No superior a un tercio del número legal de miembros del Pleno, además de los concejales",
+   "Igual al número total de concejales de la oposición",
+   "Fijado libremente sin ningún límite legal"
+  ],
+  "correct": 1,
+  "exp": "Art. 126.2: la Junta de Gobierno Local está integrada por el Alcalde y un número de concejales no superior a un tercio del número legal de miembros del Pleno, nombrados y separados libremente por el Alcalde.",
+  "fuente": "Art. 126.2 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: la clave tenía un error («además de los concejales») y, corregida, repetiría la pregunta sobre el art. 126.2 que ya está en el banco."
+ },
+ {
+  "q": "Según el art. 127.1 de la LBRL, también corresponde a la Junta de Gobierno Local, entre otras, la competencia como órgano de contratación respecto de los contratos:",
+  "options": [
+   "De cualquier cuantía sin límite alguno, reservado únicamente a este órgano",
+   "Exclusivamente de suministro de material de oficina",
+   "Solo de importe inferior a mil euros",
+   "De cuantía relevante fijada por la legislación de contratos del sector público para municipios de gran población"
+  ],
+  "correct": 3,
+  "exp": "El art. 127.1 f) atribuye a la Junta de Gobierno Local las competencias como órgano de contratación que la legislación sobre contratos del sector público asigna específicamente a este órgano en los municipios de gran población.",
+  "fuente": "Art. 127.1 f) LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: pregunta por el art. 127.1.f) LBRL, derogado en 2007; la competencia de contratación de la Junta de Gobierno Local ya está en otras preguntas."
+ },
+ {
+  "q": "Según el art. 14 de la LBRL, corresponde a los municipios interesados, además de otras Administraciones, la iniciativa para:",
+  "options": [
+   "La alteración de términos municipales, que en todo caso debe ser resuelta por la Comunidad Autónoma",
+   "Aprobar tratados internacionales de límites fronterizos",
+   "Disolver la Diputación Provincial",
+   "Modificar el Estatuto de Autonomía de la Comunidad correspondiente"
+  ],
+  "correct": 0,
+  "exp": "Art. 14 LBRL: la alteración de términos municipales puede ser promovida, entre otros, por los propios municipios interesados, correspondiendo su resolución definitiva a la Comunidad Autónoma.",
+  "fuente": "Art. 14 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: atribuía al art. 14 LBRL una regla sobre la iniciativa que no está ni en el art. 14 ni en el 13."
+ },
+ {
+  "q": "Según el art. 27.3 de la LBRL, la disposición o el acuerdo de delegación de competencias debe determinar, entre otros extremos, el alcance, contenido, condiciones y duración de esta, que no podrá ser inferior a:",
+  "options": [
+   "Un año",
+   "Diez años",
+   "Cinco años",
+   "Seis meses"
+  ],
+  "correct": 2,
+  "exp": "Art. 27.3 c) LBRL: la delegación debe determinar 'El alcance, contenido, condiciones y duración de esta, que no podrá ser inferior a cinco años.'",
+  "fuente": "Art. 27.3 c) LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: citaba mal el artículo y, corregida, repetiría la pregunta sobre la duración mínima de la delegación que ya está en el banco."
+ },
+ {
+  "q": "¿A quién le corresponde realizar la rectificación del Inventario de bienes de una entidad local?",
+  "options": [
+   "Al Pleno.",
+   "A la Comunidad Autónoma respectiva.",
+   "Al Alcalde.",
+   "A la Comisión de Gobierno."
+  ],
+  "correct": 0,
+  "exp": "Art. 34: la rectificación (que el art. 33.1 ordena verificar anualmente) la acuerda el Pleno; el Secretario solo autoriza el inventario con el visto bueno del Presidente (art. 32.1).",
+  "fuente": "Art. 34 RBEL (RD 1372/1986)",
+  "tema": 10,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: repetía la regla general del inventario (ya en la 10-253) sin valer para Zaragoza."
+ },
+ {
+  "q": "¿A quién le corresponde realizar la comprobación del Inventario de bienes de una entidad local?",
+  "options": [
+   "Al Alcalde.",
+   "Al Pleno.",
+   "A la Comisión de Gobierno.",
+   "A la Comunidad Autónoma respectiva."
+  ],
+  "correct": 1,
+  "exp": "Art. 34: la comprobación (que el art. 33.2 exige siempre que se renueve la Corporación) también corresponde acordarla al Pleno.",
+  "fuente": "Art. 34 RBEL (RD 1372/1986)",
+  "tema": 10,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: repetía la regla general del inventario (ya en la 10-253) y el órgano de la comprobación en Zaragoza no está claro en la ley."
+ },
+ {
+  "q": "¿Qué órgano es, típicamente, el competente para aprobar la incorporación de un nuevo bien al inventario municipal tras su adquisición?",
+  "options": [
+   "Un notario, sin intervención administrativa alguna",
+   "El Tribunal de Cuentas, en todos los casos sin excepción",
+   "El Registro de la Propiedad, de forma automática",
+   "El Pleno de la Corporación, al que corresponde acordar la aprobación del inventario ya formado, su rectificación y su comprobación"
+  ],
+  "correct": 3,
+  "exp": "El art. 34 RBEL reserva al Pleno de la Corporación la aprobación del inventario ya formado, su rectificación y su comprobación; la incorporación de un nuevo bien se materializa precisamente en la rectificación anual del art. 33.1. El inventario lo autoriza el Secretario con el visto bueno del Presidente (art. 32.1), pero la aprobación es plenaria.",
+  "fuente": "Arts. 32.1, 33 y 34 RBEL (RD 1372/1986)",
+  "tema": 10,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: enunciado impreciso («típicamente») con una clave que no vale para Zaragoza ni es exacta en Aragón."
+ },
+ {
+  "q": "¿Qué órgano municipal ostenta, con carácter general, las competencias reglamentarias de organización interna en materia de gestión y custodia del patrimonio local, sin perjuicio de las competencias del Pleno en materia de disposición?",
+  "options": [
+   "El Consejo de Estado",
+   "El Juzgado de Primera Instancia del partido judicial",
+   "El Defensor del Pueblo",
+   "El Alcalde, en su función de dirección de la administración municipal"
+  ],
+  "correct": 3,
+  "exp": "El Alcalde, como responsable de la dirección de la administración municipal (art. 21 LBRL), ejerce funciones de gestión ordinaria sobre el patrimonio, sin perjuicio de las competencias específicas del Pleno en materia de disposición y alteración de bienes.",
+  "fuente": "Art. 21 LBRL (Ley 7/1985)",
+  "tema": 10,
+  "_retirada": "2026-10-23",
+  "_motivo": "Se retira: atribuía al Alcalde, sin base literal, la gestión del patrimonio, que en Zaragoza es del Gobierno de Zaragoza."
+ }
+]
