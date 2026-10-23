@@ -1,0 +1,55 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 5,
+  "fecha": "2026-10-23",
+  "preguntas": [
+    {
+      "q": "Según el art. 17.2 de la Ley 39/2015, el formato en que se conserven los documentos electrónicos debe permitir, además de garantizar su autenticidad, integridad y conservación:",
+      "options": [
+        "Su consulta con independencia del tiempo transcurrido",
+        "Su consulta solo durante el plazo de prescripción de las acciones",
+        "Su consulta exclusiva por el órgano que emitió el documento",
+        "Su consulta solo mientras el procedimiento siga en tramitación"
+      ],
+      "correct": 0,
+      "exp": "El art. 17.2 exige conservar los documentos electrónicos en un formato que permita garantizar «la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión». La ley no limita la consulta al plazo de prescripción, al órgano emisor ni a la tramitación (el archivo del art. 17.1 es precisamente de procedimientos finalizados).",
+      "fuente": "Art. 17.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 17.2 LPAC: «así como su consulta con independencia del tiempo transcurrido desde su emisión». Distractores falsos. 5.29 pregunta la tríada autenticidad-integridad-conservación y 5.100 el traslado a otros formatos; esta pregunta el elemento restante, no repite. | Revisor 2 (DUDOSA): El contenido es correcto (art. 17.2 literal: consulta «con independencia del tiempo transcurrido desde su emisión») y no está repetida (las t5 [29] y [100] preguntan otra cosa). Pero se delata por la forma: los tres distractores llevan «solo» o «exclusiva» y la correcta es la única sin restricción. Arreglo: redactar los distractores como alternativas cerradas del mismo tipo, sin «solo» (p. ej. «Su consulta durante un plazo mínimo de diez años desde su emisión», «Su consulta en el formato original en que se emitió», «Su consulta mediante acceso presencial en el archivo»), comprobando que ninguna resulte cierta.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 24.4 de la Ley 39/2015, ¿cuándo puede el interesado pedir el certificado acreditativo del silencio producido?",
+      "options": [
+        "Solo en los quince días siguientes al vencimiento",
+        "En cualquier momento que lo considere oportuno",
+        "Solo si no se ha expedido de oficio en plazo",
+        "Solo antes de recurrir el acto presunto"
+      ],
+      "correct": 1,
+      "exp": "El art. 24.4, tras fijar la expedición de oficio en quince días, añade: «Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento», y en ese caso los quince días se cuentan desde el día siguiente a la entrada de su petición en el registro electrónico del órgano competente. No hay plazo para pedirlo, no depende de que falte la expedición de oficio ni tiene que pedirse antes de recurrir.",
+      "fuente": "Art. 24.4 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 24.4 LPAC: «el interesado podrá pedirlo en cualquier momento». Distractores falsos (no hay plazo ni condición). 5.147 pregunta desde cuándo corren los quince días si lo pide; no repite. | Revisor 2 (DUDOSA): El contenido es correcto (art. 24.4: «el interesado podrá pedirlo en cualquier momento»). Pero se acierta por la forma: los tres distractores empiezan por «Solo» y la correcta es la única que no. Arreglo: distractores sin «solo» y del mismo tipo, p. ej. «Dentro de los quince días siguientes al vencimiento del plazo», «Una vez transcurrido el plazo de expedición de oficio», «Antes de interponer recurso contra el acto presunto». Además, la t5 [147] ya da por supuesto en su enunciado que el interesado puede pedirlo.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "¿Qué norma añadió a la Ley 39/2015 el apartado 5 del art. 32, que permite acordar una ampliación general de plazos cuando un ciberincidente afecte gravemente a los servicios y sistemas de tramitación?",
+      "options": [
+        "El Real Decreto-ley 6/2022, de 29 de marzo",
+        "La Ley Orgánica 3/2018, de 5 de diciembre",
+        "El Real Decreto 203/2021, de 30 de marzo",
+        "La Ley 40/2015, de 1 de octubre"
+      ],
+      "correct": 0,
+      "exp": "El texto consolidado del BOE indica: «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo», en vigor desde el 31 de marzo de 2022. La Ley Orgánica 3/2018 modificó los apartados 2 y 3 del art. 28, no el art. 32. El Real Decreto 203/2021 es un reglamento y no puede modificar una ley. La Ley 40/2015 se aprobó el mismo día que la Ley 39/2015 y no añadió este apartado.",
+      "fuente": "Art. 32.5 LPAC (Ley 39/2015), añadido por la disp. final 21.ª del RDL 6/2022",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Duda (4) del redactor. El dato es exacto: el consolidado dice «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo» (BOE-A-2022-4972, en vigor desde el 31/03/2022), y los distractores son falsos (la LO 3/2018 modificó el art. 28; el RD 203/2021 es un reglamento; la Ley 40/2015 no lo añadió). La rechazo por dos motivos. 1) Repite al revés la 5.213, cuyo enunciado dice «El art. 32.5 LPAC, introducido por el Real Decreto-ley 6/2022...» y pregunta el contenido; aquí se da el contenido y se pregunta la norma. 2) Qué norma modificó la ley es historia legislativa, no contenido de «Términos y plazos»; generar.md (regla 3) excluye las trivialidades y no es materia típica de examen de Auxiliar. | Revisor 2 (CONFIRMADA): Nota del consolidado verificada: «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo» (BOE-A-2022-4972), en vigor desde el 31/03/2022. La LO 3/2018 modificó el art. 28.2 y 3; el RD 203/2021 es reglamento; la Ley 40/2015 no lo añadió. Valor de examen bajo, y el enunciado de la t5 [213] ya da el dato, pero pregunta otra cosa. Se admite.",
+      "_motivo": "veredicto RECHAZADA"
+    }
+  ]
+}

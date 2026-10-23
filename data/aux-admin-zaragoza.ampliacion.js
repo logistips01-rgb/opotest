@@ -58447,3 +58447,488 @@ window.addQuestions('aux-admin-zaragoza', 8, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 5 · lote 2026-10-23 · 37 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 5, [
+  {
+    "q": "Una abogada colegiada solicita al Ayuntamiento, a título particular, una licencia para reformar su vivienda. ¿Le obliga el art. 14.2 c) de la Ley 39/2015 a relacionarse por medios electrónicos en ese trámite?",
+    "options": [
+      "Sí, porque los profesionales colegiados están obligados en cualquier trámite, sea o no profesional",
+      "Sí, pero solo cuando el Ayuntamiento al que se dirige sea un municipio de gran población",
+      "No, porque la letra c) solo obliga a los notarios y a los registradores de la propiedad y mercantiles",
+      "No, porque esa obligación solo alcanza a los trámites que realice en ejercicio de su profesión"
+    ],
+    "correct": 3,
+    "exp": "El art. 14.2 c) obliga a quienes ejerzan una actividad profesional con colegiación obligatoria «para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional». Una licencia para su vivienda no es un trámite profesional, así que no le alcanza esa obligación y, como persona física, puede elegir el medio (art. 14.1), salvo que otra norma la obligue (art. 14.3). No están obligados en cualquier trámite; la ley no distingue según el tamaño del municipio; y notarios y registradores son solo un colectivo que la letra c) incluye «en todo caso», no el único.",
+    "fuente": "Art. 14.2 c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 de la Ley 39/2015, las disposiciones de creación de los registros electrónicos:",
+    "options": [
+      "Se publicarán en el diario oficial correspondiente, con su texto íntegro disponible en la sede del registro",
+      "Se publicarán solo en la sede electrónica del registro, sin necesidad de insertarlas en un diario oficial",
+      "Se publicarán siempre en el Boletín Oficial del Estado, sea cual sea la Administración que cree el registro",
+      "No necesitan publicarse, porque basta con comunicarlas a la Administración General del Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.1 dispone que las disposiciones de creación de los registros electrónicos «se publicarán en el diario oficial correspondiente» y que su texto íntegro «deberá estar disponible para consulta en la sede electrónica de acceso al registro». No basta la sede electrónica, el diario no es siempre el BOE (es el que corresponda a cada Administración) y no hay ninguna comunicación a la AGE que sustituya a la publicación.",
+    "fuente": "Art. 16.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 de la Ley 39/2015, tanto el Registro Electrónico General de cada Administración como los registros electrónicos de cada Organismo cumplirán con las garantías y medidas de seguridad previstas en la legislación en materia de:",
+    "options": [
+      "Protección de datos de carácter personal",
+      "Transparencia y acceso a la información pública",
+      "Contratos del sector público y patrimonio",
+      "Archivos y patrimonio documental e histórico"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.1, párrafo tercero, establece que el Registro Electrónico General y los registros electrónicos de cada Organismo «cumplirán con las garantías y medidas de seguridad previstas en la legislación en materia de protección de datos de carácter personal». No se remite en ese punto a la legislación de transparencia, de contratos o de archivos.",
+    "fuente": "Art. 16.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3 de la Ley 39/2015, junto con la copia autenticada del documento presentado, el registro electrónico emite un recibo acreditativo de los demás documentos que lo acompañen, que garantice:",
+    "options": [
+      "La validez y la eficacia jurídica de los mismos",
+      "La confidencialidad y la reserva de los mismos",
+      "La traducción y la difusión pública de los mismos",
+      "La integridad y el no repudio de los mismos"
+    ],
+    "correct": 3,
+    "exp": "El art. 16.3 prevé la emisión automática de un recibo consistente en una copia autenticada del documento, con fecha y hora de presentación y número de entrada, «así como un recibo acreditativo de otros documentos que, en su caso, lo acompañen, que garantice la integridad y el no repudio de los mismos». El recibo no garantiza la validez o eficacia de esos documentos, ni su confidencialidad, ni su traducción o difusión.",
+    "fuente": "Art. 16.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.5 de la Ley 39/2015, ¿en cuál de los siguientes casos no se devuelven al interesado los originales presentados de manera presencial una vez digitalizados?",
+    "options": [
+      "Cuando el interesado sea una persona física que haya elegido relacionarse con la Administración en papel",
+      "Cuando el documento original tenga más de diez páginas o vaya acompañado de varios anexos",
+      "Cuando la norma determine que la Administración debe custodiar los documentos presentados",
+      "Cuando el interesado no recoja los originales en el mismo acto de la presentación"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.5 ordena digitalizar los documentos presentados de manera presencial y devolver los originales al interesado, «sin perjuicio de aquellos supuestos en que la norma determine la custodia por la Administración de los documentos presentados» o de que sea obligatorio presentar objetos o documentos en un soporte específico no susceptible de digitalización. Haber elegido el papel, la extensión del documento o no recogerlo en el acto no son excepciones previstas.",
+    "fuente": "Art. 16.5 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 39/2015, las personas colaborarán con la Administración, en primer lugar, en los términos previstos en:",
+    "options": [
+      "El reglamento orgánico de cada Administración",
+      "El acuerdo de iniciación de cada procedimiento",
+      "La Ley que en cada caso resulte aplicable",
+      "Las instrucciones del órgano instructor"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.1 dispone que las personas colaborarán con la Administración «en los términos previstos en la Ley que en cada caso resulte aplicable» y, solo a falta de previsión expresa, facilitarán los informes, inspecciones y otros actos de investigación que se requieran. La remisión es a la ley, no a un reglamento orgánico, al acuerdo de iniciación ni a instrucciones del instructor.",
+    "fuente": "Art. 18.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.4 de la Ley 39/2015, en los procedimientos iniciados de oficio, la mención del plazo máximo para resolver y de los efectos del silencio se incluirá:",
+    "options": [
+      "En una comunicación dentro de los diez días siguientes al acuerdo",
+      "En la propuesta de resolución que se notifique a los interesados",
+      "En la resolución que ponga fin al procedimiento",
+      "En la notificación o publicación del acuerdo de iniciación"
+    ],
+    "correct": 3,
+    "exp": "El art. 21.4, párrafo segundo, dice que esa mención «se incluirá en la notificación o publicación del acuerdo de iniciación de oficio». La comunicación en los diez días siguientes es la vía prevista para los procedimientos iniciados a solicitud, y se cuenta desde la recepción de la solicitud en el registro electrónico, no desde un acuerdo. Ni la propuesta ni la resolución final sirven para informar de antemano del plazo y del silencio.",
+    "fuente": "Art. 21.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.2 de la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa será el fijado por:",
+    "options": [
+      "El órgano competente para resolver en cada caso",
+      "La norma reguladora del correspondiente procedimiento",
+      "El acuerdo de iniciación de cada procedimiento",
+      "La propia Ley 39/2015, igual para todos los procedimientos"
+    ],
+    "correct": 1,
+    "exp": "El art. 21.2, párrafo primero, establece que el plazo máximo «será el fijado por la norma reguladora del correspondiente procedimiento», con el tope de seis meses salvo norma con rango de ley o Derecho de la Unión Europea. No lo fija el órgano competente ni el acuerdo de iniciación. La Ley 39/2015 solo da un plazo supletorio de tres meses cuando la norma reguladora no fija ninguno (art. 21.3); no es un plazo único para todos.",
+    "fuente": "Art. 21.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 d) de la Ley 39/2015, si se ha suspendido el plazo para resolver por la petición de un informe preceptivo y el informe no se recibe en el plazo indicado:",
+    "options": [
+      "Caducará el procedimiento",
+      "Proseguirá el procedimiento",
+      "El informe se entenderá favorable",
+      "Seguirá suspendido hasta recibirlo"
+    ],
+    "correct": 1,
+    "exp": "El art. 22.1 d) limita esta suspensión a un máximo de tres meses y añade: «En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento». No hay caducidad, la ley no da al informe no emitido un sentido favorable, y la suspensión no se mantiene hasta su llegada.",
+    "fuente": "Art. 22.1 d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 b) de la Ley 39/2015, cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, la suspensión del plazo para resolver dura desde la petición hasta:",
+    "options": [
+      "Un máximo de tres meses desde la petición, aunque no haya pronunciamiento",
+      "La publicación del pronunciamiento en el Diario Oficial de la Unión Europea",
+      "La notificación del pronunciamiento a la Administración instructora",
+      "La firmeza del pronunciamiento ante el Tribunal de Justicia de la Unión Europea"
+    ],
+    "correct": 2,
+    "exp": "El art. 22.1 b) fija la suspensión «por el tiempo que medie entre la petición, que habrá de comunicarse a los interesados, y la notificación del pronunciamiento a la Administración instructora». El límite de tres meses es propio de los informes preceptivos (22.1 d), y la ley no se refiere a la publicación en el DOUE ni a la firmeza ante el TJUE.",
+    "fuente": "Art. 22.1 b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 c) de la Ley 39/2015, cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución, la suspensión del plazo para resolver comienza:",
+    "options": [
+      "Desde que se inició ese procedimiento europeo",
+      "Desde que el interesado pida la suspensión",
+      "Desde que se publique en el Diario Oficial de la UE",
+      "Desde que se tenga constancia de su existencia"
+    ],
+    "correct": 3,
+    "exp": "El art. 22.1 c) dispone que la suspensión opera «desde que se tenga constancia de su existencia, lo que deberá ser comunicado a los interesados, hasta que se resuelva». No se cuenta desde el inicio del procedimiento europeo ni depende de que lo pida el interesado o de una publicación.",
+    "fuente": "Art. 22.1 c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 f) de la Ley 39/2015, cuando se suspende el plazo para resolver por negociaciones para concluir un pacto o convenio, la conclusión sin efecto de esas negociaciones se constatará mediante:",
+    "options": [
+      "Resolución del superior jerárquico del órgano instructor",
+      "Declaración formulada por la Administración o los interesados",
+      "Informe preceptivo del servicio jurídico de la Administración",
+      "Acta notarial suscrita por todas las partes negociadoras"
+    ],
+    "correct": 1,
+    "exp": "El art. 22.1 f) prevé la suspensión «desde la declaración formal al respecto y hasta la conclusión sin efecto, en su caso, de las referidas negociaciones, que se constatará mediante declaración formulada por la Administración o los interesados». No exige resolución del superior jerárquico, informe jurídico ni acta notarial.",
+    "fuente": "Art. 22.1 f) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.2 a) de la Ley 39/2015, cuando una Administración requiere a otra para que anule o revise un acto que entiende ilegal, el plazo para resolver se suspende desde que se realiza el requerimiento hasta que:",
+    "options": [
+      "Se atienda o, en su caso, se resuelva el recurso contencioso-administrativo interpuesto",
+      "Transcurran tres meses como máximo, pasados los cuales se reanuda el cómputo del plazo",
+      "La Administración requerida emita un informe motivado sobre la legalidad del acto",
+      "El interesado manifieste por escrito su conformidad con la anulación o revisión del acto"
+    ],
+    "correct": 0,
+    "exp": "El art. 22.2 a) suspende el plazo «desde que se realiza el requerimiento hasta que se atienda o, en su caso, se resuelva el recurso interpuesto ante la jurisdicción contencioso administrativa». El tope de tres meses es el de los informes preceptivos (22.1 d), y la ley no hace depender el fin de la suspensión de un informe de la Administración requerida ni de la conformidad del interesado.",
+    "fuente": "Art. 22.2 a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En cuál de los siguientes casos dispone el art. 22 de la Ley 39/2015 que el plazo máximo para resolver «se suspenderá», y no solo que «se podrá suspender»?",
+    "options": [
+      "Cuando deban realizarse pruebas técnicas propuestas por los interesados",
+      "Cuando se soliciten informes preceptivos a un órgano de otra Administración",
+      "Cuando un interesado promueva la recusación durante la tramitación",
+      "Cuando deba requerirse a un interesado la subsanación de deficiencias"
+    ],
+    "correct": 2,
+    "exp": "La recusación está en el art. 22.2 c), entre los supuestos en que el plazo «se suspenderá», desde que se plantea hasta que la resuelve el superior jerárquico del recusado. Las pruebas técnicas (22.1 e), los informes preceptivos (22.1 d) y la subsanación de deficiencias (22.1 a) están en el art. 22.1, donde el plazo solo «se podrá suspender».",
+    "fuente": "Art. 22.2 c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.1 de la Ley 39/2015, en los procedimientos iniciados a solicitud del interesado, el silencio tiene efecto desestimatorio en aquellos que:",
+    "options": [
+      "Se inicien a solicitud de una persona jurídica o de una entidad sin personalidad",
+      "Impliquen el ejercicio de actividades que puedan dañar el medio ambiente",
+      "Requieran el informe preceptivo de un órgano de otra Administración Pública",
+      "Se tramiten por el procedimiento simplificado o por la vía de urgencia"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.1, párrafo segundo, atribuye efecto desestimatorio al silencio, entre otros, en los procedimientos que «impliquen el ejercicio de actividades que puedan dañar el medio ambiente». Que el solicitante sea persona jurídica, que haga falta un informe preceptivo o que se use la tramitación simplificada o urgente no cambia el sentido estimatorio general del silencio.",
+    "fuente": "Art. 24.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.1 de la Ley 39/2015, la regla general del silencio estimatorio en los procedimientos iniciados a solicitud del interesado puede exceptuarse por:",
+    "options": [
+      "Una ordenanza municipal o un reglamento autonómico, siempre que se publiquen en el diario oficial correspondiente",
+      "Una norma con rango de ley o una norma de Derecho de la UE o de Derecho internacional aplicable en España",
+      "Una instrucción del órgano competente para resolver, siempre que esté motivada en razones de interés público",
+      "Cualquier disposición reglamentaria aprobada por el Gobierno de la Nación o por el de una Comunidad Autónoma"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.1 legitima al interesado para entender estimada su solicitud «excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario». Una ordenanza, un reglamento (estatal o autonómico) o una instrucción no tienen rango de ley y no pueden imponer el silencio desestimatorio.",
+    "fuente": "Art. 24.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.4 de la Ley 39/2015, ¿quién expide de oficio el certificado acreditativo del silencio producido?",
+    "options": [
+      "El órgano competente para resolver",
+      "El órgano instructor del procedimiento",
+      "El encargado del registro donde entró la solicitud",
+      "El superior jerárquico del órgano competente"
+    ],
+    "correct": 0,
+    "exp": "El art. 24.4 dispone que el certificado «se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento». No lo expide el instructor, el registro ni el superior jerárquico.",
+    "fuente": "Art. 24.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Una solicitud cuya estimación transferiría al solicitante facultades relativas al dominio público se desestima por silencio. El interesado interpone recurso de alzada, que tampoco se resuelve ni notifica en plazo. Según el art. 24.1 de la Ley 39/2015, el recurso se entiende:",
+    "options": [
+      "Estimado, porque la alzada contra una desestimación por silencio se estima en todo caso",
+      "Estimado, salvo que el órgano dicte después una resolución expresa en sentido contrario",
+      "Desestimado, porque esa materia queda fuera de la regla que estima la alzada en estos casos",
+      "Inadmitido, porque contra los actos producidos por silencio no cabe recurso de alzada"
+    ],
+    "correct": 2,
+    "exp": "El art. 24.1 hace desestimatorio el silencio en los procedimientos de impugnación de actos. Como excepción, la alzada interpuesta contra una desestimación por silencio se entiende estimada si no se resuelve en plazo, «siempre que no se refiera a las materias enumeradas en el párrafo anterior», y entre ellas está la transferencia de facultades relativas al dominio público. Aquí rige, pues, la regla general: el recurso se entiende desestimado. La estimación no se da «en todo caso». Una estimación por silencio solo admite después una resolución confirmatoria (art. 24.3 a). Y contra la desestimación presunta sí cabe recurso (art. 24.2).",
+    "fuente": "Art. 24.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 e) de la Ley 39/2015, para ser considerados válidos, los documentos electrónicos administrativos deben incorporar:",
+    "options": [
+      "Las firmas electrónicas que correspondan de acuerdo con la normativa aplicable",
+      "La firma electrónica cualificada del titular del órgano emisor, en todos los casos",
+      "La firma manuscrita digitalizada del empleado público que los haya redactado",
+      "El sello de órgano, que sustituye en todo caso a cualquier firma electrónica"
+    ],
+    "correct": 0,
+    "exp": "El art. 26.2 e) exige «Incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable». La ley no impone en todo caso la firma cualificada del titular, no habla de firma manuscrita digitalizada y no dice que el sello de órgano sustituya siempre a cualquier firma.",
+    "fuente": "Art. 26.2 e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos requisitos enumera el art. 26.2 de la Ley 39/2015 para que los documentos electrónicos administrativos se consideren válidos?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 2,
+    "exp": "El art. 26.2 enumera cinco requisitos, letras a) a e): contener información archivada en un soporte electrónico según un formato determinado; disponer de datos de identificación que permitan su individualización; incorporar una referencia temporal del momento de emisión; incorporar los metadatos mínimos exigidos; e incorporar las firmas electrónicas que correspondan.",
+    "fuente": "Art. 26.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1 de la Ley 39/2015, en el registro o sistema equivalente de funcionarios habilitados para expedir copias auténticas constarán, al menos:",
+    "options": [
+      "Los que ocupen puestos de jefatura de servicio o de nivel superior en la Administración",
+      "Los destinados en las unidades de archivo de cada Administración Pública",
+      "Los que presten servicios en las oficinas de asistencia en materia de registros",
+      "Los adscritos a órganos que tramiten procedimientos sancionadores"
+    ],
+    "correct": 2,
+    "exp": "El art. 27.1, párrafo cuarto, tras exigir un registro actualizado de funcionarios habilitados, interoperable con los de las demás Administraciones, precisa: «En este registro o sistema equivalente constarán, al menos, los funcionarios que presten servicios en las oficinas de asistencia en materia de registros». La ley no impone como mínimo a jefes de servicio, a personal de archivo ni a los de órganos sancionadores. El art. 12.3 establece la misma regla para el registro de funcionarios habilitados para la identificación o firma de los interesados.",
+    "fuente": "Art. 27.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.4 de la Ley 39/2015, la solicitud de expedición de copias auténticas de documentos públicos administrativos se dirigirá:",
+    "options": [
+      "A la oficina de asistencia en registros más próxima",
+      "Al órgano responsable del archivo electrónico único",
+      "Al órgano que emitió el documento original",
+      "A cualquier órgano, a elección del interesado"
+    ],
+    "correct": 2,
+    "exp": "El art. 27.4 reconoce a los interesados el derecho a pedir en cualquier momento copias auténticas de los documentos públicos administrativos válidamente emitidos, y dispone que «La solicitud se dirigirá al órgano que emitió el documento original». No se dirige a la oficina de registro más próxima, al responsable del archivo ni a cualquier órgano a elección del interesado.",
+    "fuente": "Art. 27.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.4 de la Ley 39/2015, el plazo de quince días para expedir la copia auténtica solicitada por un interesado rige salvo las excepciones derivadas de la aplicación de:",
+    "options": [
+      "La Ley Orgánica 3/2018, de protección de datos personales y garantía de los derechos digitales",
+      "La Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+      "La Ley 40/2015, de Régimen Jurídico del Sector Público, en materia de órganos administrativos",
+      "La legislación sobre archivos históricos y patrimonio documental de cada Comunidad Autónoma"
+    ],
+    "correct": 1,
+    "exp": "El art. 27.4 dispone que la copia debe expedirse, «salvo las excepciones derivadas de la aplicación de la Ley 19/2013, de 9 de diciembre», en el plazo de quince días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente. Las excepciones remiten a la ley de transparencia, no a la de protección de datos, a la Ley 40/2015 ni a la legislación de archivos.",
+    "fuente": "Art. 27.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 a) de la Ley 39/2015, las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica, con o sin cambio de formato, deberán incluir:",
+    "options": [
+      "Los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento",
+      "Un código seguro de verificación impreso en cada una de las páginas de la copia resultante",
+      "La firma manuscrita del funcionario habilitado que haya realizado la copia del documento",
+      "Una diligencia notarial que acredite que su contenido coincide íntegramente con el original"
+    ],
+    "correct": 0,
+    "exp": "El art. 27.3 a) exige que esas copias electrónicas incluyan «los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento». El código de verificación lo exige el art. 27.3 c) para las copias en papel de documentos electrónicos, y la ley no pide firma manuscrita ni intervención notarial.",
+    "fuente": "Art. 27.3 a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 b) de la Ley 39/2015, las copias electrónicas de documentos en soporte papel requieren, además de incluir los metadatos que acrediten su condición de copia:",
+    "options": [
+      "Que el original se coteje ante notario",
+      "Que el interesado firme la copia electrónicamente",
+      "Que el original en papel se destruya después",
+      "Que el documento haya sido digitalizado"
+    ],
+    "correct": 3,
+    "exp": "El art. 27.3 b) dispone que las copias electrónicas de documentos en papel o en otro soporte no electrónico digitalizable «requerirán que el documento haya sido digitalizado» y que incluyan los metadatos que acrediten su condición de copia. No exige cotejo notarial, ni firma del interesado, ni destruir el original.",
+    "fuente": "Art. 27.3 b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 de la Ley 39/2015, ¿a través de qué medio harán públicos las Administraciones los códigos seguros de verificación u otro sistema de verificación utilizado?",
+    "options": [
+      "El Boletín Oficial del Estado",
+      "El tablón de anuncios de cada oficina de registro",
+      "El diario oficial de la Comunidad Autónoma",
+      "La sede electrónica correspondiente"
+    ],
+    "correct": 3,
+    "exp": "El último párrafo del art. 27.3 establece que «las Administraciones harán públicos, a través de la sede electrónica correspondiente, los códigos seguros de verificación u otro sistema de verificación utilizado». La ley no exige publicarlos en el BOE, en un tablón de anuncios ni en el diario autonómico.",
+    "fuente": "Art. 27.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.2 de la Ley 39/2015, si un informe preceptivo ya elaborado por un órgano distinto del que tramita el procedimiento no se remite en los diez días siguientes a su solicitud:",
+    "options": [
+      "Se informará al interesado de que puede aportar el informe o esperar a que lo remita el órgano competente",
+      "Se entenderá que el informe es favorable y el procedimiento continuará sin necesidad de esperar a recibirlo",
+      "El procedimiento caducará si el informe no llega antes de que venza el plazo máximo para resolver",
+      "Se requerirá al interesado que aporte el informe en diez días, con apercibimiento de desistimiento"
+    ],
+    "correct": 0,
+    "exp": "El art. 28.2, párrafo tercero, obliga a remitir esos informes en diez días desde su solicitud y añade: «Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente». La ley no da al informe un sentido favorable, no vincula su falta a la caducidad y no obliga al interesado a aportarlo bajo apercibimiento: es una opción suya.",
+    "fuente": "Art. 28.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.3 de la Ley 39/2015, para no tener que volver a aportar documentos que ya presentó ante cualquier Administración, ¿qué debe indicar el interesado?",
+    "options": [
+      "El número de expediente y la fecha en que se resolvió aquel procedimiento",
+      "El nombre y el puesto del funcionario que recibió entonces los documentos",
+      "Nada, porque es la Administración quien debe averiguar dónde constan",
+      "En qué momento y ante qué órgano presentó los citados documentos"
+    ],
+    "correct": 3,
+    "exp": "El art. 28.3, párrafo segundo, prohíbe requerir documentos aportados anteriormente a cualquier Administración y precisa: «A estos efectos, el interesado deberá indicar en qué momento y ante qué órgano administrativo presentó los citados documentos». No se le pide el número de expediente ni datos del funcionario, y tampoco queda exento de indicar nada.",
+    "fuente": "Art. 28.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.3 de la Ley 39/2015, si excepcionalmente las Administraciones no pudieran recabar los documentos que el interesado aportó anteriormente a cualquier Administración:",
+    "options": [
+      "Podrán solicitar nuevamente al interesado su aportación",
+      "Deberán resolver sin ellos, en sentido favorable al interesado",
+      "Deberán archivar el procedimiento por imposibilidad material",
+      "Deberán darlos por aportados sin más comprobación"
+    ],
+    "correct": 0,
+    "exp": "El art. 28.3, párrafo segundo, termina así: «Excepcionalmente, si las Administraciones Públicas no pudieran recabar los citados documentos, podrán solicitar nuevamente al interesado su aportación». La ley no obliga a resolver a favor del interesado, ni a archivar, ni a dar los documentos por aportados sin comprobarlos.",
+    "fuente": "Art. 28.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.3 de la Ley 39/2015, las Administraciones deben recabar electrónicamente los documentos que el interesado ya aportó a cualquier Administración, salvo que conste en el procedimiento su oposición expresa o:",
+    "options": [
+      "El documento se aportara hace más de cinco años",
+      "El documento conste en una Administración de otra Comunidad Autónoma",
+      "La ley especial aplicable requiera su consentimiento expreso",
+      "El procedimiento se tramite por la vía de urgencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 28.3, párrafo segundo, obliga a recabar esos documentos electrónicamente «salvo que conste en el procedimiento la oposición expresa del interesado o la ley especial aplicable requiera su consentimiento expreso». La antigüedad del documento, que esté en otra Comunidad Autónoma o que el procedimiento sea urgente no son excepciones previstas.",
+    "fuente": "Art. 28.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.4 de la Ley 39/2015, cuando la Administración solicite excepcionalmente un documento original en papel, el interesado obtendrá una copia auténtica antes de presentarlo electrónicamente, y la copia electrónica resultante:",
+    "options": [
+      "Deberá acompañarse del original en papel",
+      "Necesitará cotejo notarial para ser válida",
+      "Sustituirá al original, que se destruirá",
+      "Reflejará expresamente esta circunstancia"
+    ],
+    "correct": 3,
+    "exp": "El art. 28.4 obliga al interesado a obtener una copia auténtica conforme al art. 27 antes de la presentación electrónica y concluye: «La copia electrónica resultante reflejará expresamente esta circunstancia». No exige adjuntar el original, ni cotejo notarial, ni prevé la destrucción del original.",
+    "fuente": "Art. 28.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un acto se notifica un jueves y concede un plazo de cinco días. Ninguna ley ni el Derecho de la Unión Europea establecen otro cómputo y en ese periodo no hay festivos. Según el art. 30 de la Ley 39/2015, ¿cuál es el último día del plazo?",
+    "options": [
+      "El martes de la semana siguiente",
+      "El miércoles de la semana siguiente",
+      "El viernes de la semana siguiente",
+      "El jueves de la semana siguiente"
+    ],
+    "correct": 3,
+    "exp": "Los plazos por días son hábiles y excluyen sábados, domingos y festivos (art. 30.2), y se cuentan desde el día siguiente a la notificación (art. 30.3). Del viernes al jueves siguiente: viernes (1), lunes (2), martes (3), miércoles (4) y jueves (5). El martes resultaría de contar días naturales; el miércoles, de contar el propio jueves de la notificación; el viernes, de añadir un día de más.",
+    "fuente": "Art. 30.2 y 30.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un acto se notifica un viernes a las 10:00 y concede un plazo de 24 horas. El sábado y el domingo son inhábiles y el lunes es hábil. Si ninguna ley ni el Derecho de la Unión Europea disponen otro cómputo, según el art. 30.1 de la Ley 39/2015, ¿cuándo vence el plazo?",
+    "options": [
+      "El sábado siguiente a las 10:00",
+      "El lunes siguiente a las 10:00",
+      "El mismo viernes a las 23:59",
+      "El martes siguiente a las 10:00"
+    ],
+    "correct": 1,
+    "exp": "Según el art. 30.1, las horas de un plazo son hábiles, y «Son hábiles todas las horas del día que formen parte de un día hábil». El plazo se cuenta de hora en hora y de minuto en minuto desde la notificación. Del viernes a las 10:00 a la medianoche corren 14 horas hábiles; las del sábado y el domingo no cuentan; las 10 restantes corren el lunes, de 0:00 a 10:00. El sábado sería contar horas inhábiles; el viernes a las 23:59 deja el plazo sin completar; el martes añade un día que no corresponde.",
+    "fuente": "Art. 30.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un acto se notifica el 31 de enero de un año no bisiesto y concede un plazo de un mes. Ese año, el 28 de febrero es domingo y el lunes 1 de marzo es hábil. Según el art. 30 de la Ley 39/2015, ¿cuál es el último día del plazo?",
+    "options": [
+      "El domingo 28 de febrero",
+      "El lunes 1 de marzo",
+      "El viernes 26 de febrero",
+      "El martes 2 de marzo"
+    ],
+    "correct": 1,
+    "exp": "El plazo en meses concluye el mismo día de la notificación en el mes de vencimiento y, si no existe día equivalente, «el plazo expira el último día del mes» (art. 30.4): el 28 de febrero. Como ese día es domingo, inhábil, se prorroga al primer día hábil siguiente (art. 30.5): el lunes 1 de marzo. Quedarse en el domingo olvida la prórroga, adelantar al viernes la invierte, y el martes 2 de marzo saldría de contar 30 días naturales en lugar de fecha a fecha.",
+    "fuente": "Art. 30.4 y 30.5 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El último día de un plazo de diez días hábiles para presentar alegaciones es un viernes. El interesado presenta su escrito en el registro electrónico el sábado siguiente, y ninguna norma permite la recepción en día inhábil. Según el art. 31.2 b) de la Ley 39/2015, la presentación:",
+    "options": [
+      "Se entiende hecha el sábado y dentro de plazo, porque el registro electrónico funciona todos los días",
+      "Se entiende hecha en la primera hora del lunes, si es hábil, y por tanto con el plazo ya vencido",
+      "Se entiende hecha el viernes, último día hábil anterior, y por tanto dentro del plazo",
+      "Está en plazo, porque el plazo se prorroga al primer día hábil siguiente a la presentación"
+    ],
+    "correct": 1,
+    "exp": "El art. 31.2 b) dispone que, para el cómputo de plazos en días hábiles y el cumplimiento de plazos por los interesados, «la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil». El escrito se tiene por presentado el lunes, después del viernes en que vencía el plazo. Que el registro admita escritos todos los días (31.2 a) no cambia el día de presentación a efectos de plazo. La ley no retrotrae la presentación al viernes. Y la prórroga del art. 30.5 solo opera cuando el último día del plazo es inhábil, que no es el caso.",
+    "fuente": "Art. 31.2 b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La regla del art. 31.2 b) de la Ley 39/2015, por la que la presentación en el registro electrónico en día inhábil se entiende hecha en la primera hora del primer día hábil siguiente, rige a efectos del cómputo de plazos fijados en días hábiles y en lo que se refiere al cumplimiento de plazos por:",
+    "options": [
+      "La Administración",
+      "Los órganos consultivos",
+      "Los interesados",
+      "Las demás Administraciones"
+    ],
+    "correct": 2,
+    "exp": "El art. 31.2 b) se aplica «A los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados». Los plazos que deben cumplir las Administraciones Públicas, sea cual sea la Administración, se rigen por el art. 31.2 c): su cómputo empieza en la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo. Los órganos consultivos no se mencionan.",
+    "fuente": "Art. 31.2 b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En un procedimiento tramitado por el Ayuntamiento de Zaragoza interviene un interesado que reside en Francia. Si la norma fija un plazo de diez días para un trámite, según el art. 32 de la Ley 39/2015:",
+    "options": [
+      "Puede ampliarse hasta quince días, pero solo si el interesado lo pide antes de que el plazo venza",
+      "Se amplía en todo caso al doble del plazo inicial, de modo que pasa a ser de veinte días",
+      "No puede ampliarse, porque los términos y plazos obligan a los interesados sin excepción",
+      "Se amplía en todo caso por el máximo permitido, de modo que el plazo pasa a ser de quince días"
+    ],
+    "correct": 3,
+    "exp": "La ampliación no puede exceder de la mitad del plazo (art. 32.1), y el art. 32.2 dispone que «La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso» a los procedimientos sustanciados en el interior en los que intervengan interesados residentes fuera de España. Diez días más la mitad (cinco) dan quince. No depende de una petición del interesado, el máximo no es el doble, y el art. 29 no impide las ampliaciones que la propia ley prevé.",
+    "fuente": "Art. 32.1 y 32.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  }
+]);
