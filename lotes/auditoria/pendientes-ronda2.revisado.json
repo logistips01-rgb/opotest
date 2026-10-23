@@ -430,15 +430,22 @@
   {
     "tema": 10,
     "q": "El acuerdo de cesión gratuita de bienes de una entidad local, según el art. 110.1 RBEL, requiere...",
-    "accion": "explicacion",
+    "accion": "respuesta",
     "nuevo": {
       "exp": "El art. 110.1 RBEL exige que la cesión gratuita de bienes se acuerde con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación. En Aragón lo dice el art. 119.2 del Decreto 347/2002 (RBASO): «la cesión gratuita deberá ser aprobada por el Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de sus miembros»; y el art. 47.2.ñ) LBRL incluye la «Cesión gratuita de bienes a otras Administraciones o instituciones públicas» entre los acuerdos que exigen esa mayoría. Es la regla general. En Zaragoza, municipio de gran población, el art. 47.3 LBRL remite la adopción de acuerdos al art. 123.2, que no incluye la cesión gratuita, y el art. 14.1.g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza las competencias relativas a la «adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal».",
-      "fuente": "Art. 110.1 RBEL; art. 119.2 RBASO (Decreto 347/2002); art. 47.2.ñ) LBRL; en Zaragoza, arts. 47.3 LBRL y 14.1.g) Ley 10/2017"
+      "fuente": "Art. 110.1 RBEL; art. 119.2 RBASO (Decreto 347/2002); art. 47.2.ñ) LBRL; en Zaragoza, arts. 47.3 LBRL y 14.1.g) Ley 10/2017",
+      "options": [
+        "Mayoría absoluta del número legal de miembros de la Corporación",
+        "Mayoría simple de los miembros asistentes a la sesión",
+        "Dos tercios del número de hecho de miembros de la Corporación",
+        "Unanimidad de los miembros presentes de la Corporación"
+      ],
+      "correct": 0
     },
     "motivo": "Señalada por el revisor de la auditoría aragonesa (índice 144 aprox.). El enunciado se ciñe al art. 110.1 RBEL y la clave es correcta (y coincide con el art. 119.2 RBASO, que es la norma aplicable en Aragón), pero la explicación no avisaba de que en Zaragoza la cesión gratuita no la acuerda el Pleno por mayoría absoluta. Se completa la explicación; las opciones son mayorías, ninguna es una regla de Zaragoza, y no cambian.",
     "resumen": "La explicación añade la norma aragonesa (art. 119.2 RBASO) y avisa de que en Zaragoza la cesión gratuita corresponde al Gobierno de Zaragoza.",
     "cita": "RBASO, art. 119.2: «Tramitado el procedimiento, la cesión gratuita deberá ser aprobada por el Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de sus miembros.» LBRL 47.2.ñ): «Cesión gratuita de bienes a otras Administraciones o instituciones públicas.» LBRL 47.3: «Las normas relativas a adopción de acuerdos en los municipios señalados en el artículo 121 de esta ley, son las contenidas en el apartado 2 del artículo 123.» Ley 10/2017, art. 14.1.g): «Las competencias ejecutivas y de gestión, en todos sus aspectos, relativas a la adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal»",
-    "revisor": "APROBADA sin cambios. Comprobados el art. 110.1 RBEL, el art. 119.2 RBASO, el art. 47.2.ñ) y 47.3 LBRL, el art. 123.2 LBRL (no incluye la cesión gratuita) y el art. 14.1.g) de la Ley 10/2017. Las opciones son mayorías y ninguna es la regla de Zaragoza. (La Ley 7/1999 también exige mayoría absoluta para la cesión gratuita, art. 126.4.n; no hace falta añadirlo.)"
+    "revisor": "APROBADA CON CAMBIOS (solo de forma). La explicación es correcta. Comprobados el art. 110.1 RBEL, el art. 119.2 RBASO, el art. 47.2.ñ) y 47.3 LBRL, el art. 123.2 LBRL (no incluye la cesión gratuita) y el art. 14.1.g) de la Ley 10/2017. Las opciones son mayorías y ninguna es la regla de Zaragoza. (La Ley 7/1999 también exige mayoría absoluta para la cesión gratuita, art. 126.4.n; no hace falta añadirlo.) Cambio de forma (regla 7 bis): la clave (63 caracteres) era bastante más larga que los distractores (41-44); se alargan los tres sin cambiar su sentido, que sigue siendo falso. Por eso la acción pasa a «respuesta»."
   },
   {
     "tema": 10,
