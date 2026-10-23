@@ -59118,3 +59118,681 @@ window.addQuestions('aux-admin-zaragoza', 6, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 10 · lote 2026-10-23 · 7 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 10, [
+  {
+    "q": "Según el art. 12.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la desafectación de bienes comunales que no han sido objeto de disfrute comunal durante más de diez años requiere procedimiento con información pública de un mes, acuerdo de la entidad local y, después:",
+    "options": [
+      "Aprobación mediante una ley de las Cortes de Aragón a propuesta del municipio",
+      "Ratificación por el Pleno de la Diputación Provincial correspondiente",
+      "Ninguna otra aprobación, porque el acuerdo municipal es definitivo",
+      "Aprobación del Consejero autonómico competente en materia de régimen local"
+    ],
+    "correct": 3,
+    "exp": "El art. 12.2 RBASO (en el mismo sentido, el art. 179.1 de la Ley 7/1999) exige, tras el acuerdo municipal, la «posterior aprobación del Consejero de Presidencia y Relaciones Institucionales del Gobierno de Aragón». Esa es la denominación del departamento en 2002: hoy las competencias autonómicas en materia de régimen local, incluida la tutela sobre los actos de disposición de bienes locales, corresponden al Departamento de Vivienda, Fomento, Logística y Cohesión Territorial (Decreto 129/2026, de 22 de julio, BOA nº 143). En el régimen común el acuerdo municipal lo adopta el Pleno por mayoría absoluta del número legal de miembros; en Zaragoza, municipio de gran población, los acuerdos de desafectación de bienes comunales corresponden al Gobierno de Zaragoza (art. 14.1.g de la Ley 10/2017). La norma no prevé una ley de las Cortes ni una ratificación provincial, y el acuerdo municipal no basta por sí solo.",
+    "fuente": "Art. 12.2 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 45 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si una entidad local no atiende en el plazo de tres meses el requerimiento del departamento autonómico competente en materia de régimen local para defender o recuperar sus bienes de dominio público:",
+    "options": [
+      "El Gobierno de Aragón recuperará los bienes, que se integrarán en el patrimonio de la Comunidad Autónoma",
+      "El Gobierno de Aragón podrá deducir recurso contencioso-administrativo contra dicha inactividad",
+      "La Diputación Provincial se subrogará en la titularidad de los bienes",
+      "Los bienes quedarán desafectados de forma automática"
+    ],
+    "correct": 1,
+    "exp": "El art. 45.3 RBASO dispone: «Si en el plazo de tres meses desde el requerimiento éste no fuera atendido por la Entidad local, el Gobierno de Aragón podrá deducir recurso contencioso-administrativo contra dicha inactividad». La norma no prevé ningún cambio de titularidad ni de calificación de los bienes. El art. 45.1 atribuye el requerimiento al «Departamento de Presidencia y Relaciones Institucionales», denominación de 2002; hoy las competencias autonómicas en materia de régimen local las ejerce el Departamento de Vivienda, Fomento, Logística y Cohesión Territorial (Decreto 129/2026, de 22 de julio).",
+    "fuente": "Art. 45.3 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 63.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿cuándo se entiende iniciada la recuperación posesoria de un bien en vía administrativa?",
+    "options": [
+      "Con la notificación al ocupante del acuerdo que la resuelve",
+      "Con la incoación del procedimiento de recuperación",
+      "Con la ejecución material del desalojo",
+      "Con la inscripción del acuerdo en el Registro de la Propiedad"
+    ],
+    "correct": 1,
+    "exp": "El art. 63.2 RBASO dispone: «La recuperación posesoria se entenderá iniciada con la incoación del procedimiento a que se refiere el párrafo anterior», es decir, el procedimiento con audiencia al interesado e informe del Secretario o de la Asesoría jurídica del art. 63.1. Para los bienes patrimoniales, el art. 62.2 limita la recuperación de oficio al plazo de un año desde el día siguiente a la usurpación, y el art. 55.3 de la Ley 33/2003 (LPAP), que es básico, exige además que la iniciación del procedimiento se haya notificado antes de que transcurra ese año: no basta con incoarlo dentro de él.",
+    "fuente": "Art. 63.2 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si las ordenanzas no determinan si las licencias de utilización del dominio público son transmisibles, según el art. 80.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO):",
+    "options": [
+      "Se consideran transmisibles, salvo las otorgadas por cualidades personales o de número limitado",
+      "Se consideran intransmisibles, salvo que el Pleno autorice expresamente su transmisión",
+      "Se consideran transmisibles todas, incluidas las otorgadas por cualidades personales o de número limitado",
+      "Se consideran intransmisibles hasta que las ordenanzas regulen expresamente la cuestión"
+    ],
+    "correct": 0,
+    "exp": "El art. 80.2 RBASO dispone: «Las Ordenanzas determinarán el carácter transmisible o intransmisible de las licencias. Si no lo determinaran, se considerarán transmisibles. En ningún caso serán transmisibles las licencias concedidas en atención a las cualidades personales del sujeto o cuyo número estuviese limitado». La regla supletoria es, pues, la transmisibilidad, sin necesidad de autorización del Pleno, y no alcanza a las licencias personales o de número limitado. Matiz de la legislación básica: el art. 92.2 de la Ley 33/2003 (LPAP) declara intransmisibles esas autorizaciones «salvo que las condiciones por las que se rigen admitan su transmisión», salvedad que el «en ningún caso» del Decreto no recoge.",
+    "fuente": "Art. 80.2 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según los arts. 91.1 y 94 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la garantía definitiva que debe constituir el adjudicatario de una concesión sobre bienes de dominio público es:",
+    "options": [
+      "El 3 % del valor del dominio público ocupado y, en su caso, de las obras en la normal, y el 5 % en la anormal",
+      "El 2 % del valor del dominio público ocupado y, en su caso, de las obras, en la utilización normal y en la anormal",
+      "El 4 % del valor del dominio público ocupado y, en su caso, de las obras, en la utilización normal y en la anormal",
+      "El 6 % del valor en venta del bien ocupado, tanto en la utilización normal como en la anormal"
+    ],
+    "correct": 2,
+    "exp": "El art. 91.1 RBASO fija la garantía definitiva en «el cuatro por ciento del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que haya de ejecutar», y el art. 94.d) aplica a la utilización anormal la misma cifra («la garantía definitiva será el cuatro por ciento sobre las anteriores bases»). El 2 % es la garantía provisional (arts. 90.3 y 94.c). El 3 % y el 5 % son las cifras de los arts. 90.1 y 91.d) del Reglamento de Bienes estatal de 1986, que en Aragón quedan desplazadas por el Decreto 347/2002: el reglamento estatal solo se aplica donde la norma aragonesa no dice nada.",
+    "fuente": "Arts. 91.1 y 94.d) RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 96 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las ordenanzas locales pueden exigir residencia habitual y efectiva para acceder al disfrute de los bienes comunales. Si esas condiciones excluyen del aprovechamiento a determinados vecinos, las ordenanzas deben ser aprobadas por:",
+    "options": [
+      "El Gobierno de Aragón, previo dictamen de su órgano consultivo",
+      "El Pleno municipal, sin intervención autonómica",
+      "Las Cortes de Aragón, mediante una ley singular aprobada al efecto",
+      "La Diputación Provincial correspondiente, previo informe del Justicia de Aragón"
+    ],
+    "correct": 0,
+    "exp": "El art. 96.5 RBASO (igual que el art. 183.3 de la Ley 7/1999) dispone: «Si estas condiciones supusieran la exclusión del aprovechamiento de determinados vecinos, las Ordenanzas deberán ser aprobadas por el Gobierno de Aragón, previo dictamen de la Comisión Jurídica Asesora». Esa Comisión dejó de ejercer sus funciones al constituirse el Consejo Consultivo de Aragón (disposición transitoria primera de la Ley 1/2009, de 30 de marzo, del Consejo Consultivo de Aragón). La aprobación es autonómica: no basta el Pleno municipal y no intervienen las Cortes ni la Diputación Provincial.",
+    "fuente": "Art. 96.5 RBASO (Decreto 347/2002 de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121 del Decreto 347/2002 del Gobierno de Aragón (RBASO), en la redacción que le dio su corrección de errores, toda enajenación, gravamen o permuta de bienes inmuebles debe comunicarse, con el expediente, al departamento autonómico competente en materia de régimen local para su toma de conocimiento:",
+    "options": [
+      "Antes de iniciar el expediente",
+      "Dentro del mes siguiente a la ejecución del acuerdo",
+      "Solo si el valor del bien excede del 25 % de los recursos ordinarios del presupuesto",
+      "Una vez adoptado el acuerdo que la aprueba y antes de ejecutarlo"
+    ],
+    "correct": 3,
+    "exp": "La corrección de errores del Decreto 347/2002 (BOA nº 9, de 24-1-2003) dio al art. 121 esta redacción: la operación «habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo». La comunicación se exige siempre; si el valor del bien excede del 25 % de los recursos ordinarios del presupuesto anual de la entidad, se necesita además aprobación previa mediante Orden del Consejero. El precepto nombra al «Departamento de Presidencia y Relaciones Institucionales», denominación de 2002; hoy esa tutela la ejerce el Departamento de Vivienda, Fomento, Logística y Cohesión Territorial (Decreto 129/2026, de 22 de julio).",
+    "fuente": "Art. 121 RBASO (Decreto 347/2002 de Aragón); corrección de errores en BOA nº 9, de 24-1-2003",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 11 · lote 2026-10-23 · 3 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 11, [
+  {
+    "q": "Según el art. 202.1 de la Ley 7/1999, de Administración Local de Aragón, en un servicio público gestionado de forma indirecta, si la entidad local incumple sus obligaciones, el contratista:",
+    "options": [
+      "Podrá suspender la prestación desde el momento en que denuncie el incumplimiento",
+      "Podrá interrumpir la prestación si el incumplimiento dura más de tres meses",
+      "Podrá interrumpir la prestación, pero perderá el derecho a ser indemnizado",
+      "No podrá interrumpirla, sin perjuicio de su derecho a ser resarcido de los daños"
+    ],
+    "correct": 3,
+    "exp": "El art. 202.1 de la Ley 7/1999 garantiza la continuidad del servicio: en la gestión indirecta, el contratista «no podrá interrumpirla a causa del incumplimiento en que haya podido incurrir la entidad local, sin menoscabo de su derecho al resarcimiento de los daños y perjuicios ocasionados». La ley aragonesa no prevé la suspensión desde la denuncia ni un plazo de tres meses que habilite a interrumpir, y el derecho a la indemnización se mantiene. Matiz de la legislación básica: en los contratos administrativos, si la demora de la Administración en el pago supera cuatro meses, el contratista puede suspender el cumplimiento del contrato avisando con un mes de antelación (art. 198.5 de la Ley 9/2017, de Contratos del Sector Público); en ese caso concreto la regla autonómica cede.",
+    "fuente": "Art. 202.1 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205.2 de la Ley 7/1999, de Administración Local de Aragón, en el expediente para la prestación de servicios o el ejercicio de actividades económicas por una entidad local, la exposición pública a efectos de reclamaciones y alegaciones durará:",
+    "options": [
+      "No menos de un mes",
+      "No menos de diez días",
+      "No menos de quince días hábiles",
+      "No menos de tres meses"
+    ],
+    "correct": 0,
+    "exp": "El art. 205.2 de la Ley 7/1999 fija tres trámites: el acuerdo inicial del Pleno, previa memoria de una comisión nombrada al efecto; la «exposición pública, por plazo no inferior a un mes, a efectos de reclamaciones y alegaciones», y la aprobación del proyecto por el Pleno. En Zaragoza rige un procedimiento propio, y la Ley 7/1999 solo se aplica supletoriamente (disposición adicional primera.3 de la Ley 10/2017). Según el art. 51.1 de la Ley 10/2017, el ejercicio de actividades económicas y la determinación de las formas de gestión de los servicios exigen memoria de una comisión especial designada por el Alcalde, informe del Interventor, aprobación del proyecto por el Gobierno de Zaragoza, información pública «por un plazo mínimo de treinta días naturales» y aprobación por el Pleno en acto único.",
+    "fuente": "Art. 205.2.b) Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205.4 de la Ley 7/1999, de Administración Local de Aragón, cuando el Pleno acuerda prestar en régimen de monopolio un servicio reservado y el Gobierno de Aragón no resuelve expresamente, el acuerdo:",
+    "options": [
+      "Se entiende denegado a los tres meses de la recepción del expediente completo",
+      "Se entiende aprobado a los seis meses del acuerdo del Pleno",
+      "Se entiende aprobado a los tres meses de la recepción del expediente completo",
+      "Se entiende denegado al mes de la remisión del expediente"
+    ],
+    "correct": 2,
+    "exp": "El art. 205.4 de la Ley 7/1999 exige la aprobación del Gobierno de Aragón, que debe resolver «en el plazo de tres meses desde la recepción del expediente completo, entendiéndose aprobada si no hay resolución expresa en dicho plazo». El silencio es, por tanto, positivo, y el plazo se cuenta desde la recepción del expediente completo. El mismo precepto exige para el acuerdo plenario la mayoría absoluta del número legal de miembros, como el art. 47.2.k) LBRL, pero esa es la regla del régimen común: en los municipios de gran población las mayorías son las del art. 123.2 LBRL (art. 47.3), que no incluye este acuerdo, y en Zaragoza el art. 11.2 de la Ley 10/2017 fija como regla general la mayoría simple.",
+    "fuente": "Art. 205.4 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 13 · lote 2026-10-23 · 2 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según la regla 37.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cuando las operaciones se incorporan al sistema mediante soportes electrónicos, informáticos o telemáticos, la autorización mediante diligencias, firmas manuscritas o sellos:",
+    "options": [
+      "Podrá sustituirse por autorizaciones y controles de las propias aplicaciones informáticas",
+      "Sigue siendo obligatoria en todo caso, aunque los documentos lleven firma electrónica",
+      "Solo puede sustituirse si lo autoriza expresamente la Intervención General del Estado",
+      "Se sustituye siempre por la diligencia de toma de razón del responsable de la contabilidad"
+    ],
+    "correct": 0,
+    "exp": "La regla 37.2 dispone que, en ese caso, los procedimientos de autorización y control mediante diligencias, firmas manuscritas, sellos u otros medios manuales «podrán ser sustituidos por autorizaciones y controles establecidos en las propias aplicaciones informáticas que garanticen la identificación y el ejercicio de la competencia por quien la tenga atribuida». Es una posibilidad, no una obligación, y no depende de una autorización de la Intervención General. En la captura directa de datos, en cambio, los documentos deben estar autorizados mediante diligencias, firmas manuscritas, sellos u otros medios manuales por quien tenga facultades para ello (regla 37.1). La toma de razón (regla 38) es un trámite distinto de la autorización.",
+    "fuente": "Regla 37.2 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 97 del RD 500/1990, el resultado presupuestario deberá ajustarse, en su caso, en función de:",
+    "options": [
+      "Los derechos de difícil o imposible recaudación y los fondos líquidos a 31 de diciembre del ejercicio",
+      "Las obligaciones financiadas con remanentes de Tesorería y las diferencias de financiación afectada",
+      "Los créditos declarados no disponibles y las modificaciones de crédito que no pueden prorrogarse",
+      "Los pagos ordenados pendientes de realizar y las relaciones contables de órdenes de pago"
+    ],
+    "correct": 1,
+    "exp": "El art. 97 del RD 500/1990 dispone: «El resultado presupuestario deberá, en su caso, ajustarse en función de las obligaciones financiadas con remanentes de Tesorería y de las diferencias de financiación derivadas de gastos con financiación afectada». Los derechos de difícil o imposible recaudación y los fondos líquidos intervienen en el cálculo del remanente de tesorería (arts. 101 y 103), no en el del resultado presupuestario; los créditos no disponibles y los pagos ordenados pendientes tampoco son ajustes de ese resultado.",
+    "fuente": "Art. 97 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 16 · lote 2026-10-23 · 2 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 16, [
+  {
+    "q": "Según el art. 140.1.b) de la Ley 7/1999, de Administración Local de Aragón, la información pública de una ordenanza aprobada inicialmente se abre previo anuncio del acuerdo de aprobación inicial en:",
+    "options": [
+      "El «Boletín Oficial del Estado» y un diario de los de mayor difusión de la provincia",
+      "La sección correspondiente del «Boletín Oficial de Aragón» y el tablón de anuncios",
+      "Un diario de los de mayor difusión de la provincia y la sede electrónica",
+      "Únicamente el tablón de anuncios y la sede electrónica de la entidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 140.1.b) regula la «Información pública, previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad del acuerdo de aprobación inicial, por el plazo mínimo de treinta días». Desde 2000, los boletines oficiales de las provincias de Huesca, Teruel y Zaragoza son secciones del «Boletín Oficial de Aragón», y las referencias legales a ellos se entienden hechas a esas secciones (disposición adicional cuarta de la Ley 7/1999). No se exige anuncio en el BOE ni en un diario, y no basta con el tablón y la sede electrónica. En Zaragoza, el art. 48.3.b) de la Ley 10/2017 abre la información pública, tras la aprobación del proyecto por el Gobierno de Zaragoza, mediante anuncio «en el boletín oficial correspondiente y en el tablón de anuncios municipal», por un plazo mínimo de treinta días naturales.",
+    "fuente": "Art. 140.1.b) Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 141.1 de la Ley 7/1999, de Administración Local de Aragón, los reglamentos y las ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido:",
+    "options": [
+      "Diez días hábiles contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
+      "Veinte días contados desde el siguiente al de su publicación en el «Boletín Oficial de Aragón»",
+      "Quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
+      "Un mes contado desde el siguiente al de su aprobación definitiva por el Pleno de la entidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 141.1 dispone que los reglamentos y las ordenanzas, incluidos los contenidos normativos de los planes urbanísticos, «no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia», que hoy es una sección del «Boletín Oficial de Aragón» (disposición adicional cuarta). La ley aragonesa no prevé diez ni veinte días ni cuenta el plazo desde la aprobación. Esta regla convive con la básica del art. 70.2 LBRL, que rige también en Zaragoza: las ordenanzas no entran en vigor hasta que se publica completamente su texto y transcurre el plazo del art. 65.2 (quince días hábiles desde la recepción de la comunicación del acuerdo).",
+    "fuente": "Art. 141.1 Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 17 · lote 2026-10-23 · 14 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 17, [
+  {
+    "q": "Según el art. 14.j bis) del TREBEP, el derecho de los empleados públicos a la desconexión digital se reconoce en los términos establecidos en:",
+    "options": [
+      "El convenio colectivo o el acuerdo de cada Administración Pública",
+      "La normativa de protección de datos y garantía de los derechos digitales",
+      "La normativa de prevención de riesgos laborales y de seguridad y salud laboral",
+      "El Código de Conducta de los empleados públicos del propio Estatuto"
+    ],
+    "correct": 1,
+    "exp": "El art. 14.j bis) TREBEP (añadido por la LO 3/2018) reconoce el derecho a la intimidad en el uso de dispositivos digitales y frente a la videovigilancia y la geolocalización, «así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales». No remite a convenios o acuerdos, a la normativa de prevención de riesgos ni al Código de Conducta (arts. 52 a 54).",
+    "fuente": "Art. 14.j bis) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4 del TREBEP, cuando la Administración correspondiente las haya implantado en un mismo ámbito, los funcionarios de carrera podrán progresar simultáneamente en las modalidades de:",
+    "options": [
+      "Promoción interna vertical y promoción interna horizontal",
+      "Carrera horizontal y carrera vertical",
+      "Carrera vertical y promoción interna vertical",
+      "Carrera horizontal y promoción interna horizontal"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.4 TREBEP dispone que «los funcionarios de carrera podrán progresar simultáneamente en las modalidades de carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito». Es la única progresión simultánea del funcionario que reconoce ese apartado. Otra cosa es el art. 16.3, que permite a las leyes de Función Pública aplicar de forma «aislada o simultánea» alguna o algunas de las cuatro modalidades (carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal) al regular la carrera en cada ámbito.",
+    "fuente": "Art. 16.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.a) del TREBEP, en el sistema de grados, categorías o escalones de la carrera horizontal, los ascensos serán:",
+    "options": [
+      "Automáticos por cada tres años de servicio efectivo prestado",
+      "Libres, pudiendo saltarse escalones a criterio del órgano competente",
+      "Consecutivos con carácter general, salvo supuestos excepcionales",
+      "Consecutivos en todo caso, sin ninguna excepción posible"
+    ],
+    "correct": 2,
+    "exp": "El art. 17.a) TREBEP prevé un sistema de grados, categorías o escalones con su remuneración y añade: «Los ascensos serán consecutivos con carácter general, salvo en aquellos supuestos excepcionales en los que se prevea otra posibilidad». No son, por tanto, consecutivos sin excepción ni libres. Tampoco son automáticos por antigüedad: el art. 17.b) exige valorar la trayectoria, la calidad de los trabajos, los conocimientos y la evaluación del desempeño (los tres años son la medida del trienio, art. 23.b).",
+    "fuente": "Art. 17.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.4 del TREBEP, en relación con la promoción interna, las Administraciones Públicas:",
+    "options": [
+      "Adoptarán medidas que incentiven la participación de su personal en la promoción interna",
+      "Reservarán a la promoción interna al menos la mitad de las plazas de cada oferta de empleo público",
+      "Podrán eximir de las pruebas selectivas a quienes acrediten cinco años de servicio activo",
+      "Limitarán la participación a quienes hayan obtenido una evaluación del desempeño favorable"
+    ],
+    "correct": 0,
+    "exp": "El art. 18.4 TREBEP establece que «las Administraciones Públicas adoptarán medidas que incentiven la participación de su personal en los procesos selectivos de promoción interna y para la progresión en la carrera profesional». El artículo no fija ninguna reserva mínima de plazas ni exige una evaluación favorable, y el art. 18.2 obliga a superar las pruebas selectivas, por lo que no cabe eximir de ellas por antigüedad.",
+    "fuente": "Art. 18.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.5 del TREBEP, requiere la aprobación previa de sistemas objetivos de evaluación del desempeño la aplicación de las retribuciones complementarias que atienden a:",
+    "options": [
+      "La especial dificultad técnica, responsabilidad o dedicación exigible en el puesto de trabajo",
+      "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo",
+      "La antigüedad del funcionario en su Subgrupo o Grupo de clasificación profesional",
+      "El grado de interés, iniciativa o esfuerzo y el rendimiento o los resultados obtenidos"
+    ],
+    "correct": 3,
+    "exp": "El art. 20.5 TREBEP exige la aprobación previa de sistemas objetivos de evaluación del desempeño para tres cosas: la aplicación de la carrera horizontal, la «de las retribuciones complementarias derivadas del apartado c) del artículo 24» y el cese en el puesto obtenido por concurso. Ese apartado del art. 24 retribuye el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados obtenidos. Las retribuciones ligadas a la dificultad técnica, responsabilidad o dedicación del puesto y a los servicios extraordinarios no se mencionan en el art. 20.5, y la antigüedad no es un factor de las retribuciones complementarias: se retribuye con los trienios, que son retribución básica (art. 23.b).",
+    "fuente": "Art. 20.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 42 del TREBEP, si al término del mandato de los Delegados y de los miembros de las Juntas de Personal no se han promovido nuevas elecciones:",
+    "options": [
+      "Se extingue y la representación pasa provisionalmente a los sindicatos más representativos",
+      "Se prorroga un máximo de seis meses y esos representantes se computan a todos los efectos legales",
+      "La Administración debe convocar de oficio las elecciones en el plazo de un mes",
+      "Se entiende prorrogado, sin computar esos representantes para la representatividad sindical"
+    ],
+    "correct": 3,
+    "exp": "El art. 42 TREBEP fija un mandato de cuatro años, con reelección, y añade: «El mandato se entenderá prorrogado si, a su término, no se hubiesen promovido nuevas elecciones, sin que los representantes con mandato prorrogado se contabilicen a efectos de determinar la capacidad representativa de los Sindicatos». La prórroga no tiene plazo máximo, la representación no pasa a los sindicatos y la Administración no figura entre quienes pueden promover elecciones (art. 43.1).",
+    "fuente": "Art. 42 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 45.3 del TREBEP, en el procedimiento de arbitraje para la solución extrajudicial de conflictos colectivos, las partes:",
+    "options": [
+      "Deben someterse al arbitraje siempre que lo solicite cualquiera de ellas",
+      "Pueden aceptar o rechazar libremente la resolución arbitral una vez que se haya dictado",
+      "Pueden encomendarlo voluntariamente a un tercero, aceptando de antemano su resolución",
+      "Deben acudir obligatoriamente al arbitraje antes de intentar la mediación"
+    ],
+    "correct": 2,
+    "exp": "Según el art. 45.3 TREBEP, «mediante el procedimiento de arbitraje las partes podrán acordar voluntariamente encomendar a un tercero la resolución del conflicto planteado, comprometiéndose de antemano a aceptar el contenido de la misma». Lo que es obligatorio a petición de una parte, y con propuestas que se pueden aceptar o rechazar libremente, es la mediación, no el arbitraje. El precepto no impone ningún orden entre ambos procedimientos.",
+    "fuente": "Art. 45.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 46.2 del TREBEP, las reuniones de los empleados públicos en el centro de trabajo se autorizarán:",
+    "options": [
+      "Fuera de las horas de trabajo, salvo acuerdo con los legitimados para convocarlas",
+      "Dentro de la jornada de trabajo, con un máximo de diez horas al año",
+      "En cualquier momento, siempre que se avise con cuarenta y ocho horas",
+      "Solo dentro de las horas de trabajo, previa autorización expresa de la Junta de Personal"
+    ],
+    "correct": 0,
+    "exp": "El art. 46.2 TREBEP establece que «las reuniones en el centro de trabajo se autorizarán fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas». Añade que la reunión no perjudicará la prestación de los servicios y que los convocantes responden de su normal desarrollo. El TREBEP no fija un número de horas anuales ni un preaviso, ni condiciona la reunión a la autorización de la Junta de Personal.",
+    "fuente": "Art. 46.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47.2 del TREBEP, las Administraciones Públicas adoptarán medidas de flexibilización horaria para garantizar la conciliación de los empleados públicos que tengan a su cargo hijos e hijas menores de:",
+    "options": [
+      "Seis años",
+      "Doce años",
+      "Ocho años",
+      "Catorce años"
+    ],
+    "correct": 1,
+    "exp": "El art. 47.2 TREBEP (redacción del RDL 2/2024) obliga a adoptar medidas de flexibilización horaria para los empleados públicos «que tengan a su cargo a hijos e hijas menores de doce años». También las extiende a quienes tengan necesidades de cuidado de hijos mayores de doce años, del cónyuge o pareja de hecho, de familiares por consanguinidad hasta el segundo grado o de otras personas que convivan en el mismo domicilio y que, por razones de edad, accidente o enfermedad, no puedan valerse por sí mismos.",
+    "fuente": "Art. 47.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47 bis.2 del TREBEP, la prestación del servicio mediante teletrabajo:",
+    "options": [
+      "Puede imponerse por la Administración siempre que lo exijan las necesidades del servicio",
+      "Es incompatible con la modalidad presencial",
+      "Tendrá carácter voluntario y reversible, salvo en supuestos excepcionales debidamente justificados",
+      "Una vez autorizada, no puede revocarse durante al menos un año"
+    ],
+    "correct": 2,
+    "exp": "El art. 47 bis.2 TREBEP dispone que la prestación del servicio mediante teletrabajo «habrá de ser expresamente autorizada y será compatible con la modalidad presencial. En todo caso, tendrá carácter voluntario y reversible salvo en supuestos excepcionales debidamente justificados». No puede imponerse por simples necesidades del servicio, es compatible con la presencialidad y el precepto no fija ningún periodo mínimo de permanencia.",
+    "fuente": "Art. 47 bis.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.b) del TREBEP, cuando en la adopción o el acogimiento internacional sea necesario el desplazamiento previo de los progenitores al país de origen del adoptado, se tiene derecho, además, a un permiso de:",
+    "options": [
+      "Hasta dos meses, percibiendo las retribuciones íntegras",
+      "Hasta cuatro semanas, percibiendo solo las retribuciones básicas",
+      "Hasta cuatro semanas, percibiendo las retribuciones íntegras",
+      "Hasta dos meses, percibiendo solo las retribuciones básicas"
+    ],
+    "correct": 3,
+    "exp": "El art. 49.b) TREBEP dispone que en ese caso «se tendrá derecho, además, a un permiso de hasta dos meses de duración, percibiendo durante este periodo exclusivamente las retribuciones básicas». Las cuatro semanas son otra regla: en ese mismo supuesto, el permiso por adopción, guarda o acogimiento puede iniciarse hasta cuatro semanas antes de la resolución judicial o la decisión administrativa o judicial. Durante los dos meses no se cobran las retribuciones íntegras.",
+    "fuente": "Art. 49.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.e) del TREBEP, en la redacción vigente desde el 23 de octubre de 2026, cuando el hijo a cargo afectado por cáncer u otra enfermedad grave se encuentre en situación de gran discapacidad o gran dependencia que requiera cuidados directos, continuos y permanentes:",
+    "options": [
+      "La reducción podrá prorrogarse más allá de los límites de edad mientras persistan la necesidad y la convivencia",
+      "La reducción de jornada se extinguirá en todo caso cuando la persona a cargo cumpla los veintiséis años de edad",
+      "La reducción de jornada será obligatoriamente del cien por cien para uno solo de los progenitores",
+      "El permiso se transformará en una excedencia retribuida sin límite de edad ni de duración"
+    ],
+    "correct": 0,
+    "exp": "La Ley 4/2026, de 1 de octubre (DF 11.ª), añadió al art. 49.e) TREBEP un párrafo en vigor desde el 23-oct-2026: «excepcionalmente cuando la persona a cargo se encuentre en situación de gran discapacidad o gran dependencia que requiera cuidados directos, continuos y permanentes, el derecho a la reducción de jornada podrá prorrogarse más allá de los límites de edad previstos, mientras persista la necesidad de cuidado debidamente acreditada y se mantenga la convivencia con la persona beneficiaria del permiso». Por eso los 23 años (26 con discapacidad de al menos el 65 %) ya no son un tope absoluto en estos casos. La reforma no impone que uno solo de los progenitores reduzca el cien por cien ni crea ninguna excedencia.",
+    "fuente": "Art. 49.e), párrafo 5.º TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.e) del TREBEP, en la redacción vigente desde el 23 de octubre de 2026, en los supuestos de especial intensidad asistencial (gran discapacidad o gran dependencia del hijo), ambos progenitores podrán excepcionalmente compartir el porcentaje de reducción de jornada:",
+    "options": [
+      "Hasta el 50 % entre los dos, de forma alterna y por periodos iguales para cada uno",
+      "Hasta el 100 % entre los dos, de forma simultánea y proporcional a la reducción de cada uno",
+      "Hasta el 100 % entre los dos, siempre que estén casados o sean pareja de hecho",
+      "Hasta el 100 % cada uno de ellos, de forma sucesiva y sin un límite conjunto"
+    ],
+    "correct": 1,
+    "exp": "El párrafo añadido al art. 49.e) TREBEP por la Ley 4/2026 (DF 11.ª), en vigor desde el 23-oct-2026, permite que ambos progenitores, adoptantes, guardadores o acogedores permanentes «excepcionalmente podrán compartir el porcentaje de reducción de jornada hasta el máximo de 100% entre los dos progenitores, de forma simultánea y proporcional al tiempo de reducción asumido por cada uno de ellos, con independencia de su estado civil». El tope del 100 % es conjunto, no de cada uno; la reducción es simultánea, no alterna ni sucesiva, y no depende del estado civil.",
+    "fuente": "Art. 49.e), párrafo 6.º TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50.3 del TREBEP, el periodo de vacaciones anuales retribuidas de los funcionarios públicos:",
+    "options": [
+      "Puede sustituirse por una cuantía económica a petición del funcionario, si lo autoriza el órgano competente",
+      "Se compensa económicamente en todo caso cuando el funcionario renuncia voluntariamente a su condición",
+      "No es sustituible por dinero, salvo si la relación concluye por causas ajenas a la voluntad del funcionario",
+      "No puede compensarse económicamente en ningún caso, ni siquiera por jubilación o fallecimiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 50.3 TREBEP establece que el periodo de vacaciones anuales retribuidas «no puede ser sustituido por una cuantía económica» y que, en caso de renuncia voluntaria, debe garantizarse su disfrute. No obstante, cuando la relación de servicios concluye por causas ajenas a la voluntad del funcionario, este puede pedir una compensación económica por las vacaciones devengadas y no disfrutadas, en particular en la jubilación por incapacidad permanente o el fallecimiento, hasta un máximo de dieciocho meses.",
+    "fuente": "Art. 50.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 19 · lote 2026-10-23 · 5 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 19, [
+  {
+    "q": "Conforme al artículo 8.3 del RD 896/1991, el número mínimo de temas para el ingreso en la subescala del grupo B (el antiguo grupo B, equivalente hoy al subgrupo A2 según la disposición transitoria tercera del TREBEP) es de:",
+    "options": [
+      "40 temas",
+      "75 temas",
+      "90 temas",
+      "60 temas"
+    ],
+    "correct": 3,
+    "exp": "El art. 8.3 del RD 896/1991 exige como mínimo 60 temas para el grupo B. Los 90 temas son del grupo A y los 40, del grupo C; 75 no figura en el precepto. El grupo B del Real Decreto es el anterior a la Ley 7/2007, que hoy equivale al subgrupo A2 (disposición transitoria tercera.2 del TREBEP), no el actual grupo B de técnico superior del art. 76 TREBEP.",
+    "fuente": "Art. 8.3 RD 896/1991",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con la disposición final primera del RD 896/1991, ¿cuál de los siguientes preceptos tiene carácter supletorio respecto de la legislación específica de las Comunidades Autónomas?",
+    "options": [
+      "El artículo 6, sobre la publicación de las bases y las convocatorias",
+      "El artículo 3, sobre la aprobación de las bases de la convocatoria",
+      "El artículo 9, sobre los ejercicios prácticos de las pruebas",
+      "El artículo 8, sobre el contenido de los ejercicios teóricos"
+    ],
+    "correct": 0,
+    "exp": "La disposición final primera del RD 896/1991 declara básicos todos sus preceptos excepto el art. 4, letras a), b), c), d), f), g), h) e i), el art. 6 y las disposiciones adicionales primera (párrafos segundo y tercero), segunda y tercera, que se aplican con carácter supletorio respecto de la legislación específica de las Comunidades Autónomas. Los arts. 3, 8 y 9 no figuran entre esas excepciones, así que son básicos.",
+    "fuente": "Disposición final primera RD 896/1991",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 4.2 del RD 861/1986, el establecimiento o la modificación del complemento específico exigirá, con carácter previo:",
+    "options": [
+      "Un informe favorable de la Comunidad Autónoma",
+      "Que la Corporación efectúe una valoración del puesto de trabajo",
+      "La autorización del Ministerio competente en materia de Administración Local",
+      "La aprobación previa de la oferta de empleo público del ejercicio"
+    ],
+    "correct": 1,
+    "exp": "El art. 4.2 del RD 861/1986 dispone que el establecimiento o modificación del complemento específico «exigirá, con carácter previo, que por la Corporación se efectúe una valoración del puesto de trabajo», atendiendo a las circunstancias del art. 4.1. Después, según el art. 4.3, el Pleno determina, al aprobar la relación de puestos de trabajo, los puestos con complemento específico y su cuantía. En los municipios de gran población, sin embargo, la relación de puestos de trabajo y las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL), que en Zaragoza es el Gobierno de Zaragoza (art. 14.1.i de la Ley 10/2017). No se exige informe autonómico, autorización ministerial ni la oferta de empleo.",
+    "fuente": "Art. 4.2 RD 861/1986",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 5.5 del RD 861/1986, ¿a quién corresponde determinar en el presupuesto la cantidad global destinada al complemento de productividad de los funcionarios?",
+    "options": [
+      "Al Alcalde o Presidente de la Corporación",
+      "A la Comunidad Autónoma",
+      "Al Pleno de cada Corporación",
+      "Al Ministerio de Hacienda"
+    ],
+    "correct": 2,
+    "exp": "El art. 5.5 del RD 861/1986 atribuye al Pleno de cada Corporación determinar en el presupuesto la cantidad global destinada al complemento de productividad, dentro del límite máximo del art. 7.2.b). Vale también para Zaragoza: el Pleno aprueba el presupuesto en los municipios de gran población (art. 123.1.h LBRL) y fija la cuantía global de las retribuciones complementarias (art. 93.2 LBRL). El art. 5.6 encomienda después al Alcalde o Presidente la distribución y la asignación individual. En los municipios de gran población, sin embargo, la aprobación de las retribuciones del personal corresponde a la Junta de Gobierno Local (art. 127.1.h LBRL), que en Zaragoza es el Gobierno de Zaragoza (art. 14.1.i de la Ley 10/2017).",
+    "fuente": "Art. 5.5 RD 861/1986",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 130.1 del TRRL, son funcionarios de la Administración Local las personas vinculadas a ella por una relación de servicios profesionales y retribuidos regulada por:",
+    "options": [
+      "El Derecho Laboral",
+      "El Derecho Civil",
+      "El convenio colectivo de la Corporación",
+      "El Derecho Administrativo"
+    ],
+    "correct": 3,
+    "exp": "El art. 130.1 TRRL define a los funcionarios de la Administración Local como «las personas vinculadas a ella por una relación de servicios profesionales y retribuidos, regulada por el Derecho Administrativo», en línea con el art. 9.1 TREBEP. El Derecho Laboral y los convenios colectivos son propios del personal laboral, que se rige por la legislación laboral, los convenios aplicables y los preceptos del TREBEP que así lo dispongan (art. 7 TREBEP).",
+    "fuente": "Art. 130.1 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 20 · lote 2026-10-23 · 17 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 20, [
+  {
+    "q": "Según el art. 25.c) del TRLUA, entre las obras de urbanización que los promotores de actuaciones de urbanización deben costear y, en su caso, ejecutar, se entienden incluidas:",
+    "options": [
+      "Solo las interiores de la actuación, nunca las de conexión exterior",
+      "Las de potabilización, suministro y depuración de agua que se requieran",
+      "Las de edificación de las viviendas protegidas reservadas por el planeamiento",
+      "Las de conservación de la urbanización durante diez años desde su recepción"
+    ],
+    "correct": 1,
+    "exp": "El art. 25.c) TRLUA obliga al promotor a costear todas las obras de urbanización de la actuación, incluidas las de conexión con los sistemas generales exteriores y su ampliación o refuerzo, y precisa: «Entre tales obras se entenderán incluidas las de potabilización, suministro y depuración de agua que se requieran», así como las infraestructuras y servicios de transporte público que exija el planeamiento. No se limita a las obras interiores, y el art. 25 no incluye la edificación de viviendas ni la conservación de la urbanización durante diez años.",
+    "fuente": "Art. 25.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes es una obligación de los promotores de actuaciones de urbanización en suelo urbano no consolidado y urbanizable delimitado, según el art. 25 del TRLUA?",
+    "options": [
+      "Edificar los solares resultantes en el plazo máximo de un año desde la recepción de las obras de urbanización",
+      "Ceder gratuitamente al municipio, en todo caso, el veinte por ciento del aprovechamiento medio",
+      "Garantizar el realojamiento de los ocupantes legales desalojados que tengan allí su residencia habitual",
+      "Constituir por tiempo indefinido una entidad urbanística de conservación de la urbanización"
+    ],
+    "correct": 2,
+    "exp": "El art. 25.f) TRLUA impone al promotor garantizar el realojamiento de los ocupantes legales desalojados que tengan allí su residencia habitual y el retorno cuando proceda. El art. 25 no fija un plazo de un año para edificar ni obliga a constituir una entidad de conservación. La cesión de aprovechamiento es la del suelo donde se ubique el aprovechamiento subjetivo de la Administración (art. 25.e), que con carácter general es el 10 % y solo excepcionalmente puede llegar al 20 % (arts. 127 y 128); no es un 20 % en todo caso.",
+    "fuente": "Art. 25.f) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El documento o memoria mediante el que se formula la consulta sobre la viabilidad de la transformación de suelo urbanizable no delimitado (art. 26 TRLUA) debe incluir, como contenido mínimo:",
+    "options": [
+      "El proyecto de urbanización del sector, con su presupuesto y su pliego de condiciones técnicas",
+      "El proyecto de reparcelación del ámbito, con la cuenta de liquidación provisional",
+      "La declaración ambiental estratégica emitida por el órgano ambiental autonómico",
+      "Una propuesta de plazos indicativos y forma de gestión de la actividad de ejecución"
+    ],
+    "correct": 3,
+    "exp": "El art. 26.2 TRLUA fija el contenido mínimo de la consulta: una propuesta de ámbito, con anticipo de la gestión en una o varias unidades de ejecución; una propuesta de plazos indicativos y forma de gestión de la actividad de ejecución, con la acreditación de la cualificación técnica y económica de los consultantes, y un avance de la ordenación propuesta. La consulta es previa a cualquier instrumento, por lo que no exige proyectos de urbanización o de reparcelación ni la declaración ambiental estratégica.",
+    "fuente": "Art. 26.2.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si el municipio reclama informe al Consejo Provincial de Urbanismo antes de responder a la consulta sobre viabilidad del art. 26 del TRLUA, el plazo de tres meses para evacuar la consulta:",
+    "options": [
+      "Queda suspendido durante el plazo previsto para la emisión de ese informe",
+      "No se ve afectado, porque el informe se emite dentro de esos tres meses",
+      "Sigue corriendo, y su transcurso sin respuesta determina la inviabilidad de la propuesta",
+      "Vuelve a computarse íntegramente desde la recepción del informe"
+    ],
+    "correct": 0,
+    "exp": "El art. 26.4 TRLUA establece que el plazo de tres meses para evacuar la consulta «quedará suspendido durante el plazo previsto en el apartado 6 si el municipio reclama informe al Consejo Provincial de Urbanismo» (ese informe debe emitirse y notificarse en tres meses). No sigue corriendo ni se reinicia. Además, el silencio en la consulta tiene sentido positivo: se considera viable la delimitación y transformación.",
+    "fuente": "Art. 26.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La respuesta municipal a la consulta sobre viabilidad de la delimitación y transformación de suelo urbanizable no delimitado vincula a la Administración de la Comunidad Autónoma:",
+    "options": [
+      "En todo caso, desde la publicación del acuerdo municipal de respuesta en el «Boletín Oficial de Aragón»",
+      "Solo si el municipio obtuvo antes informe favorable del Consejo Provincial de Urbanismo",
+      "Nunca: la respuesta a la consulta solo vincula al municipio que la adopta",
+      "Solo cuando la consulta municipal se haya entendido resuelta por silencio"
+    ],
+    "correct": 1,
+    "exp": "Según el art. 26.6 TRLUA, la Administración autonómica solo queda vinculada si el municipio, antes de responder, recabó y obtuvo informe favorable del Consejo Provincial de Urbanismo. Ese informe produce efecto durante cuatro años, salvo revisión anterior del plan general. Al municipio lo vincula su respuesta a la consulta, que debe publicarse en el «Boletín Oficial de Aragón» y en un periódico local (art. 26.5); esa publicación no vincula a la Comunidad Autónoma. Por eso es falso que no la vincule nunca y también que la vincule el silencio en la consulta.",
+    "fuente": "Art. 26.6 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29.3 del TRLUA, los usos y obras de carácter provisional que no dificulten la ejecución del planeamiento, autorizados de forma excepcional y motivada, habrán de cesar y ser demolidos cuando lo acuerde el órgano municipal competente:",
+    "options": [
+      "Con indemnización del valor de las obras",
+      "Con indemnización solo si duran más de cinco años",
+      "Sin derecho a indemnización alguna",
+      "Con indemnización a cargo de la Comunidad Autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 29.3 TRLUA permite autorizar en cualquier clase de suelo, de forma excepcional y motivada, usos y obras provisionales que no dificulten la ejecución del planeamiento, y que «habrán de cesar en todo caso y ser demolidas sin indemnización alguna cuando lo acordare el órgano municipal competente». Esas condiciones, aceptadas por el propietario, se hacen constar en el Registro de la Propiedad. La ley no reconoce indemnización por el valor de las obras ni por el tiempo transcurrido, ni la pone a cargo de nadie.",
+    "fuente": "Art. 29.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las construcciones e instalaciones en suelo no urbanizable genérico que deban someterse a evaluación de impacto ambiental o a autorización ambiental integrada:",
+    "options": [
+      "Requieren la autorización especial antes de la evaluación ambiental",
+      "Están prohibidas en todo caso en el suelo no urbanizable genérico",
+      "Se autorizan por el Pleno sin informe del Consejo Provincial de Urbanismo",
+      "No se someten al procedimiento de autorización especial"
+    ],
+    "correct": 3,
+    "exp": "El art. 35.2 TRLUA excluye estas construcciones del procedimiento de autorización especial. En su lugar, el órgano ambiental consulta al Consejo Provincial de Urbanismo, y su informe es vinculante en cuanto a las afecciones supralocales, la justificación del emplazamiento en el medio rural, la posibilidad de formación de núcleo de población, la rehabilitación y los parámetros urbanísticos. Si discrepan, el Consejero competente puede requerir que resuelva el Gobierno de Aragón.",
+    "fuente": "Art. 35.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En suelo no urbanizable, los usos que no estén expresamente permitidos ni prohibidos por el planeamiento se considerarán, según el art. 46.3 del TRLUA:",
+    "options": [
+      "Autorizables, con las condiciones de la Ley y de la legislación sectorial",
+      "Prohibidos, mientras el planeamiento no los permita expresamente",
+      "Permitidos directamente, sin necesidad de obtener título habilitante municipal alguno",
+      "Sujetos a la previa modificación del plan general que los regule"
+    ],
+    "correct": 0,
+    "exp": "El art. 46.3 TRLUA establece que, en suelo no urbanizable, los usos no expresamente permitidos ni prohibidos se consideran autorizables, con las condiciones de la Ley y de la legislación sectorial, en especial la ambiental. No se presumen prohibidos, no quedan libres de título habilitante y no exigen modificar el plan.",
+    "fuente": "Art. 46.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si concurren varios proyectos de plan parcial de iniciativa no municipal, ¿cuál tiene preferencia en la tramitación según el art. 58.1 del TRLUA?",
+    "options": [
+      "El que proponga una mayor cesión de aprovechamiento al municipio",
+      "El suscrito por propietarios de más de la mitad de la superficie del sector",
+      "El que obtenga antes el informe favorable del Consejo Provincial de Urbanismo",
+      "El presentado por el titular de la mayor finca individual del sector"
+    ],
+    "correct": 1,
+    "exp": "El art. 58.1 TRLUA da preferencia al proyecto suscrito por propietarios que representen más de la mitad de la superficie de los terrenos del sector y, en su defecto, al primero formulado ante el municipio en expediente completo. La mayor cesión, el orden de los informes del Consejo Provincial de Urbanismo o el tamaño de la finca de un propietario no son criterios legales.",
+    "fuente": "Art. 58.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el Gobierno de Aragón, por grave incumplimiento municipal de competencias urbanísticas, suspende la eficacia de instrumentos de planeamiento y atribuye al Departamento competente la potestad de planeamiento municipal, ¿qué límites temporales fija el art. 83.2 del TRLUA?",
+    "options": [
+      "La suspensión no podrá superar dos años ni la atribución cuatro",
+      "Ambas medidas tienen una duración máxima de un año",
+      "La suspensión no podrá superar seis meses ni la atribución tres años",
+      "La suspensión no podrá ser superior a un año ni la atribución a cinco"
+    ],
+    "correct": 3,
+    "exp": "El art. 83.2 TRLUA permite al Gobierno de Aragón suspender el planeamiento y, excepcionalmente, atribuir al Departamento la potestad de planeamiento. Antes debe dar audiencia al municipio y obtener los informes del Consejo Provincial de Urbanismo y del Consejo de Ordenación del Territorio de Aragón, el dictamen del Consejo Consultivo y el acuerdo de las Cortes de Aragón. La suspensión no puede superar un año y la atribución, cinco, contados desde la adopción del acuerdo.",
+    "fuente": "Art. 83.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 123.4 del TRLUA, las entidades urbanísticas de conservación:",
+    "options": [
+      "Tienen naturaleza privada, están sujetas a la tutela del municipio y pueden pedirle la vía de apremio",
+      "Tienen naturaleza administrativa, están sujetas a la tutela del Consejo Provincial de Urbanismo y no tienen vía de apremio",
+      "Tienen naturaleza administrativa, están sujetas a la tutela del municipio y pueden pedirle la vía de apremio",
+      "Tienen naturaleza administrativa, están sujetas a la tutela del municipio y solo reclaman las cuotas ante la jurisdicción civil"
+    ],
+    "correct": 2,
+    "exp": "El art. 123.4 TRLUA dispone que las entidades urbanísticas de conservación «tienen naturaleza administrativa, están sujetas a la tutela del municipio y pueden solicitar de éste la aplicación de la vía de apremio para la exigencia de las cuotas de conservación». Por eso es falso calificarlas de privadas, someterlas a la tutela del Consejo Provincial de Urbanismo, negarles la vía de apremio o remitir el cobro de las cuotas a la jurisdicción civil.",
+    "fuente": "Art. 123.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 128.3 del TRLUA, en suelo urbanizable el plan general puede incrementar excepcionalmente, de forma específicamente motivada y con estudio económico-financiero, el porcentaje de aprovechamiento correspondiente al municipio hasta un máximo del:",
+    "options": [
+      "Veinte por ciento del aprovechamiento medio de referencia",
+      "Quince por ciento del aprovechamiento medio de referencia",
+      "Veinticinco por ciento del aprovechamiento medio de referencia",
+      "Treinta por ciento del aprovechamiento medio de referencia"
+    ],
+    "correct": 0,
+    "exp": "El art. 128.3 TRLUA permite al plan general incrementar excepcionalmente el porcentaje de aprovechamiento del municipio «hasta alcanzar un máximo del veinte por ciento del aprovechamiento medio de referencia», solo en sectores donde el valor de las parcelas resultantes sea sensiblemente superior al medio en el resto del suelo urbanizable. El mismo precepto prohíbe reducir ese porcentaje en ningún caso; la reducción solo está prevista para el suelo urbano no consolidado (art. 127.5.b).",
+    "fuente": "Art. 128.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 137.2 del TRLUA, los proyectos de urbanización:",
+    "options": [
+      "Pueden modificar las previsiones del planeamiento que desarrollan si lo aprueba el Pleno municipal",
+      "Pueden establecer la ordenación pormenorizada del sector en defecto de plan parcial",
+      "Solo pueden comprender las obras de una única unidad de ejecución completa",
+      "No pueden contener determinaciones sobre ordenación ni régimen del suelo y de la edificación"
+    ],
+    "correct": 3,
+    "exp": "El art. 137.2 TRLUA prohíbe que los proyectos de urbanización contengan determinaciones sobre ordenación o régimen del suelo y de la edificación o modifiquen el planeamiento. Solo permite las adaptaciones que exija la ejecución material de las obras. Pueden abarcar una o varias unidades de ejecución, o la ejecución directa de sistemas generales.",
+    "fuente": "Art. 137.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los planes de desarrollo que regularizan parcelaciones ilegales, en cuanto al mantenimiento de la urbanización, el art. 251.m) del TRLUA permite al municipio:",
+    "options": [
+      "Exigir una entidad de conservación de todos los propietarios durante un máximo de cinco años",
+      "Exigir por tiempo indefinido una entidad de conservación que integre a todos los propietarios",
+      "Exigir una entidad de conservación integrada solo por los propietarios de parcelas edificadas",
+      "Encomendar la conservación de la urbanización al Consejo Provincial de Urbanismo"
+    ],
+    "correct": 1,
+    "exp": "El art. 251.m) TRLUA exige un documento de garantías y compromisos para la ejecución y conservación de la urbanización. Permite al municipio exigir, aunque reciba cesiones de suelo de sistemas, una entidad de conservación por tiempo indefinido que integre a todos los propietarios de terrenos. No hay un plazo máximo de cinco años, no se limita a los propietarios de parcelas edificadas ni interviene el Consejo Provincial de Urbanismo.",
+    "fuente": "Art. 251.m) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los ámbitos de regularización de parcelaciones ilegales, el art. 253.3 del TRLUA establece que los únicos usos lucrativos admisibles son:",
+    "options": [
+      "Vivienda unifamiliar, agrícolas de explotación familiar y ganaderos compatibles con la residencia",
+      "Vivienda unifamiliar y plurifamiliar, usos terciarios de proximidad y talleres artesanales familiares",
+      "Vivienda unifamiliar, industriales de pequeña entidad y terciarios de proximidad",
+      "Solo los agrícolas de explotación familiar y los ganaderos, sin ningún uso residencial"
+    ],
+    "correct": 0,
+    "exp": "El art. 253.3 TRLUA limita los usos lucrativos a tres: la vivienda unifamiliar, los agrícolas vinculados a la explotación familiar (con posibilidad de invernaderos y viveros) y los ganaderos compatibles con la dedicación residencial. Solo se admite la vivienda unifamiliar aislada o pareada, nunca la plurifamiliar. Quedan fuera los usos terciarios, artesanales e industriales, y el uso residencial no está excluido.",
+    "fuente": "Art. 253.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La suspensión de los suministros de energía, agua, gas y telefonía ordenada junto con una orden de paralización de obras solo podrá levantarse, según el art. 274.3 del TRLUA:",
+    "options": [
+      "Por caducidad, transcurridos seis meses desde la orden",
+      "Cuando el interesado abone la multa impuesta",
+      "Una vez legalizadas las obras, usos o edificaciones",
+      "A solicitud de la empresa suministradora, con certificado técnico"
+    ],
+    "correct": 2,
+    "exp": "El art. 274.3 TRLUA solo permite levantar la suspensión de suministros «una vez que se haya procedido a la legalización de las obras, usos o edificaciones respectivas», mediante notificación expresa de la Administración a las empresas suministradoras. Los costes de suspender y reanudar el suministro corren solidariamente a cargo de la empresa suministradora y del solicitante del suministro (art. 274.2).",
+    "fuente": "Art. 274.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En las infracciones en materia de parcelaciones, el art. 280.2 del TRLUA declara responsables a:",
+    "options": [
+      "Únicamente los adquirentes de los lotes resultantes de la división",
+      "El notario y el registrador que autorizaron e inscribieron la división de los terrenos",
+      "Exclusivamente las empresas suministradoras que dieron servicio a los lotes",
+      "Los propietarios iniciales de los terrenos divididos y el promotor de la actividad"
+    ],
+    "correct": 3,
+    "exp": "El art. 280.2 TRLUA hace responsables de las infracciones en materia de parcelaciones a los propietarios iniciales de los terrenos posteriormente divididos y al promotor de la actividad, «considerando por tal al agente o intermediario que intervenga en la operación». Las empresas suministradoras responden por no exigir la licencia o no suspender los suministros (art. 280.3), no por la parcelación en sí, y el precepto no menciona a los adquirentes, al notario ni al registrador.",
+    "fuente": "Art. 280.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+    "confianza": "alta"
+  }
+]);

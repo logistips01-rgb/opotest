@@ -1,0 +1,82 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 19,
+ "lote": "rescate-t19",
+ "preguntas": [
+  {
+   "q": "Conforme al artículo 8.3 del RD 896/1991, el número mínimo de temas para el ingreso en la subescala del grupo B (el antiguo grupo B, equivalente hoy al subgrupo A2 según la disposición transitoria tercera del TREBEP) es de:",
+   "options": [
+    "40 temas",
+    "75 temas",
+    "90 temas",
+    "60 temas"
+   ],
+   "correct": 3,
+   "exp": "El art. 8.3 del RD 896/1991 exige como mínimo 60 temas para el grupo B. Los 90 temas son del grupo A y los 40, del grupo C; 75 no figura en el precepto. El grupo B del Real Decreto es el anterior a la Ley 7/2007, que hoy equivale al subgrupo A2 (disposición transitoria tercera.2 del TREBEP), no el actual grupo B de técnico superior del art. 76 TREBEP.",
+   "fuente": "Art. 8.3 RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.3 RD 896/1991 (BOE-A-1991-15126), literal: el grupo B tiene 60 temas, el A 90 y el C 40. La DT 3.ª.2 TREBEP (equivalencia del grupo B con el subgrupo A2) está comprobada. Es un dato distinto de los que preguntan T19#164 (grupo C), T19#165 (grupo A) y T19#270 (grupo D), así que no las repite, aunque completa la serie. Las cuatro opciones tienen la misma longitud. | Revisor 2 (CONFIRMADA): Art. 8.3 RD 896/1991 comprobado: grupo B, 60 temas (A 90, C 40, D 20, E 10). DT 3.ª.2 TREBEP comprobada: el antiguo grupo B equivale al subgrupo A2. No repite: el banco tiene los grupos A, C y D, y este es un dato distinto."
+  },
+  {
+   "q": "De acuerdo con la disposición final primera del RD 896/1991, ¿cuál de los siguientes preceptos tiene carácter supletorio respecto de la legislación específica de las Comunidades Autónomas?",
+   "options": [
+    "El artículo 6, sobre la publicación de las bases y las convocatorias",
+    "El artículo 3, sobre la aprobación de las bases de la convocatoria",
+    "El artículo 9, sobre los ejercicios prácticos de las pruebas",
+    "El artículo 8, sobre el contenido de los ejercicios teóricos"
+   ],
+   "correct": 0,
+   "exp": "La disposición final primera del RD 896/1991 declara básicos todos sus preceptos excepto el art. 4, letras a), b), c), d), f), g), h) e i), el art. 6 y las disposiciones adicionales primera (párrafos segundo y tercero), segunda y tercera, que se aplican con carácter supletorio respecto de la legislación específica de las Comunidades Autónomas. Los arts. 3, 8 y 9 no figuran entre esas excepciones, así que son básicos.",
+   "fuente": "Disposición final primera RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): DF 1.ª RD 896/1991, literal: declara supletorios los arts. 4 (salvo la letra e), el art. 6 y las disposiciones adicionales que cita. Los arts. 3, 8 y 9 son básicos según esa misma DF, así que los distractores son falsos. Los arts. 3, 6, 8 y 9 están comprobados en el texto. Las longitudes están equilibradas (68 frente a 60-66). No repite T19#143, que pregunta el contenido del art. 3. | Revisor 2 (CONFIRMADA): DF 1.ª RD 896/1991 comprobada: son supletorios el art. 4, letras a) a d) y f) a i), el art. 6 y las DA 1.ª (párrafos 2.º y 3.º), 2.ª y 3.ª. Los arts. 3, 8 y 9 son básicos. Respuesta correcta y distractores falsos. No repite."
+  },
+  {
+   "q": "De acuerdo con el artículo 4.2 del RD 861/1986, el establecimiento o la modificación del complemento específico exigirá, con carácter previo:",
+   "options": [
+    "Un informe favorable de la Comunidad Autónoma",
+    "Que la Corporación efectúe una valoración del puesto de trabajo",
+    "La autorización del Ministerio competente en materia de Administración Local",
+    "La aprobación previa de la oferta de empleo público del ejercicio"
+   ],
+   "correct": 1,
+   "exp": "El art. 4.2 del RD 861/1986 dispone que el establecimiento o modificación del complemento específico «exigirá, con carácter previo, que por la Corporación se efectúe una valoración del puesto de trabajo», atendiendo a las circunstancias del art. 4.1. Después, según el art. 4.3, el Pleno determina, al aprobar la relación de puestos de trabajo, los puestos con complemento específico y su cuantía. En los municipios de gran población, sin embargo, la relación de puestos de trabajo y las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL), que en Zaragoza es el Gobierno de Zaragoza (art. 14.1.i de la Ley 10/2017). No se exige informe autonómico, autorización ministerial ni la oferta de empleo.",
+   "fuente": "Art. 4.2 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.2 RD 861/1986 (BOE-A-1986-10798), literal. El art. 4.3 también está comprobado. La salvedad para gran población es exacta: art. 127.1.h LBRL y art. 14.1.i Ley 10/2017, comprobados. Los distractores son falsos. No repite T19#275 ni T19#276, sobre el art. 4.1. | Revisor 2 (CONFIRMADA): Art. 4.2 RD 861/1986 comprobado: la valoración previa del puesto de trabajo por la Corporación. La explicación sobre Zaragoza es exacta: art. 127.1.h LBRL y art. 14.1.i Ley 10/2017, comprobados. El enunciado no pregunta por el órgano. No repite: el banco tiene el art. 4.1, no el 4.2."
+  },
+  {
+   "q": "Según el artículo 5.5 del RD 861/1986, ¿a quién corresponde determinar en el presupuesto la cantidad global destinada al complemento de productividad de los funcionarios?",
+   "options": [
+    "Al Alcalde o Presidente de la Corporación",
+    "A la Comunidad Autónoma",
+    "Al Pleno de cada Corporación",
+    "Al Ministerio de Hacienda"
+   ],
+   "correct": 2,
+   "exp": "El art. 5.5 del RD 861/1986 atribuye al Pleno de cada Corporación determinar en el presupuesto la cantidad global destinada al complemento de productividad, dentro del límite máximo del art. 7.2.b). Vale también para Zaragoza: el Pleno aprueba el presupuesto en los municipios de gran población (art. 123.1.h LBRL) y fija la cuantía global de las retribuciones complementarias (art. 93.2 LBRL). El art. 5.6 encomienda después al Alcalde o Presidente la distribución y la asignación individual. En los municipios de gran población, sin embargo, la aprobación de las retribuciones del personal corresponde a la Junta de Gobierno Local (art. 127.1.h LBRL), que en Zaragoza es el Gobierno de Zaragoza (art. 14.1.i de la Ley 10/2017).",
+   "fuente": "Art. 5.5 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 5.5 RD 861/1986, literal. La respuesta vale para Zaragoza: el Pleno aprueba el presupuesto (art. 123.1.h LBRL y art. 11.1.h Ley 10/2017) y fija la cuantía global de las retribuciones complementarias (art. 93.2 LBRL, comprobado). Los arts. 5.6 y 127.1.h están descritos con exactitud. Una mejora de redacción opcional: el «sin embargo» final puede leerse como si contradijera la respuesta, cuando solo se refiere a la aprobación de las retribuciones individuales. No repite T19#277 a T19#279 ni T21#117. | Revisor 2 (CONFIRMADA): Art. 5.5 RD 861/1986 comprobado: corresponde al Pleno de cada Corporación. Es cierto en Zaragoza: el Pleno aprueba el presupuesto (art. 11.1.h Ley 10/2017) y fija la cuantía global de las complementarias (art. 93.2 LBRL, comprobado). Los arts. 5.6 y 7.2.b están comprobados. No repite: el banco tiene los apartados 5.1 a 5.4 y el 7.2.b, no el 5.5."
+  },
+  {
+   "q": "Según el artículo 130.1 del TRRL, son funcionarios de la Administración Local las personas vinculadas a ella por una relación de servicios profesionales y retribuidos regulada por:",
+   "options": [
+    "El Derecho Laboral",
+    "El Derecho Civil",
+    "El convenio colectivo de la Corporación",
+    "El Derecho Administrativo"
+   ],
+   "correct": 3,
+   "exp": "El art. 130.1 TRRL define a los funcionarios de la Administración Local como «las personas vinculadas a ella por una relación de servicios profesionales y retribuidos, regulada por el Derecho Administrativo», en línea con el art. 9.1 TREBEP. El Derecho Laboral y los convenios colectivos son propios del personal laboral, que se rige por la legislación laboral, los convenios aplicables y los preceptos del TREBEP que así lo dispongan (art. 7 TREBEP).",
+   "fuente": "Art. 130.1 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 130.1 TRRL (BOE-A-1986-9865), literal. Los arts. 7 y 9.1 TREBEP también están comprobados, así que la explicación es exacta. Los distractores son falsos. En el tema 19 no hay ninguna pregunta sobre el art. 130.1. T17#2 trata una idea parecida, pero con el art. 9.1 TREBEP y en otro tema. | Revisor 2 (CONFIRMADA): Art. 130.1 TRRL comprobado literalmente: relación «regulada por el Derecho Administrativo». Los arts. 7 y 9.1 TREBEP están comprobados. Distractores falsos. No repite: el banco tiene el art. 130.2, no el 130.1."
+  }
+ ]
+}

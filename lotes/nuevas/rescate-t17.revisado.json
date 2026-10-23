@@ -1,0 +1,217 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 17,
+ "lote": "rescate-t17",
+ "preguntas": [
+  {
+   "q": "Según el art. 14.j bis) del TREBEP, el derecho de los empleados públicos a la desconexión digital se reconoce en los términos establecidos en:",
+   "options": [
+    "El convenio colectivo o el acuerdo de cada Administración Pública",
+    "La normativa de protección de datos y garantía de los derechos digitales",
+    "La normativa de prevención de riesgos laborales y de seguridad y salud laboral",
+    "El Código de Conducta de los empleados públicos del propio Estatuto"
+   ],
+   "correct": 1,
+   "exp": "El art. 14.j bis) TREBEP (añadido por la LO 3/2018) reconoce el derecho a la intimidad en el uso de dispositivos digitales y frente a la videovigilancia y la geolocalización, «así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales». No remite a convenios o acuerdos, a la normativa de prevención de riesgos ni al Código de Conducta (arts. 52 a 54).",
+   "fuente": "Art. 14.j bis) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 14.j bis) TREBEP (BOE-A-2015-11719), literal, añadido por la DF 14.ª de la LO 3/2018. Los distractores son falsos. La correcta no se delata por la longitud (72 frente a 65-78). No repite ninguna pregunta de los temas 17 y 21. | Revisor 2 (CONFIRMADA): Art. 14.j bis) TREBEP comprobado (añadido por la DF 14.ª LO 3/2018): remite a la legislación de protección de datos personales y garantía de los derechos digitales. Distractores falsos. No hay preguntas sobre desconexión digital en el banco."
+  },
+  {
+   "q": "Según el art. 16.4 del TREBEP, cuando la Administración correspondiente las haya implantado en un mismo ámbito, los funcionarios de carrera podrán progresar simultáneamente en las modalidades de:",
+   "options": [
+    "Promoción interna vertical y promoción interna horizontal",
+    "Carrera horizontal y carrera vertical",
+    "Carrera vertical y promoción interna vertical",
+    "Carrera horizontal y promoción interna horizontal"
+   ],
+   "correct": 1,
+   "exp": "El art. 16.4 TREBEP dispone que «los funcionarios de carrera podrán progresar simultáneamente en las modalidades de carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito». Es la única progresión simultánea del funcionario que reconoce ese apartado. Otra cosa es el art. 16.3, que permite a las leyes de Función Pública aplicar de forma «aislada o simultánea» alguna o algunas de las cuatro modalidades (carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal) al regular la carrera en cada ámbito.",
+   "fuente": "Art. 16.4 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 16.4 TREBEP, literal. La explicación del art. 16.3 («aislada o simultánea») ya es exacta. Los distractores son combinaciones que el 16.4 no prevé. La correcta es la más corta. No repite T17#77, que pregunta por las cuatro modalidades del 16.3. | Revisor 2 (CONFIRMADA): Art. 16.4 TREBEP comprobado: carrera horizontal y vertical, cuando la Administración las haya implantado en un mismo ámbito. La explicación distingue bien el art. 16.3 (aplicación aislada o simultánea de modalidades por las leyes). El enunciado, ceñido al 16.4, no es ambiguo. No repite."
+  },
+  {
+   "q": "Según el art. 17.a) del TREBEP, en el sistema de grados, categorías o escalones de la carrera horizontal, los ascensos serán:",
+   "options": [
+    "Automáticos por cada tres años de servicio efectivo prestado",
+    "Libres, pudiendo saltarse escalones a criterio del órgano competente",
+    "Consecutivos con carácter general, salvo supuestos excepcionales",
+    "Consecutivos en todo caso, sin ninguna excepción posible"
+   ],
+   "correct": 2,
+   "exp": "El art. 17.a) TREBEP prevé un sistema de grados, categorías o escalones con su remuneración y añade: «Los ascensos serán consecutivos con carácter general, salvo en aquellos supuestos excepcionales en los que se prevea otra posibilidad». No son, por tanto, consecutivos sin excepción ni libres. Tampoco son automáticos por antigüedad: el art. 17.b) exige valorar la trayectoria, la calidad de los trabajos, los conocimientos y la evaluación del desempeño (los tres años son la medida del trienio, art. 23.b).",
+   "fuente": "Art. 17.a) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 17.a) TREBEP, literal. Los arts. 17.b) y 23.b) (trienios por cada tres años) están comprobados. Los distractores son falsos. No repite T17#79, sobre el art. 17.b). | Revisor 2 (CONFIRMADA): Art. 17.a) TREBEP comprobado: ascensos consecutivos con carácter general, salvo supuestos excepcionales. El art. 17.b) y el art. 23.b) (trienios) también están comprobados. Distractores falsos. No repite."
+  },
+  {
+   "q": "Según el art. 18.4 del TREBEP, en relación con la promoción interna, las Administraciones Públicas:",
+   "options": [
+    "Adoptarán medidas que incentiven la participación de su personal en la promoción interna",
+    "Reservarán a la promoción interna al menos la mitad de las plazas de cada oferta de empleo público",
+    "Podrán eximir de las pruebas selectivas a quienes acrediten cinco años de servicio activo",
+    "Limitarán la participación a quienes hayan obtenido una evaluación del desempeño favorable"
+   ],
+   "correct": 0,
+   "exp": "El art. 18.4 TREBEP establece que «las Administraciones Públicas adoptarán medidas que incentiven la participación de su personal en los procesos selectivos de promoción interna y para la progresión en la carrera profesional». El artículo no fija ninguna reserva mínima de plazas ni exige una evaluación favorable, y el art. 18.2 obliga a superar las pruebas selectivas, por lo que no cabe eximir de ellas por antigüedad.",
+   "fuente": "Art. 18.4 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 18.4 TREBEP, literal. El art. 18.2 (pruebas selectivas y dos años de antigüedad) está comprobado. Ningún distractor tiene base en el art. 18. La correcta no es la más larga (88 frente a 89-98). No repite ninguna pregunta. | Revisor 2 (CONFIRMADA): Art. 18.4 TREBEP comprobado literalmente. El art. 18.2 exige superar las pruebas y el TREBEP no fija reserva de plazas ni exige evaluación favorable. La correcta no es la más larga. No repite."
+  },
+  {
+   "q": "Según el art. 20.5 del TREBEP, requiere la aprobación previa de sistemas objetivos de evaluación del desempeño la aplicación de las retribuciones complementarias que atienden a:",
+   "options": [
+    "La especial dificultad técnica, responsabilidad o dedicación exigible en el puesto de trabajo",
+    "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo",
+    "La antigüedad del funcionario en su Subgrupo o Grupo de clasificación profesional",
+    "El grado de interés, iniciativa o esfuerzo y el rendimiento o los resultados obtenidos"
+   ],
+   "correct": 3,
+   "exp": "El art. 20.5 TREBEP exige la aprobación previa de sistemas objetivos de evaluación del desempeño para tres cosas: la aplicación de la carrera horizontal, la «de las retribuciones complementarias derivadas del apartado c) del artículo 24» y el cese en el puesto obtenido por concurso. Ese apartado del art. 24 retribuye el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados obtenidos. Las retribuciones ligadas a la dificultad técnica, responsabilidad o dedicación del puesto y a los servicios extraordinarios no se mencionan en el art. 20.5, y la antigüedad no es un factor de las retribuciones complementarias: se retribuye con los trienios, que son retribución básica (art. 23.b).",
+   "fuente": "Art. 20.5 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 20.5 TREBEP, literal: remite al art. 24.c). Los arts. 24 y 23.b) están comprobados. Ahora los tres distractores son claramente falsos: dificultad técnica (24.b), servicios extraordinarios (24.d) y antigüedad, que es un trienio y por tanto una retribución básica. No repite T17#69-72 ni T17#76, sobre los arts. 20.1 a 20.4. | Revisor 2 (CONFIRMADA): Art. 20.5 TREBEP comprobado: carrera horizontal, retribuciones del art. 24.c) y cese en un puesto obtenido por concurso. Art. 24, comprobado: la letra c) es interés, iniciativa o esfuerzo y rendimiento. Los distractores corresponden a las letras b) y d), que el 20.5 no menciona, y a la antigüedad (trienios, retribución básica, art. 23.b). Todos falsos. No repite."
+  },
+  {
+   "q": "Según el art. 42 del TREBEP, si al término del mandato de los Delegados y de los miembros de las Juntas de Personal no se han promovido nuevas elecciones:",
+   "options": [
+    "Se extingue y la representación pasa provisionalmente a los sindicatos más representativos",
+    "Se prorroga un máximo de seis meses y esos representantes se computan a todos los efectos legales",
+    "La Administración debe convocar de oficio las elecciones en el plazo de un mes",
+    "Se entiende prorrogado, sin computar esos representantes para la representatividad sindical"
+   ],
+   "correct": 3,
+   "exp": "El art. 42 TREBEP fija un mandato de cuatro años, con reelección, y añade: «El mandato se entenderá prorrogado si, a su término, no se hubiesen promovido nuevas elecciones, sin que los representantes con mandato prorrogado se contabilicen a efectos de determinar la capacidad representativa de los Sindicatos». La prórroga no tiene plazo máximo, la representación no pasa a los sindicatos y la Administración no figura entre quienes pueden promover elecciones (art. 43.1).",
+   "fuente": "Art. 42 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 42 TREBEP, literal. El art. 43.1 (quién puede promover elecciones, sin incluir a la Administración) está comprobado, así que la explicación es exacta. Los distractores son falsos. La correcta no es la más larga (91 frente a 97). No repite ninguna pregunta. | Revisor 2 (CONFIRMADA): Art. 42 TREBEP comprobado: el mandato se prorroga sin computar para la representatividad y sin límite temporal. El art. 43.1, comprobado, no incluye a la Administración entre los promotores de elecciones. No repite: el banco solo pregunta la duración de cuatro años."
+  },
+  {
+   "q": "Según el art. 45.3 del TREBEP, en el procedimiento de arbitraje para la solución extrajudicial de conflictos colectivos, las partes:",
+   "options": [
+    "Deben someterse al arbitraje siempre que lo solicite cualquiera de ellas",
+    "Pueden aceptar o rechazar libremente la resolución arbitral una vez que se haya dictado",
+    "Pueden encomendarlo voluntariamente a un tercero, aceptando de antemano su resolución",
+    "Deben acudir obligatoriamente al arbitraje antes de intentar la mediación"
+   ],
+   "correct": 2,
+   "exp": "Según el art. 45.3 TREBEP, «mediante el procedimiento de arbitraje las partes podrán acordar voluntariamente encomendar a un tercero la resolución del conflicto planteado, comprometiéndose de antemano a aceptar el contenido de la misma». Lo que es obligatorio a petición de una parte, y con propuestas que se pueden aceptar o rechazar libremente, es la mediación, no el arbitraje. El precepto no impone ningún orden entre ambos procedimientos.",
+   "fuente": "Art. 45.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 45.3 TREBEP, literal, en sus dos párrafos (mediación obligatoria a petición de parte y arbitraje voluntario). Los distractores son falsos. Las longitudes están equilibradas (85 frente a 72-87). No repite ninguna pregunta. | Revisor 2 (CONFIRMADA): Art. 45.3 TREBEP comprobado: el arbitraje es voluntario y se acepta de antemano su resolución. La mediación es obligatoria a petición de parte y sus propuestas son libres. Distractores falsos. No repite."
+  },
+  {
+   "q": "Según el art. 46.2 del TREBEP, las reuniones de los empleados públicos en el centro de trabajo se autorizarán:",
+   "options": [
+    "Fuera de las horas de trabajo, salvo acuerdo con los legitimados para convocarlas",
+    "Dentro de la jornada de trabajo, con un máximo de diez horas al año",
+    "En cualquier momento, siempre que se avise con cuarenta y ocho horas",
+    "Solo dentro de las horas de trabajo, previa autorización expresa de la Junta de Personal"
+   ],
+   "correct": 0,
+   "exp": "El art. 46.2 TREBEP establece que «las reuniones en el centro de trabajo se autorizarán fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas». Añade que la reunión no perjudicará la prestación de los servicios y que los convocantes responden de su normal desarrollo. El TREBEP no fija un número de horas anuales ni un preaviso, ni condiciona la reunión a la autorización de la Junta de Personal.",
+   "fuente": "Art. 46.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 46.2 TREBEP, literal. La paráfrasis de la correcta («salvo acuerdo con los legitimados para convocarlas») es fiel. Los distractores no tienen base en el TREBEP. La correcta no es la más larga (81 frente a 88). No repite T17#327, sobre el art. 15.e). | Revisor 2 (CONFIRMADA): Art. 46.2 TREBEP comprobado: fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y los legitimados. No hay horas anuales ni preaviso. Distractores falsos. No repite."
+  },
+  {
+   "q": "Según el art. 47.2 del TREBEP, las Administraciones Públicas adoptarán medidas de flexibilización horaria para garantizar la conciliación de los empleados públicos que tengan a su cargo hijos e hijas menores de:",
+   "options": [
+    "Seis años",
+    "Doce años",
+    "Ocho años",
+    "Catorce años"
+   ],
+   "correct": 1,
+   "exp": "El art. 47.2 TREBEP (redacción del RDL 2/2024) obliga a adoptar medidas de flexibilización horaria para los empleados públicos «que tengan a su cargo a hijos e hijas menores de doce años». También las extiende a quienes tengan necesidades de cuidado de hijos mayores de doce años, del cónyuge o pareja de hecho, de familiares por consanguinidad hasta el segundo grado o de otras personas que convivan en el mismo domicilio y que, por razones de edad, accidente o enfermedad, no puedan valerse por sí mismos.",
+   "fuente": "Art. 47.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 47.2 TREBEP en la redacción del RDL 2/2024, en vigor desde el 23-5-2024 (comprobado en el consolidado): menores de doce años y familiares por consanguinidad hasta el segundo grado. La explicación es exacta. Las opciones son del mismo tipo. No repite T17#343, sobre el art. 48.h). | Revisor 2 (CONFIRMADA): Art. 47.2 TREBEP en la redacción del RDL 2/2024 (vigente desde el 23-5-2024), comprobado: menores de doce años. La explicación es exacta (consanguinidad hasta el segundo grado). No repite."
+  },
+  {
+   "q": "Según el art. 47 bis.2 del TREBEP, la prestación del servicio mediante teletrabajo:",
+   "options": [
+    "Puede imponerse por la Administración siempre que lo exijan las necesidades del servicio",
+    "Es incompatible con la modalidad presencial",
+    "Tendrá carácter voluntario y reversible, salvo en supuestos excepcionales debidamente justificados",
+    "Una vez autorizada, no puede revocarse durante al menos un año"
+   ],
+   "correct": 2,
+   "exp": "El art. 47 bis.2 TREBEP dispone que la prestación del servicio mediante teletrabajo «habrá de ser expresamente autorizada y será compatible con la modalidad presencial. En todo caso, tendrá carácter voluntario y reversible salvo en supuestos excepcionales debidamente justificados». No puede imponerse por simples necesidades del servicio, es compatible con la presencialidad y el precepto no fija ningún periodo mínimo de permanencia.",
+   "fuente": "Art. 47 bis.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 47 bis.2 TREBEP, literal; la explicación cita bien «autorizada». Los distractores son falsos (el teletrabajo es compatible con la presencialidad y no hay permanencia mínima). La correcta es la más larga (98 frente a 88), pero no por mucho, y un distractor también lleva matiz. No repite T17#340, sobre el art. 47 bis.4. | Revisor 2 (CONFIRMADA): Art. 47 bis.2 TREBEP comprobado: autorización expresa, compatibilidad con la presencialidad, carácter voluntario y reversible salvo supuestos excepcionales justificados. Distractores falsos. La correcta es la más larga (98 frente a 88) pero no se delata solo por la longitud: el distractor largo también lleva un matiz. No repite (el banco solo tiene el art. 47 bis.4)."
+  },
+  {
+   "q": "Según el art. 49.b) del TREBEP, cuando en la adopción o el acogimiento internacional sea necesario el desplazamiento previo de los progenitores al país de origen del adoptado, se tiene derecho, además, a un permiso de:",
+   "options": [
+    "Hasta dos meses, percibiendo las retribuciones íntegras",
+    "Hasta cuatro semanas, percibiendo solo las retribuciones básicas",
+    "Hasta cuatro semanas, percibiendo las retribuciones íntegras",
+    "Hasta dos meses, percibiendo solo las retribuciones básicas"
+   ],
+   "correct": 3,
+   "exp": "El art. 49.b) TREBEP dispone que en ese caso «se tendrá derecho, además, a un permiso de hasta dos meses de duración, percibiendo durante este periodo exclusivamente las retribuciones básicas». Las cuatro semanas son otra regla: en ese mismo supuesto, el permiso por adopción, guarda o acogimiento puede iniciarse hasta cuatro semanas antes de la resolución judicial o la decisión administrativa o judicial. Durante los dos meses no se cobran las retribuciones íntegras.",
+   "fuente": "Art. 49.b) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 49.b) TREBEP, consolidado vigente: «hasta dos meses […] exclusivamente las retribuciones básicas». Las cuatro semanas del párrafo siguiente también están comprobadas, así que la explicación es exacta. El cruce de duración y retribución en las opciones evita que la correcta se delate por la forma. No repite ninguna pregunta. | Revisor 2 (CONFIRMADA): Art. 49.b) TREBEP comprobado: hasta dos meses percibiendo exclusivamente las retribuciones básicas. Las cuatro semanas son el posible adelanto del permiso. Las opciones cruzan duración y retribución, así que no se acierta por la forma. No repite."
+  },
+  {
+   "q": "Según el art. 49.e) del TREBEP, en la redacción vigente desde el 23 de octubre de 2026, cuando el hijo a cargo afectado por cáncer u otra enfermedad grave se encuentre en situación de gran discapacidad o gran dependencia que requiera cuidados directos, continuos y permanentes:",
+   "options": [
+    "La reducción podrá prorrogarse más allá de los límites de edad mientras persistan la necesidad y la convivencia",
+    "La reducción de jornada se extinguirá en todo caso cuando la persona a cargo cumpla los veintiséis años de edad",
+    "La reducción de jornada será obligatoriamente del cien por cien para uno solo de los progenitores",
+    "El permiso se transformará en una excedencia retribuida sin límite de edad ni de duración"
+   ],
+   "correct": 0,
+   "exp": "La Ley 4/2026, de 1 de octubre (DF 11.ª), añadió al art. 49.e) TREBEP un párrafo en vigor desde el 23-oct-2026: «excepcionalmente cuando la persona a cargo se encuentre en situación de gran discapacidad o gran dependencia que requiera cuidados directos, continuos y permanentes, el derecho a la reducción de jornada podrá prorrogarse más allá de los límites de edad previstos, mientras persista la necesidad de cuidado debidamente acreditada y se mantenga la convivencia con la persona beneficiaria del permiso». Por eso los 23 años (26 con discapacidad de al menos el 65 %) ya no son un tope absoluto en estos casos. La reforma no impone que uno solo de los progenitores reduzca el cien por cien ni crea ninguna excedencia.",
+   "fuente": "Art. 49.e), párrafo 5.º TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 49.e) TREBEP: párrafo añadido por la DF 11.ª de la Ley 4/2026, consolidado publicado el 3-10-2026 y en vigor desde el 23-10-2026 (comprobado). La cita es literal. Los topes de 23 años y de 26 con el 65 % también están comprobados. Los distractores son falsos con la nueva redacción. La correcta empata en longitud con un distractor (111). No repite ninguna pregunta. | Revisor 2 (CONFIRMADA): Art. 49.e) TREBEP en la redacción de la DF 11.ª de la Ley 4/2026, de 1 de octubre (BOE-A-2026-20528), comprobado en el consolidado: publicada el 3-10-2026 y en vigor desde el 23-10-2026, ya vigente. El párrafo de gran discapacidad o gran dependencia permite prorrogar la reducción más allá de los límites de edad mientras persistan la necesidad y la convivencia. Los 23 y los 26 años (con al menos el 65 % de discapacidad) están comprobados. Distractores falsos. No repite."
+  },
+  {
+   "q": "Según el art. 49.e) del TREBEP, en la redacción vigente desde el 23 de octubre de 2026, en los supuestos de especial intensidad asistencial (gran discapacidad o gran dependencia del hijo), ambos progenitores podrán excepcionalmente compartir el porcentaje de reducción de jornada:",
+   "options": [
+    "Hasta el 50 % entre los dos, de forma alterna y por periodos iguales para cada uno",
+    "Hasta el 100 % entre los dos, de forma simultánea y proporcional a la reducción de cada uno",
+    "Hasta el 100 % entre los dos, siempre que estén casados o sean pareja de hecho",
+    "Hasta el 100 % cada uno de ellos, de forma sucesiva y sin un límite conjunto"
+   ],
+   "correct": 1,
+   "exp": "El párrafo añadido al art. 49.e) TREBEP por la Ley 4/2026 (DF 11.ª), en vigor desde el 23-oct-2026, permite que ambos progenitores, adoptantes, guardadores o acogedores permanentes «excepcionalmente podrán compartir el porcentaje de reducción de jornada hasta el máximo de 100% entre los dos progenitores, de forma simultánea y proporcional al tiempo de reducción asumido por cada uno de ellos, con independencia de su estado civil». El tope del 100 % es conjunto, no de cada uno; la reducción es simultánea, no alterna ni sucesiva, y no depende del estado civil.",
+   "fuente": "Art. 49.e), párrafo 6.º TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 49.e) TREBEP en la redacción de la Ley 4/2026, en vigor desde el 23-10-2026, literal: hasta el 100 % entre los dos, de forma simultánea y proporcional y con independencia del estado civil. Los distractores son falsos. La correcta es la más larga (91 frente a 82), con una diferencia moderada; en el conjunto del lote, la correcta solo es estrictamente la más larga en 2 de 14 preguntas. No repite ninguna pregunta. | Revisor 2 (CONFIRMADA): Mismo art. 49.e) TREBEP, párrafo siguiente, comprobado: ambos progenitores pueden compartir la reducción hasta el máximo del 100 % entre los dos, de forma simultánea y proporcional y con independencia del estado civil. Distractores falsos (50 % alterno, exigir matrimonio, 100 % cada uno). Se ha comprobado que la correcta no se delata. No repite."
+  },
+  {
+   "q": "Según el art. 50.3 del TREBEP, el periodo de vacaciones anuales retribuidas de los funcionarios públicos:",
+   "options": [
+    "Puede sustituirse por una cuantía económica a petición del funcionario, si lo autoriza el órgano competente",
+    "Se compensa económicamente en todo caso cuando el funcionario renuncia voluntariamente a su condición",
+    "No es sustituible por dinero, salvo si la relación concluye por causas ajenas a la voluntad del funcionario",
+    "No puede compensarse económicamente en ningún caso, ni siquiera por jubilación o fallecimiento"
+   ],
+   "correct": 2,
+   "exp": "El art. 50.3 TREBEP establece que el periodo de vacaciones anuales retribuidas «no puede ser sustituido por una cuantía económica» y que, en caso de renuncia voluntaria, debe garantizarse su disfrute. No obstante, cuando la relación de servicios concluye por causas ajenas a la voluntad del funcionario, este puede pedir una compensación económica por las vacaciones devengadas y no disfrutadas, en particular en la jubilación por incapacidad permanente o el fallecimiento, hasta un máximo de dieciocho meses.",
+   "fuente": "Art. 50.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 50.3 TREBEP, literal, en sus dos párrafos (añadido por la Ley 11/2020). Los distractores son falsos: en la renuncia voluntaria se garantiza el disfrute, no una compensación, y la jubilación por incapacidad y el fallecimiento sí dan compensación. La correcta empata en longitud (107). No repite ninguna pregunta. | Revisor 2 (CONFIRMADA): Art. 50.3 TREBEP comprobado (añadido por la Ley 11/2020): las vacaciones no se sustituyen por dinero; si hay renuncia voluntaria se garantiza su disfrute; si la relación concluye por causas ajenas a la voluntad del funcionario, cabe compensación económica, en particular por jubilación por incapacidad permanente o fallecimiento, hasta 18 meses. Distractores falsos. No repite."
+  }
+ ]
+}
