@@ -1,0 +1,23 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 12,
+  "fecha": "2026-10-23",
+  "preguntas": [
+    {
+      "q": "Según el art. 93.1 e) del TRLRHL, las exenciones del IVTM para los vehículos de personas de movilidad reducida y para los matriculados a nombre de personas con discapacidad para su uso exclusivo:",
+      "options": [
+        "No se aplican a un mismo sujeto pasivo por más de un vehículo simultáneamente",
+        "Se aplican a todos los vehículos de los que sea titular el beneficiario",
+        "Solo se aplican durante los cinco primeros años desde la matriculación",
+        "Solo se aplican si el vehículo lo conduce la propia persona con discapacidad"
+      ],
+      "correct": 0,
+      "exp": "Art. 93.1 e) TRLRHL: «Las exenciones previstas en los dos párrafos anteriores no resultarán aplicables a los sujetos pasivos beneficiarios de ellas por más de un vehículo simultáneamente». Se aplican mientras se mantengan las circunstancias, «tanto a los vehículos conducidos por personas con discapacidad como a los destinados a su transporte», y exigen un grado de discapacidad igual o superior al 33 %.",
+      "fuente": "Art. 93.1 e) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 93.1 e), párrafo tercero, TRLRHL verificado literal. Distractores falsos (también se aplica a vehículos destinados a su transporte). No repite 12.127 (grado del 33 %). | Revisor 2 (DUDOSA): Respuesta correcta y distractores falsos según el art. 93.1 e), párr. 3.º, TRLRHL («no resultarán aplicables ... por más de un vehículo simultáneamente»). Pero la explicación no es exacta: atribuye a las dos exenciones lo que la ley dice solo de la segunda (vehículos matriculados a nombre de personas con discapacidad). «Esta exención se aplicará en tanto se mantengan dichas circunstancias, tanto a los vehículos conducidos por personas con discapacidad como a los destinados a su transporte» se refiere solo a esa exención, y el 33 % solo opera respecto de ella (la de vehículos para personas de movilidad reducida se define por el tipo de vehículo, anexo II A del RGV). Arreglo: «En el caso de los vehículos matriculados a nombre de personas con discapacidad para su uso exclusivo, la exención se aplica mientras se mantengan las circunstancias, tanto a los vehículos conducidos por ellas como a los destinados a su transporte, y exige un grado de discapacidad igual o superior al 33 %».",
+      "_motivo": "veredicto DUDOSA"
+    }
+  ]
+}
