@@ -1,0 +1,32 @@
+[
+  {
+    "q": "Según el art. 202.1 de la Ley 7/1999, de Administración Local de Aragón, en un servicio público gestionado de forma indirecta, si la entidad local incumple sus obligaciones, el contratista:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 202.1 Ley 7/1999 (BOE-A-1999-10151), literal. El art. 198.5 LCSP (BOE-A-2017-12902) está comprobado: demora en el pago de más de cuatro meses y aviso con un mes de antelación. Aragón no ha reducido esos plazos (art. 198.8), así que el matiz de la explicación es exacto y ningún distractor coincide con la regla básica: ni la suspensión desde la denuncia ni los tres meses. Las longitudes están igualadas (80 frente a 74-80). No repite ninguna pregunta de los temas 11 y 21."
+  },
+  {
+    "q": "Según el art. 205.2 de la Ley 7/1999, de Administración Local de Aragón, en el expediente para la prestación de servicios o el ejercicio de actividades económicas por una entidad local, la exposición pública a efectos de reclamaciones y alegaciones durará:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 205.2.b) Ley 7/1999, literal: «plazo no inferior a un mes». El enunciado se ciñe al precepto (regla 9) y la explicación da con exactitud el régimen de Zaragoza. Comprobado en la Ley 10/2017: art. 51.1, con memoria de una comisión designada por el Alcalde, informe del Interventor, aprobación del proyecto por el Gobierno de Zaragoza, información pública de treinta días naturales y aprobación por el Pleno en acto único; y DA 1.ª.3 sobre la supletoriedad. Ningún distractor coincide con el plazo de Zaragoza. No repite ninguna pregunta."
+  },
+  {
+    "q": "Según el art. 205.4 de la Ley 7/1999, de Administración Local de Aragón, cuando el Pleno acuerda prestar en régimen de monopolio un servicio reservado y el Gobierno de Aragón no resuelve expresamente, el acuerdo:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 205.4 Ley 7/1999, literal: tres meses desde la recepción del expediente completo y silencio positivo. Los distractores son falsos. La explicación sobre las mayorías es exacta: arts. 47.2.k) y 47.3 LBRL, art. 123.2 LBRL (no incluye la letra k) y art. 11.2 Ley 10/2017, todos comprobados. No repite T11#24, T11#25 ni T11#44, que tratan de la aprobación autonómica, el quórum y el órgano, no del silencio."
+  },
+  {
+    "q": "Según el art. 206.3 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de las siguientes es una forma de gestión indirecta de los servicios públicos locales?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 206.3 Ley 7/1999, literal, que coincide con el art. 231.3 del Decreto 347/2002. Los tres distractores son formas de gestión directa según el art. 206.2 y el art. 85.2.A LBRL. La de la sociedad mercantil se refiere a la de capital íntegramente local, así que es directa con cualquier norma. Sobre la regla 10: el enunciado se ciñe a la ley aragonesa, que el tribunal pregunta de forma literal, y la explicación advierte de que el concierto ya no es una modalidad contractual (DA 34.ª LCSP, comprobada). No es la pregunta del tema 21 (P49, sobre la sociedad mercantil)."
+  },
+  {
+    "q": "Según el art. 212.1 de la Ley 7/1999, de Administración Local de Aragón, ¿qué caracteriza a la gestión interesada de un servicio público local?",
+    "veredicto": "DUDOSA",
+    "notaRevision": "El contenido es correcto: art. 212.1 Ley 7/1999, literal, y los distractores reproducen los arts. 213, 214 y 215, todos comprobados. El aviso sobre la LCSP también es correcto. Pero la explicación no es exacta: dice «Es la definición de la ley aragonesa (y del art. 231.3 del Decreto 347/2002)», y el art. 231.3 solo enumera las formas de gestión indirecta, sin definirlas. En el Decreto, la gestión interesada se define en el art. 290.1 («se contrata la explotación del servicio participando la Entidad Local y el empresario en sus resultados, en la proporción fijada en el contrato»). Arreglo: cambiar «art. 231.3» por «art. 290.1» (o poner «arts. 231.3.b) y 290.1»)."
+  },
+  {
+    "q": "Según el art. 11.2 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), las bases reguladoras de las subvenciones de las entidades locales se aprueban:",
+    "veredicto": "DUDOSA",
+    "notaRevision": "La respuesta y los distractores son correctos: art. 11.2, párrafo cuarto, del DLeg 2/2023 (BOE-A-2023-12919), literal. La salvedad de Zaragoza también está bien: arts. 11.1.d) y 14.1.o) Ley 10/2017. Pero la explicación tiene un error de hecho: dice que el art. 17.2 de la Ley 38/2003 «es básico», y la DF 1.ª.1 LGS (comprobada en BOE-A-2003-20977) excluye expresamente del carácter básico «los apartados 1, 2 […] del artículo 17». El error importa, porque el carácter básico sería el argumento para que la regla prevaleciera frente al art. 14.1.o) de la Ley 10/2017. Arreglo: suprimir «que es básico» (o decir que el art. 17.2 LGS no es básico según su DF 1.ª.1)."
+  }
+]
