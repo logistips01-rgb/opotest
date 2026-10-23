@@ -1,54 +1,70 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 7,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-23",
   "preguntas": [
     {
-      "q": "Según el art. 61.4 LPAC, en los procedimientos de responsabilidad patrimonial, la petición razonada de otros órganos deberá:",
+      "q": "Según el art. 57 LPAC, el órgano que inicie o tramite un procedimiento podrá disponer su acumulación a otros:",
       "options": [
-        "Identificar al empleado público causante del daño y proponer la sanción disciplinaria que deba imponérsele por su actuación",
-        "Acompañar en todo caso el dictamen del órgano consultivo competente y una valoración pericial definitiva del daño causado al particular afectado",
-        "Contar con la conformidad escrita del perjudicado y fijar la cuantía exacta de la indemnización que deba abonarse a este",
-        "Individualizar la lesión, su relación de causalidad con el servicio público, su evaluación económica si fuera posible y el momento en que se produjo"
-      ],
-      "correct": 3,
-      "exp": "El art. 61.4 exige que, en responsabilidad patrimonial, la petición «deberá individualizar la lesión producida en una persona o grupo de personas, su relación de causalidad con el funcionamiento del servicio público, su evaluación económica si fuera posible, y el momento en que la lesión efectivamente se produjo». No pide identificar a un empleado ni proponer sanciones, ni aportar dictamen o valoración definitiva, ni la conformidad del perjudicado.",
-      "fuente": "Art. 61.4 LPAC (Ley 39/2015)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): El texto es exacto: el art. 61.4 dice «la petición deberá individualizar la lesión producida..., su relación de causalidad con el funcionamiento del servicio público, su evaluación económica si fuera posible, y el momento en que la lesión efectivamente se produjo». Pero en el fondo repite la n.º 169 del tema 7 (art. 67.2): pregunta la misma lista (lesión, causalidad con el servicio público, evaluación económica si es posible) y sus distractores son igual de inverosímiles, así que se acierta reconociendo la respuesta de aquella. Si se quiere cubrir el 61.4, que sea con otro dato: por ejemplo, el contraste con el 61.3, preguntando en qué procedimientos la petición razonada debe individualizar la lesión (responsabilidad patrimonial) frente a especificar a los responsables y la tipificación (sancionadores). | Revisor 2 (CONFIRMADA): Art. 61.4 LPAC literal. Distractores falsos. El contenido coincide con el del art. 67.2, que ya tiene pregunta en T7, pero aquí se pregunta por la petición razonada de otros órganos (61.4) y no por la solicitud del interesado. Es otro precepto, no una repetición.",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 63.3 LPAC, cuando el infractor persista de forma continuada en la comisión de hechos tipificados como infracción, no se podrán iniciar nuevos procedimientos sancionadores por esos hechos:",
-      "options": [
-        "En tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo",
-        "Hasta que pase un año desde la notificación del primer acuerdo de iniciación",
-        "Mientras no se haya dictado sentencia firme en el orden contencioso-administrativo",
-        "Hasta que el primer procedimiento haya sido declarado caducado o archivado"
+        "Cualquiera que haya sido la forma de su iniciación, de oficio o a instancia de parte",
+        "Si se inició de oficio, y siempre a instancia de alguno de los interesados personados",
+        "Si se inició a solicitud del interesado, y únicamente por decisión de oficio del órgano",
+        "Si se inició de oficio, y únicamente por decisión del órgano superior jerárquico"
       ],
       "correct": 0,
-      "exp": "El art. 63.3 prohíbe iniciar nuevos procedimientos sancionadores por infracciones en cuya comisión el infractor persista de forma continuada «en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo». No fija un plazo de un año ni exige sentencia firme, y el límite no se levanta por caducidad o archivo del primero.",
-      "fuente": "Art. 63.3 LPAC (Ley 39/2015)",
+      "exp": "El art. 57 permite al órgano que inicie o tramite un procedimiento, «cualquiera que haya sido la forma de su iniciación», disponer su acumulación «de oficio o a instancia de parte». No distingue según el procedimiento se haya iniciado de oficio o a solicitud, ni exige que lo pida un interesado, ni que lo decida el órgano superior.",
+      "fuente": "Art. 57, párrafo primero, LPAC (Ley 39/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La correcta es literal del art. 63.3 («en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo»), pero hay dos problemas. (1) El distractor «Hasta que el primer procedimiento haya sido declarado caducado o archivado» no es claramente falso: por el art. 95.3, si el primer procedimiento caduca y la infracción no ha prescrito, puede iniciarse otro por los mismos hechos. (2) La explicación afirma que «el límite no se levanta por caducidad o archivo del primero», y esa afirmación no está en la ley y choca con el 95.3. Arreglo: sustituir ese distractor por uno sin base legal (p. ej., «Hasta que el infractor haya sido requerido formalmente para que cese en la conducta») y quitar esa frase de la explicación. | Revisor 2 (DUDOSA): La respuesta marcada reproduce el art. 63.3 LPAC («en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo»). Falla el distractor «Hasta que el primer procedimiento haya sido declarado caducado o archivado» y la explicación, que afirma que «el límite no se levanta por caducidad o archivo del primero». El art. 95.3 permite iniciar un nuevo procedimiento tras la caducidad si no ha prescrito la acción, así que esa afirmación no es exacta y el distractor puede defenderse. Arreglo: cambiar ese distractor por uno claramente falso (p. ej., «Mientras no haya prescrito la primera de las infracciones cometidas») y quitar esa frase de la explicación.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57, párrafo primero: «cualquiera que haya sido la forma de su iniciación, podrá disponer, de oficio o a instancia de parte». La correcta es cierta se lea como se lea el inciso «de oficio o a instancia de parte», y los tres distractores añaden restricciones que la ley no pone. Las n.º 14, 15 y 150 preguntan por la conexión, por si cabe recurso y por la identidad de órgano: no hay repetición. | Revisor 2 (DUDOSA): Contenido correcto (art. 57 LPAC: «cualquiera que haya sido la forma de su iniciación», «de oficio o a instancia de parte») y distractores falsos, pero la correcta se delata por la forma (regla 7 bis): las tres incorrectas comparten la estructura «Si se inició…, y siempre/únicamente…» y son restricciones excluyentes; la correcta es la única sin condición. Además mezcla en una sola frase la forma de iniciación y quién insta la acumulación. Arreglo: preguntar, p. ej., «¿qué requisito exige el art. 57 para acumular?» con distractores del mismo tipo (mismo órgano para tramitar y resolver / identidad sustancial o íntima conexión ya preguntados: ojo a duplicados) o reescribir las cuatro con estructura paralela.",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 90.3 LPAC, una resolución sancionadora ya ejecutiva se podrá suspender cautelarmente si el interesado:",
+      "q": "Según el art. 63.2 LPAC, imponer una sanción sin haber tramitado el oportuno procedimiento:",
       "options": [
-        "Interpone recurso extraordinario de revisión dentro del plazo legal, aunque no haya solicitado expresamente la suspensión",
-        "Abona voluntariamente el veinte por ciento del importe de la sanción impuesta antes de su vencimiento",
-        "Manifiesta su intención de recurrir en vía contencioso-administrativa la resolución firme en vía administrativa",
-        "Solicita la revisión de oficio de la resolución alegando una causa de nulidad de pleno derecho"
+        "No es posible, salvo en infracciones leves sancionadas solo con multa",
+        "No es posible en ningún caso, cualquiera que sea la infracción",
+        "No es posible, salvo que los hechos consten en acta de un agente de la autoridad",
+        "No es posible, salvo que el infractor reconozca los hechos por escrito"
       ],
-      "correct": 2,
-      "exp": "El art. 90.3, párrafo segundo, dice: «Cuando la resolución sea ejecutiva, se podrá suspender cautelarmente, si el interesado manifiesta a la Administración su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa». Esa suspensión termina si pasa el plazo sin recurrir, si al recurrir no se pide la suspensión o cuando el juez se pronuncia sobre ella. La ley no la liga al recurso de revisión, a un pago parcial ni a una solicitud de revisión de oficio.",
-      "fuente": "Art. 90.3, párrafo segundo, LPAC (Ley 39/2015)",
+      "correct": 1,
+      "exp": "El art. 63.2 es tajante: «En ningún caso se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento». No hay excepción para las infracciones leves (para ellas cabe la tramitación simplificada del art. 96.5, que sigue siendo un procedimiento), ni para los hechos que consten en documentos de agentes de la autoridad (que solo hacen prueba salvo que se acredite lo contrario, art. 77.5), ni para el reconocimiento de responsabilidad, que opera una vez «iniciado un procedimiento sancionador» (art. 85.1).",
+      "fuente": "Art. 63.2 LPAC (Ley 39/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La correcta es literal del art. 90.3, párrafo segundo («si el interesado manifiesta a la Administración su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa»). Pero el enunciado («se podrá suspender cautelarmente si...») deja dos distractores que la propia LPAC hace posibles. El art. 117.2 permite al órgano que resuelve cualquier recurso, el extraordinario de revisión incluido, suspender la ejecución de oficio o a solicitud si hay perjuicio de imposible o difícil reparación o nulidad del 47.1; eso hace defendible la opción del recurso extraordinario «aunque no haya solicitado expresamente la suspensión». El art. 108 permite suspender la ejecución una vez iniciada la revisión de oficio, que puede instarse a solicitud del interesado (art. 106.1). La premisa «Según el art. 90.3» los descarta, pero un opositor que conozca los arts. 108 y 117 puede dudar. Arreglo: cambiar las opciones del recurso extraordinario y de la revisión de oficio por otras sin apoyo en la ley (p. ej., «Presenta alegaciones ante el órgano instructor en el plazo de diez días» o «Solicita por escrito el aplazamiento del pago de la multa»). | Revisor 2 (DUDOSA): La respuesta marcada reproduce el art. 90.3, párr. 2.º LPAC. Pero el enunciado pregunta en qué caso la resolución «se podrá suspender», y dos distractores describen supuestos en que la propia LPAC también permite suspender: al interponer un recurso (incluido el extraordinario de revisión), el art. 117.2 permite al órgano suspender incluso de oficio, y una vez iniciada la revisión de oficio por nulidad el art. 108 permite suspender la ejecución. Con el «según el art. 90.3» la marcada sigue siendo la única literal, pero esos distractores pueden defenderse. Arreglo: cambiar los distractores del recurso extraordinario de revisión y de la revisión de oficio por otros sin respaldo en la LPAC (p. ej., «Presenta una queja ante el Defensor del Pueblo contra la sanción» o «Solicita el aplazamiento del pago alegando dificultades económicas»).",
+      "notaRevision": "Revisor 1 (DUDOSA): El contenido es correcto: el art. 63.2 dice «En ningún caso se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento», y los tres distractores son falsos (arts. 96.5, 77.5 y 85.1, bien citados en la explicación). Pero la forma delata la respuesta (regla 7 bis): tres opciones siguen el patrón «No es posible, salvo…» y la correcta es la única sin excepción, así que se acierta descartando la que no encaja. Arreglo: romper el patrón para que al menos otra opción no lleve «salvo». Por ejemplo, «Solo es posible en las infracciones leves sancionadas con multa de escasa cuantía» en lugar del primer distractor, y mantener los del acta del agente y del reconocimiento escrito. Otra opción es reformularlo todo en positivo («Es posible si…» frente a «No es posible en ningún caso»). | Revisor 2 (DUDOSA): Contenido correcto (art. 63.2 LPAC: «En ningún caso se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento»; explicación exacta: 96.5, 77.5, 85.1). Pero la correcta se delata por la forma: es la única sin «salvo» frente a tres «No es posible, salvo…» (regla 7 bis, patrón señalado expresamente). Arreglo: reformular con opciones paralelas, p. ej., preguntar qué excepción admite el art. 63.2 y dar como opciones cuatro frases del mismo molde, o convertirla en caso práctico (infracción leve reconocida por escrito: ¿puede sancionarse sin procedimiento?) con respuestas sí/no razonadas de igual estructura.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 82.1 LPAC, al poner de manifiesto el procedimiento a los interesados en el trámite de audiencia, se tendrán en cuenta las limitaciones previstas, en su caso, en:",
+      "options": [
+        "La Ley 40/2015, de 1 de octubre (régimen jurídico)",
+        "La Ley 1/2000, de 7 de enero (enjuiciamiento civil)",
+        "La Ley 58/2003, de 17 de diciembre (tributaria)",
+        "La Ley 19/2013, de 9 de diciembre (transparencia)"
+      ],
+      "correct": 3,
+      "exp": "El art. 82.1 dispone que, instruidos los procedimientos, se pondrán de manifiesto a los interesados o a sus representantes, «para lo que se tendrán en cuenta las limitaciones previstas en su caso en la Ley 19/2013, de 9 de diciembre», de transparencia, acceso a la información pública y buen gobierno. Las demás leyes citadas no son las que menciona el precepto.",
+      "fuente": "Art. 82.1, párrafo primero, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Art. 82.1, párrafo primero, literal: la correcta es la Ley 19/2013 y los distractores son falsos. Dos problemas. (1) Repetición al revés: la correcta dice «La Ley 19/2013, de 9 de diciembre (transparencia)», y eso es justo la respuesta de la n.º 222 del tema 5 («¿de qué fecha es la Ley de transparencia…?» → «De 9 de diciembre de 2013»). (2) La Ley 19/2013 de transparencia ya es la respuesta de las n.º 3 y 283 del tema 5, y los distractores (LRJSP, LEC, LGT) no tienen relación con el acceso a la información, así que se acierta por asociación. Arreglo: quitar la fecha de las cuatro opciones (dejar «Ley 19/2013 (transparencia)» y análogas) y cambiar la LEC por una ley de información pública que el 82.1 no cite, por ejemplo la Ley 37/2007, de reutilización de la información del sector público. | Revisor 2 (CONFIRMADA): Art. 82.1 párr. 1.º LPAC: limitaciones de la Ley 19/2013, de 9 de diciembre (transparencia). Las otras leyes no se citan. Las existentes de 82.1 preguntan el orden audiencia/dictamen: no repite.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 86.1 LPAC, los acuerdos, pactos, convenios o contratos que celebren las Administraciones Públicas en relación con un procedimiento pueden:",
+      "options": [
+        "Insertarse en él con carácter previo y no vinculante, pero nunca ponerle fin",
+        "Ponerle fin o insertarse en él con carácter previo, vinculante o no, a la resolución",
+        "Ponerle fin en los procedimientos de responsabilidad patrimonial y en ningún otro",
+        "Ponerle fin, pero no insertarse en él como acto previo a la resolución"
+      ],
+      "correct": 1,
+      "exp": "El art. 86.1 dice que estos instrumentos pueden «tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter previo, vinculante o no, a la resolución que les ponga fin». Caben, pues, ambas modalidades y en cualquier clase de procedimiento, no solo en los de responsabilidad patrimonial, que el art. 86.5 menciona solo para fijar cómo se calcula la indemnización.",
+      "fuente": "Art. 86.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 86.1, último inciso, literal. Los tres distractores restringen lo que la ley permite. La n.º 59 pregunta por los requisitos de estos instrumentos. La respuesta de la 435 del tema 8 (finalizadores, art. 114) no la delata, porque tres opciones de esta dicen «ponerle fin». | Revisor 2 (DUDOSA): Contenido correcto (art. 86.1 LPAC: finalizadores o insertos con carácter previo, vinculante o no, a la resolución; 86.5 solo fija el cálculo de la indemnización). Pero la correcta se delata por la forma: es la única sin restricción negativa frente a «pero nunca», «y en ningún otro», «pero no», es la más larga y equivale a la suma de dos distractores (insertarse + ponerle fin), patrón que permite acertarla sin saber (regla 7 bis). Arreglo: preguntar un solo extremo (p. ej., «si se insertan con carácter previo a la resolución, ¿con qué carácter?»: vinculante o no / siempre vinculante / nunca vinculante / vinculante solo en responsabilidad patrimonial) con opciones de estructura paralela.",
       "_motivo": "veredicto DUDOSA"
     }
   ]
