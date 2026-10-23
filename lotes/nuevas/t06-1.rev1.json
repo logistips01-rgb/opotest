@@ -1,0 +1,202 @@
+[
+ {
+  "q": "Según la LPAC, ¿en cuál de los siguientes casos la ley usa una fórmula imperativa («deberá») y no potestativa («podrá»)?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 45.1 b) verificado en el consolidado BOE-A-2015-10565 (últ. act. 06/11/2024): «la convocatoria del procedimiento deberá indicar el medio...». Los distractores son facultades: 40.5 «podrán adoptar», 41.4 «podrán recabar», 44 (y 46) «podrán establecer otras formas de notificación complementarias». Una sola correcta. El enfoque (deber o facultad) no repite la #246 del tema 6, que pregunta el contenido de la indicación. Dentro del epígrafe (eficacia)."
+ },
+ {
+  "q": "Según el art. 35.1 b) LPAC, deben motivarse los actos que resuelvan procedimientos de revisión de oficio de:",
+  "veredicto": "DUDOSA",
+  "notaRevision": "Contenido correcto: art. 35.1 b) «revisión de oficio de disposiciones o actos administrativos». No repite #11 ni #163, que preguntan por la inadmisión. Falla la regla 7 bis: los tres distractores comparten la estructura «X, pero no Y» y la correcta es la única que abarca ambos sin ese esquema, así que se acierta por la forma. Arreglo: distractores con la misma forma que la correcta, p. ej. «Actos administrativos y recursos de alzada», «Disposiciones generales y ordenanzas fiscales», o reformular la correcta también con contraste."
+ },
+ {
+  "q": "Según el art. 35.1 h) LPAC, ¿en qué procedimientos debe motivarse no solo el acto que los resuelve, sino también la propuesta de resolución?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 35.1 h): la propuesta de resolución solo se menciona para los sancionadores. Pero repite al revés las #5 y #169 del tema 6: su enunciado dice literalmente «deben motivarse las propuestas de resolución en los procedimientos de carácter sancionador, así como los actos que resuelvan procedimientos [sancionadores] o de responsabilidad patrimonial», y esa es la respuesta y el contraste que se pregunta aquí."
+ },
+ {
+  "q": "Según el art. 35.1 LPAC, un acto favorable al interesado dictado en el ejercicio de potestades discrecionales:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 35.1 i) verificado: «Los actos que se dicten en el ejercicio de potestades discrecionales, así como los que deban serlo en virtud de disposición legal o reglamentaria expresa». No hay excepción para los actos favorables. Los distractores son falsos. Aporta algo que no está en las #6 y #170 (que preguntan el supuesto de la letra i): que el carácter favorable no exime de motivar. La explicación es exacta."
+ },
+ {
+  "q": "Según el art. 36.2 LPAC, cuando un órgano ejerce su competencia de forma verbal, quien efectúa y firma la constancia escrita del acto debe expresar en la comunicación:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 36.2 verificado: «expresando en la comunicación del mismo la autoridad de la que procede». Hora, testigos y conformidad no figuran. Ninguna pregunta existente pregunta por este dato (#15 pregunta quién firma y #176 por la relación de resoluciones verbales). Las opciones tienen longitud parecida."
+ },
+ {
+  "q": "Una resolución se notifica el día 3 con su texto íntegro, pero sin indicar los recursos procedentes. El interesado no realiza ninguna actuación hasta que, el día 20, interpone un recurso. Según el art. 40.3 LPAC, ¿desde cuándo surte efecto la notificación?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 40.3): surte efecto desde que interpone el recurso. Pero es el mismo contenido, en forma de caso práctico, que las #32 y #121 del tema 6 y la #109 del tema 21 (examen oficial de 2026): «surtirá efecto a partir de la fecha en que el interesado realice actuaciones... o interponga cualquier recurso que proceda». Pregunta lo mismo con otras palabras."
+ },
+ {
+  "q": "El art. 36.3 LPAC permite refundir en un único acto una serie de actos administrativos de la misma naturaleza. ¿Qué ejemplos cita expresamente el precepto?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Repetición al revés. Las #16 y #177 del tema 6 dicen en el propio enunciado «una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias», que es exactamente la respuesta que aquí se pide. Resuelve la duda (1) del redactor: es repetición."
+ },
+ {
+  "q": "Una notificación electrónica obligatoria se pone a disposición del interesado en la sede electrónica el día 1 y este accede a su contenido el día 8. Según el art. 43.2 LPAC:",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 43.2: practicada al acceder; rechazo a los diez días naturales; art. 43.3). Pero repite la #152 del tema 6 («se entienden practicadas en el momento en que se produzca el acceso a su contenido»), con la #153 (diez días naturales) y la #154 (puesta a disposición, art. 43.3). Es un caso práctico de la misma regla."
+ },
+ {
+  "q": "Un acto administrativo dictado el 1 de marzo, y notificado al interesado el 5 de marzo, dispone en su texto que producirá efectos el 1 de abril. Según el art. 39.1 LPAC, ¿desde cuándo produce efectos?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 39.1, «salvo que en ellos se disponga otra cosa»; el 1 de abril es posterior a la notificación, así que el art. 39.2 no interfiere). Pero repite con otras palabras las #23 y #84 del tema 6, cuya respuesta es «desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa»."
+ },
+ {
+  "q": "Según el art. 39.2 LPAC, la eficacia de un acto queda demorada cuando así lo exija su contenido o cuando esté supeditada a determinadas circunstancias. ¿Cuál de las siguientes NO figura entre ellas?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Repetición al revés de la #24 del tema 6 («supeditada a: su notificación, publicación o aprobación superior»). Las tres opciones verdaderas son justo la respuesta de esa pregunta. El contenido sí es correcto según el art. 39.2."
+ },
+ {
+  "q": "Conforme al art. 39.3 LPAC, ¿en cuál de los siguientes casos puede otorgarse excepcionalmente eficacia retroactiva a un acto?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Repetición al revés. Las #25 y #188 del tema 6 dicen en el enunciado «cuando se dicten en sustitución de actos anulados o cuando...», que es la respuesta que aquí se pide. Los dos requisitos del acto favorable (que existieran ya los supuestos de hecho y que no se lesione a terceros) son la respuesta de las #25, #188 y #189. El contenido es correcto según el art. 39.3."
+ },
+ {
+  "q": "Según el art. 40.1 LPAC, ¿qué órgano notifica las resoluciones y actos administrativos a los interesados?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Repetición al revés. El enunciado de las #29 y #118 del tema 6 («el órgano que dicte resoluciones y actos administrativos debe notificarlos a...») contiene la respuesta que aquí se pide. El contenido es correcto (art. 40.1)."
+ },
+ {
+  "q": "Según el art. 40.2 LPAC, la notificación debe expresar los recursos que procedan, en su caso:",
+  "veredicto": "DUDOSA",
+  "notaRevision": "Contenido correcto: art. 40.2 «la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial». Ese dato no se pregunta en las existentes (#31, #120, #125). Falla la regla 7 bis: los tres distractores empiezan por «Solo» y la correcta es la única que abarca las dos vías, así que se acierta por la forma. Arreglo: distractores sin el patrón «Solo», p. ej. «En vía administrativa y ante el Defensor del Pueblo», «En vía administrativa y económico-administrativa», «En vía judicial y ante el Tribunal Constitucional»."
+ },
+ {
+  "q": "¿Cuál de los siguientes extremos NO exige el art. 40.2 LPAC que se incluya en la notificación?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Repetición al revés de las #31 y #120 del tema 6, y en parte de la #96. Las tres opciones verdaderas (fin de la vía administrativa, órgano y plazo) son la respuesta de la #120. El contenido es correcto según el art. 40.2."
+ },
+ {
+  "q": "Dentro del plazo máximo del procedimiento, la Administración intenta notificar una resolución con su texto íntegro, pero sin indicar los recursos procedentes, y el intento, debidamente acreditado, resulta infructuoso. A los solos efectos de la obligación de notificar en plazo, según el art. 40.4 LPAC:",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 40.4: basta «cuando menos, el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado»). Pero repite con otras palabras las #33 y #122 del tema 6, cuya respuesta es esa misma frase. El caso no añade nada que no se deduzca de «cuando menos» e «intento»."
+ },
+ {
+  "q": "Según el art. 41.1 LPAC, el dispositivo electrónico o la dirección de correo electrónico que identifique el interesado servirán:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 41.1, último párrafo, verificado: «servirán para el envío de los avisos regulados en este artículo, pero no para la práctica de notificaciones». No hay pregunta existente sobre este dato (la #138 trata el aviso del art. 41.6). Los distractores son falsos, incluido el de los no obligados, porque el texto no distingue. Las opciones tienen longitud parecida."
+ },
+ {
+  "q": "Según el art. 41.1 LPAC, ¿cómo pueden las Administraciones obligar a ciertos colectivos de personas físicas a recibir electrónicamente las notificaciones de determinados procedimientos?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 41.1, párrafo cuarto, «Reglamentariamente»). Pero la misma fórmula legal, con la misma respuesta, ya se pregunta en el tema 5 sobre el art. 14.3: la #234 («¿mediante qué tipo de norma pueden las Administraciones establecer la obligación... para determinados colectivos de personas físicas? Reglamentariamente») y la #15. Pregunta lo mismo con otras palabras. Ante la duda, se rechaza."
+ },
+ {
+  "q": "Según el art. 41.1 LPAC, la obligación de recibir notificaciones electrónicas puede extenderse a ciertos colectivos de personas físicas cuando, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos, quede acreditado que:",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 41.1, párrafo cuarto). Pero la respuesta («quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios») es literalmente la de la #15 del tema 5 (art. 14.3, misma fórmula) y está entre los motivos de la #234. Repetición con otras palabras."
+ },
+ {
+  "q": "Según el art. 41.1 LPAC, con independencia del medio utilizado, las notificaciones serán válidas siempre que permitan tener constancia de varios extremos. ¿Cuál de los siguientes NO figura entre ellos?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Repetición al revés de las #38 y #131 del tema 6 (y en parte de la #97): las tres opciones verdaderas son la respuesta literal de esas preguntas. El contenido es correcto según el art. 41.1, párrafo tercero."
+ },
+ {
+  "q": "Un interesado obligado a recibir las notificaciones por medios electrónicos comparece de forma espontánea en una oficina de asistencia en materia de registro y solicita que se le notifique en ese momento. Según el art. 41.1 LPAC:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Duda (2) resuelta. Art. 41.1 verificado: el primer párrafo dice «en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía» y el segundo empieza «No obstante lo anterior, las Administraciones podrán practicar las notificaciones por medios no electrónicos en los siguientes supuestos: a) ...comparecencia espontánea... y solicite la comunicación o notificación personal en ese momento». «Lo anterior» comprende expresamente el caso del obligado, así que el texto lo permite sin ambigüedad. La correcta conserva el «podrá». Los distractores son falsos: la ley no exige renunciar a la vía electrónica ni condiciona la eficacia al acceso en sede. No repite las #36 y #129, que preguntan el supuesto, no su alcance para los obligados."
+ },
+ {
+  "q": "Un interesado está obligado a recibir las notificaciones por medios electrónicos y la Administración debe notificarle un acto que contiene un cheque a su favor. Según el art. 41 LPAC, esa notificación:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 41.2 b) verificado: «En ningún caso se efectuarán por medios electrónicos... b) Las que contengan medios de pago a favor de los obligados, tales como cheques». «En ningún caso» prevalece sobre la obligación del art. 41.1. Aporta, frente a la #40 (que pregunta el ejemplo «cheques»), el conflicto con el obligado a la vía electrónica. Los distractores son falsos y las longitudes, parecidas."
+ },
+ {
+  "q": "Según el art. 41.3 LPAC, en los procedimientos iniciados a solicitud del interesado, la notificación será electrónica:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 41.3 verificado: «Esta notificación será electrónica en los casos en los que exista obligación de relacionarse de esta forma con la Administración». La correcta reproduce la ley sin decir «únicamente». El distractor de «únicamente cuando lo haya señalado» es falso por esta regla, y «siempre» y «fin de vía» también lo son. La #134 pregunta solo la primera frase («medio señalado»), así que no hay repetición."
+ },
+ {
+  "q": "Según el art. 41.4 LPAC, en los procedimientos iniciados de oficio, las Administraciones pueden recabar del Instituto Nacional de Estadística los datos sobre el domicilio del interesado recogidos en el Padrón Municipal:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 41.4 verificado: «a los solos efectos de su iniciación». La #136 pregunta por la consulta al INE y su enunciado no incluye esta limitación, así que no hay repetición. Los distractores son falsos (la ley no exige autorización del interesado)."
+ },
+ {
+  "q": "Al intentar notificar en papel en su domicilio, el propio interesado, presente en él, rechaza la notificación. Según el art. 41.5 LPAC:",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 41.5). Pero repite con otras palabras la #137 del tema 6, cuya respuesta es literalmente «Se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento». Además, la correcta es la opción más larga."
+ },
+ {
+  "q": "Según el art. 41.6 LPAC, si la Administración no envía el aviso de puesta a disposición de una notificación al dispositivo o correo electrónico comunicado por el interesado:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 41.6 verificado: «La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida». Ninguna pregunta existente se ocupa de esta frase (la #138 trata solo la obligación de avisar). Distractor de los diez días: según el art. 43.2 se cuentan «desde la puesta a disposición», así que es falso. La explicación es exacta."
+ },
+ {
+  "q": "Una misma resolución se notifica a un interesado por dos cauces: accede a ella en la sede electrónica el día 9 y recibe la notificación en papel en su domicilio el día 12. Según el art. 41.7 LPAC, ¿qué fecha se toma como fecha de notificación?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 41.7, en relación con el 43.2). Pero repite con otras palabras la #139 del tema 6 («se toma como fecha de notificación la de aquélla que se hubiera producido en primer lugar», con los mismos distractores de la última fecha y de la que elija el interesado)."
+ },
+ {
+  "q": "Se intenta notificar en papel en el domicilio del interesado, que no se encuentra en él. Según el art. 42.2 LPAC, ¿quién de los siguientes puede hacerse cargo de la notificación?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 42.2). Pero repite en forma de caso la #141 del tema 6 («Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad»). Los tres distractores son la negación de cada uno de esos tres requisitos."
+ },
+ {
+  "q": "El primer intento de notificación en papel en el domicilio se realizó un lunes a las 16:30 y nadie se hizo cargo. Según el art. 42.2 LPAC, ¿cuál de los siguientes segundos intentos es correcto?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 42.2: primer intento después de las 15 h, así que el segundo va antes de las 15 h, dentro de los tres días siguientes y con al menos tres horas de margen; el miércoles a las 10:00 cumple). Pero combina dos preguntas existentes: la #144 (antes de las 15 h, después de las 15 h, que es la misma regla en el otro sentido) y las #143 y #148 (tres días). Ante la duda, se rechaza."
+ },
+ {
+  "q": "¿Cuál de los siguientes plazos del Título III de la LPAC se fija expresamente en días naturales?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Duda (4) resuelta. El contenido es correcto: solo el art. 43.2 dice «diez días naturales»; el 40.2 («diez días») y el 42.2 («tres días siguientes») no los califican, así que son hábiles por el art. 30.2, y el 46 remite al plazo «que se establezca». Pero es repetición al revés de las #153 y #157 del tema 6, cuya respuesta es «diez días naturales desde la puesta a disposición» para el rechazo. Quien sabe la #153 la acierta sin más."
+ },
+ {
+  "q": "El último día del plazo máximo del procedimiento, la Administración pone a disposición en la sede electrónica una resolución con su texto íntegro, y el interesado accede a ella tres días después. Según el art. 43.3 LPAC, la obligación de notificar en plazo del art. 40.4:",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 43.3). Pero repite en forma de caso la #154 del tema 6 («Con la puesta a disposición de la notificación en la sede electrónica... o en la dirección electrónica habilitada única»), y en el contraste con la #152."
+ },
+ {
+  "q": "Según el art. 47.1 a) LPAC, son nulos de pleno derecho los actos que lesionen los derechos y libertades susceptibles de amparo constitucional. ¿Cuál de los siguientes actos incurriría en esa causa?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Duda (3) resuelta. Art. 47.1 a) LPAC verificado y art. 53.2 CE verificado en el consolidado BOE-A-1978-31229: el amparo protege el art. 14, la Sección 1.ª del Capítulo II (arts. 15 a 29) y la objeción de conciencia del art. 30. Reunión (art. 21) está en la Sección 1.ª. Trabajo (art. 35) está en la Sección 2.ª, que empieza en el art. 30. Medio ambiente (art. 45) y vivienda (art. 47) son principios rectores del Capítulo III. Una sola correcta. Es una aplicación de la causa de nulidad, dentro del epígrafe («Nulidad y anulabilidad»), y no repite las #52 y #272, que son literales. No se ha encontrado en ningún tema una pregunta del banco sobre qué derechos son amparables."
+ },
+ {
+  "q": "La causa de nulidad del art. 47.1 f) LPAC, referida a la adquisición de facultades o derechos careciendo de los requisitos esenciales para ello, alcanza a:",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Duda (1) resuelta: es repetición al revés. La #57 del tema 6 dice en el enunciado «los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando...», que es la respuesta que aquí se pide. La #268 también la recoge. El contenido es correcto según el art. 47.1 f)."
+ },
+ {
+  "q": "Un acto es dictado por un órgano incompetente por razón de la materia, pero la incompetencia no es manifiesta. Según los arts. 47.1 b) y 48.1 LPAC, el acto es:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Arts. 47.1 b) («manifiestamente incompetente por razón de la materia o del territorio»), 48.1 y 52.3 («incompetencia no determinante de nulidad») verificados. La incompetencia no manifiesta es anulable. Los distractores son falsos: la LPAC no recoge la categoría de acto inexistente y la incompetencia territorial no es la única que invalida. La #224 pregunta otra cosa (por qué difiere la incompetencia del 52.3), así que no hay repetición directa. Longitudes equilibradas. Nota aparte: la #110 existente del tema 6 da por nulo «el que se dicte por un órgano incompetente por razón del territorio» sin el requisito «manifiestamente»; conviene revisarla."
+ },
+ {
+  "q": "¿Cuál de los siguientes vicios determina la anulabilidad del acto, y no su nulidad de pleno derecho, según los arts. 47 y 48 LPAC?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Arts. 48.3, 47.1 c), d) y e) verificados. Solo la actuación fuera de plazo cuando lo imponga la naturaleza del plazo es anulabilidad. Los otros tres son causas de nulidad. Es una pregunta de clasificación entre vicios reales, distinta de las literales #65 y #199 y de las de «cuál NO es causa de nulidad» (#265, #266), cuyos distractores son triviales. La correcta no es la más larga."
+ },
+ {
+  "q": "De las técnicas reguladas en los arts. 49 a 52 LPAC, ¿cuál se refiere únicamente a los actos anulables y no a los nulos?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 52.1 solo para anulables; los arts. 49, 50 y 51 se aplican a nulos y anulables). Pero repite las #82, #213 y #220 (la convalidación solo para anulables y no para nulos; la #213 contrapone justo la conversión con la convalidación) y las #207 y #211 (los límites y la conversión se aplican a ambos)."
+ },
+ {
+  "q": "Al anular unas actuaciones, el órgano mantiene un informe técnico cuyo contenido habría sido el mismo de no haberse cometido la infracción. ¿Qué precepto de la LPAC le impone hacerlo?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 51). Pero repite con otras palabras las #76, #215 y #216 del tema 6 (conservación «siempre» de los actos y trámites cuyo contenido se hubiera mantenido igual), y la #78 en cuanto a la finalidad."
+ },
+ {
+  "q": "Se declara nula una condición accesoria de una licencia que es independiente del resto del acto y sin la cual la licencia se habría otorgado igualmente. Según el art. 49.2 LPAC:",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 49.2). Pero repite en forma de caso las #69, #205 y #206 del tema 6 (la nulidad parcial no se extiende a las partes independientes, salvo que sin la parte viciada el acto no se hubiera dictado)."
+ },
+ {
+  "q": "¿Cuál de las siguientes actuaciones configura la LPAC como un deber de la Administración, y no como una simple facultad?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Arts. 42.1 («deberán ser puestas a disposición»), 36.3 («podrán refundirse»), 44 («previamente y con carácter facultativo») y 45.2 («podrán publicarse de forma conjunta») verificados. Una sola obligatoria. El enfoque deber o facultad es nuevo, aunque los datos aparecen sueltos en las #43, #140, #237 y #250. Longitudes equilibradas (la correcta solo la supera por 2 caracteres)."
+ },
+ {
+  "q": "¿Cuál de las siguientes actuaciones configura la LPAC como una facultad de la Administración («podrá»), y no como un deber?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Arts. 39.5 («podrá requerir»), 40.2 («deberá ser cursada dentro del plazo de diez días»), 51 («dispondrá siempre») y 44 («se hará por medio de un anuncio») verificados. Solo el 39.5 es facultad. El enfoque deber o facultad es nuevo respecto de las #27, #191 y #216. La correcta es la más larga por solo 2 caracteres. Debe convivir con la pregunta 38 del lote, que es la inversa, sin solaparse: no comparten ningún precepto."
+ },
+ {
+  "q": "Una resolución administrativa exime a un vecino concreto de cumplir una ordenanza municipal vigente que obliga a todos los demás. ¿Qué regla de la LPAC vulnera?",
+  "veredicto": "RECHAZADA",
+  "notaRevision": "Contenido correcto (art. 37.1; una ordenanza es disposición general y la dispensa singular la vulnera). Pero es repetición con otras palabras de la #181 del tema 6 (la resolución particular no puede vulnerar una disposición general, «principio conocido como inderogabilidad singular»), de la #21 (rúbrica del art. 37) y de la #46 del tema 21. Además, la correcta es la opción más larga."
+ }
+]
