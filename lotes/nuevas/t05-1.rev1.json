@@ -1,0 +1,202 @@
+[
+  {
+    "q": "Una abogada colegiada solicita al Ayuntamiento, a título particular, una licencia para reformar su vivienda. ¿Le obliga el art. 14.2 c) de la Ley 39/2015 a relacionarse por medios electrónicos en ese trámite?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 14.2 c) LPAC (consolidado BOE, Últ. act. 06/11/2024) leído: la obligación de colegiados alcanza solo «los trámites y actuaciones que realicen ... en ejercicio de dicha actividad profesional»; la licencia de su vivienda no lo es. Distractores falsos (la ley no distingue por tamaño de municipio; notarios y registradores se incluyen «en todo caso», no son los únicos). No repite 5.11 (pregunta qué requisito: colegiación obligatoria, con distractores ajenos) ni 5.12 (notarios/registradores): aquí se aplica el límite «en ejercicio de la profesión» a un caso; solapamiento parcial aceptable."
+  },
+  {
+    "q": "Según el art. 16.1 de la Ley 39/2015, las disposiciones de creación de los registros electrónicos:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.1, párr. 4.º, LPAC: «se publicarán en el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro». Distractores falsos (no basta la sede, no siempre el BOE, no hay comunicación a la AGE). Sin equivalente en temas 4, 5 y 21."
+  },
+  {
+    "q": "Según el art. 16.1 de la Ley 39/2015, tanto el Registro Electrónico General de cada Administración como los registros electrónicos de cada Organismo cumplirán con las garantías y medidas de seguridad previstas en la legislación en materia de:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.1, párr. 3.º, LPAC: garantías y medidas de seguridad «previstas en la legislación en materia de protección de datos de carácter personal». Distractores falsos. No existe pregunta igual (5.24 trata del portal, no de esta remisión)."
+  },
+  {
+    "q": "Según el art. 16.3 de la Ley 39/2015, junto con la copia autenticada del documento presentado, el registro electrónico emite un recibo acreditativo de los demás documentos que lo acompañen, que garantice:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.3 LPAC: recibo acreditativo de otros documentos «que garantice la integridad y el no repudio de los mismos». Distractores falsos. No repite 5.25 (contenido del asiento)."
+  },
+  {
+    "q": "Según el art. 16.5 de la Ley 39/2015, ¿en cuál de los siguientes casos no se devuelven al interesado los originales presentados de manera presencial una vez digitalizados?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.5 LPAC: devolución de originales «sin perjuicio de aquellos supuestos en que la norma determine la custodia por la Administración» (o soporte específico no digitalizable). Los otros tres supuestos no están en la ley. 5.27 solo pregunta que se devuelven «salvo excepciones»; esta pregunta por la excepción concreta: no es repetición."
+  },
+  {
+    "q": "Según el art. 17.2 de la Ley 39/2015, el formato en que se conserven los documentos electrónicos debe permitir, además de garantizar su autenticidad, integridad y conservación:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 17.2 LPAC: «así como su consulta con independencia del tiempo transcurrido desde su emisión». Distractores falsos. 5.29 pregunta la tríada autenticidad-integridad-conservación y 5.100 el traslado a otros formatos; esta pregunta el elemento restante, no repite."
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 39/2015, las personas colaborarán con la Administración, en primer lugar, en los términos previstos en:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 18.1 LPAC: «colaborarán con la Administración en los términos previstos en la Ley que en cada caso resulte aplicable». Distractores falsos. 5.31/5.105-5.107 preguntan lo que se facilita a falta de previsión y las excepciones; no repite."
+  },
+  {
+    "q": "Según el art. 21.4 de la Ley 39/2015, en los procedimientos iniciados de oficio, la mención del plazo máximo para resolver y de los efectos del silencio se incluirá:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 21.4, párr. 2.º, LPAC: la mención «se incluirá en la notificación o publicación del acuerdo de iniciación de oficio». La comunicación en diez días es para los iniciados a solicitud y cuenta desde la recepción. Distractores falsos. 5.120 pregunta los diez días de los iniciados a solicitud; esta es la otra rama del mismo párrafo, dato distinto."
+  },
+  {
+    "q": "Según el art. 21.2 de la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa será el fijado por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 21.2, párr. 1.º, LPAC: «será el fijado por la norma reguladora del correspondiente procedimiento». La ley solo da plazo supletorio de tres meses (21.3), no uno igual para todos. Distractores falsos. 5.39/5.118 preguntan el tope de seis meses; no repite."
+  },
+  {
+    "q": "Según el art. 22.1 d) de la Ley 39/2015, si se ha suspendido el plazo para resolver por la petición de un informe preceptivo y el informe no se recibe en el plazo indicado:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 22.1 d) LPAC: «En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento». Distractores falsos. 5.47 pregunta el máximo de tres meses; esta pregunta la consecuencia, no repite."
+  },
+  {
+    "q": "Según el art. 22.1 b) de la Ley 39/2015, cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, la suspensión del plazo para resolver dura desde la petición hasta:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 22.1 b) LPAC: suspensión hasta «la notificación del pronunciamiento a la Administración instructora». Tope de tres meses solo en 22.1 d); DOUE y TJUE no aparecen. 5.126 pregunta el supuesto, no el término final; no repite."
+  },
+  {
+    "q": "Según el art. 22.1 c) de la Ley 39/2015, cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución, la suspensión del plazo para resolver comienza:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 22.1 c) LPAC: «desde que se tenga constancia de su existencia ... hasta que se resuelva». Distractores falsos. 5.127 pregunta el supuesto, no el inicio de la suspensión."
+  },
+  {
+    "q": "Según el art. 22.1 f) de la Ley 39/2015, cuando se suspende el plazo para resolver por negociaciones para concluir un pacto o convenio, la conclusión sin efecto de esas negociaciones se constatará mediante:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 22.1 f) LPAC: la conclusión sin efecto «se constatará mediante declaración formulada por la Administración o los interesados». Distractores falsos. 5.128 pregunta la remisión al art. 86; no repite."
+  },
+  {
+    "q": "Según el art. 22.2 a) de la Ley 39/2015, cuando una Administración requiere a otra para que anule o revise un acto que entiende ilegal, el plazo para resolver se suspende desde que se realiza el requerimiento hasta que:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 22.2 a) LPAC: «desde que se realiza el requerimiento hasta que se atienda o, en su caso, se resuelva el recurso interpuesto ante la jurisdicción contencioso administrativa». Distractores falsos. 5.130 pregunta la remisión al art. 39.5; no repite."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos dispone el art. 22 de la Ley 39/2015 que el plazo máximo para resolver «se suspenderá», y no solo que «se podrá suspender»?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 22 LPAC: la recusación está en 22.2 c) («se suspenderá»); pruebas técnicas (22.1 e), informes preceptivos de la misma o distinta Administración (22.1 d) y subsanación (22.1 a) están en 22.1 («se podrá suspender»). Única correcta. No repite 5.49 (fin de la suspensión por recusación), 5.132 (número) ni 5.133 (diferencia abstracta): pide clasificar supuestos concretos."
+  },
+  {
+    "q": "Según el art. 24.1 de la Ley 39/2015, en los procedimientos iniciados a solicitud del interesado, el silencio tiene efecto desestimatorio en aquellos que:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 24.1, párr. 2.º, LPAC: silencio desestimatorio en los que «impliquen el ejercicio de actividades que puedan dañar el medio ambiente». Persona jurídica, informe preceptivo o tramitación simplificada/urgente no alteran el sentido. Supuesto no preguntado aún (5.54-5.56 cubren petición, dominio público y responsabilidad patrimonial)."
+  },
+  {
+    "q": "Según el art. 24.1 de la Ley 39/2015, la regla general del silencio estimatorio en los procedimientos iniciados a solicitud del interesado puede exceptuarse por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 24.1, párr. 1.º, LPAC: excepción solo por «una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España». Ordenanza, reglamento o instrucción no bastan. 5.53 solo dice «salvo excepciones legales» y 5.139 trata de las razones imperiosas; no repite."
+  },
+  {
+    "q": "Según el art. 24.4 de la Ley 39/2015, ¿quién expide de oficio el certificado acreditativo del silencio producido?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 24.4 LPAC: el certificado «se expedirá de oficio por el órgano competente para resolver». Distractores falsos. 5.60 y 5.147 preguntan plazos, no el órgano."
+  },
+  {
+    "q": "Según el art. 24.4 de la Ley 39/2015, ¿cuándo puede el interesado pedir el certificado acreditativo del silencio producido?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 24.4 LPAC: «el interesado podrá pedirlo en cualquier momento». Distractores falsos (no hay plazo ni condición). 5.147 pregunta desde cuándo corren los quince días si lo pide; no repite."
+  },
+  {
+    "q": "Una solicitud cuya estimación transferiría al solicitante facultades relativas al dominio público se desestima por silencio. El interesado interpone recurso de alzada, que tampoco se resuelve ni notifica en plazo. Según el art. 24.1 de la Ley 39/2015, el recurso se entiende:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 24.1, párrs. 2.º y 3.º, LPAC: la alzada contra la desestimación presunta se estima por silencio «siempre que no se refiera a las materias enumeradas en el párrafo anterior», entre ellas la transferencia de facultades sobre el dominio público; rige entonces la regla desestimatoria de la impugnación. Los otros tres son falsos (24.3 a y 24.2). Caso práctico que combina 5.140, 5.141 y 5.55 y pide su resultado (desestimado), que ninguna de ellas da: no es repetición literal."
+  },
+  {
+    "q": "Según el art. 26.2 e) de la Ley 39/2015, para ser considerados válidos, los documentos electrónicos administrativos deben incorporar:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 26.2 e) LPAC: «Incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable». Distractores falsos. La letra e) no estaba preguntada (5.68 y 5.154-5.156 cubren a-d)."
+  },
+  {
+    "q": "¿Cuántos requisitos enumera el art. 26.2 de la Ley 39/2015 para que los documentos electrónicos administrativos se consideren válidos?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 26.2 LPAC: letras a) a e), cinco requisitos. Única correcta. No hay pregunta de recuento sobre el 26.2."
+  },
+  {
+    "q": "Según el art. 27.1 de la Ley 39/2015, en el registro o sistema equivalente de funcionarios habilitados para expedir copias auténticas constarán, al menos:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 27.1, párr. 4.º, LPAC: en el registro de habilitados para copias auténticas «constarán, al menos, los funcionarios que presten servicios en las oficinas de asistencia en materia de registros». Distractores falsos. Duda (2) del redactor: 4.205 pregunta lo mismo del registro del art. 12.3 (identificación y firma, tema 4). Es otro precepto y otro registro, con redacción paralela; la pregunta nombra el registro de copias y la explicación avisa del paralelismo. No es repetición del mismo precepto; la confirmo."
+  },
+  {
+    "q": "Según el art. 27.4 de la Ley 39/2015, la solicitud de expedición de copias auténticas de documentos públicos administrativos se dirigirá:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 27.4 LPAC: «La solicitud se dirigirá al órgano que emitió el documento original». Distractores falsos. 5.72 y 5.167 preguntan el plazo y las copias de papel; no repite."
+  },
+  {
+    "q": "Según el art. 27.4 de la Ley 39/2015, el plazo de quince días para expedir la copia auténtica solicitada por un interesado rige salvo las excepciones derivadas de la aplicación de:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 27.4 LPAC: «salvo las excepciones derivadas de la aplicación de la Ley 19/2013, de 9 de diciembre» (transparencia). Distractores falsos. 5.72 pregunta los quince días; 5.3 cita la Ley 19/2013 en otro contexto (art. 13 d). No repite."
+  },
+  {
+    "q": "Según el art. 27.3 a) de la Ley 39/2015, las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica, con o sin cambio de formato, deberán incluir:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 27.3 a) LPAC: «deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento». El código de verificación es del 27.3 c) (copias en papel); firma manuscrita y diligencia notarial no aparecen. No preguntada antes."
+  },
+  {
+    "q": "Según el art. 27.3 b) de la Ley 39/2015, las copias electrónicas de documentos en soporte papel requieren, además de incluir los metadatos que acrediten su condición de copia:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 27.3 b) LPAC: «requerirán que el documento haya sido digitalizado». Distractores falsos. 5.165 pregunta la definición de digitalización; no repite."
+  },
+  {
+    "q": "Según el art. 27.3 de la Ley 39/2015, ¿a través de qué medio harán públicos las Administraciones los códigos seguros de verificación u otro sistema de verificación utilizado?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 27.3, último párrafo, LPAC: «harán públicos, a través de la sede electrónica correspondiente, los códigos seguros de verificación». Distractores falsos. 5.166 pregunta la finalidad del código; no repite."
+  },
+  {
+    "q": "Según el art. 28.2 de la Ley 39/2015, si un informe preceptivo ya elaborado por un órgano distinto del que tramita el procedimiento no se remite en los diez días siguientes a su solicitud:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 28.2, párr. 3.º, LPAC: «Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente». Distractores falsos. 5.174 pregunta el plazo de diez días; esta pregunta la consecuencia."
+  },
+  {
+    "q": "Según el art. 28.3 de la Ley 39/2015, para no tener que volver a aportar documentos que ya presentó ante cualquier Administración, ¿qué debe indicar el interesado?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 28.3, párr. 2.º, LPAC (redacción LO 3/2018): «el interesado deberá indicar en qué momento y ante qué órgano administrativo presentó los citados documentos». Distractores falsos. No preguntada (5.175 pregunta qué documentos no se requieren)."
+  },
+  {
+    "q": "Según el art. 28.3 de la Ley 39/2015, si excepcionalmente las Administraciones no pudieran recabar los documentos que el interesado aportó anteriormente a cualquier Administración:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 28.3, párr. 2.º, LPAC: «Excepcionalmente, si las Administraciones Públicas no pudieran recabar los citados documentos, podrán solicitar nuevamente al interesado su aportación». Distractores falsos. No preguntada."
+  },
+  {
+    "q": "Según el art. 28.3 de la Ley 39/2015, las Administraciones deben recabar electrónicamente los documentos que el interesado ya aportó a cualquier Administración, salvo que conste en el procedimiento su oposición expresa o:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 28.3, párr. 2.º, LPAC: «salvo que conste en el procedimiento la oposición expresa del interesado o la ley especial aplicable requiera su consentimiento expreso». Distractores falsos. 5.172 trata de la oposición en el 28.2; no repite."
+  },
+  {
+    "q": "Según el art. 28.4 de la Ley 39/2015, cuando la Administración solicite excepcionalmente un documento original en papel, el interesado obtendrá una copia auténtica antes de presentarlo electrónicamente, y la copia electrónica resultante:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 28.4 LPAC: «La copia electrónica resultante reflejará expresamente esta circunstancia». Distractores falsos. 5.176 pregunta la obligación de obtener copia auténtica; esta pregunta la última frase, no repite."
+  },
+  {
+    "q": "Un acto se notifica un jueves y concede un plazo de cinco días. Ninguna ley ni el Derecho de la Unión Europea establecen otro cómputo y en ese periodo no hay festivos. Según el art. 30 de la Ley 39/2015, ¿cuál es el último día del plazo?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Arts. 30.2 y 30.3 LPAC. Cómputo: vie (1), lun (2), mar (3), mié (4), jue (5) = jueves siguiente. Las otras salen de errores identificables (naturales = martes; contar el día de notificación = miércoles; uno de más = viernes). Única defendible con los datos del enunciado (sin festivos, sin otro cómputo legal). Las de 5.81-5.82, 5.186, 5.188 y 21.37 son teóricas; esta es un caso práctico."
+  },
+  {
+    "q": "Un acto se notifica un viernes a las 10:00 y concede un plazo de 24 horas. El sábado y el domingo son inhábiles y el lunes es hábil. Si ninguna ley ni el Derecho de la Unión Europea disponen otro cómputo, según el art. 30.1 de la Ley 39/2015, ¿cuándo vence el plazo?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Duda (1) del redactor. Art. 30.1 LPAC: horas hábiles, «Son hábiles todas las horas del día que formen parte de un día hábil», cómputo «de hora en hora y de minuto en minuto» desde la notificación. Vie 10:00-24:00 = 14 h; sáb y dom (inhábiles, art. 30.2) no computan; lun 0:00-10:00 = 10 h; total 24 h: vence el lunes a las 10:00. Única defendible entre las cuatro: el sábado cuenta horas inhábiles, el viernes 23:59 no llega a 24 h y el martes sobra un día. Ni siquiera aplicando 30.5 (plazo que acabaría en sábado, prorrogado al primer día hábil) saldría otra opción de la lista. Las 5.80 y 5.183-5.185 son teóricas; no repite."
+  },
+  {
+    "q": "Un acto se notifica el 31 de enero de un año no bisiesto y concede un plazo de un mes. Ese año, el 28 de febrero es domingo y el lunes 1 de marzo es hábil. Según el art. 30 de la Ley 39/2015, ¿cuál es el último día del plazo?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Duda (1). Art. 30.4, párr. 2.º, LPAC: sin día equivalente, «el plazo expira el último día del mes» (28 de febrero); art. 30.5: inhábil, «prorrogado al primer día hábil siguiente» (lunes 1 de marzo, hábil según el enunciado). Calendario coherente (p. ej., 2021: el 28-feb fue domingo). Distractores: domingo (sin prórroga), viernes (al revés), martes 2 (30 días naturales desde el 1 de febrero). Única correcta. 5.83/5.191 y 5.84/5.192 son teóricas; aquí se combinan en un caso."
+  },
+  {
+    "q": "El último día de un plazo de diez días hábiles para presentar alegaciones es un viernes. El interesado presenta su escrito en el registro electrónico el sábado siguiente, y ninguna norma permite la recepción en día inhábil. Según el art. 31.2 b) de la Ley 39/2015, la presentación:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Duda (1). Art. 31.2 b) LPAC: «la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil» (aquí ninguna lo permite). El plazo vencía el viernes: lunes = fuera de plazo. La 31.2 a) no cambia el día a efectos de plazo; la ley no retrotrae al viernes; la 30.5 solo opera si el último día es inhábil. Única defendible. 5.89 y 5.200 piden la regla en abstracto; este caso pide su consecuencia."
+  },
+  {
+    "q": "La regla del art. 31.2 b) de la Ley 39/2015, por la que la presentación en el registro electrónico en día inhábil se entiende hecha en la primera hora del primer día hábil siguiente, rige a efectos del cómputo de plazos fijados en días hábiles y en lo que se refiere al cumplimiento de plazos por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 31.2 b) LPAC: rige «en lo que se refiere al cumplimiento de plazos por los interesados»; para los plazos de las Administraciones está el 31.2 c). Distractores falsos. 5.89, 5.200 y 5.201 preguntan el efecto y el orden, no a quién se aplica: no repite. Observación menor sin efecto en el veredicto: la explicación dice que «los registros de otras Administraciones no se mencionan»; para el distractor «Las demás Administraciones» sería más exacto decir que sus plazos se rigen por el 31.2 c)."
+  },
+  {
+    "q": "¿Qué norma añadió a la Ley 39/2015 el apartado 5 del art. 32, que permite acordar una ampliación general de plazos cuando un ciberincidente afecte gravemente a los servicios y sistemas de tramitación?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Duda (4) del redactor. El dato es exacto: el consolidado dice «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo» (BOE-A-2022-4972, en vigor desde el 31/03/2022), y los distractores son falsos (la LO 3/2018 modificó el art. 28; el RD 203/2021 es un reglamento; la Ley 40/2015 no lo añadió). La rechazo por dos motivos. 1) Repite al revés la 5.213, cuyo enunciado dice «El art. 32.5 LPAC, introducido por el Real Decreto-ley 6/2022...» y pregunta el contenido; aquí se da el contenido y se pregunta la norma. 2) Qué norma modificó la ley es historia legislativa, no contenido de «Términos y plazos»; generar.md (regla 3) excluye las trivialidades y no es materia típica de examen de Auxiliar."
+  },
+  {
+    "q": "En un procedimiento tramitado por el Ayuntamiento de Zaragoza interviene un interesado que reside en Francia. Si la norma fija un plazo de diez días para un trámite, según el art. 32 de la Ley 39/2015:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Duda (3). Art. 32.2 LPAC: la ampliación «por el tiempo máximo permitido se aplicará en todo caso» si intervienen interesados residentes fuera de España; art. 32.1: máximo, la mitad del plazo. 10 + 5 = 15 días, sin petición del interesado. Los otros tres son falsos (el máximo no es el doble; el art. 29 no excluye las ampliaciones legales). Repetición: 5.209 pregunta el supuesto y 5.92/5.206 el límite de la mitad; esta aplica las dos y añade el automatismo («en todo caso») y el cálculo. Caso práctico, no la misma pregunta. La mención a Zaragoza no plantea problema de regla 9: no hay órgano ni mayoría en juego."
+  }
+]

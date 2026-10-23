@@ -58131,3 +58131,319 @@ window.addQuestions('aux-admin-zaragoza', 15, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 8 · lote 2026-10-23 · 24 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 8, [
+  {
+    "q": "Según el art. 106.1 LPAC, ¿qué actos administrativos nulos de pleno derecho pueden ser objeto de la declaración de nulidad de oficio?",
+    "options": [
+      "Solo los que hayan sido confirmados previamente por una sentencia judicial firme y definitiva",
+      "Solo los que todavía puedan recurrirse en alzada o en reposición dentro de plazo",
+      "Los que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo",
+      "Solo los dictados en los cuatro años anteriores a la solicitud del interesado"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.1 permite declarar de oficio la nulidad, en los supuestos del art. 47.1, de «los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo». Es decir, actos frente a los que ya no cabe recurso ordinario, no actos aún recurribles. La ley no exige sentencia previa ni fija un límite de cuatro años: la nulidad se declara «en cualquier momento».",
+    "fuente": "Art. 106.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.5 LPAC, si el procedimiento de revisión de oficio de un acto nulo se inició de oficio y transcurren seis meses desde su inicio sin dictarse resolución, ¿qué ocurre?",
+    "options": [
+      "Se entiende declarada la nulidad del acto",
+      "Se produce la caducidad del procedimiento",
+      "Se entiende desestimada la revisión por silencio",
+      "El plazo se amplía otros tres meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 106.5 distingue según cómo se inició el procedimiento. Si se inició de oficio, «el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo». La desestimación por silencio es el efecto previsto cuando el procedimiento se inició a solicitud de interesado, no de oficio. La ley no prevé ni la nulidad presunta ni una ampliación automática del plazo.",
+    "fuente": "Art. 106.5 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.2 LPAC, ¿en qué casos pueden las leyes sustituir el recurso de alzada por otros procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje?",
+    "options": [
+      "Con carácter general, en todos los procedimientos de la Administración que así lo decida por reglamento",
+      "Solo cuando el acto recurrido proceda de un órgano colegiado y no de un órgano unipersonal",
+      "Solo cuando el interesado lo solicite expresamente al interponer su recurso de alzada",
+      "En supuestos o ámbitos sectoriales determinados y cuando la especificidad de la materia lo justifique"
+    ],
+    "correct": 3,
+    "exp": "El art. 112.2 limita la sustitución a «supuestos o ámbitos sectoriales determinados» y exige además que «la especificidad de la materia así lo justifique». No es una sustitución general ni la decide la Administración por reglamento (la ley habla de «las leyes»). Tampoco depende de que el órgano autor sea colegiado ni de que lo pida el interesado.",
+    "fuente": "Art. 112.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Una ley sectorial sustituye el recurso de alzada por un procedimiento de conciliación ante una comisión específica (art. 112.2 LPAC). Según el art. 114.1, la resolución de ese procedimiento:",
+    "options": [
+      "Pone fin a la vía administrativa, igual que la resolución de un recurso de alzada",
+      "Es recurrible en alzada ante el superior jerárquico de la comisión específica que lo resolvió",
+      "Solo es eficaz cuando la ratifica el órgano que dictó el acto impugnado",
+      "Admite un recurso de reposición obligatorio antes de ir al contencioso"
+    ],
+    "correct": 0,
+    "exp": "El art. 114.1 enumera lo que pone fin a la vía administrativa: en la letra a), «las resoluciones de los recursos de alzada», y en la letra b), «las resoluciones de los procedimientos a que se refiere el artículo 112.2», que son los que sustituyen a la alzada. Por tanto, no cabe una nueva alzada, ni hace falta ratificación. La reposición contra actos que ponen fin a la vía administrativa es potestativa (art. 123.1), nunca obligatoria.",
+    "fuente": "Art. 114.1.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 114.1.c) LPAC, las resoluciones de los órganos administrativos que carezcan de superior jerárquico ponen fin a la vía administrativa:",
+    "options": [
+      "Salvo que un reglamento orgánico establezca lo contrario",
+      "Salvo que una ley establezca lo contrario",
+      "Solo si el órgano que resuelve es un órgano colegiado",
+      "Solo si se han dictado previo dictamen del órgano consultivo"
+    ],
+    "correct": 1,
+    "exp": "El art. 114.1.c) incluye entre los actos que ponen fin a la vía administrativa «las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario». La excepción exige una ley, no un reglamento. El precepto no distingue entre órganos colegiados y unipersonales ni exige dictamen previo.",
+    "fuente": "Art. 114.1.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 114.2.b) LPAC, en el ámbito estatal ponen fin a la vía administrativa, además de lo previsto en el art. 114.1, los actos emanados de:",
+    "options": [
+      "Los Subdirectores generales, en relación con cualquier competencia que tengan atribuida",
+      "Los Directores generales, en relación con cualquier competencia que tengan atribuida",
+      "Los Ministros y los Secretarios de Estado, en el ejercicio de las competencias de sus órganos",
+      "Los jefes de servicio, en relación con las competencias que tengan atribuidas en materia de personal"
+    ],
+    "correct": 2,
+    "exp": "El art. 114.2.b) se refiere a los actos «emanados de los Ministros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares». Los órganos directivos con nivel de Director general o superior solo ponen fin a la vía en materia de personal (art. 114.2.c), no en cualquier competencia. Ni los Subdirectores generales ni los jefes de servicio figuran en el art. 114.2. Este apartado solo rige en el ámbito estatal; en un ayuntamiento se aplica el art. 52.2 LBRL.",
+    "fuente": "Art. 114.2.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 117.2 LPAC, ¿quién puede acordar la suspensión de la ejecución del acto recurrido y cómo puede iniciarse?",
+    "options": [
+      "El órgano a quien competa resolver el recurso, de oficio o a solicitud del recurrente",
+      "El órgano que dictó el acto recurrido, pero solo a solicitud del recurrente",
+      "El órgano que instruyó el procedimiento originario, pero solo de oficio",
+      "El superior jerárquico del órgano que resuelve, a solicitud de cualquier interesado en el recurso"
+    ],
+    "correct": 0,
+    "exp": "El art. 117.2 atribuye la decisión a «el órgano a quien competa resolver el recurso», que, tras ponderar los perjuicios, «podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto impugnado». Los distractores cambian el órgano o limitan la iniciación a una sola de las dos vías. En la revisión de oficio, en cambio, suspende el órgano competente para declarar la nulidad o la lesividad (art. 108).",
+    "fuente": "Art. 117.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 117.4 LPAC, al dictar el acuerdo de suspensión de la ejecución del acto recurrido:",
+    "options": [
+      "Deberá darse audiencia previa a todos los interesados por un plazo no inferior a diez días ni superior a quince",
+      "Deberá recabarse un informe vinculante del órgano que dictó el acto sobre los perjuicios de la suspensión",
+      "Quedará suspendido también el plazo máximo para resolver el recurso hasta que se levante la suspensión",
+      "Pueden adoptarse medidas cautelares para asegurar el interés público o de terceros y la eficacia del acto"
+    ],
+    "correct": 3,
+    "exp": "El art. 117.4, primer párrafo, dice: «Al dictar el acuerdo de suspensión podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado». El art. 117 no impone audiencia previa ni informe vinculante para suspender, y la suspensión de la ejecución no suspende el plazo para resolver el recurso. La audiencia de diez a quince días es la del art. 118.1, para hechos o documentos nuevos.",
+    "fuente": "Art. 117.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 117.4 LPAC, la suspensión acordada en vía administrativa se prolongará después de agotada esa vía cuando:",
+    "options": [
+      "El interesado manifieste su intención de recurrir, aunque no la hubiera pedido antes en vía administrativa",
+      "Lo pidió antes el interesado, hay medida cautelar y sus efectos se extienden a la vía contenciosa",
+      "Lo acuerde de oficio el órgano que resolvió el recurso, aunque el interesado no lo hubiera solicitado",
+      "La resolución del recurso haya sido estimatoria en parte y el interesado lo comunique en diez días"
+    ],
+    "correct": 1,
+    "exp": "El art. 117.4, tercer párrafo, dice que la suspensión «se prolongará después de agotada la vía administrativa cuando, habiéndolo solicitado previamente el interesado, exista medida cautelar y los efectos de ésta se extiendan a la vía contencioso-administrativa». Las tres condiciones son acumulativas. No basta con anunciar el recurso (esa regla es la del art. 90.3 para las sanciones), ni la prolongación se acuerda de oficio, ni depende de que el recurso se haya estimado en parte.",
+    "fuente": "Art. 117.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si el interesado interpone recurso contencioso-administrativo y en él solicita la suspensión del acto, según el art. 117.4 LPAC la suspensión acordada en vía administrativa:",
+    "options": [
+      "Se extinguirá en el momento en que se interponga el recurso contencioso",
+      "Se mantendrá hasta que recaiga sentencia firme en el proceso contencioso",
+      "Se mantendrá hasta que haya pronunciamiento judicial sobre esa solicitud",
+      "Se mantendrá solo durante un mes desde la interposición del recurso"
+    ],
+    "correct": 2,
+    "exp": "El art. 117.4, tercer párrafo, termina así: «Si el interesado interpusiera recurso contencioso-administrativo, solicitando la suspensión del acto objeto del proceso, se mantendrá la suspensión hasta que se produzca el correspondiente pronunciamiento judicial sobre la solicitud». No se extingue al recurrir ni dura hasta la sentencia firme: decide el juez al resolver sobre la medida cautelar pedida. La ley no fija aquí un plazo de un mes.",
+    "fuente": "Art. 117.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 118.1 LPAC, en la tramitación de un recurso administrativo, ¿cuándo no podrá solicitarse la práctica de pruebas?",
+    "options": [
+      "Cuando no se practicaron en el procedimiento originario por causa imputable al interesado",
+      "Cuando el recurso sea de reposición, porque lo resuelve el mismo órgano que dictó el acto recurrido",
+      "Cuando las pruebas se refieran a hechos que ya consten en el expediente del procedimiento originario",
+      "Cuando el recurso se funde en alguna de las causas de nulidad de pleno derecho del artículo 47.1"
+    ],
+    "correct": 0,
+    "exp": "El art. 118.1, segundo párrafo, dice: «Tampoco podrá solicitarse la práctica de pruebas cuando su falta de realización en el procedimiento en el que se dictó la resolución recurrida fuera imputable al interesado». El precepto no excluye la prueba por la clase de recurso, por el motivo en que se funda ni porque los hechos ya consten en el expediente.",
+    "fuente": "Art. 118.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Se ha suspendido el plazo para resolver varios recursos que traen causa de un mismo acto (art. 120.1 LPAC). Según el art. 120.2, si un interesado recurre el acuerdo de suspensión:",
+    "options": [
+      "Se levantará la suspensión de todos los procedimientos de recurso afectados",
+      "Habrá que resolver primero el recurso de quien impugnó la suspensión",
+      "Quedará suspendido también el recurso judicial del que trae causa la suspensión del plazo",
+      "Su recurso no afectará a los restantes procedimientos de recurso que sigan suspendidos"
+    ],
+    "correct": 3,
+    "exp": "El art. 120.2 dispone que el acuerdo de suspensión se notifica a los interesados, «quienes podrán recurrirlo», y añade: «La interposición del correspondiente recurso por un interesado, no afectará a los restantes procedimientos de recurso que se encuentren suspendidos por traer causa del mismo acto administrativo». No levanta la suspensión general, no da preferencia al recurrente y no afecta al proceso judicial.",
+    "fuente": "Art. 120.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos del recurso de alzada, el art. 121.1 LPAC considera dependientes del órgano al que estén adscritos a los tribunales y órganos de selección del personal y también a:",
+    "options": [
+      "Los órganos colegiados consultivos cuyos dictámenes sean preceptivos y vinculantes",
+      "Cualesquiera otros órganos que, en el seno de las Administraciones, actúen con autonomía funcional",
+      "Las comisiones de seguimiento de los convenios firmados con otras Administraciones",
+      "Los órganos unipersonales que resuelvan por delegación de un órgano superior jerárquico de la misma Administración"
+    ],
+    "correct": 1,
+    "exp": "El art. 121.1 dice: «A estos efectos, los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas y cualesquiera otros que, en el seno de éstas, actúen con autonomía funcional, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos». La ley no extiende esa regla a órganos consultivos, comisiones de seguimiento ni órganos delegados.",
+    "fuente": "Art. 121.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53 de la Ley 7/1985 (LBRL), las Corporaciones locales pueden revisar sus actos y acuerdos:",
+    "options": [
+      "En los términos y con el alcance fijados para la Administración del Estado por la ley de procedimiento común",
+      "Solo previa autorización de la comunidad autónoma, cuando se trate de actos nulos de pleno derecho",
+      "Conforme a un procedimiento propio que debe aprobar cada Pleno en su reglamento orgánico municipal",
+      "Únicamente a instancia de los interesados, mediante la interposición del recurso potestativo de reposición"
+    ],
+    "correct": 0,
+    "exp": "El art. 53 LBRL dispone que, sin perjuicio de las previsiones específicas de los arts. 65, 67 y 110, «las Corporaciones locales podrán revisar sus actos y acuerdos en los términos y con el alcance que, para la Administración del Estado, se establece en la legislación del Estado reguladora del procedimiento administrativo común». Hoy esa legislación es la Ley 39/2015 (arts. 106 a 111). No exige autorización autonómica, no remite a un procedimiento propio de cada Pleno y no reduce la revisión a los recursos de los interesados.",
+    "fuente": "Art. 53 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52.2.a) LBRL, las resoluciones del Pleno, los Alcaldes y las Juntas de Gobierno ponen fin a la vía administrativa, salvo en los casos excepcionales en que:",
+    "options": [
+      "El acto se haya dictado sin el informe previo del Secretario General del Pleno o de la Asesoría Jurídica municipal",
+      "Una ley sectorial requiera la aprobación ulterior de la Administración del Estado o de la comunidad autónoma",
+      "La resolución afecte a una pluralidad indeterminada de personas y deba publicarse en el boletín oficial",
+      "El acuerdo se haya adoptado por mayoría simple cuando la ley exigía la mayoría absoluta del Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 52.2.a) LBRL exceptúa «los casos excepcionales en que una ley sectorial requiera la aprobación ulterior de la Administración del Estado o de la comunidad autónoma» y aquellos en que proceda recurso ante estas Administraciones (competencias delegadas: el texto remite al art. 27.2, pero en la redacción vigente del art. 27 el recurso ante la Administración delegante está en el apartado 4). La falta de un informe, la publicación del acto o un vicio en la mayoría podrán afectar a su validez, pero no impiden que la resolución ponga fin a la vía administrativa. En Zaragoza, la Junta de Gobierno Local es el Gobierno de Zaragoza (Ley 10/2017, arts. 13 y 14).",
+    "fuente": "Art. 52.2.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el Ayuntamiento de Zaragoza, un concejal dicta una resolución por delegación del Alcalde. Según el art. 52.2.b) LBRL, ¿qué recurso administrativo cabe contra ella?",
+    "options": [
+      "El de alzada ante el Alcalde, por ser el superior jerárquico del concejal delegado",
+      "El de alzada ante el Pleno, por ser el órgano que controla la gestión del Alcalde",
+      "El potestativo de reposición, porque la resolución pone fin a la vía administrativa",
+      "El de alzada ante el Gobierno de Zaragoza, como órgano colegiado ejecutivo municipal"
+    ],
+    "correct": 2,
+    "exp": "Según el art. 52.2.b) LBRL, ponen fin a la vía administrativa las resoluciones «de autoridades y órganos inferiores en los casos que resuelvan por delegación del Alcalde, del Presidente o de otro órgano cuyas resoluciones pongan fin a la vía administrativa». Si la resolución pone fin a la vía administrativa, no cabe alzada (art. 121.1 LPAC). El interesado puede interponer recurso potestativo de reposición o ir directamente al contencioso-administrativo (art. 52.1 LBRL y art. 123.1 LPAC). El art. 12.2 de la Ley 10/2017 permite al Alcalde de Zaragoza delegar sus competencias en los concejales mediante decreto.",
+    "fuente": "Art. 52.2.b) LBRL (Ley 7/1985), en relación con el art. 123.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52.2.c) LBRL, además de los casos de las letras a) y b), ponen fin a la vía administrativa las resoluciones de cualquier otra autoridad u órgano cuando:",
+    "options": [
+      "Lo decida el propio órgano al dictarlas",
+      "Lo solicite el interesado en su escrito",
+      "Lo indique así la notificación del acto",
+      "Así lo establezca una disposición legal"
+    ],
+    "correct": 3,
+    "exp": "El art. 52.2.c) LBRL incluye «las de cualquier otra autoridad u órgano cuando así lo establezca una disposición legal». Que una resolución ponga fin a la vía administrativa lo decide la norma, no el órgano que la dicta ni el interesado. La notificación debe indicar si el acto pone fin o no a la vía administrativa, pero se limita a informar de lo que establece la norma.",
+    "fuente": "Art. 52.2.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.4 LBRL, los actos que dicte un municipio en ejercicio de competencias delegadas por el Estado o por la comunidad autónoma:",
+    "options": [
+      "Podrán ser recurridos ante los órganos competentes de la Administración delegante",
+      "Solo podrán ser recurridos en reposición ante el órgano municipal que los dictó",
+      "No admiten recurso administrativo y solo se impugnan en vía contencioso-administrativa",
+      "Podrán ser recurridos en alzada ante el Pleno del ayuntamiento que recibe la delegación"
+    ],
+    "correct": 0,
+    "exp": "El art. 27.4 LBRL, después de regular los poderes de dirección y control de la Administración delegante, dispone: «Los actos del Municipio podrán ser recurridos ante los órganos competentes de la Administración delegante». Por eso el art. 52.2.a) LBRL exceptúa de la regla general de fin de la vía administrativa los casos en que «proceda recurso ante éstas». Los distractores niegan o desvían ese recurso.",
+    "fuente": "Art. 27.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el Ayuntamiento de Zaragoza, ¿qué órgano tiene atribuidas las facultades de revisión de oficio de las disposiciones de carácter general aprobadas por el Pleno, como las ordenanzas?",
+    "options": [
+      "El Alcalde",
+      "El Pleno",
+      "El Gobierno de Zaragoza",
+      "La comisión plenaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.1.m) de la Ley 10/2017 atribuye al Pleno «las facultades de revisión de oficio de sus propios actos y disposiciones de carácter general», igual que el art. 123.1.l) LBRL para los municipios de gran población. Al Alcalde (art. 12.1.m) y al Gobierno de Zaragoza (art. 14.1.l) les corresponde la revisión de oficio de sus propios actos. Las comisiones del Pleno no pueden ejercerla por delegación, porque el art. 11.3 declara indelegable la letra m). Para declarar nula una disposición hace falta además el dictamen favorable del art. 106.2 LPAC.",
+    "fuente": "Art. 11.1.m) Ley 10/2017 (régimen especial de Zaragoza) y art. 123.1.l) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.3 de la Ley 10/2017, de régimen especial de Zaragoza, las facultades del Pleno de revisión de oficio de sus propios actos y disposiciones de carácter general:",
+    "options": [
+      "Solo pueden delegarse en las comisiones del Pleno",
+      "Pueden delegarse en el Alcalde mediante acuerdo plenario",
+      "Pueden delegarse en el Gobierno de Zaragoza si no exigen mayoría especial",
+      "No pueden ser objeto de delegación en ningún órgano"
+    ],
+    "correct": 3,
+    "exp": "El art. 11.3 de la Ley 10/2017 dice que «no podrán ser objeto de delegación las competencias del Pleno referidas en las letras a), b), c), e), f), g), h), i), j), m), ñ) y q) del apartado 1», y la letra m) es la revisión de oficio. Solo se delegan en comisiones las letras d), k), l), n), o) y p), y en el Alcalde o el Gobierno de Zaragoza, la letra r), salvo que exija mayoría especial. Lo mismo resulta del art. 123.3 LBRL, que no incluye la revisión de oficio (letra l) entre las competencias delegables.",
+    "fuente": "Art. 11.3 Ley 10/2017 (régimen especial de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12 de la Ley 10/2017, de régimen especial de Zaragoza, ¿puede el Alcalde delegar las facultades de revisión de oficio de sus propios actos?",
+    "options": [
+      "No, porque es una atribución indelegable, igual que la de dictar bandos",
+      "Solo en el Gobierno de Zaragoza, igual que la organización de la Administración municipal ejecutiva",
+      "Sí, mediante decreto, porque no figura entre las atribuciones que la ley excluye de delegación",
+      "Solo en el Pleno, que es el órgano que controla y fiscaliza la gestión del Alcalde"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.1.m) atribuye al Alcalde «las facultades de revisión de oficio de sus propios actos». El art. 12.2 le permite delegar o desconcentrar mediante decreto sus competencias en el Gobierno de Zaragoza, sus miembros, los concejales, los órganos directivos, las gerencias y los órganos de los distritos, salvo las letras b), e), h) y j), la convocatoria y presidencia del Gobierno de Zaragoza, el voto de calidad y los bandos. La revisión de oficio no está en esa lista. Las atribuciones que solo se delegan en el Gobierno de Zaragoza son las de las letras c) y k) (art. 12.3). El art. 124.5 LBRL sigue el mismo criterio.",
+    "fuente": "Arts. 12.1.m) y 12.2 Ley 10/2017 (régimen especial de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 de la Ley 10/2017, ¿cuál de estas atribuciones del Gobierno de Zaragoza NO puede delegar en sus miembros, en los concejales o en los órganos directivos?",
+    "options": [
+      "Las facultades de revisión de oficio de sus propios actos",
+      "El ejercicio de la potestad sancionadora municipal",
+      "La resolución de los procedimientos de responsabilidad patrimonial",
+      "El otorgamiento o la concesión de cualquier tipo de licencia"
+    ],
+    "correct": 0,
+    "exp": "El art. 14.1.l) atribuye al Gobierno de Zaragoza «las facultades de revisión de oficio de sus propios actos». El art. 14.2 enumera las funciones que puede delegar o desconcentrar: las letras e) (licencias), f), g), h), i) (con excepciones), m) (potestad sancionadora), o), q), r) y t) (responsabilidad patrimonial), además de la aprobación de proyectos de obra ordinaria. La letra l) no está entre ellas. El art. 127.2 LBRL tampoco permite delegar la revisión de oficio de la Junta de Gobierno Local.",
+    "fuente": "Arts. 14.1.l) y 14.2 Ley 10/2017 (régimen especial de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los municipios de gran población, como Zaragoza, el órgano especializado del art. 137 LBRL conoce y resuelve las reclamaciones sobre:",
+    "options": [
+      "Actos de los órganos directivos municipales dictados en materia de personal y de contratación",
+      "Resoluciones de responsabilidad patrimonial por el funcionamiento de los servicios públicos",
+      "Acuerdos plenarios de aprobación definitiva de las ordenanzas fiscales y del presupuesto general del municipio",
+      "Actos de gestión, liquidación, recaudación e inspección de tributos e ingresos de derecho público municipales"
+    ],
+    "correct": 3,
+    "exp": "Según el art. 137.1.a) LBRL, corresponde a este órgano «el conocimiento y resolución de las reclamaciones sobre actos de gestión, liquidación, recaudación e inspección de tributos e ingresos de derecho público, que sean de competencia municipal». Sobre los proyectos de ordenanzas fiscales solo emite dictamen (art. 137.1.b). No resuelve reclamaciones de personal, contratación o responsabilidad patrimonial. En Zaragoza es la Junta Municipal de Reclamaciones Económico-Administrativas.",
+    "fuente": "Art. 137.1.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 137.6 LBRL, la reclamación ante el órgano municipal para la resolución de las reclamaciones económico-administrativas:",
+    "options": [
+      "Sustituye en todo caso y para cualquier materia a la reclamación ante los Tribunales Económico-Administrativos del Estado",
+      "No impide reclamar ante los Tribunales Económico-Administrativos del Estado en los casos previstos por la ley",
+      "Solo procede si el Tribunal Económico-Administrativo Regional se ha declarado antes incompetente",
+      "Debe presentarse siempre a través del Tribunal Económico-Administrativo Central, que la remite"
+    ],
+    "correct": 1,
+    "exp": "El art. 137.6 LBRL dice: «La reclamación regulada en el presente artículo se entiende sin perjuicio de los supuestos en los que la ley prevé la reclamación económico-administrativa ante los Tribunales Económico-Administrativos del Estado». La reclamación municipal convive con la estatal, no la sustituye en todo caso, y no depende de los tribunales del Estado ni se presenta a través de ellos.",
+    "fuente": "Art. 137.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  }
+]);

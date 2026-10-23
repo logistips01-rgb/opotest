@@ -1,0 +1,202 @@
+[
+ {
+  "q": "Una abogada colegiada solicita al Ayuntamiento, a título particular, una licencia para reformar su vivienda. ¿Le obliga el art. 14.2 c) de la Ley 39/2015 a relacionarse por medios electrónicos en ese trámite?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 14.2 c) verificado en el consolidado (BOE-A-2015-10565, últ. act. 06/11/2024; art. 14 sin modificaciones): la obligación se limita a los trámites «en ejercicio de dicha actividad profesional». Los tres distractores son falsos (C acierta el «no» pero con motivo falso). Supuesto aplicado; no repite la t5 [11] ni la [12], que preguntan qué colectivo y quiénes se incluyen en todo caso."
+ },
+ {
+  "q": "Según el art. 16.1 de la Ley 39/2015, las disposiciones de creación de los registros electrónicos:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 16.1, párrafo cuarto, literal: diario oficial correspondiente + texto íntegro en la sede de acceso al registro. Distractores falsos (no basta la sede, no siempre es el BOE, no hay comunicación a la AGE). No repetida."
+ },
+ {
+  "q": "Según el art. 16.1 de la Ley 39/2015, tanto el Registro Electrónico General de cada Administración como los registros electrónicos de cada Organismo cumplirán con las garantías y medidas de seguridad previstas en la legislación en materia de:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 16.1, párrafo tercero, literal: garantías de la legislación de protección de datos de carácter personal. Distractores falsos. No repetida (la t5 [4] es el art. 13 h)."
+ },
+ {
+  "q": "Según el art. 16.3 de la Ley 39/2015, junto con la copia autenticada del documento presentado, el registro electrónico emite un recibo acreditativo de los demás documentos que lo acompañen, que garantice:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 16.3 literal: el recibo de los documentos que acompañen «garantice la integridad y el no repudio de los mismos». Distractores falsos. No repite la t5 [25], que va sobre el contenido del asiento."
+ },
+ {
+  "q": "Según el art. 16.5 de la Ley 39/2015, ¿en cuál de los siguientes casos no se devuelven al interesado los originales presentados de manera presencial una vez digitalizados?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 16.5 literal: excepción por custodia que determine la norma (y soporte no digitalizable). Los otros tres supuestos no están en la ley. La t5 [27] pregunta solo si se devuelven; esta pregunta por la excepción."
+ },
+ {
+  "q": "Según el art. 17.2 de la Ley 39/2015, el formato en que se conserven los documentos electrónicos debe permitir, además de garantizar su autenticidad, integridad y conservación:",
+  "veredicto": "DUDOSA",
+  "notaRevision": "El contenido es correcto (art. 17.2 literal: consulta «con independencia del tiempo transcurrido desde su emisión») y no está repetida (las t5 [29] y [100] preguntan otra cosa). Pero se delata por la forma: los tres distractores llevan «solo» o «exclusiva» y la correcta es la única sin restricción. Arreglo: redactar los distractores como alternativas cerradas del mismo tipo, sin «solo» (p. ej. «Su consulta durante un plazo mínimo de diez años desde su emisión», «Su consulta en el formato original en que se emitió», «Su consulta mediante acceso presencial en el archivo»), comprobando que ninguna resulte cierta."
+ },
+ {
+  "q": "Según el art. 18.1 de la Ley 39/2015, las personas colaborarán con la Administración, en primer lugar, en los términos previstos en:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 18.1 literal: «en los términos previstos en la Ley que en cada caso resulte aplicable». Distractores falsos. No repetida: las t5 [31], [105], [106] y [107] preguntan por el deber subsidiario y sus excepciones."
+ },
+ {
+  "q": "Según el art. 21.4 de la Ley 39/2015, en los procedimientos iniciados de oficio, la mención del plazo máximo para resolver y de los efectos del silencio se incluirá:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 21.4, párrafo segundo, literal: la mención va en la notificación o publicación del acuerdo de iniciación de oficio. La comunicación en diez días es para los procedimientos a solicitud. No es la misma pregunta que la t5 [120], aunque el enunciado de esta última adelanta el dato."
+ },
+ {
+  "q": "Según el art. 21.2 de la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa será el fijado por:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 21.2, párrafo primero, literal: plazo «fijado por la norma reguladora del correspondiente procedimiento». La explicación es exacta (tope de seis meses; tres meses supletorios en el 21.3). No repetida."
+ },
+ {
+  "q": "Según el art. 22.1 d) de la Ley 39/2015, si se ha suspendido el plazo para resolver por la petición de un informe preceptivo y el informe no se recibe en el plazo indicado:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 22.1 d) in fine literal: «proseguirá el procedimiento». Distractores falsos. La t5 [47] pregunta el máximo de tres meses; esta, la consecuencia. No repetida."
+ },
+ {
+  "q": "Según el art. 22.1 b) de la Ley 39/2015, cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, la suspensión del plazo para resolver dura desde la petición hasta:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 22.1 b) literal: hasta «la notificación del pronunciamiento a la Administración instructora». Los tres meses son del 22.1 d). No repite la t5 [126], que pregunta el supuesto."
+ },
+ {
+  "q": "Según el art. 22.1 c) de la Ley 39/2015, cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución, la suspensión del plazo para resolver comienza:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 22.1 c) literal: «desde que se tenga constancia de su existencia». Distractores falsos. No repite la t5 [127]."
+ },
+ {
+  "q": "Según el art. 22.1 f) de la Ley 39/2015, cuando se suspende el plazo para resolver por negociaciones para concluir un pacto o convenio, la conclusión sin efecto de esas negociaciones se constatará mediante:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 22.1 f) literal: «declaración formulada por la Administración o los interesados». Distractores falsos. No repite la t5 [128], que pregunta la remisión al art. 86."
+ },
+ {
+  "q": "Según el art. 22.2 a) de la Ley 39/2015, cuando una Administración requiere a otra para que anule o revise un acto que entiende ilegal, el plazo para resolver se suspende desde que se realiza el requerimiento hasta que:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 22.2 a) literal: hasta que el requerimiento «se atienda o, en su caso, se resuelva el recurso interpuesto ante la jurisdicción contencioso administrativa». Longitudes parejas. No repite la t5 [130], que pregunta la remisión al art. 39.5."
+ },
+ {
+  "q": "¿En cuál de los siguientes casos dispone el art. 22 de la Ley 39/2015 que el plazo máximo para resolver «se suspenderá», y no solo que «se podrá suspender»?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Recusación = art. 22.2 c) («se suspenderá»). Pruebas técnicas (22.1 e), informes preceptivos (22.1 d) y subsanación (22.1 a) son supuestos de «se podrá suspender». Ningún distractor está en el 22.2. Clasifica supuestos concretos, así que no repite las t5 [49], [132] y [133]."
+ },
+ {
+  "q": "Según el art. 24.1 de la Ley 39/2015, en los procedimientos iniciados a solicitud del interesado, el silencio tiene efecto desestimatorio en aquellos que:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 24.1, párrafo segundo, literal: actividades que puedan dañar el medio ambiente. Los otros tres supuestos no hacen desestimatorio el silencio. No repetida: las t5 [54], [55] y [56] preguntan por la petición, el dominio público y la responsabilidad patrimonial."
+ },
+ {
+  "q": "Según el art. 24.1 de la Ley 39/2015, la regla general del silencio estimatorio en los procedimientos iniciados a solicitud del interesado puede exceptuarse por:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 24.1, párrafo primero, literal: norma con rango de ley o de Derecho de la UE o internacional aplicable en España. Ordenanza, reglamento e instrucción no bastan: los distractores son falsos, también en Zaragoza. No repetida."
+ },
+ {
+  "q": "Según el art. 24.4 de la Ley 39/2015, ¿quién expide de oficio el certificado acreditativo del silencio producido?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 24.4 literal: certificado expedido de oficio «por el órgano competente para resolver». No repite la t5 [60], que pregunta el plazo de quince días."
+ },
+ {
+  "q": "Según el art. 24.4 de la Ley 39/2015, ¿cuándo puede el interesado pedir el certificado acreditativo del silencio producido?",
+  "veredicto": "DUDOSA",
+  "notaRevision": "El contenido es correcto (art. 24.4: «el interesado podrá pedirlo en cualquier momento»). Pero se acierta por la forma: los tres distractores empiezan por «Solo» y la correcta es la única que no. Arreglo: distractores sin «solo» y del mismo tipo, p. ej. «Dentro de los quince días siguientes al vencimiento del plazo», «Una vez transcurrido el plazo de expedición de oficio», «Antes de interponer recurso contra el acto presunto». Además, la t5 [147] ya da por supuesto en su enunciado que el interesado puede pedirlo."
+ },
+ {
+  "q": "Una solicitud cuya estimación transferiría al solicitante facultades relativas al dominio público se desestima por silencio. El interesado interpone recurso de alzada, que tampoco se resuelve ni notifica en plazo. Según el art. 24.1 de la Ley 39/2015, el recurso se entiende:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 24.1, párrafo tercero: la alzada contra una desestimación presunta se estima por silencio «siempre que no se refiera a las materias enumeradas en el párrafo anterior». El dominio público está en ese párrafo, así que rige el silencio desestimatorio de los procedimientos de impugnación. Distractores falsos (24.3 a; arts. 24.2 y 122). Ojo: está cerca de la t5 [141], pero esta la aplica a un caso concreto de la excepción. Se admite."
+ },
+ {
+  "q": "Según el art. 26.2 e) de la Ley 39/2015, para ser considerados válidos, los documentos electrónicos administrativos deben incorporar:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 26.2 e) literal. Ningún distractor es cierto: la ley no exige siempre firma cualificada del titular, no habla de firma manuscrita digitalizada y no dice que el sello sustituya en todo caso a la firma. No repetida: hay preguntas de las letras a) a d), no de la e)."
+ },
+ {
+  "q": "¿Cuántos requisitos enumera el art. 26.2 de la Ley 39/2015 para que los documentos electrónicos administrativos se consideren válidos?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 26.2: letras a) a e), cinco requisitos. Contados en el consolidado. No hay otra pregunta que cuente los del 26.2."
+ },
+ {
+  "q": "Según el art. 27.1 de la Ley 39/2015, en el registro o sistema equivalente de funcionarios habilitados para expedir copias auténticas constarán, al menos:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 27.1, párrafo cuarto, literal: constarán, al menos, los funcionarios de las oficinas de asistencia en materia de registros. La t4 [205] pregunta lo mismo del registro del art. 12.3; esta va sobre el de copias auténticas (27.1). Es otro registro y la explicación lo aclara. No repite la t5 [162]."
+ },
+ {
+  "q": "Según el art. 27.4 de la Ley 39/2015, la solicitud de expedición de copias auténticas de documentos públicos administrativos se dirigirá:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 27.4 literal: «La solicitud se dirigirá al órgano que emitió el documento original». Distractores falsos según el tenor literal. No repite la t5 [72] ni la [167]."
+ },
+ {
+  "q": "Según el art. 27.4 de la Ley 39/2015, el plazo de quince días para expedir la copia auténtica solicitada por un interesado rige salvo las excepciones derivadas de la aplicación de:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 27.4 literal: salvo las excepciones derivadas de la Ley 19/2013, de 9 de diciembre. Los otros tres distractores son falsos. No repetida."
+ },
+ {
+  "q": "Según el art. 27.3 a) de la Ley 39/2015, las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica, con o sin cambio de formato, deberán incluir:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 27.3 a) literal (metadatos que acrediten su condición de copia y se visualicen al consultar). El CSV es del 27.3 c) (copias en papel). La correcta es la más larga por solo 4 caracteres, sin que se delate. No repetida."
+ },
+ {
+  "q": "Según el art. 27.3 b) de la Ley 39/2015, las copias electrónicas de documentos en soporte papel requieren, además de incluir los metadatos que acrediten su condición de copia:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 27.3 b) literal: «requerirán que el documento haya sido digitalizado». Distractores falsos. No repite la t5 [165], que pregunta la definición de digitalización."
+ },
+ {
+  "q": "Según el art. 27.3 de la Ley 39/2015, ¿a través de qué medio harán públicos las Administraciones los códigos seguros de verificación u otro sistema de verificación utilizado?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 27.3, último párrafo, literal: «a través de la sede electrónica correspondiente». Distractores falsos. No repetida."
+ },
+ {
+  "q": "Según el art. 28.2 de la Ley 39/2015, si un informe preceptivo ya elaborado por un órgano distinto del que tramita el procedimiento no se remite en los diez días siguientes a su solicitud:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 28.2, párrafo tercero, literal: pasados los diez días, se informa al interesado de que puede aportar el informe o esperar a su remisión. Redacción vigente: la de la LO 3/2018, en vigor desde el 07/12/2018. No repite la t5 [174], que pregunta el plazo."
+ },
+ {
+  "q": "Según el art. 28.3 de la Ley 39/2015, para no tener que volver a aportar documentos que ya presentó ante cualquier Administración, ¿qué debe indicar el interesado?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 28.3, párrafo segundo (redacción de la LO 3/2018), literal: «en qué momento y ante qué órgano administrativo presentó los citados documentos». Distractores falsos. No repite la t5 [175]."
+ },
+ {
+  "q": "Según el art. 28.3 de la Ley 39/2015, si excepcionalmente las Administraciones no pudieran recabar los documentos que el interesado aportó anteriormente a cualquier Administración:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 28.3 in fine literal: «podrán solicitar nuevamente al interesado su aportación». Los demás («deberán» resolver, archivar o darlos por aportados) son falsos. Que solo la correcta diga «podrán» es justo la distinción «podrá/deberá» que se pretende preguntar. No repetida."
+ },
+ {
+  "q": "Según el art. 28.3 de la Ley 39/2015, las Administraciones deben recabar electrónicamente los documentos que el interesado ya aportó a cualquier Administración, salvo que conste en el procedimiento su oposición expresa o:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 28.3, párrafo segundo, literal: salvo oposición expresa del interesado o «la ley especial aplicable requiera su consentimiento expreso». Distractores falsos. No repetida."
+ },
+ {
+  "q": "Según el art. 28.4 de la Ley 39/2015, cuando la Administración solicite excepcionalmente un documento original en papel, el interesado obtendrá una copia auténtica antes de presentarlo electrónicamente, y la copia electrónica resultante:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 28.4 literal: «La copia electrónica resultante reflejará expresamente esta circunstancia». No repite la t5 [176], que pregunta la obligación de obtener copia auténtica."
+ },
+ {
+  "q": "Un acto se notifica un jueves y concede un plazo de cinco días. Ninguna ley ni el Derecho de la Unión Europea establecen otro cómputo y en ese periodo no hay festivos. Según el art. 30 de la Ley 39/2015, ¿cuál es el último día del plazo?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Calculado paso a paso (arts. 30.2 y 30.3): notificado el jueves, se cuenta desde el viernes. Viernes 1, sábado y domingo excluidos, lunes 2, martes 3, miércoles 4, jueves 5: vence el jueves siguiente. Comprobados los distractores: en días naturales sale el martes; contando el jueves de la notificación, el miércoles. Ninguno es correcto. No hay otro supuesto aplicado igual."
+ },
+ {
+  "q": "Un acto se notifica un viernes a las 10:00 y concede un plazo de 24 horas. El sábado y el domingo son inhábiles y el lunes es hábil. Si ninguna ley ni el Derecho de la Unión Europea disponen otro cómputo, según el art. 30.1 de la Ley 39/2015, ¿cuándo vence el plazo?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 30.1 calculado: horas hábiles = todas las de un día hábil, de minuto en minuto. Viernes de 10:00 a 24:00 = 14 h; sábado y domingo no cuentan; lunes de 0:00 a 10:00 = 10 h; total 24 h y vence el lunes a las 10:00. Un plazo de 24 h no supera el máximo legal. Distractores falsos. Las t5 [80] y [183] a [185] son teóricas; esta no las repite."
+ },
+ {
+  "q": "Un acto se notifica el 31 de enero de un año no bisiesto y concede un plazo de un mes. Ese año, el 28 de febrero es domingo y el lunes 1 de marzo es hábil. Según el art. 30 de la Ley 39/2015, ¿cuál es el último día del plazo?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Calculado (art. 30.4 y 30.5): de fecha a fecha, el plazo vencería el «31 de febrero», que no existe, así que expira el último día del mes, el 28 de febrero. Es domingo y pasa al lunes 1 de marzo. El calendario es coherente: en un año no bisiesto con el 28-feb en domingo (p. ej. 2021), el 26 es viernes y el 2 de marzo martes. 31-ene + 30 días naturales = 2 de marzo. Los tres distractores son falsos. Combina las t5 [83]/[191] y [84]/[192] en un caso nuevo."
+ },
+ {
+  "q": "El último día de un plazo de diez días hábiles para presentar alegaciones es un viernes. El interesado presenta su escrito en el registro electrónico el sábado siguiente, y ninguna norma permite la recepción en día inhábil. Según el art. 31.2 b) de la Ley 39/2015, la presentación:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 31.2 b) aplicado: la presentación electrónica del sábado se tiene por hecha en la primera hora del lunes, después del viernes en que vencía el plazo: es extemporánea. El 30.5 no opera porque el último día era hábil. Distractores falsos. Las t5 [89] y [200] son teóricas."
+ },
+ {
+  "q": "La regla del art. 31.2 b) de la Ley 39/2015, por la que la presentación en el registro electrónico en día inhábil se entiende hecha en la primera hora del primer día hábil siguiente, rige a efectos del cómputo de plazos fijados en días hábiles y en lo que se refiere al cumplimiento de plazos por:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 31.2 b) literal: «en lo que se refiere al cumplimiento de plazos por los interesados». Para la Administración rige el 31.2 c). Distractores falsos. Detalle menor: la explicación habla de «registros de otras Administraciones», y la opción dice «Las demás Administraciones». Conviene igualarlo."
+ },
+ {
+  "q": "¿Qué norma añadió a la Ley 39/2015 el apartado 5 del art. 32, que permite acordar una ampliación general de plazos cuando un ciberincidente afecte gravemente a los servicios y sistemas de tramitación?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Nota del consolidado verificada: «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo» (BOE-A-2022-4972), en vigor desde el 31/03/2022. La LO 3/2018 modificó el art. 28.2 y 3; el RD 203/2021 es reglamento; la Ley 40/2015 no lo añadió. Valor de examen bajo, y el enunciado de la t5 [213] ya da el dato, pero pregunta otra cosa. Se admite."
+ },
+ {
+  "q": "En un procedimiento tramitado por el Ayuntamiento de Zaragoza interviene un interesado que reside en Francia. Si la norma fija un plazo de diez días para un trámite, según el art. 32 de la Ley 39/2015:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 32.1 y 32.2: ampliación máxima = la mitad del plazo, y se aplica «en todo caso» cuando intervienen interesados residentes fuera de España. 10 + 5 = 15 días. Distractores falsos: no depende de petición, el máximo no es el doble y el art. 29 no impide la ampliación legal. Las t5 [208] y [209] son teóricas; aquí se aplica con cálculo."
+ }
+]

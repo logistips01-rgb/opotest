@@ -1,0 +1,263 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 8,
+  "fecha": "2026-10-23",
+  "preguntas": [
+    {
+      "q": "En la redacción del art. 106 LPAC, ¿qué diferencia hay entre el apartado 1 (actos nulos) y el apartado 2 (disposiciones nulas)?",
+      "options": [
+        "Para los actos, las Administraciones «declararán» la nulidad; para las disposiciones, «podrán declarar» la nulidad",
+        "Para los actos se exige dictamen favorable del órgano consultivo; para las disposiciones basta un dictamen no vinculante",
+        "Para los actos rige un límite de cuatro años; para las disposiciones, la nulidad se declara en cualquier momento",
+        "Para los actos solo cabe actuar de oficio; para las disposiciones, también a solicitud de cualquier interesado"
+      ],
+      "correct": 0,
+      "exp": "El art. 106.1 dice que las Administraciones Públicas «declararán de oficio la nulidad» de los actos (fórmula imperativa), mientras que el art. 106.2 dice que «podrán declarar la nulidad de las disposiciones administrativas» (fórmula potestativa). Los dos apartados exigen el mismo dictamen favorable del Consejo de Estado u órgano consultivo autonómico y los dos permiten actuar «en cualquier momento», sin límite de cuatro años (ese límite es el de la lesividad, art. 107.2). La solicitud de interesado aparece solo en el apartado 1, para los actos; el apartado 2 habla únicamente de actuación «de oficio», justo al revés de lo que dice el último distractor.",
+      "fuente": "Arts. 106.1 y 106.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 106.1 («declararán de oficio») y 106.2 («podrán declarar») literales; las otras tres son falsas: los dos apartados exigen dictamen favorable y permiten actuar «en cualquier momento», y solo el 106.1 admite la solicitud de interesado. No repite (T8[80], [98] y [100] preguntan el dictamen, no la diferencia declararán/podrán). Fallo de forma (regla 3): la explicación remite a «el último distractor», referencia por posición que no sirve porque la app baraja. Arreglo: «...justo al revés de lo que dice la opción que atribuye la solicitud de interesado a las disposiciones». | Revisor 2 (CONFIRMADA): Verificado en el consolidado BOE-A-2015-10565: 106.1 dice «declararán de oficio la nulidad» y 106.2 dice «podrán declarar la nulidad». Los dos apartados exigen dictamen favorable y permiten actuar «en cualquier momento»; la solicitud de interesado solo figura en 106.1. Los tres distractores son falsos. No repite ninguna pregunta: la del banco sobre el dictamen (art. 106.1 y 106.2) pregunta otra cosa.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Un interesado pide la revisión de oficio de un acto firme alegando solo un vicio de anulabilidad del art. 48 LPAC. ¿Qué permite el art. 106.3 al órgano competente?",
+      "options": [
+        "Declarar la nulidad del acto sin dictamen previo, por tratarse de un vicio menor",
+        "Remitir la solicitud al Pleno para que declare el acto lesivo para el interés público municipal",
+        "Convertir la solicitud en recurso de alzada y resolverla en el plazo de tres meses",
+        "Acordar motivadamente su inadmisión a trámite sin recabar dictamen del órgano consultivo"
+      ],
+      "correct": 3,
+      "exp": "La revisión de oficio a solicitud de interesado del art. 106.1 solo procede por las causas de nulidad del art. 47.1. Por eso el art. 106.3 permite al órgano competente «acordar motivadamente la inadmisión a trámite» de las solicitudes, sin recabar dictamen del Consejo de Estado u órgano consultivo autonómico, cuando no se basen en alguna de esas causas de nulidad. Un vicio de anulabilidad no permite declarar la nulidad. Tampoco el art. 106.3 prevé convertir la solicitud en lesividad ni en recurso de alzada.",
+      "fuente": "Art. 106.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. El contenido es correcto (art. 106.3: inadmisión motivada sin dictamen cuando la solicitud no se basa en una causa del art. 47.1, y un vicio del art. 48 no lo es), pero repite T8[101] («puede acordar motivadamente la inadmisión a trámite [...] sin necesidad de recabar dictamen, cuando: No se base en alguna de las causas del art. 47.1...»). Es la misma regla al revés: aquella da la consecuencia y pide la causa, y esta da la causa y pide la consecuencia. Es preguntar lo mismo con otras palabras (regla 6). | Revisor 2 (RECHAZADA): La pregunta es correcta según el art. 106.3, pero repite en el fondo una del banco del tema 8: «Según el art. 106.3 LPAC, el órgano competente ... puede acordar motivadamente la inadmisión a trámite ... sin necesidad de recabar dictamen, cuando: no se base en alguna de las causas del art. 47.1...». Es el mismo supuesto con la misma consecuencia, solo que preguntado al revés.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Un reglamento municipal incurre en una causa de nulidad del art. 47.2 LPAC. Según los arts. 112.3 y 106.2 LPAC, ¿qué vía administrativa existe para dejarlo sin efecto?",
+      "options": [
+        "La revisión de oficio por la propia Administración, previo dictamen favorable del órgano consultivo",
+        "El recurso potestativo de reposición ante el órgano que lo aprobó, en el plazo de un mes desde su publicación",
+        "El recurso de alzada ante el órgano superior, en el plazo de un mes desde su publicación",
+        "El recurso extraordinario de revisión, en el plazo de cuatro años desde su publicación"
+      ],
+      "correct": 0,
+      "exp": "El art. 112.3 dispone que «contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa», ni ordinario ni extraordinario. La única vía administrativa es la revisión de oficio del art. 106.2: la Administración puede declarar, en cualquier momento, la nulidad de las disposiciones en los supuestos del art. 47.2, previo dictamen favorable del Consejo de Estado u órgano consultivo autonómico. En Zaragoza, la revisión de oficio de las disposiciones de carácter general municipales corresponde al Pleno (art. 11.1.m Ley 10/2017 y art. 123.1.l LBRL).",
+      "fuente": "Arts. 112.3 y 106.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 112.3 («Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa») y art. 106.2 (nulidad de disposiciones de oficio, previo dictamen favorable, supuestos del 47.2), literales. Los tres recursos de los distractores quedan excluidos por el 112.3. En Zaragoza el Pleno revisa de oficio sus disposiciones (art. 11.1.m Ley 10/2017; art. 123.1.l LBRL), comprobado. No repite: T8[21] y [143] solo preguntan que no cabe recurso, y T8[100] el dictamen. Esta une las dos reglas en un supuesto. | Revisor 2 (DUDOSA): Es correcta (arts. 112.3 y 106.2; en Zaragoza revisa el Pleno, art. 11.1.m Ley 10/2017). Pero los tres distractores son recursos administrativos, así que se acierta con solo saber el art. 112.3, que ya se pregunta dos veces en el banco («¿contra qué no cabe recurso en vía administrativa?» y «¿Cabe recurso en vía administrativa contra las disposiciones...?»). El dictamen del 106.2 también está ya en el banco. Arreglo: poner distractores que no sean recursos (por ejemplo, la declaración de lesividad del art. 107 o la revocación del art. 109). Además, la explicación generaliza: el art. 11.1.m atribuye al Pleno la revisión de «sus propios» actos y disposiciones, no la de todas las disposiciones municipales.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "La declaración de lesividad (art. 107.2 LPAC) y el recurso extraordinario de revisión por error de hecho (art. 125.2) tienen un límite de cuatro años. ¿Desde cuándo se cuenta en cada caso?",
+      "options": [
+        "Lesividad: desde la notificación del acto. Recurso extraordinario: desde que se dictó la resolución que se impugna",
+        "En los dos casos, desde que el acto o la resolución adquirieron firmeza en la vía administrativa",
+        "Lesividad: desde que se dictó el acto. Recurso extraordinario: desde la notificación de la resolución impugnada",
+        "En los dos casos, desde que se conoce el vicio o el error que justifica la revisión del acto"
+      ],
+      "correct": 2,
+      "exp": "El art. 107.2 dice que la lesividad no puede declararse «una vez transcurridos cuatro años desde que se dictó el acto administrativo». El art. 125.2 dice que, por la causa a) del art. 125.1 (error de hecho), el recurso extraordinario se interpone «dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada». El primer distractor invierte los dos momentos. Ninguno de los dos preceptos cuenta desde la firmeza ni desde que se conoce el error.",
+      "fuente": "Arts. 107.2 y 125.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (DUDOSA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 107.2 («cuatro años desde que se dictó el acto administrativo») y art. 125.2 («cuatro años siguientes a la fecha de la notificación de la resolución impugnada»), literales. La marcada es correcta y las otras tres son falsas. Cada dato ya está preguntado por separado (T8[65], T8[107], T21[90]), pero lo que pide esta es el contraste entre los dos, así que no la cuento como repetición. Fallo de forma (regla 3): la explicación dice «El primer distractor invierte los dos momentos», referencia por posición. Arreglo: «La opción que cuenta la lesividad desde la notificación y el recurso desde que se dictó la resolución invierte los dos momentos». | Revisor 2 (RECHAZADA): Es correcta (art. 107.2: «desde que se dictó el acto»; art. 125.2: desde la notificación). Pero cada mitad ya está en el banco del tema 8: «la declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde: Que se dictó el acto administrativo» (107.2) y dos preguntas del 125.2 con la respuesta «Cuatro años ... desde la notificación de la resolución impugnada». Juntar dos datos que ya se preguntan es repetir.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 112.2 LPAC, ¿qué tipo de norma puede sustituir el recurso de alzada por procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje?",
+      "options": [
+        "Un reglamento",
+        "Una ley",
+        "Una ordenanza",
+        "Una circular"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.2 empieza diciendo que «las leyes podrán sustituir el recurso de alzada» por esos procedimientos, ante órganos colegiados o comisiones específicas no sometidas a instrucciones jerárquicas. No lo puede hacer un reglamento, una ordenanza ni una circular. En Zaragoza, la Ley 10/2017 (art. 18) solo prevé comisiones de asesoramiento que dictaminan recursos administrativos, sin sustituirlos.",
+      "fuente": "Art. 112.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 112.2 literal: «Las leyes podrán sustituir el recurso de alzada». Es correcta y los otros tres tipos de norma son falsos. Problemas: (1) los enunciados de dos preguntas del mismo lote ya dan la respuesta: la que empieza «¿en qué casos pueden las leyes sustituir el recurso de alzada...» y la que empieza «Una ley sectorial sustituye el recurso de alzada...». (2) Con este lote el párrafo 1.º del art. 112.2 tendría siete preguntas (T8[140], [141] y [142] más cuatro nuevas). Propuesta: descartarla, o escribir esas dos sin decir qué norma sustituye la alzada. | Revisor 2 (CONFIRMADA): Verificado el art. 112.2: «Las leyes podrán sustituir el recurso de alzada». Los distractores (reglamento, ordenanza, circular) son falsos. El banco pregunta por qué procedimientos se sustituye, por la reposición y por el límite local, pero no qué norma puede sustituirla. Verificado el art. 18 de la Ley 10/2017 que cita la explicación.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 112.2 LPAC, los procedimientos de impugnación, reclamación, conciliación, mediación o arbitraje que sustituyan al recurso de alzada deben seguirse:",
+      "options": [
+        "Sin sujeción a plazo máximo de resolución, por su carácter conciliador o arbitral",
+        "Con las garantías propias de un proceso judicial, incluida la asistencia de abogado",
+        "Con respeto a los principios, garantías y plazos que la LPAC reconoce a las personas y a los interesados",
+        "Según las instrucciones que dicte en cada caso el órgano superior jerárquico del que dictó el acto impugnado"
+      ],
+      "correct": 2,
+      "exp": "El art. 112.2 exige que la sustitución se haga «con respeto a los principios, garantías y plazos que la presente Ley reconoce a las personas y a los interesados en todo procedimiento administrativo». No los exime de plazos ni los convierte en un proceso judicial. Además, se tramitan ante órganos colegiados o comisiones específicas «no sometidas a instrucciones jerárquicas», lo contrario del último distractor.",
+      "fuente": "Art. 112.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 112.2 literal: «con respeto a los principios, garantías y plazos que la presente Ley reconoce a las personas y a los interesados en todo procedimiento administrativo». Las otras tres son falsas, y la de las instrucciones del superior jerárquico choca con el inciso «no sometidas a instrucciones jerárquicas». No repite. Fallo de forma (regla 3): la explicación dice «lo contrario del último distractor», referencia por posición. Arreglo: «lo contrario de la opción que las somete a las instrucciones del superior jerárquico». | Revisor 2 (CONFIRMADA): Verificado el art. 112.2: «con respeto a los principios, garantías y plazos que la presente Ley reconoce a las personas y a los interesados». Los órganos son «no sometidos a instrucciones jerárquicas», así que el último distractor es falso, y los otros dos también. No está en el banco.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "En el Ayuntamiento de Zaragoza, ¿qué órgano resuelve los procedimientos de responsabilidad patrimonial y qué efecto tiene esa resolución sobre la vía administrativa?",
+      "options": [
+        "El Alcalde, y contra su resolución cabe recurso de alzada ante el Pleno",
+        "El Pleno, y contra su resolución cabe recurso de alzada ante el Alcalde",
+        "El Gobierno de Zaragoza, y contra su resolución cabe alzada ante el Pleno",
+        "El Gobierno de Zaragoza, y su resolución pone fin a la vía administrativa"
+      ],
+      "correct": 3,
+      "exp": "El art. 14.1.t) de la Ley 10/2017 atribuye al Gobierno de Zaragoza «la resolución de los procedimientos de responsabilidad patrimonial por el funcionamiento de los servicios públicos municipales». El art. 114.1.e) LPAC dice que pone fin a la vía administrativa «la resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive». Lo mismo resulta del art. 52.2.a) LBRL para las resoluciones de la Junta de Gobierno. Por tanto no cabe alzada: solo reposición potestativa o recurso contencioso-administrativo. El Gobierno de Zaragoza puede delegar esta atribución (art. 14.2), y la resolución del órgano delegado también pone fin a la vía administrativa.",
+      "fuente": "Art. 14.1.t) Ley 10/2017 (régimen especial de Zaragoza) y art. 114.1.e) LPAC",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 14.1.t) Ley 10/2017 literal: resuelve el Gobierno de Zaragoza. Art. 114.1.e) LPAC y art. 52.2.a) LBRL: pone fin a la vía administrativa. La respuesta vale para Zaragoza (regla 9). Las otras tres son falsas por el órgano o porque admiten una alzada que no cabe. Es delegable (art. 14.2, letra t), comprobado), como dice la explicación. No repite: T8[149] pregunta solo el fin de vía y T14[310] solo la delegabilidad. El órgano competente en Zaragoza no se pregunta en el banco. | Revisor 2 (DUDOSA): El contenido es correcto: art. 14.1.t) Ley 10/2017 (resuelve el Gobierno de Zaragoza), art. 114.1.e) LPAC y art. 52.2.a) LBRL. Pero los tres distractores llevan «alzada», así que se acierta sin saber qué órgano resuelve, con solo saber que la resolución pone fin a la vía administrativa, y eso ya se pregunta en el banco (art. 114.1.e) y en el examen oficial del tema 21 (art. 52.2). Además, se solapa con la pregunta del Gobierno de Zaragoza y la licencia de este mismo lote. Arreglo: que todas las opciones digan «pone fin a la vía administrativa» y cambie solo el órgano (Alcalde, Pleno, Gobierno de Zaragoza, consejero del área), o preguntar solo por el órgano.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Un tribunal de selección excluye a un aspirante con una decisión que le impide continuar en el proceso y que no pone fin a la vía administrativa. ¿Qué recurso administrativo cabe según el art. 121.1 LPAC?",
+      "options": [
+        "Reposición potestativa ante el propio tribunal, por ser el órgano que dictó en el proceso el acto que se impugna",
+        "Recurso extraordinario de revisión ante el propio tribunal, en el plazo de tres meses desde el acto",
+        "Alzada ante el órgano al que esté adscrito el tribunal o, en su defecto, el que nombró a su presidente",
+        "Ninguno, porque los actos de trámite de un tribunal de selección no se pueden recurrir por separado"
+      ],
+      "correct": 2,
+      "exp": "El acto impide continuar el procedimiento, así que es un acto de trámite recurrible (art. 112.1). Como no pone fin a la vía administrativa, procede la alzada (art. 121.1). A estos efectos, los tribunales de selección «se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos». La reposición es para actos que ponen fin a la vía administrativa, y el extraordinario de revisión, para actos firmes. En Zaragoza, la base 6.8.18 de las bases generales de 2025 aplica esta regla: alzada ante la concejalía delegada de Personal.",
+      "fuente": "Art. 121.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. El contenido es correcto (art. 112.1 y 121.1; base 6.8.18 de las bases generales TRBGTL 2025 comprobada en tools/temarios: «recurso de alzada ante la concejalía delegada de Personal de conformidad con lo establecido en el artículo 121.1»). Pero repite T8[178]: «a los efectos del recurso de alzada, los Tribunales y órganos de selección [...] se considerarán dependientes de: *El órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente». La respuesta de esta («Alzada ante el órgano al que esté adscrito el tribunal o, en su defecto, el que nombró a su presidente») es la misma con el supuesto añadido (regla 6). | Revisor 2 (DUDOSA): Es correcta (arts. 112.1 y 121.1). Comprobada también la base 6.8.18 de las bases generales de 2025 (alzada ante la concejalía delegada de Personal). Pero el texto de la opción correcta reproduce casi palabra por palabra la respuesta de una pregunta del banco del tema 8: «los Tribunales y órganos de selección ... se considerarán dependientes de: El órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente». Arreglo: preguntar solo qué recurso cabe (alzada, frente a reposición, revisión extraordinaria o ninguno), sin repetir en la opción el criterio del órgano.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "¿Cuál de estas reglas sobre la suspensión de la ejecución rige en los recursos administrativos (art. 117 LPAC) y no aparece en la suspensión durante la revisión de oficio (art. 108)?",
+      "options": [
+        "Puede suspenderse si la ejecución pudiera causar perjuicios de imposible o difícil reparación",
+        "El órgano competente «podrá suspender» la ejecución del acto, según la redacción de la ley",
+        "La suspensión exige siempre la audiencia previa de todos los interesados en el procedimiento",
+        "Si no se resuelve en un mes la solicitud de suspensión, la ejecución se entiende suspendida"
+      ],
+      "correct": 3,
+      "exp": "El art. 117.3 dice que la ejecución «se entenderá suspendida» si pasa un mes desde que la solicitud entró en el registro electrónico del órgano competente sin que se haya dictado y notificado resolución expresa. El art. 108 no tiene una regla equivalente. Los perjuicios de imposible o difícil reparación y la fórmula «podrá suspender» aparecen en los dos artículos. La audiencia previa obligatoria no aparece en ninguno de los dos.",
+      "fuente": "Arts. 117.3 y 108 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Arts. 117 y 108, comprobados. Solo el 117.3 tiene la suspensión por falta de resolución en un mes. Los perjuicios de imposible o difícil reparación y el «podrá suspender» están en los dos artículos (117.2.a y 108), y ninguno exige audiencia previa para suspender, así que las otras tres son falsas. No repite: T8[85] pregunta el efecto del 117.3, y esta pregunta por el contraste con la revisión de oficio. | Revisor 2 (DUDOSA): Es correcta (art. 117.3 frente al art. 108; los perjuicios de imposible o difícil reparación y el «podrá suspender» están en los dos artículos, y la audiencia obligatoria en ninguno). Pero la opción correcta es la regla del 117.3, que el banco ya pregunta dos veces («la suspensión se entenderá otorgada» y «la ejecución del acto impugnado se entenderá suspendida»). Es una repetición parcial. Arreglo: que la opción correcta sea un rasgo del 117 que el banco no pregunte, como la caución del 117.4 o la publicación del 117.5.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 18 de la Ley 10/2017, ¿quién establece las funciones, composición y funcionamiento de las Comisiones específicas de asesoramiento para dictaminar recursos administrativos en Zaragoza?",
+      "options": [
+        "El Pleno, en el Reglamento orgánico municipal",
+        "El Gobierno de Zaragoza, en el acuerdo de creación",
+        "El Alcalde, mediante un decreto de organización",
+        "El Gobierno de Aragón, a propuesta del Ayuntamiento"
+      ],
+      "correct": 1,
+      "exp": "El art. 18 de la Ley 10/2017 dice: «Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación». Son comisiones que dictaminan, no que resuelven: la resolución del recurso sigue correspondiendo al órgano competente.",
+      "fuente": "Art. 18 Ley 10/2017 (régimen especial de Zaragoza)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. El contenido es correcto (art. 18 Ley 10/2017 literal: funciones, composición y funcionamiento «se establecerán por el Gobierno de Zaragoza en el acuerdo de creación») y no repite T14[220], que pregunta la función. Pero no pregunta por el régimen de los recursos, sino por la organización de un órgano municipal: quién fija la composición de una comisión. Eso es el epígrafe del tema 14 («especialidades en materia de organización» de la Ley 10/2017), donde está el art. 18, y no el del tema 8 (LPAC: revisión de oficio y recursos). Ante la duda sobre el alcance, la rechazo. Podría ir al tema 14. | Revisor 2 (CONFIRMADA): Verificado el art. 18 de la Ley 10/2017: las establece «el Gobierno de Zaragoza en el acuerdo de creación». Los distractores son falsos. El tema 14 pregunta para qué sirven estas comisiones (dictaminar recursos), no quién las regula, así que no repite.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Un contribuyente de Zaragoza recurre en reposición una liquidación tributaria municipal y se le desestima el recurso. Según el art. 137.3 LBRL, ¿qué puede hacer a continuación en vía administrativa?",
+      "options": [
+        "Interponer recurso de alzada ante el Pleno del Ayuntamiento de Zaragoza",
+        "Interponer un segundo recurso de reposición, esta vez ante el Alcalde",
+        "Presentar reclamación económico-administrativa ante el órgano municipal especializado",
+        "Reclamar, en todo caso, ante el Tribunal Económico-Administrativo Regional de Aragón"
+      ],
+      "correct": 2,
+      "exp": "El art. 137.3 LBRL permite presentar antes, con carácter potestativo, el recurso de reposición tributario. Añade: «Contra la resolución, en su caso, del citado recurso de reposición, podrá interponerse reclamación económico-administrativa ante el órgano previsto en el presente artículo». El precepto remite a la Ley 39/1988, de Haciendas Locales; hoy ese recurso está en el art. 14 del TRLRHL (RDLeg 2/2004). No cabe alzada ni una segunda reposición. Los Tribunales Económico-Administrativos del Estado solo intervienen en los supuestos que prevea la ley (art. 137.6).",
+      "fuente": "Art. 137.3 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. El contenido es correcto (art. 137.3 LBRL literal; hoy el recurso del art. 14 TRLRHL). Pero repite en el fondo T21[144], la que señala el redactor: «no es necesario interponer previamente recurso de reposición pero si utiliza ese recurso no se podrá formular reclamación económico-administrativa hasta que el recurso de reposición haya sido resuelto». Las dos preguntan la secuencia reposición potestativa y, después, reclamación ante el órgano municipal, en el mismo supuesto de liquidación tributaria de Zaragoza. Además, el art. 137 tiene cinco preguntas en este lote. Ante la duda, la rechazo. | Revisor 2 (DUDOSA): Es correcta (art. 137.3 LBRL; art. 14 TRLRHL). Pero se solapa con la pregunta P18 del segundo ejercicio del examen oficial de 31-may-2026 (tema 21), que pregunta la secuencia reposición potestativa y después reclamación ante la Junta Municipal, también sobre el art. 137. Arreglo: preguntar otra cosa del 137.3, por ejemplo contra qué actos cabe esa reposición previa (los del 137.1.a).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 137.4 LBRL, ¿cómo se designa a los miembros del órgano para la resolución de las reclamaciones económico-administrativas de un municipio de gran población?",
+      "options": [
+        "Los designa el Pleno por mayoría absoluta, entre personas de reconocida competencia técnica",
+        "Los nombra el Alcalde por decreto, entre funcionarios con habilitación de carácter nacional",
+        "Los designa la Junta de Gobierno Local por mayoría simple, entre su personal directivo",
+        "Los nombra el Ministerio de Hacienda, a propuesta del Pleno, entre inspectores de tributos"
+      ],
+      "correct": 0,
+      "exp": "El art. 137.4 LBRL dice que el órgano está constituido por un número impar de miembros, con un mínimo de tres, «designados por el Pleno, con el voto favorable de la mayoría absoluta de los miembros que legalmente lo integren, de entre personas de reconocida competencia técnica». También el cese por acuerdo plenario exige la misma mayoría. La Ley 10/2017 no altera esta regla para Zaragoza.",
+      "fuente": "Art. 137.4 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. El contenido es correcto (art. 137.4 LBRL literal: designación por el Pleno por mayoría absoluta del número legal, entre personas de reconocida competencia técnica, y la Ley 10/2017 no lo cambia). Pero la composición y designación de los miembros del órgano es organización de los municipios de gran población (tema 14), no revisión de actos ni recursos (tema 8). El tema 14 ya pregunta el art. 137.4 (T14[151], mínimo de tres miembros). Además, el art. 137 tiene cinco preguntas en este lote. Fuera del epígrafe del tema 8. Podría ir al tema 14, ya que no repite el dato de T14[151]. | Revisor 2 (CONFIRMADA): Verificado el art. 137.4 LBRL: los designa el Pleno, por mayoría absoluta del número legal de miembros, entre personas de reconocida competencia técnica. Los distractores son falsos. El tema 14 pregunta el número mínimo de miembros (tres), que es un dato distinto. La Ley 10/2017 no cambia esta regla.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "El Gobierno de Zaragoza deniega una licencia. Según los arts. 52.2.a) LBRL y 123.1 LPAC, ¿qué puede hacer el interesado para impugnar la denegación?",
+      "options": [
+        "Recurrir en alzada ante el Alcalde, que preside el Gobierno de Zaragoza",
+        "Recurrir en alzada ante el Pleno y, después, en reposición ante el Alcalde",
+        "Recurrir en reposición ante el Pleno, por ser el órgano superior del municipio, o ir al contencioso",
+        "Recurrir en reposición ante el propio Gobierno de Zaragoza o ir directamente al contencioso"
+      ],
+      "correct": 3,
+      "exp": "En Zaragoza el otorgamiento de licencias corresponde al Gobierno de Zaragoza (art. 14.1.e Ley 10/2017), que ejerce las funciones de la Junta de Gobierno Local. Sus resoluciones ponen fin a la vía administrativa (art. 52.2.a LBRL: «las del Pleno, los Alcaldes o Presidentes y las Juntas de Gobierno»), así que no cabe alzada. Según el art. 123.1 LPAC, pueden recurrirse «potestativamente en reposición ante el mismo órgano que los hubiera dictado» o impugnarse directamente ante el orden contencioso-administrativo.",
+      "fuente": "Art. 52.2.a) LBRL (Ley 7/1985) y art. 123.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 14.1.e) Ley 10/2017: las licencias las otorga el Gobierno de Zaragoza. Art. 52.2.a) LBRL: las resoluciones de las Juntas de Gobierno ponen fin a la vía administrativa. Art. 123.1 LPAC literal: reposición potestativa «ante el mismo órgano» o directamente el contencioso. Las otras tres son falsas: no cabe alzada y la reposición se presenta ante el mismo órgano, no ante el Pleno. Vale para Zaragoza. No repite: T8[257] pregunta la regla general (pone fin, reposición; no pone fin, alzada) sin el órgano de Zaragoza, y T21[101] solo pregunta la lista del 52.2.a). | Revisor 2 (DUDOSA): Es correcta (arts. 14.1.e Ley 10/2017, 52.2.a LBRL y 123.1 LPAC). Pero repite en el fondo la regla del examen oficial (tema 21, P27: ponen fin a la vía las resoluciones del Pleno, los Alcaldes y las Juntas de Gobierno) y la del banco del tema 8 (la reposición se interpone ante el mismo órgano que dictó el acto, y la pregunta de la denegación de licencia). Dentro del lote se solapa con la pregunta de la responsabilidad patrimonial del Gobierno de Zaragoza. Arreglo: dejar una sola pregunta de «el Gobierno de Zaragoza pone fin a la vía» y que las opciones se diferencien por algo que el banco no pregunte.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 137.5 LBRL, el funcionamiento del órgano para la resolución de las reclamaciones económico-administrativas se basará en criterios de:",
+      "options": [
+        "Jerarquía, eficacia y coordinación",
+        "Oralidad, inmediación, concentración y publicidad",
+        "Independencia técnica, celeridad y gratuidad",
+        "Publicidad, contradicción y oralidad"
+      ],
+      "correct": 2,
+      "exp": "El art. 137.5 LBRL dice: «Su funcionamiento se basará en criterios de independencia técnica, celeridad y gratuidad». Por eso sus miembros se eligen por su competencia técnica (art. 137.4) y la reclamación no tiene coste para el contribuyente. Su composición, competencias, organización, funcionamiento y procedimiento se regulan por reglamento aprobado por el Pleno, de acuerdo con la Ley General Tributaria y la normativa estatal de reclamaciones económico-administrativas.",
+      "fuente": "Art. 137.5 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. El contenido es correcto (art. 137.5 LBRL literal: «independencia técnica, celeridad y gratuidad»). Pero los criterios de funcionamiento del órgano son organización de los municipios de gran población (tema 14), no revisión de actos ni recursos administrativos (tema 8). Además, el art. 137 tiene cinco preguntas en este lote. Fuera del epígrafe del tema 8. Podría ir al tema 14, donde no se repite. | Revisor 2 (RECHAZADA): Es correcta (art. 137.5 LBRL), pero es la misma pregunta que la nº 32 del lote pendiente t14-1 del tema 14: «Según el art. 137.5 de la LBRL, el funcionamiento del órgano ... se basará en criterios de: Independencia técnica, celeridad y gratuidad». Si entran las dos, habrá un duplicado. Solo convendría recuperarla si la del t14-1 se descarta.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Un vecino presenta un escrito titulado «recurso de alzada» contra un decreto del Alcalde de Zaragoza, que pone fin a la vía administrativa (art. 52.2.a LBRL). Según el art. 115.2 LPAC:",
+      "options": [
+        "Se tramitará como recurso de reposición si se deduce su verdadero carácter, pese al error de calificación",
+        "Se inadmitirá, porque contra los decretos del Alcalde no cabe el recurso de alzada que se ha interpuesto",
+        "Se remitirá al Pleno para que lo resuelva como recurso de alzada, por ser el órgano superior al Alcalde",
+        "Se devolverá al vecino para que lo presente de nuevo con la calificación correcta en el plazo de diez días"
+      ],
+      "correct": 0,
+      "exp": "Los decretos del Alcalde ponen fin a la vía administrativa (art. 52.2.a LBRL), por lo que contra ellos cabe reposición potestativa, no alzada. Pero el art. 115.2 LPAC dice que «el error o la ausencia de la calificación del recurso por parte del recurrente no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter». Por tanto, el escrito se tramita como reposición, sin inadmitirlo, devolverlo ni remitirlo al Pleno.",
+      "fuente": "Art. 115.2 LPAC (Ley 39/2015), en relación con el art. 52.2.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. Art. 115.2 LPAC literal: «El error o la ausencia de la calificación del recurso por parte del recurrente no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter». El enunciado da por supuesto que el decreto pone fin a la vía (art. 52.2.a LBRL), así que el verdadero carácter es la reposición. Las otras tres (inadmitir, remitir al Pleno, devolver) son falsas. No repite: T8[28] y T8[153] preguntan la regla en abstracto, y esta la aplica a un acto que pone fin a la vía en Zaragoza. | Revisor 2 (DUDOSA): Es correcta (art. 115.2 LPAC; art. 52.2.a LBRL). Pero la regla que se pregunta (el error de calificación no impide tramitar el recurso si se deduce su verdadero carácter) ya está dos veces en el banco del tema 8, con respuesta equivalente. El caso de Zaragoza no añade un dato nuevo que haga falta para acertar. Arreglo: si se quiere un caso práctico, que la clave sea otra cosa, como el plazo de un mes o el órgano que resuelve la reposición.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Contra un decreto del Alcalde de Zaragoza ya firme en vía administrativa se interpone recurso extraordinario de revisión por error de hecho. Según el art. 125.1 LPAC, ¿ante quién se interpone y quién lo resuelve?",
+      "options": [
+        "Se interpone ante el Alcalde, pero lo resuelve el Gobierno de Zaragoza",
+        "Se interpone ante el Alcalde, que es también el competente para resolverlo",
+        "Se interpone ante el Pleno, que lo resuelve como órgano municipal superior",
+        "Se interpone ante el Gobierno de Aragón, que lo resuelve previo informe municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 125.1 dice que contra los actos firmes en vía administrativa el recurso extraordinario de revisión se interpone «ante el órgano administrativo que los dictó, que también será el competente para su resolución». Si el acto es un decreto del Alcalde, se interpone ante el Alcalde y lo resuelve el Alcalde. No interviene un órgano superior ni otra Administración.",
+      "fuente": "Art. 125.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Consolidados descargados del BOE el 22-oct-2026 (LPAC BOE-A-2015-10565, últ. act. 06/11/2024; LBRL BOE-A-1985-5392; Ley 10/2017 BOE-A-2018-1683, últ. act. 15/01/2019). Numeración del banco: índice desde 0, como el redactor. El contenido es correcto (art. 125.1 LPAC literal: «ante el órgano administrativo que los dictó, que también será el competente para su resolución»). Pero repite T8[237], la que señala el redactor: «¿Ante qué órgano se interpone el recurso extraordinario de revisión? *Ante el propio órgano que dictó el acto firme, que también es competente para resolverlo». Poner como ejemplo un decreto del Alcalde de Zaragoza no añade nada nuevo (regla 6). | Revisor 2 (RECHAZADA): Es correcta (art. 125.1), pero repite una pregunta del banco del tema 8: «¿Ante qué órgano se interpone el recurso extraordinario de revisión, según el art. 125.1 LPAC? => Ante el propio órgano que dictó el acto firme, que también es competente para resolverlo». Poner al Alcalde de Zaragoza no cambia el fondo.",
+      "_motivo": "veredicto RECHAZADA"
+    }
+  ]
+}
