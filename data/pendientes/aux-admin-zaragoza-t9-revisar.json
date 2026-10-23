@@ -1,54 +1,134 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 9,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-23",
   "preguntas": [
     {
-      "q": "Según el art. 13.3 de la LCSP, podrán contratarse obras definidas mediante proyectos independientes relativos a cada una de las partes de una obra completa siempre que esas partes sean susceptibles de utilización independiente o puedan ser sustancialmente definidas y, además:",
+      "q": "Según el art. 14.1 de la LCSP, el objeto de la concesión de obras comprende, además de la realización de obras y de la restauración y reparación de construcciones existentes:",
       "options": [
-        "Preceda un informe favorable de la Intervención sobre la financiación de todas las partes de la obra",
-        "Todas las partes se adjudiquen al mismo contratista mediante un procedimiento abierto",
-        "La obra completa se financie íntegramente con cargo al presupuesto de un único ejercicio",
-        "Preceda autorización del órgano de contratación que funde la conveniencia de esa contratación"
-      ],
-      "correct": 3,
-      "exp": "La regla general del art. 13.3 es que el contrato de obras se refiere a una obra completa. Como excepción, el párrafo segundo permite contratar por proyectos independientes cada parte de la obra si las partes son susceptibles de utilización independiente o pueden ser sustancialmente definidas «y preceda autorización administrativa del órgano de contratación que funde la conveniencia de la referida contratación». La ley no pone un límite de 50.000 euros por parte, no exige que todas las partes las ejecute el mismo contratista ni que la obra se financie en un solo ejercicio.",
-      "fuente": "Art. 13.3, párrafo segundo, LCSP (Ley 9/2017)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 (última actualización 09/04/2026) descargado por el revisor; cita literal localizada. Pregunta correcta: art. 13.3, párrafo 2.º, exige «autorización administrativa del órgano de contratación que funde la conveniencia»; los tres distractores son falsos. Pero la explicación no es exacta: dice que «la ley no pone un límite de 50.000 euros por parte», distractor que no existe en las opciones, y no menciona el informe favorable de la Intervención, que sí es una opción. Arreglo: sustituir esa frase por «La ley no exige informe de la Intervención sobre la financiación, que todas las partes las ejecute el mismo contratista por procedimiento abierto ni que la obra se financie en un solo ejercicio». | Revisor 2 (DUDOSA): Respuesta correcta según el art. 13.3, párr. 2.º LCSP («y preceda autorización administrativa del órgano de contratación que funde la conveniencia de la referida contratación») y los tres distractores son falsos. Pero la explicación no es exacta: rebate un distractor que no existe («La ley no pone un límite de 50.000 euros por parte») y no menciona el que sí está (informe favorable de la Intervención). Arreglo: sustituir esa frase por «La ley no exige un informe previo de la Intervención, que todas las partes las ejecute el mismo contratista mediante procedimiento abierto ni que la obra se financie en un solo ejercicio».",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 18.3 de la LCSP, el contrato mixto que contenga elementos de una concesión de obras o de una concesión de servicios deberá acompañarse:",
-      "options": [
-        "De un informe previo y vinculante de la Junta Consultiva de Contratación Pública del Estado",
-        "De la autorización del órgano de contratación para dividir el contrato en lotes separados",
-        "De un plan económico-financiero informado por el Interventor y aprobado, en su caso, por el Pleno de la entidad",
-        "Del estudio de viabilidad y, en su caso, del anteproyecto de construcción y explotación de las obras"
-      ],
-      "correct": 3,
-      "exp": "El párrafo segundo del art. 18.3 dispone que, si el contrato mixto contiene elementos de una concesión de obras o de servicios, «deberá acompañarse del correspondiente estudio de viabilidad y, en su caso, del anteproyecto de construcción y explotación de las obras previstos en los artículos 247, 248 y 285». (El párrafo primero exige proyecto cuando la obra supera los 50.000 euros.) La ley no exige aquí informe de la Junta Consultiva, autorización para dividir en lotes ni un plan económico-financiero aprobado por el Interventor.",
-      "fuente": "Art. 18.3, párrafo segundo, LCSP (Ley 9/2017)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 (última actualización 09/04/2026) descargado por el revisor; cita literal localizada. Pregunta correcta: art. 18.3, párrafo 2.º (estudio de viabilidad y, en su caso, anteproyecto de los arts. 247, 248 y 285); los distractores son falsos y no repite la existente del párrafo 1.º. Pero la explicación describe mal un distractor: dice que la ley no exige «un plan económico-financiero aprobado por el Interventor», y la opción habla de un plan «informado por el Interventor y aprobado, en su caso, por el Pleno». Arreglo: «ni un plan económico-financiero informado por el Interventor y aprobado por el Pleno». | Revisor 2 (CONFIRMADA): Art. 18.3, párr. 2.º LCSP verificado: el mixto con elementos de concesión «deberá acompañarse del correspondiente estudio de viabilidad y, en su caso, del anteproyecto» (arts. 247, 248 y 285). Distractores falsos. La pregunta existente del 18.3 trata el párr. 1.º (proyecto si la obra supera 50.000 €).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según la DA 3.ª.3 de la LCSP, en la comprobación material de la inversión, el órgano interventor de la Entidad Local podrá estar asistido en la recepción por:",
-      "options": [
-        "El director de obra, que certifica que la prestación se ha ejecutado conforme al proyecto aprobado y al contrato",
-        "El responsable del contrato designado por el órgano de contratación para supervisar su ejecución",
-        "Un técnico especializado en el objeto del contrato, distinto del director de obra y del responsable del contrato",
-        "Un representante del contratista propuesto en su oferta, con la conformidad del órgano de contratación"
+        "La demolición de las construcciones existentes que queden en desuso",
+        "La expropiación de los terrenos necesarios para ejecutarla",
+        "La conservación y mantenimiento de los elementos construidos",
+        "La redacción del planeamiento urbanístico del ámbito afectado"
       ],
       "correct": 2,
-      "exp": "La DA 3.ª.3 (redacción de la Ley 31/2022) dice que el órgano interventor «podrá estar asistido en la recepción por un técnico especializado en el objeto del contrato, que deberá ser diferente del director de obra y del responsable del contrato». Por eso no pueden ser el director de obra ni el responsable del contrato, y menos aún un representante del contratista.",
-      "fuente": "Disposición adicional tercera, apartado 3, LCSP (Ley 9/2017, redacción de la Ley 31/2022)",
+      "exp": "El art. 14.1 dice que la concesión de obras tiene por objeto la realización de prestaciones del art. 13, «incluidas las de restauración y reparación de construcciones existentes, así como la conservación y mantenimiento de los elementos construidos». El precepto no incluye en ese objeto la demolición de construcciones en desuso, la expropiación de terrenos ni la redacción del planeamiento urbanístico.",
+      "fuente": "Art. 14.1 LCSP (Ley 9/2017)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 (última actualización 09/04/2026) descargado por el revisor; cita literal localizada. El contenido es correcto: la DA 3.ª.3 (redacción de la Ley 31/2022) dice «técnico especializado en el objeto del contrato, que deberá ser diferente del director de obra y del responsable del contrato». Pero la correcta se delata por la forma: dice «distinto del director de obra y del responsable del contrato», que son justo dos de los distractores. Se descartan esos dos por la propia redacción de las opciones y solo queda elegir frente al representante del contratista, que no es plausible. Arreglo: dejar la correcta como «Un técnico especializado en el objeto del contrato» con distractores que no menciona (p. ej., un técnico de la Diputación provincial designado al efecto; el jefe del servicio gestor del contrato; un auditor externo), o preguntar directamente de quién debe ser diferente ese técnico. | Revisor 2 (CONFIRMADA): DA 3.ª.3 LCSP vigente verificada: «técnico especializado en el objeto del contrato, que deberá ser diferente del director de obra y del responsable del contrato». Los distractores son falsos. No repite la pregunta existente (quién hace la comprobación material). Nota menor: la correcta nombra a dos distractores, pero las longitudes son homogéneas y no se acierta por la forma.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). Art. 14.1 literal: «incluidas las de restauración y reparación de construcciones existentes, así como la conservación y mantenimiento de los elementos construidos». Demolición, expropiación y planeamiento no figuran. Las preguntas existentes del 14.1 versan sobre la contraprestación, no sobre este inciso. | Revisor 2 (DUDOSA): La correcta es literal del art. 14.1 («así como la conservación y mantenimiento de los elementos construidos»). Pero el distractor «La demolición de las construcciones existentes que queden en desuso» no es claramente falso: la concesión de obras tiene por objeto «algunas de las prestaciones a que se refiere el artículo anterior», y el art. 13.1.a) remite al Anexo I, cuya clase 45.11 comprende «la demolición y el derribo de edificios y otras estructuras» (también art. 232.1.d: obras de demolición). La demolición forma parte de la «realización de obras» del enunciado, y la explicación («El precepto no incluye en ese objeto la demolición») es inexacta. Arreglo: sustituir ese distractor por otro ajeno a los arts. 13 y 14 (p. ej., «La enajenación a terceros de los terrenos sobrantes de la obra») y quitar la demolición de la explicación.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 16.3 de la LCSP, ¿cuál de los siguientes contratos se considera en todo caso contrato de suministro?",
+      "options": [
+        "El de adquisición de programas de ordenador desarrollados a medida",
+        "El relativo a la adquisición de valores negociables",
+        "El de mantenimiento de los equipos informáticos municipales",
+        "El de adquisición de energía primaria o energía transformada"
+      ],
+      "correct": 3,
+      "exp": "El art. 16.3.d) incluye entre los contratos que «en todo caso» son de suministro «los que tengan por objeto la adquisición de energía primaria o energía transformada». En cambio, los programas de ordenador desarrollados a medida son contratos de servicios (art. 16.3.b), los contratos relativos a valores negociables no son de suministro (art. 16.2) y el mantenimiento de equipos es una prestación de hacer, propia del contrato de servicios (art. 17).",
+      "fuente": "Art. 16.3.d) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). Art. 16.3.d) literal. Distractores falsos: programas a medida = servicios (16.3.b), valores negociables excluidos (16.2), mantenimiento = prestación de hacer (art. 17). No repite (el banco tiene 16.3.a, b y c). | Revisor 2 (RECHAZADA): Contenido correcto (art. 16.3.d: energía primaria o transformada; 16.3.b: programas a medida son servicios; 16.2: valores negociables no son suministro). Pero repite al revés preguntas ya existentes del tema 9: la de art. 16.2 («no tendrán la consideración de contrato de suministro los contratos relativos a: Propiedades incorporales o valores negociables») lleva justo «Energía primaria o energía transformada» como distractor, y la de art. 16.3.b) pregunta ya por los programas a medida (servicios). Esta pregunta invierte el par energía/valores negociables y se resuelve por eliminación con las dos existentes.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 22.1 de la LCSP, en la redacción vigente desde el 1 de enero de 2026, un contrato de servicios del Ayuntamiento de Zaragoza que no tenga por objeto servicios del anexo IV está sujeto a regulación armonizada si su valor estimado es igual o superior a:",
+      "options": [
+        "140.000 euros",
+        "216.000 euros",
+        "221.000 euros",
+        "750.000 euros"
+      ],
+      "correct": 1,
+      "exp": "El art. 22.1.b), en la redacción de la Orden HAC/1517/2025 (en vigor desde el 1-1-2026), fija el umbral en 216.000 euros cuando los contratos de servicios hayan de adjudicarse por entidades del sector público distintas de la Administración General del Estado, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social. Es el caso de un Ayuntamiento. Los 140.000 euros rigen para esa Administración del Estado (letra a), y los 750.000 euros para los servicios sociales y otros específicos del anexo IV (letra c). La cifra de 221.000 euros es la de la redacción anterior (Orden HFP/1352/2023), que rigió en 2024 y 2025.",
+      "fuente": "Art. 22.1.b) LCSP (Ley 9/2017, redacción de la Orden HAC/1517/2025)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). Alcance: el epígrafe reproduce la rúbrica del Cap. II del Título Preliminar LCSP («Contratos del sector público»); entran sus secciones 1.ª (tipos), 2.ª (el art. 19 se titula «Delimitación general» de los contratos SARA) y la calificación administrativo/privado y su régimen (arts. 24-26). Umbrales comprobados en el BOE: Orden HAC/1517/2025 (BOE-A-2025-26605, BOE 26-12-2025) sustituye «221.000 por 216.000» en arts. 21.1.b), 22.1.b), 23.1.b) y 318.b) «a partir del 1 de enero de 2026», en aplicación de los Reglamentos Delegados (UE) 2025/2150-2152 (revisión bienal; siguiente efecto previsto 1-1-2028), y el consolidado no muestra redacción posterior (hoy, 23-10-2026). Vigente en 2027. La Orden HFP/1352/2023 (BOE-A-2023-25764) fijó 221.000 desde 1-1-2024: la explicación es exacta. Ningún distractor es el umbral vigente aplicable a un Ayuntamiento: 140.000 es el de la AGE (22.1.a) y 750.000 el del anexo IV, que el enunciado excluye. No repite (el banco tiene 21.1.a, 21.1.b y 22.1.c). | Revisor 2 (RECHAZADA): Contenido correcto: art. 22.1.b) fija 216.000 € desde el 1-1-2026 (Orden HAC/1517/2025, BOE-A-2025-26605, art. único.1.b: «La cifra de 221.000 euros por la de 216.000 euros, en los artículos 21.1.b), 22.1.b)...»); 221.000 rigió desde 1-1-2024 (Orden HFP/1352/2023); umbrales para 2026-2027, válidos para un examen en 2027. Pero repite «con la misma cifra» la pregunta existente del tema 9 sobre el art. 21.1.b) (suministros de entidades distintas de la AGE: 216.000 €, con 140.000 entre los distractores): misma cifra, misma distinción AGE / resto de entidades, solo cambia suministro por servicios.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 23.1.a) de la LCSP, además de las actividades de ingeniería civil, pueden ser contratos subvencionados sujetos a regulación armonizada los contratos de obras para la construcción de:",
+      "options": [
+        "Hospitales, centros deportivos, recreativos o de ocio",
+        "Viviendas de protección pública y viviendas de alquiler social",
+        "Hoteles, centros comerciales y oficinas de uso privado",
+        "Naves industriales y edificios de polígonos empresariales"
+      ],
+      "correct": 0,
+      "exp": "El art. 23.1.a) enumera, junto a las actividades de ingeniería civil del grupo 45.2 de la NACE, «la construcción de hospitales, centros deportivos, recreativos o de ocio, edificios escolares o universitarios y edificios de uso administrativo», con un valor estimado igual o superior a 5.404.000 euros. Las viviendas, los hoteles, los centros comerciales, las oficinas privadas y las naves industriales no figuran en esa lista.",
+      "fuente": "Art. 23.1.a) LCSP (Ley 9/2017, redacción de la Orden HAC/1517/2025)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). Alcance: el epígrafe reproduce la rúbrica del Cap. II del Título Preliminar LCSP («Contratos del sector público»); entran sus secciones 1.ª (tipos), 2.ª (el art. 19 se titula «Delimitación general» de los contratos SARA) y la calificación administrativo/privado y su régimen (arts. 24-26). Art. 23.1.a) literal: «hospitales, centros deportivos, recreativos o de ocio, edificios escolares o universitarios y edificios de uso administrativo», 5.404.000 € (Orden HAC/1517/2025). El enunciado aparta la ingeniería civil del grupo 45.2 NACE, así que los distractores (viviendas, hoteles/comercios/oficinas privadas, naves) son falsos según la lista expresa. | Revisor 2 (DUDOSA): La correcta es literal del art. 23.1.a) («la construcción de hospitales, centros deportivos, recreativos o de ocio, edificios escolares o universitarios y edificios de uso administrativo», 5.404.000 € desde 1-1-2026). Pero la primera categoría del mismo precepto son las actividades del «grupo 45.2» de la NACE, y según el Anexo I de la LCSP ese grupo es «Construcción general de inmuebles y obras de ingeniería civil», con la clase 45.21 que comprende «la construcción de todo tipo de edificios». Así, un contrato de obras para construir viviendas, hoteles o naves también podría ser subvencionado sujeto a regulación armonizada por la vía del grupo 45.2, y los distractores no son claramente falsos tal como está formulado el enunciado («pueden ser...»). Arreglo: preguntar «¿qué edificios menciona expresamente el art. 23.1.a)...?» y que la explicación no afirme que los distractores quedan fuera del art. 23.1.a), sino que no están en la lista expresa.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 27.1.b) de la LCSP, las cuestiones que se susciten en relación con la preparación y adjudicación de los contratos privados de las Administraciones Públicas corresponden:",
+      "options": [
+        "Al orden jurisdiccional contencioso-administrativo",
+        "Al orden jurisdiccional civil, en todo caso",
+        "Al orden civil, salvo que estén sujetos a regulación armonizada",
+        "Al orden jurisdiccional que elijan las partes en el contrato"
+      ],
+      "correct": 0,
+      "exp": "El art. 27.1.b) atribuye al orden contencioso-administrativo las cuestiones «que se susciten en relación con la preparación y adjudicación de los contratos privados de las Administraciones Públicas». El orden civil conoce de los efectos y la extinción de esos contratos (art. 27.2.a), no de su preparación y adjudicación, y esto no depende de que el contrato esté sujeto a regulación armonizada. Las partes no pueden elegir el orden jurisdiccional.",
+      "fuente": "Art. 27.1.b) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). Contenido correcto (art. 27.1.b) literal y distractores falsos), pero fuera del epígrafe: el art. 27 («Jurisdicción competente») no delimita tipos contractuales, ni regula competencias de contratación de las Entidades Locales, ni es norma específica local; es el reparto entre órdenes jurisdiccionales. Que el banco tenga ya una del 27.1.a) no amplía el epígrafe. Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Comprobado: art. 27.1.b): son del orden contencioso-administrativo las cuestiones «que se susciten en relación con la preparación y adjudicación de los contratos privados de las Administraciones Públicas». El orden civil solo conoce efectos y extinción (27.2.a), sin excepción por regulación armonizada para la preparación y adjudicación (el párrafo adicional del 27.1.b se refiere solo a impugnaciones de modificaciones). Las partes no eligen. No repite la existente del 27.1.a).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 27.2.c) de la LCSP, las cuestiones litigiosas relativas a la financiación privada del contrato de concesión de obra pública o de concesión de servicios corresponden al orden jurisdiccional:",
+      "options": [
+        "Contencioso-administrativo, por tratarse de contratos administrativos",
+        "Social, por afectar a las relaciones del personal de la concesionaria",
+        "Civil, salvo en las actuaciones en ejercicio de potestades administrativas",
+        "Contencioso-administrativo, salvo que la financiación proceda de una entidad de crédito"
+      ],
+      "correct": 2,
+      "exp": "El art. 27.2.c) atribuye al orden civil «el conocimiento de las cuestiones litigiosas relativas a la financiación privada del contrato de concesión de obra pública o de concesión de servicios». Exceptúa lo relativo a las actuaciones en ejercicio de las obligaciones y potestades administrativas de la Administración concedente, que corresponde al orden contencioso-administrativo. No es, por tanto, competencia general del contencioso, y el orden social no interviene en esta materia.",
+      "fuente": "Art. 27.2.c) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). Contenido correcto (art. 27.2.c) literal: orden civil para la financiación privada de las concesiones, salvo el ejercicio de obligaciones y potestades administrativas de la Administración concedente), pero fuera del epígrafe por la misma razón que la del 27.1.b): la jurisdicción competente no es delimitación de tipos contractuales, ni competencia de contratación local, ni norma local específica. Además, es un detalle muy alejado del temario de Auxiliar. | Revisor 2 (CONFIRMADA): Comprobado: art. 27.2.c): el orden civil conoce de la financiación privada de la concesión de obra pública o de servicios, «salvo en lo relativo a las actuaciones en ejercicio de las obligaciones y potestades administrativas» de la Administración concedente (contencioso). Distractores falsos. La pregunta existente del 27.1.a) usa este supuesto solo como distractor; aquí se pregunta directamente y con su excepción, así que no lo considero repetición.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según la DA 3.ª.11 de la LCSP, cuando un municipio licite un único contrato de concesión de servicios para gestionar dos o más servicios públicos diferentes, el pliego de cláusulas administrativas particulares precisará en todo caso:",
+      "options": [
+        "El canon anual que abonará el concesionario por cada servicio",
+        "La duración máxima de la concesión para cada uno de los servicios",
+        "El ámbito funcional y territorial del contrato",
+        "El reparto del riesgo operacional entre los distintos servicios"
+      ],
+      "correct": 2,
+      "exp": "La DA 3.ª.11, inciso final, dispone: «En todo caso, el pliego de cláusulas administrativas particulares precisará el ámbito funcional y territorial del contrato de concesión de servicios». La disposición no exige fijar en el pliego un canon por servicio, una duración distinta para cada servicio ni un reparto del riesgo operacional entre ellos.",
+      "fuente": "Disposición adicional tercera, apartado 11, LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). La respuesta es literal (DA 3.ª.11: «En todo caso, el pliego ... precisará el ámbito funcional y territorial»), y los distractores son falsos. Pero el enunciado habla de «un municipio» sin decir que la DA 3.ª.11 solo habilita a los municipios de menos de 20.000 habitantes, para concesiones no SARA con anualidad media de hasta 200.000 €. Así sugiere que cualquier municipio, también Zaragoza, puede licitar así. Va contra la regla 9: la explicación no avisa de que en Zaragoza no se aplica. Arreglo: «...cuando un municipio de población inferior a 20.000 habitantes licite...». Añadir a la explicación que Zaragoza no puede acogerse a esta disposición. | Revisor 2 (CONFIRMADA): Comprobado: DA 3.ª.11, inciso final: «En todo caso, el pliego de cláusulas administrativas particulares precisará el ámbito funcional y territorial del contrato de concesión de servicios». Distractores falsos. No repite las existentes de la DA 3.ª.11 (20.000 habitantes y 200.000 euros de anualidad media). Menor: el enunciado no dice que el supuesto es solo para municipios de menos de 20.000 habitantes, pero queda acotado por la cita del precepto.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según la DA 3.ª.11 de la LCSP, el órgano de contratación que licite un único contrato de concesión de servicios para la gestión de varios servicios públicos diferentes debe justificar esa decisión en el expediente en base a:",
+      "options": [
+        "El ahorro mínimo del 10 por ciento frente a la licitación por separado",
+        "La falta de licitadores en una licitación anterior de los servicios por separado",
+        "El informe favorable de la Diputación Provincial correspondiente",
+        "La necesidad objetiva de proceder a la gestión unificada de dichos servicios"
+      ],
+      "correct": 3,
+      "exp": "La DA 3.ª.11 permite a los municipios de menor población licitar esa concesión conjunta siempre que se cumpla el límite de anualidad media y que «el órgano de contratación justifique en el expediente de contratación esta decisión en base a la necesidad objetiva de proceder a la gestión unificada de dichos servicios». La ley no exige acreditar un ahorro mínimo, una licitación anterior desierta ni un informe de la Diputación.",
+      "fuente": "Disposición adicional tercera, apartado 11, LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2017-12902 descargado por el revisor (arts. 20-23 en redacción de la Orden HAC/1517/2025, en vigor desde 1-1-2026; DA 3.ª.3 en redacción de la Ley 31/2022). La respuesta es literal (DA 3.ª.11: «justifique en el expediente de contratación esta decisión en base a la necesidad objetiva de proceder a la gestión unificada»), y los distractores son falsos. Pero el enunciado omite el presupuesto subjetivo y objetivo: municipios de menos de 20.000 habitantes, contrato no SARA y anualidad media de hasta 200.000 €. La explicación habla solo de «municipios de menor población», sin la cifra, y no avisa de que Zaragoza queda fuera (regla 9). Arreglo: «...el órgano de contratación de un municipio de población inferior a 20.000 habitantes que licite...». En la explicación, citar los 20.000 habitantes y advertir que no rige en Zaragoza. | Revisor 2 (CONFIRMADA): Comprobado: DA 3.ª.11: el órgano de contratación debe justificar la decisión «en base a la necesidad objetiva de proceder a la gestión unificada de dichos servicios». Ahorro mínimo, licitación desierta previa e informe de la Diputación no figuran. Opciones de longitud pareja. No repite las existentes de la DA 3.ª.11.",
       "_motivo": "veredicto DUDOSA"
     }
   ]

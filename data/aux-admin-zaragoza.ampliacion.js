@@ -60766,3 +60766,254 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 9 · lote 2026-10-23 · 19 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 9, [
+  {
+    "q": "Según el art. 13.1.a) de la LCSP, es contrato de obras el que tiene por objeto la ejecución de una obra:",
+    "options": [
+      "Aislada o conjuntamente con la redacción del proyecto",
+      "Siempre aislada, pues la redacción del proyecto es un contrato de servicios",
+      "Solo conjuntamente con su conservación y mantenimiento posteriores",
+      "Aislada o conjuntamente con el derecho a explotarla durante un plazo"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.1.a) define como contrato de obras el que tiene por objeto «la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto», o alguno de los trabajos del Anexo I. Por tanto, la redacción del proyecto puede ir en el mismo contrato de obras, y no se exige que la obra vaya unida a su conservación. Si la contraprestación es el derecho a explotar la obra, el contrato ya no es de obras, sino de concesión de obras (art. 14.1).",
+    "fuente": "Art. 13.1.a) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la LCSP, únicamente podrán celebrarse contratos mixtos en las condiciones del art. 34.2, que solo permite fusionar prestaciones de diferentes contratos cuando:",
+    "options": [
+      "Su valor estimado conjunto no supere los umbrales de la regulación armonizada",
+      "Estén directamente vinculadas y sean complementarias como unidad funcional",
+      "Lo autorice previamente el Pleno de la entidad, con informe de la Intervención",
+      "Ninguna de ellas, por separado, supere la mitad del valor estimado total"
+    ],
+    "correct": 1,
+    "exp": "El art. 18.1, párrafo segundo, remite al art. 34.2, según el cual solo podrán fusionarse prestaciones de diferentes contratos en un contrato mixto «cuando esas prestaciones se encuentren directamente vinculadas entre sí y mantengan relaciones de complementariedad que exijan su consideración y tratamiento como una unidad funcional». La ley no lo condiciona a un límite de valor, a una autorización del Pleno con informe de la Intervención ni a un reparto del valor entre las prestaciones.",
+    "fuente": "Art. 18.1, párrafo segundo, en relación con el art. 34.2 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la LCSP, el régimen de los efectos, cumplimiento y extinción de los contratos mixtos se determina conforme al art. 122.2, que dispone que ese régimen:",
+    "options": [
+      "Se detallará en el pliego de cláusulas administrativas particulares",
+      "Será el del contrato cuya prestación tenga el mayor valor estimado",
+      "Será en todo caso el del contrato de obras, si el mixto incluye una obra",
+      "Se pactará libremente por las partes en el documento de formalización"
+    ],
+    "correct": 0,
+    "exp": "El art. 18.1, párrafo tercero, dice que el régimen de los efectos, cumplimiento y extinción de los contratos mixtos se determinará «de acuerdo con lo dispuesto en el artículo 122.2». Y el art. 122.2 establece que, en los contratos mixtos, el pliego de cláusulas administrativas particulares detallará ese régimen «atendiendo a las normas aplicables a las diferentes prestaciones fusionadas en ellos». No se aplica sin más el régimen de la prestación de mayor valor (regla que el art. 18.1.a usa para la adjudicación de algunos mixtos), ni siempre el del contrato de obras, ni lo pactan libremente las partes al formalizar.",
+    "fuente": "Art. 18.1, párrafo tercero, en relación con el art. 122.2 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.2 de la LCSP, si un contrato mixto combina prestaciones de contratos regulados en la Ley con otras de contratos no regulados en ella, y las prestaciones son separables y se decide celebrar un único contrato:",
+    "options": [
+      "Se aplicarán las normas de la prestación de mayor valor estimado",
+      "Se aplicará el derecho privado a la adjudicación de todo el contrato",
+      "Se aplicará lo dispuesto en la LCSP a la adjudicación del contrato",
+      "Deberán adjudicarse obligatoriamente mediante contratos separados"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.2 regula las normas de adjudicación del contrato mixto que mezcla prestaciones de contratos regulados en la LCSP con otras de contratos no regulados en ella. Si las prestaciones no son separables, se atiende al carácter de la prestación principal (letra a). Si son separables y se decide celebrar un único contrato, «se aplicará lo dispuesto en esta Ley» (letra b). No se acude a la prestación de mayor valor ni al derecho privado, y la ley no obliga a separar los contratos.",
+    "fuente": "Art. 18.2.b) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.2 de la LCSP, ¿cuál de los siguientes contratos no se considera sujeto a regulación armonizada, cualquiera que sea su valor estimado?",
+    "options": [
+      "El de servicios de recogida y tratamiento de residuos urbanos",
+      "El de suministro de energía eléctrica para el alumbrado público",
+      "El de obras de reurbanización de una avenida principal",
+      "El de servicios públicos de transporte de viajeros en metro"
+    ],
+    "correct": 3,
+    "exp": "El art. 19.2.g) excluye de la regulación armonizada, «cualquiera que sea su valor estimado», los contratos que tengan por objeto «servicios públicos de transporte de viajeros por ferrocarril o en metro», así como las concesiones de servicios de transporte de viajeros. La recogida de residuos, el suministro de energía eléctrica y las obras de urbanización no figuran entre las exclusiones del art. 19.2: estarán sujetos a regulación armonizada si su valor estimado alcanza los umbrales de los arts. 20 a 22.",
+    "fuente": "Art. 19.2.g) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.2.c) de la LCSP, en las Entidades locales, ¿quién debe declarar de forma expresa, en cada caso, que concurre la protección de intereses esenciales para la seguridad del Estado que excluye un contrato de la regulación armonizada?",
+    "options": [
+      "La Junta Consultiva de Contratación Pública del Estado",
+      "El órgano competente para celebrar el contrato",
+      "El Ministerio del Interior, a solicitud de la Entidad local",
+      "El Delegado del Gobierno en la Comunidad Autónoma"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.2.c), párrafo segundo, dice que esa declaración deberá hacerse de forma expresa en cada caso y, en las Entidades locales, «por el órgano al que esté atribuida la competencia para celebrar el correspondiente contrato». No la hace un órgano del Estado como la Junta Consultiva de Contratación Pública, el Ministerio del Interior o la Delegación del Gobierno. En Zaragoza, municipio de gran población, ese órgano es el Gobierno de Zaragoza, que ejerce las competencias de órgano de contratación cualquiera que sea el importe o la duración del contrato (DA 2.ª.4 LCSP y art. 14.1.f de la Ley 10/2017).",
+    "fuente": "Art. 19.2.c), párrafo segundo, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.2.c) de la LCSP, la competencia para declarar que concurre la protección de intereses esenciales para la seguridad del Estado, a efectos de excluir un contrato de la regulación armonizada:",
+    "options": [
+      "Puede delegarse libremente, publicando el acuerdo de delegación",
+      "Solo puede delegarse en los órganos directivos de la entidad",
+      "No es delegable, salvo que una ley expresamente lo autorice",
+      "No es delegable en ningún caso, ni siquiera si lo autoriza una ley"
+    ],
+    "correct": 2,
+    "exp": "El último inciso del art. 19.2.c), párrafo segundo, establece: «La competencia para efectuar esta declaración no será susceptible de delegación, salvo que una ley expresamente lo autorice». Por eso no se puede delegar libremente ni en los órganos directivos. Tampoco es una prohibición absoluta: una ley puede autorizar la delegación.",
+    "fuente": "Art. 19.2.c), párrafo segundo, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.2 de la LCSP, cuando el valor acumulado de los lotes en que se divide una obra alcanza el umbral de la regulación armonizada, el órgano de contratación podrá exceptuar de esas normas los lotes cuyo valor estimado sea inferior a:",
+    "options": [
+      "80.000 euros",
+      "500.000 euros",
+      "Dos millones de euros",
+      "Un millón de euros"
+    ],
+    "correct": 3,
+    "exp": "El art. 20.2, párrafo segundo, permite exceptuar de la regulación armonizada «a los lotes cuyo valor estimado sea inferior a un millón de euros», siempre que el importe acumulado de los lotes exceptuados no sobrepase el 20 por 100 del valor acumulado de todos ellos. Los 80.000 euros son el límite equivalente para los lotes de suministros y de servicios (arts. 21.2 y 22.2). Las cifras de 500.000 euros y de dos millones no aparecen en el art. 20.2.",
+    "fuente": "Art. 20.2, párrafo segundo, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.2 de la LCSP, cuando el valor acumulado de los lotes de un contrato de servicios alcanza el umbral de la regulación armonizada, el órgano de contratación podrá exceptuar de esas normas los lotes cuyo valor estimado sea inferior a:",
+    "options": [
+      "80.000 euros",
+      "40.000 euros",
+      "140.000 euros",
+      "Un millón de euros"
+    ],
+    "correct": 0,
+    "exp": "El art. 22.2 permite exceptuar de la regulación armonizada «a los lotes cuyo valor estimado sea inferior a 80.000 euros», siempre que el importe acumulado de los lotes exceptuados no sobrepase el 20 por 100 del valor acumulado de todos ellos. El límite de un millón de euros es el de los lotes de obras (art. 20.2). Las cifras de 40.000 y 140.000 euros no son las de este precepto. 140.000 euros es el umbral de los servicios que contrata la Administración General del Estado (art. 22.1.a).",
+    "fuente": "Art. 22.2 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.1.b) de la LCSP, ¿qué contratos de servicios pueden ser contratos subvencionados sujetos a regulación armonizada?",
+    "options": [
+      "Los de servicios sociales y otros servicios específicos del anexo IV",
+      "Cualquier contrato de servicios, sea cual sea su objeto",
+      "Los vinculados a un contrato de obras subvencionado de la letra a)",
+      "Los de servicios financieros y de seguros de las entidades locales"
+    ],
+    "correct": 2,
+    "exp": "El art. 23.1.b) solo incluye entre los contratos subvencionados sujetos a regulación armonizada los «contratos de servicios vinculados a un contrato de obras de los definidos en la letra a)», cuyo valor estimado sea igual o superior a 216.000 euros. No entra cualquier contrato de servicios. Tampoco los servicios del anexo IV ni los financieros y de seguros, que el art. 23 no menciona.",
+    "fuente": "Art. 23.1.b) LCSP (Ley 9/2017, redacción de la Orden HAC/1517/2025)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.2 de la LCSP, las normas previstas para los contratos subvencionados se aplicarán a los contratos celebrados por:",
+    "options": [
+      "Administraciones Públicas que reciban fondos de otra Administración",
+      "Poderes adjudicadores que no tengan la condición de Administración Pública",
+      "Cualquier entidad del sector público, tenga o no la condición de poder adjudicador",
+      "Particulares o entidades del sector público que no sean poderes adjudicadores"
+    ],
+    "correct": 3,
+    "exp": "El art. 23.2 dice que las normas previstas para los contratos subvencionados «se aplicarán a aquellos celebrados por particulares o por entidades del sector público que no tengan la consideración de poderes adjudicadores». Si el contrato subvencionado lo adjudica un poder adjudicador (sea o no Administración Pública), se le aplican las normas de contratación previstas para él según su naturaleza, salvo en lo relativo a la competencia para el recurso especial y las medidas cautelares (art. 47.2).",
+    "fuente": "Art. 23.2 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1.a) de la LCSP, aunque los celebre una Administración Pública, tienen carácter privado los contratos cuyo objeto sea:",
+    "options": [
+      "El mantenimiento de las aplicaciones informáticas y de la web municipal",
+      "La suscripción a revistas, publicaciones periódicas y bases de datos",
+      "La limpieza y conservación de los edificios y colegios públicos",
+      "El suministro de mobiliario y material de oficina para las dependencias"
+    ],
+    "correct": 1,
+    "exp": "Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios que celebra una Administración Pública son administrativos (art. 25.1.a). Pero el número 2.º de esa letra exceptúa y declara privados «aquellos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos» (además de ciertos servicios financieros, artísticos y de espectáculos, número 1.º). El mantenimiento informático, la limpieza y el suministro de mobiliario son servicios o suministros ordinarios y, por tanto, contratos administrativos.",
+    "fuente": "Art. 25.1.a).2.º LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 de la LCSP, los contratos administrativos se rigen, en cuanto a su preparación, adjudicación, efectos, modificación y extinción, por la LCSP y sus disposiciones de desarrollo y, supletoriamente:",
+    "options": [
+      "Por las normas de derecho privado y, en su defecto, por las restantes normas de derecho administrativo",
+      "Por las normas de derecho privado, sin acudir a otras normas de derecho administrativo",
+      "Por las restantes normas de derecho administrativo y, en su defecto, por las de derecho privado",
+      "Por los pliegos y, en su defecto, por la legislación patrimonial de la Administración"
+    ],
+    "correct": 2,
+    "exp": "El art. 25.2 dispone que los contratos administrativos se rigen por la LCSP y sus disposiciones de desarrollo y que «supletoriamente se aplicarán las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado». El orden es, por tanto, primero el derecho administrativo y después el privado, no al revés. La legislación patrimonial no aparece en ese orden de fuentes.",
+    "fuente": "Art. 25.2 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 de la LCSP, a los contratos administrativos especiales se les aplicarán, en primer término:",
+    "options": [
+      "Sus propias normas específicas",
+      "Las normas de derecho privado que regulen su objeto",
+      "Las normas del contrato de servicios",
+      "Los pliegos de cláusulas administrativas generales"
+    ],
+    "correct": 0,
+    "exp": "El art. 25.2, inciso final, dice que «a los contratos administrativos especiales a que se refiere la letra b) del apartado anterior les serán de aplicación, en primer término, sus normas específicas». Después rige la regla general del mismo apartado: la LCSP y su desarrollo, supletoriamente las demás normas de derecho administrativo y, en su defecto, las de derecho privado. No se aplican en primer término el derecho privado, las normas del contrato de servicios ni los pliegos generales.",
+    "fuente": "Art. 25.2, inciso final, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1.b) de la LCSP, además de los que tengan naturaleza administrativa especial, tienen carácter administrativo, cuando los celebre una Administración Pública, los contratos:",
+    "options": [
+      "Así calificados en su pliego de cláusulas administrativas particulares",
+      "Que así acuerde de forma motivada el órgano de contratación",
+      "Cuyo valor estimado supere el umbral de la regulación armonizada",
+      "Declarados así expresamente por una ley"
+    ],
+    "correct": 3,
+    "exp": "El art. 25.1.b) atribuye carácter administrativo a «los contratos declarados así expresamente por una Ley» y a los de objeto distinto de los típicos que tengan naturaleza administrativa especial. La calificación la da la ley, no el pliego ni un acuerdo del órgano de contratación. Y el valor estimado no convierte un contrato en administrativo: solo determina si está sujeto a regulación armonizada (arts. 19 a 23).",
+    "fuente": "Art. 25.1.b) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 de la LCSP, los contratos privados que celebre una Administración Pública se rigen, en cuanto a sus efectos, modificación y extinción, por:",
+    "options": [
+      "La LCSP y, supletoriamente, el derecho administrativo",
+      "Las normas de derecho privado",
+      "La legislación patrimonial de la Administración contratante",
+      "Las normas del contrato administrativo más afín por su objeto"
+    ],
+    "correct": 1,
+    "exp": "El art. 26.2, párrafo primero, distingue dos fases en los contratos privados de las Administraciones Públicas. La preparación y la adjudicación se rigen, en defecto de normas específicas, por las secciones 1.ª y 2.ª del capítulo I del título I del libro segundo de la LCSP. En cambio, «en lo que respecta a su efectos, modificación y extinción, estos contratos se regirán por el derecho privado». Esa fase no se rige por la LCSP, ni por la legislación patrimonial, ni por las normas del contrato administrativo más parecido. El párrafo segundo matiza esta regla para los contratos privados del art. 25.1.a).1.º y 2.º sujetos a regulación armonizada.",
+    "fuente": "Art. 26.2, párrafo primero, LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 de la Ley 10/2017, de régimen especial del municipio de Zaragoza, las competencias del Gobierno de Zaragoza como órgano de contratación (art. 14.1.f):",
+    "options": [
+      "Son indelegables y solo puede ejercerlas el Gobierno de Zaragoza reunido en sesión",
+      "Solo pueden delegarse en el Alcalde, que las ejercerá mediante decreto de Alcaldía",
+      "Solo pueden delegarse en el Pleno, mediante acuerdo adoptado por mayoría absoluta",
+      "Pueden delegarse en sus miembros, en otros Concejales o en los órganos directivos"
+    ],
+    "correct": 3,
+    "exp": "El art. 14.1.f) de la Ley 10/2017 atribuye al Gobierno de Zaragoza las competencias que la legislación de contratos da a la Junta de Gobierno Local en los municipios de gran población. El art. 14.2 permite delegarlas o desconcentrarlas «en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos», porque la letra f) está entre las funciones delegables. No son indelegables, y la ley no limita la delegación al Alcalde ni la prevé a favor del Pleno.",
+    "fuente": "Art. 14.2, en relación con el art. 14.1.f), Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.3 de la LCSP, a efectos de designar representante en las inversiones cuyo objeto sea susceptible de comprobación, el órgano interventor de la Entidad local podrá aplicar:",
+    "options": [
+      "Técnicas de muestreo",
+      "Un turno rotatorio entre los funcionarios de la Intervención",
+      "Un sorteo público ante el Secretario de la Corporación",
+      "Los criterios que apruebe cada año el Pleno de la Corporación"
+    ],
+    "correct": 0,
+    "exp": "La DA 3.ª.3 (redacción de la Ley 31/2022) atribuye al órgano interventor la comprobación material de la inversión. Y añade: «A efectos de la designación de representante en aquellas inversiones cuyo objeto sea susceptible de comprobación, el órgano interventor podrá aplicar técnicas de muestreo». La disposición no prevé turnos rotatorios, sorteos ante el Secretario ni criterios anuales del Pleno.",
+    "fuente": "Disposición adicional tercera, apartado 3, LCSP (Ley 9/2017, redacción de la Ley 31/2022)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la DA 3.ª.3 de la LCSP, ¿quién asistirá a los pequeños Municipios en la comprobación material de la inversión y en los demás fines previstos en la Ley?",
+    "options": [
+      "La Intervención General de la Comunidad Autónoma",
+      "Los servicios de asistencia de las Diputaciones Provinciales",
+      "La Intervención General de la Administración del Estado",
+      "Las asociaciones de entidades locales de ámbito autonómico"
+    ],
+    "correct": 1,
+    "exp": "La DA 3.ª.3 termina diciendo: «Los servicios de asistencia de las Diputaciones Provinciales asistirán a los pequeños Municipios a estos efectos y los demás previstos en la Ley». Esa asistencia no se atribuye a la Intervención General autonómica ni a la del Estado, ni a las asociaciones de entidades locales.",
+    "fuente": "Disposición adicional tercera, apartado 3, LCSP (Ley 9/2017, redacción de la Ley 31/2022)",
+    "confianza": "alta"
+  }
+]);
