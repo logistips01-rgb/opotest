@@ -1,0 +1,567 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 12,
+ "lote": "t12-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 3.2 del TRLRHL, a efectos de los ingresos de derecho privado, el patrimonio de las entidades locales está constituido por sus bienes y por los derechos reales o personales de que sean titulares, susceptibles de valoración económica:",
+   "options": [
+    "Siempre que no se hallen afectos al uso o servicio público",
+    "Siempre que figuren inscritos en el Registro de la Propiedad",
+    "Aunque se hallen afectos al uso o servicio público local",
+    "Siempre que se hayan adquirido a título oneroso"
+   ],
+   "correct": 0,
+   "exp": "El art. 3.2 TRLRHL considera patrimonio de las entidades locales «el constituido por los bienes de su propiedad, así como por los derechos reales o personales, de que sean titulares, susceptibles de valoración económica, siempre que unos y otros no se hallen afectos al uso o servicio público». La inscripción registral o la forma de adquisición no son requisitos; y los bienes afectos quedan fuera (de hecho, el art. 3.3 excluye los ingresos del dominio público).",
+   "fuente": "Art. 3.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "siempre que unos y otros no se hallen afectos al uso o servicio público"
+  },
+  {
+   "q": "Según el art. 7.3 del TRLRHL, los actos de gestión que se realicen en el ejercicio de una delegación de facultades tributarias de una entidad local serán impugnables:",
+   "options": [
+    "Con arreglo al procedimiento que corresponda a la entidad delegante",
+    "Con arreglo al procedimiento que corresponda al ente gestor",
+    "Solo ante el Tribunal Económico-Administrativo Central",
+    "Solo mediante recurso de alzada ante el Pleno delegante"
+   ],
+   "correct": 1,
+   "exp": "Art. 7.3 TRLRHL: «Los actos de gestión que se realicen en el ejercicio de dicha delegación serán impugnables con arreglo al procedimiento que corresponda al ente gestor, y, en último término, ante la Jurisdicción Contencioso-Administrativa». Rige, por tanto, el procedimiento del ente que gestiona por delegación, no el de la entidad que delega.",
+   "fuente": "Art. 7.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "serán impugnables con arreglo al procedimiento que corresponda al ente gestor"
+  },
+  {
+   "q": "Según el art. 9.2 del TRLRHL, las leyes que establezcan beneficios fiscales en materia de tributos locales determinarán las fórmulas de compensación que procedan. Esta regla no se aplica en ningún caso a:",
+   "options": [
+    "Los beneficios fiscales establecidos directamente por normas con rango de ley en los tributos locales",
+    "Las bonificaciones que una ley declare de aplicación obligatoria en los tributos locales",
+    "Las exenciones que una ley establezca en los impuestos municipales obligatorios",
+    "Los beneficios fiscales que establezcan las ordenanzas en los supuestos previstos por la ley"
+   ],
+   "correct": 3,
+   "exp": "Art. 9.2 TRLRHL: las leyes que establezcan beneficios fiscales en tributos locales «determinarán las fórmulas de compensación que procedan», y añade: «Lo anterior no será de aplicación en ningún caso cuando se trate de los beneficios fiscales a que se refiere el párrafo segundo del apartado 1 de este artículo», que son los que las entidades locales establecen en sus ordenanzas fiscales en los supuestos expresamente previstos por la ley (por ejemplo, la bonificación de hasta el 5 % por domiciliación). Los beneficios fijados por ley son, precisamente, los que la regla general manda compensar.",
+   "fuente": "Art. 9.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Lo anterior no será de aplicación en ningún caso cuando se trate de los beneficios fiscales a que se refiere el párrafo segundo del apartado 1 de este artículo."
+  },
+  {
+   "q": "Según el art. 14.1 b) del TRLRHL, en los procedimientos especiales de revisión de los actos dictados en materia de gestión tributaria local, no serán en ningún caso revisables:",
+   "options": [
+    "Los actos que hayan sido objeto de un recurso de reposición",
+    "Las liquidaciones de cobro periódico notificadas colectivamente mediante edictos",
+    "Los actos administrativos confirmados por sentencia judicial firme",
+    "Los actos dictados por delegación de otra entidad local"
+   ],
+   "correct": 2,
+   "exp": "Art. 14.1 b) TRLRHL: «No serán en ningún caso revisables los actos administrativos confirmados por sentencia judicial firme». Ni la previa reposición, ni la notificación colectiva, ni la delegación impiden la revisión.",
+   "fuente": "Art. 14.1 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "No serán en ningún caso revisables los actos administrativos confirmados por sentencia judicial firme."
+  },
+  {
+   "q": "Según el art. 14.2 e) del TRLRHL, en el recurso de reposición contra actos de gestión de los tributos locales, los recurrentes:",
+   "options": [
+    "Deben comparecer siempre asistidos de abogado colegiado, aunque sin necesidad de procurador",
+    "Deben comparecer por medio de procurador, sin necesidad de abogado",
+    "Pueden comparecer por sí o por representante, sin abogado ni procurador preceptivos",
+    "Solo pueden comparecer por sí mismos, sin admitirse representante"
+   ],
+   "correct": 2,
+   "exp": "Art. 14.2 e) TRLRHL: «Los recurrentes podrán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador». En Zaragoza, municipio de gran población (título X LBRL), este recurso de reposición es potestativo (art. 108 LBRL) y contra su resolución cabe reclamación económico-administrativa ante el órgano municipal especializado (art. 137.3 LBRL); las reglas del art. 14.2 sobre su tramitación siguen siendo las aplicables.",
+   "fuente": "Art. 14.2 e) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los recurrentes podrán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador."
+  },
+  {
+   "q": "Según el art. 14.2 i) del TRLRHL, cuando se interpone recurso de reposición contra un acto de imposición de una sanción tributaria local, ese acto:",
+   "options": [
+    "Queda automáticamente suspendido conforme a la Ley General Tributaria",
+    "No se suspende, salvo que el recurrente aporte garantía suficiente",
+    "Solo se suspende si lo acuerda expresamente el órgano que lo dictó",
+    "Solo se suspende si la sanción no supera la cuantía fijada en la ordenanza"
+   ],
+   "correct": 0,
+   "exp": "Art. 14.2 i) TRLRHL: la regla general es que la reposición no suspende la ejecución del acto impugnado, pero «Los actos de imposición de sanciones tributarias quedarán automáticamente suspendidos conforme a lo previsto en la Ley General Tributaria». La suspensión con garantía o acordada por el órgano es el régimen de los demás actos (liquidaciones, etc.), no el de las sanciones. En Zaragoza, municipio de gran población (título X LBRL), este recurso de reposición es potestativo (art. 108 LBRL) y contra su resolución cabe reclamación económico-administrativa ante el órgano municipal especializado (art. 137.3 LBRL); las reglas del art. 14.2 sobre su tramitación siguen siendo las aplicables.",
+   "fuente": "Art. 14.2 i) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los actos de imposición de sanciones tributarias quedarán automáticamente suspendidos conforme a lo previsto en la Ley General Tributaria."
+  },
+  {
+   "q": "Según el art. 14.2 n) del TRLRHL, la resolución expresa del recurso de reposición contra actos de gestión de tributos locales deberá notificarse al recurrente y a los demás interesados, si los hubiera, en el plazo máximo de:",
+   "options": [
+    "Cinco días desde que se produzca",
+    "Diez días desde que se produzca",
+    "Quince días desde que se produzca",
+    "Un mes desde que se produzca"
+   ],
+   "correct": 1,
+   "exp": "Art. 14.2 n) TRLRHL: «La resolución expresa deberá ser notificada al recurrente y a los demás interesados, si los hubiera, en el plazo máximo de 10 días desde que aquélla se produzca». No confundir con el plazo de un mes para resolver (letra l) ni con los cinco días de alegaciones de otros interesados (letras j y k). En Zaragoza, municipio de gran población (título X LBRL), este recurso de reposición es potestativo (art. 108 LBRL) y contra su resolución cabe reclamación económico-administrativa ante el órgano municipal especializado (art. 137.3 LBRL); las reglas del art. 14.2 sobre su tramitación siguen siendo las aplicables.",
+   "fuente": "Art. 14.2 n) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "en el plazo máximo de 10 días desde que aquélla se produzca"
+  },
+  {
+   "q": "Según el art. 20.2 del TRLRHL, a efectos de las tasas, se entiende que la actividad administrativa o el servicio afecta o se refiere al sujeto pasivo cuando:",
+   "options": [
+    "El sujeto pasivo figure empadronado en el municipio y el servicio se preste por igual a todos los vecinos del término municipal",
+    "Lo haya solicitado de forma expresa y por escrito, sin que baste que sus actos obliguen a actuar de oficio",
+    "Se preste en un inmueble del que sea titular catastral, aunque no haya sido él quien lo motivó",
+    "Lo haya motivado él, directa o indirectamente, porque sus actos u omisiones obliguen a la entidad a actuar de oficio"
+   ],
+   "correct": 3,
+   "exp": "Art. 20.2 TRLRHL: «Se entenderá que la actividad administrativa o servicio afecta o se refiere al sujeto pasivo cuando haya sido motivado directa o indirectamente por este en razón de que sus actuaciones u omisiones obliguen a las entidades locales a realizar de oficio actividades o a prestar servicios por razones de seguridad, salubridad, de abastecimiento de la población o de orden urbanístico, o cualesquiera otras». No hace falta, pues, solicitud expresa, ni basta el empadronamiento o la titularidad catastral.",
+   "fuente": "Art. 20.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Se entenderá que la actividad administrativa o servicio afecta o se refiere al sujeto pasivo cuando haya sido motivado directa o indirectamente por este"
+  },
+  {
+   "q": "Según el art. 23.2 c) del TRLRHL, en las tasas por la prestación de servicios de prevención y extinción de incendios, tienen la condición de sustitutos del contribuyente:",
+   "options": [
+    "Los propietarios de los inmuebles afectados por el incendio o siniestro",
+    "Los ocupantes de las viviendas o locales siniestrados",
+    "Los constructores y contratistas de las obras afectadas",
+    "Las entidades o sociedades aseguradoras del riesgo"
+   ],
+   "correct": 3,
+   "exp": "Art. 23.2 c) TRLRHL: en las tasas por servicios de prevención y extinción de incendios, de prevención de ruinas, salvamentos y protección de personas y bienes, son sustitutos del contribuyente «las entidades o sociedades aseguradoras del riesgo». Los propietarios son sustitutos en las tasas que afectan a los ocupantes de viviendas o locales (letra a) y los constructores y contratistas, en las de licencias urbanísticas (letra b).",
+   "fuente": "Art. 23.2 c) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "las entidades o sociedades aseguradoras del riesgo"
+  },
+  {
+   "q": "Según el art. 23.2 d) del TRLRHL, en las tasas por la utilización privativa o el aprovechamiento especial por entradas de vehículos o carruajes a través de las aceras, tienen la condición de sustitutos del contribuyente:",
+   "options": [
+    "Los conductores habituales de los vehículos que utilizan dichas entradas",
+    "Las comunidades de usuarios del garaje al que dan acceso",
+    "Los propietarios de las fincas y locales a los que dan acceso",
+    "Los arrendatarios de las plazas de aparcamiento afectadas"
+   ],
+   "correct": 2,
+   "exp": "Art. 23.2 d) TRLRHL: son sustitutos del contribuyente «los propietarios de las fincas y locales a que den acceso dichas entradas de vehículos, quienes podrán repercutir, en su caso, las cuotas sobre los respectivos beneficiarios».",
+   "fuente": "Art. 23.2 d) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "los propietarios de las fincas y locales a que den acceso dichas entradas de vehículos"
+  },
+  {
+   "q": "Según el art. 24.1 a) del TRLRHL, en la tasa por el aprovechamiento especial del dominio público local mediante la circulación en zonas de bajas emisiones de vehículos que superen los límites o categorías máximas de libre circulación, se podrá utilizar como valor de referencia de mercado:",
+   "options": [
+    "El coste que el vehículo habría pagado por estacionar en un aparcamiento público",
+    "La cuota anual del Impuesto sobre Vehículos de Tracción Mecánica que pague el vehículo",
+    "El importe de la multa prevista por circular sin autorización en esa zona",
+    "El precio medio del billete del transporte público colectivo del municipio"
+   ],
+   "correct": 0,
+   "exp": "Art. 24.1 a), párrafo segundo, TRLRHL (redacción de la Ley 9/2025, de 3 de diciembre, en vigor desde el 5-dic-2025): en estos supuestos «se podrá utilizar como valor de referencia de mercado el coste que hubiera tenido que abonar ese vehículo si hubiera estacionado en un aparcamiento público en lugar de circular por la zona calificada de bajas emisiones». La circulación en estas zonas figura como supuesto de tasa en el art. 20.3 v).",
+   "fuente": "Art. 24.1 a) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "se podrá utilizar como valor de referencia de mercado el coste que hubiera tenido que abonar ese vehículo si hubiera estacionado en un aparcamiento público"
+  },
+  {
+   "q": "Según el art. 24.1 b) del TRLRHL, cuando para la utilización privativa o el aprovechamiento especial del dominio público local se utilicen procedimientos de licitación pública, el importe de la tasa vendrá determinado por:",
+   "options": [
+    "El valor de mercado de la utilidad obtenida, según los parámetros fijados en la ordenanza",
+    "El valor económico de la proposición sobre la que recaiga la adjudicación",
+    "El 1,5 por ciento de los ingresos brutos anuales del adjudicatario",
+    "El coste real o previsible de la gestión de ese dominio público"
+   ],
+   "correct": 1,
+   "exp": "Art. 24.1 b) TRLRHL: «Cuando se utilicen procedimientos de licitación pública, el importe de la tasa vendrá determinado por el valor económico de la proposición sobre la que recaiga la concesión, autorización o adjudicación». El valor de mercado es la regla general de la letra a), el 1,5 % es el régimen de las empresas de suministros de la letra c) y el coste del servicio es el límite de las tasas por servicios (apartado 2).",
+   "fuente": "Art. 24.1 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "el importe de la tasa vendrá determinado por el valor económico de la proposición sobre la que recaiga la concesión, autorización o adjudicación"
+  },
+  {
+   "q": "Según el art. 24.4 del TRLRHL, para la determinación de la cuantía de las tasas:",
+   "options": [
+    "Deberán tenerse en cuenta, en todo caso, la renta y el patrimonio de los obligados al pago",
+    "Podrán tenerse en cuenta criterios genéricos de capacidad económica de los obligados",
+    "No podrá atenderse a ninguna circunstancia económica personal de los obligados",
+    "Solo podrá atenderse a la capacidad económica en las tasas de servicios sociales"
+   ],
+   "correct": 1,
+   "exp": "Art. 24.4 TRLRHL: «Para la determinación de la cuantía de las tasas podrán tenerse en cuenta criterios genéricos de capacidad económica de los sujetos obligados a satisfacerlas». Es una facultad («podrán»), no una obligación, y no se limita a ningún tipo concreto de tasa.",
+   "fuente": "Art. 24.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Para la determinación de la cuantía de las tasas podrán tenerse en cuenta criterios genéricos de capacidad económica de los sujetos obligados a satisfacerlas."
+  },
+  {
+   "q": "Según el art. 24.5 del TRLRHL, si la utilización privativa o el aprovechamiento especial del dominio público local causa daños irreparables, la entidad será indemnizada:",
+   "options": [
+    "En el doble del valor de los bienes destruidos o del deterioro causado",
+    "En el importe de la tasa devengada, incrementado en un cincuenta por ciento",
+    "En la cuantía que fije la ordenanza, con independencia del daño causado",
+    "En cuantía igual al valor de los bienes destruidos o al importe del deterioro"
+   ],
+   "correct": 3,
+   "exp": "Art. 24.5, párrafo segundo, TRLRHL: «Si los daños fueran irreparables, la entidad será indemnizada en cuantía igual al valor de los bienes destruidos o el importe del deterioro de los dañados». Si son reparables, el beneficiario debe reintegrar el coste de reconstrucción o reparación y depositarlo previamente; y la entidad no puede condonar total ni parcialmente estas indemnizaciones.",
+   "fuente": "Art. 24.5 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Si los daños fueran irreparables, la entidad será indemnizada en cuantía igual al valor de los bienes destruidos o el importe del deterioro de los dañados."
+  },
+  {
+   "q": "Según el art. 32.2 del TRLRHL, cuando las leyes o los tratados internacionales concedan beneficios fiscales en las contribuciones especiales, las cuotas que puedan corresponder a los beneficiarios:",
+   "options": [
+    "Se repartirán a prorrata entre los demás contribuyentes",
+    "Se trasladarán a ejercicios sucesivos hasta su amortización",
+    "No serán distribuidas entre los demás contribuyentes",
+    "Se exigirán igualmente al beneficiario al ejecutarse la obra"
+   ],
+   "correct": 2,
+   "exp": "Art. 32.2 TRLRHL: «En el supuesto de que las leyes o tratados internacionales concedan beneficios fiscales, las cuotas que puedan corresponder a los beneficiarios no serán distribuidas entre los demás contribuyentes». El traslado a ejercicios sucesivos es la regla del exceso sobre el 5 % de las primas en el servicio de incendios (art. 32.1 b).",
+   "fuente": "Art. 32.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "las cuotas que puedan corresponder a los beneficiarios no serán distribuidas entre los demás contribuyentes"
+  },
+  {
+   "q": "Según el art. 34.3 del TRLRHL, el acuerdo de ordenación de las contribuciones especiales es de inexcusable adopción y contendrá la determinación de:",
+   "options": [
+    "El coste previsto, la cantidad a repartir entre los beneficiarios y los criterios de reparto",
+    "El proyecto técnico de la obra, su plazo de ejecución y la identidad del contratista adjudicatario",
+    "El importe de la tasa por el servicio, su devengo y el régimen de autoliquidación",
+    "El informe técnico-económico sobre el valor de mercado y la tarifa aplicable"
+   ],
+   "correct": 0,
+   "exp": "Art. 34.3 TRLRHL: «El acuerdo de ordenación será de inexcusable adopción y contendrá la determinación del coste previsto de las obras y servicios, de la cantidad a repartir entre los beneficiarios y de los criterios de reparto». Puede remitirse a la ordenanza general de contribuciones especiales, si la hubiera. El informe técnico-económico es propio de las tasas (art. 25).",
+   "fuente": "Art. 34.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "El acuerdo de ordenación será de inexcusable adopción y contendrá la determinación del coste previsto de las obras y servicios, de la cantidad a repartir entre los beneficiarios y de los criterios de reparto."
+  },
+  {
+   "q": "Según el art. 36.2 del TRLRHL, cuando las obras o servicios hayan sido promovidos por la propia entidad local, los propietarios o titulares afectados podrán constituirse en asociación administrativa de contribuyentes:",
+   "options": [
+    "Durante la exposición al público del acuerdo de ordenación",
+    "En el mes siguiente a la notificación individual de las cuotas",
+    "En cualquier momento hasta la recepción de las obras",
+    "Solo antes de que se adopte el acuerdo de imposición"
+   ],
+   "correct": 0,
+   "exp": "Art. 36.2 TRLRHL: los propietarios o titulares afectados por obras o servicios promovidos por la entidad local «podrán constituirse en asociaciones administrativas de contribuyentes en el período de exposición al público del acuerdo de ordenación de las contribuciones especiales». El acuerdo de constitución exige la mayoría del art. 37.",
+   "fuente": "Art. 36.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "podrán constituirse en asociaciones administrativas de contribuyentes en el período de exposición al público del acuerdo de ordenación de las contribuciones especiales"
+  },
+  {
+   "q": "Según el art. 40.2 del TRLRHL, si al verificar su destino resulta que las subvenciones obtenidas por una entidad local no se aplicaron a los fines para los que se concedieron, la entidad pública otorgante:",
+   "options": [
+    "Solo podrá denegar a la entidad local las subvenciones de los dos ejercicios siguientes",
+    "Deberá comunicarlo al Tribunal de Cuentas, único competente para exigir el reintegro",
+    "Exigirá el reintegro de su importe o podrá compensarlo con otras subvenciones o transferencias",
+    "Solo podrá exigir el reintegro si la entidad local no justifica su correcta aplicación en tres meses"
+   ],
+   "correct": 2,
+   "exp": "Art. 40.2 TRLRHL: las entidades otorgantes pueden verificar el destino de las subvenciones y, si no se destinaron a sus fines, «la entidad pública otorgante exigirá el reintegro de su importe o podrá compensarlo con otras subvenciones o transferencias a que tuviere derecho la entidad afectada, con independencia de las responsabilidades a que haya lugar».",
+   "fuente": "Art. 40.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "la entidad pública otorgante exigirá el reintegro de su importe o podrá compensarlo con otras subvenciones o transferencias a que tuviere derecho la entidad afectada"
+  },
+  {
+   "q": "Según el art. 61.4 del TRLRHL, a efectos del Impuesto sobre Bienes Inmuebles, un mismo inmueble localizado en distintos términos municipales:",
+   "options": [
+    "Pertenece únicamente al municipio en el que se encuentre la mayor parte de su superficie",
+    "Pertenece al municipio en el que tenga su domicilio fiscal el sujeto pasivo",
+    "Pertenece al municipio que primero lo haya incluido en su padrón del impuesto",
+    "Pertenece a cada uno de ellos por la superficie que ocupe en el respectivo término"
+   ],
+   "correct": 3,
+   "exp": "Art. 61.4 TRLRHL: «En caso de que un mismo inmueble se encuentre localizado en distintos términos municipales se entenderá, a efectos de este impuesto, que pertenece a cada uno de ellos por la superficie que ocupe en el respectivo término municipal».",
+   "fuente": "Art. 61.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "se entenderá, a efectos de este impuesto, que pertenece a cada uno de ellos por la superficie que ocupe en el respectivo término municipal"
+  },
+  {
+   "q": "Según el art. 61.5 b) del TRLRHL, ¿están sujetos al IBI los bienes patrimoniales propiedad del municipio en que estén enclavados?",
+   "options": [
+    "Sí, en todo caso, por no estar afectos a uso o servicio público",
+    "No, salvo los cedidos a terceros mediante contraprestación",
+    "No, en ningún caso, aunque se cedan a terceros con contraprestación",
+    "Sí, salvo que los gestione directamente el propio ayuntamiento"
+   ],
+   "correct": 1,
+   "exp": "Art. 61.5 b) TRLRHL: no están sujetos los inmuebles propiedad de los municipios en que estén enclavados que sean de dominio público afectos a uso público, los de dominio público afectos a un servicio público gestionado directamente por el ayuntamiento (salvo los cedidos a terceros mediante contraprestación) y «Los bienes patrimoniales, exceptuados igualmente los cedidos a terceros mediante contraprestación».",
+   "fuente": "Art. 61.5 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los bienes patrimoniales, exceptuados igualmente los cedidos a terceros mediante contraprestación."
+  },
+  {
+   "q": "Según el art. 62.1 del TRLRHL, ¿cuál de los siguientes inmuebles está exento del IBI?",
+   "options": [
+    "Los bienes patrimoniales de las comunidades autónomas",
+    "Las casas destinadas a viviendas de los empleados del ferrocarril",
+    "Los bienes comunales y los montes vecinales en mano común",
+    "Los inmuebles de las sociedades mercantiles municipales"
+   ],
+   "correct": 2,
+   "exp": "Art. 62.1 b) TRLRHL: están exentos «Los bienes comunales y los montes vecinales en mano común». Los inmuebles de las comunidades autónomas solo están exentos si están directamente afectos a la seguridad ciudadana o a los servicios educativos y penitenciarios (letra a); la letra g) excluye expresamente de la exención ferroviaria «las casas destinadas a viviendas de los empleados»; y el art. 62 no recoge exención alguna para las sociedades mercantiles municipales.",
+   "fuente": "Art. 62.1 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "b) Los bienes comunales y los montes vecinales en mano común."
+  },
+  {
+   "q": "Según el art. 62.2 b) del TRLRHL, en los sitios o conjuntos históricos, la exención del IBI previa solicitud solo alcanza a los inmuebles incluidos en el catálogo como objeto de protección integral que cuenten con una antigüedad igual o superior a:",
+   "options": [
+    "Cien años",
+    "Cincuenta años",
+    "Treinta años",
+    "Veinticinco años"
+   ],
+   "correct": 1,
+   "exp": "Art. 62.2 b) TRLRHL: la exención no alcanza a todos los bienes urbanos de las zonas arqueológicas y de los sitios y conjuntos históricos, sino, en estos últimos, a «los que cuenten con una antigüedad igual o superior a cincuenta años y estén incluidos en el catálogo [...] como objeto de protección integral». Tampoco están exentos cuando estén afectos a explotaciones económicas, salvo las excepciones que el propio precepto señala.",
+   "fuente": "Art. 62.2 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "los que cuenten con una antigüedad igual o superior a cincuenta años"
+  },
+  {
+   "q": "Según el art. 64.2 del TRLRHL, los copartícipes o cotitulares de las entidades del art. 35.4 de la Ley General Tributaria responden solidariamente de la cuota del IBI, en proporción a sus participaciones, si figuran inscritos como tales en el Catastro. Si no figuran inscritos, la responsabilidad se exigirá:",
+   "options": [
+    "Por partes iguales en todo caso",
+    "Íntegramente al cotitular de mayor participación",
+    "Solo de forma subsidiaria, tras el fallido de la entidad",
+    "En proporción a la participación que cada uno acredite"
+   ],
+   "correct": 0,
+   "exp": "Art. 64.2 TRLRHL: «Responden solidariamente de la cuota de este impuesto, y en proporción a sus respectivas participaciones, los copartícipes o cotitulares [...] si figuran inscritos como tales en el Catastro Inmobiliario. De no figurar inscritos, la responsabilidad se exigirá por partes iguales en todo caso».",
+   "fuente": "Art. 64.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "De no figurar inscritos, la responsabilidad se exigirá por partes iguales en todo caso."
+  },
+  {
+   "q": "Según el art. 73.1 del TRLRHL, en la bonificación obligatoria del IBI para los inmuebles que constituyan el objeto de la actividad de las empresas de urbanización, construcción y promoción inmobiliaria, si no existe acuerdo municipal sobre su porcentaje se aplicará:",
+   "options": [
+    "La bonificación mínima prevista en el artículo",
+    "Una bonificación intermedia del 70 por ciento",
+    "Ninguna, hasta que se apruebe la ordenanza",
+    "La bonificación máxima prevista en el artículo"
+   ],
+   "correct": 3,
+   "exp": "Art. 73.1 TRLRHL: estos inmuebles tienen derecho, si se solicita antes del inicio de las obras, a una bonificación de entre el 50 y el 90 por ciento de la cuota íntegra, y «En defecto de acuerdo municipal, se aplicará a los referidos inmuebles la bonificación máxima prevista en este artículo», es decir, el 90 por ciento.",
+   "fuente": "Art. 73.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "En defecto de acuerdo municipal, se aplicará a los referidos inmuebles la bonificación máxima prevista en este artículo."
+  },
+  {
+   "q": "Según el art. 74.6 del TRLRHL, los ayuntamientos pueden establecer mediante ordenanza fiscal, para los inmuebles de uso residencial destinados a alquiler de vivienda con renta limitada por una norma jurídica, una bonificación en la cuota íntegra del IBI de hasta el:",
+   "options": [
+    "50 por ciento",
+    "90 por ciento",
+    "75 por ciento",
+    "95 por ciento"
+   ],
+   "correct": 3,
+   "exp": "Art. 74.6 TRLRHL: «Los ayuntamientos mediante ordenanza fiscal podrán establecer una bonificación de hasta el 95 por ciento en la cuota íntegra del impuesto para los bienes inmuebles de uso residencial destinados a alquiler de vivienda con renta limitada por una norma jurídica». Es una bonificación potestativa. El 90 % es el tope de la de familias numerosas (art. 74.4) y el 50 %, el de la de sistemas de energía solar (art. 74.5) y puntos de recarga (art. 74.7).",
+   "fuente": "Art. 74.6 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los ayuntamientos mediante ordenanza fiscal podrán establecer una bonificación de hasta el 95 por ciento en la cuota íntegra del impuesto para los bienes inmuebles de uso residencial destinados a alquiler de vivienda con renta limitada por una norma jurídica."
+  },
+  {
+   "q": "Según el art. 77.5 del TRLRHL, el padrón catastral a partir del cual se gestiona el IBI, que se forma anualmente para cada término municipal, será remitido a las entidades gestoras del impuesto:",
+   "options": [
+    "Antes del 1 de marzo de cada año",
+    "Antes del 1 de enero de cada año",
+    "Antes del 1 de julio de cada año",
+    "Antes del 31 de diciembre del año anterior"
+   ],
+   "correct": 0,
+   "exp": "Art. 77.5 TRLRHL: el impuesto se gestiona a partir del padrón catastral elaborado por la Dirección General del Catastro; «Dicho padrón, que se formará anualmente para cada término municipal, contendrá la información relativa a los bienes inmuebles, separadamente para los de cada clase y será remitido a las entidades gestoras del impuesto antes del 1 de marzo de cada año».",
+   "fuente": "Art. 77.5 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "será remitido a las entidades gestoras del impuesto antes del 1 de marzo de cada año"
+  },
+  {
+   "q": "Según el art. 78.2 del TRLRHL, ¿cuál de las siguientes actividades NO constituye hecho imponible del Impuesto sobre Actividades Económicas?",
+   "options": [
+    "Las actividades mineras",
+    "La ganadería independiente",
+    "Las actividades forestales",
+    "Las actividades de servicios"
+   ],
+   "correct": 2,
+   "exp": "Art. 78.2 TRLRHL: son actividades empresariales «las ganaderas, cuando tengan carácter independiente, las mineras, industriales, comerciales y de servicios. No tienen, por consiguiente, tal consideración las actividades agrícolas, las ganaderas dependientes, las forestales y las pesqueras, no constituyendo hecho imponible por el impuesto ninguna de ellas».",
+   "fuente": "Art. 78.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "No tienen, por consiguiente, tal consideración las actividades agrícolas, las ganaderas dependientes, las forestales y las pesqueras"
+  },
+  {
+   "q": "Según el art. 81.3 del TRLRHL, a efectos del Impuesto sobre Actividades Económicas, la exposición de artículos en un establecimiento:",
+   "options": [
+    "Está sujeta siempre, tanto si es con fin de decoración como si son artículos para regalo a los clientes",
+    "No está sujeta si es con fin exclusivo de decoración, pero sí si son artículos para regalo a los clientes",
+    "No está sujeta en ningún caso, tanto si es con fin de decoración como si son artículos para regalo",
+    "Está sujeta si es con fin de decoración, pero no si se trata de artículos para regalo a los clientes"
+   ],
+   "correct": 1,
+   "exp": "Art. 81.3 TRLRHL: no constituye hecho imponible «La exposición de artículos con el fin exclusivo de decoración o adorno del establecimiento. Por el contrario, estará sujeta al impuesto la exposición de artículos para regalo a los clientes».",
+   "fuente": "Art. 81.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "La exposición de artículos con el fin exclusivo de decoración o adorno del establecimiento. Por el contrario, estará sujeta al impuesto la exposición de artículos para regalo a los clientes."
+  },
+  {
+   "q": "Según el art. 82.1 b) del TRLRHL, los sujetos pasivos que inicien el ejercicio de su actividad en territorio español están exentos del Impuesto sobre Actividades Económicas durante:",
+   "options": [
+    "El primer período impositivo en que se desarrolle",
+    "Los dos primeros períodos impositivos en que se desarrolle",
+    "Los tres primeros períodos impositivos en que se desarrolle",
+    "Los cinco primeros períodos impositivos en que se desarrolle"
+   ],
+   "correct": 1,
+   "exp": "Art. 82.1 b) TRLRHL: están exentos «Los sujetos pasivos que inicien el ejercicio de su actividad en territorio español, durante los dos primeros períodos impositivos de este impuesto en que se desarrolle aquella». No hay inicio cuando la actividad se ha desarrollado antes bajo otra titularidad (fusión, escisión, aportación de ramas de actividad). Los cinco años son los de la bonificación del art. 88.1 b), que empieza al acabar el segundo período.",
+   "fuente": "Art. 82.1 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "durante los dos primeros períodos impositivos de este impuesto en que se desarrolle aquella"
+  },
+  {
+   "q": "Según el art. 89.2 del TRLRHL, en caso de baja por cese en el ejercicio de la actividad, las cuotas del Impuesto sobre Actividades Económicas:",
+   "options": [
+    "Son irreducibles y se exigen siempre por el año natural completo",
+    "Son prorrateables por días naturales hasta la fecha exacta del cese",
+    "Son prorrateables por trimestres naturales, excluido aquel en que se produzca el cese",
+    "Son prorrateables por trimestres naturales, incluido aquel en que se produzca el cese"
+   ],
+   "correct": 2,
+   "exp": "Art. 89.2, párrafo segundo, TRLRHL: «en el caso de baja por cese en el ejercicio de la actividad, las cuotas serán prorrateables por trimestres naturales, excluido aquél en el que se produzca dicho cese». El sujeto pasivo puede pedir la devolución de la parte de cuota de los trimestres en que no haya ejercido la actividad.",
+   "fuente": "Art. 89.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "en el caso de baja por cese en el ejercicio de la actividad, las cuotas serán prorrateables por trimestres naturales, excluido aquél en el que se produzca dicho cese"
+  },
+  {
+   "q": "Según el art. 91.1 del TRLRHL, la formación de la matrícula del Impuesto sobre Actividades Económicas, la calificación de las actividades, el señalamiento de las cuotas y, en general, la gestión censal del tributo corresponden a:",
+   "options": [
+    "Los ayuntamientos, con carácter exclusivo",
+    "Las diputaciones provinciales respectivas",
+    "La comunidad autónoma correspondiente",
+    "La Administración tributaria del Estado"
+   ],
+   "correct": 3,
+   "exp": "Art. 91.1 TRLRHL: «la gestión censal del tributo se llevará a cabo por la Administración tributaria del Estado», aunque, tratándose de cuotas municipales, pueden delegarse en los ayuntamientos y otras entidades que lo soliciten. Lo que corresponde a los ayuntamientos es la liquidación, la recaudación y la revisión de los actos de gestión tributaria (art. 91.2).",
+   "fuente": "Art. 91.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "la gestión censal del tributo se llevará a cabo por la Administración tributaria del Estado"
+  },
+  {
+   "q": "Según el art. 92.2 del TRLRHL, a efectos del Impuesto sobre Vehículos de Tracción Mecánica se considera vehículo apto para la circulación:",
+   "options": [
+    "El matriculado en los registros públicos mientras no cause baja, incluidos los de permisos temporales y matrícula turística",
+    "Solo el que, además de estar matriculado, tenga en vigor la inspección técnica y el seguro obligatorio",
+    "El matriculado en los registros públicos mientras no cause baja, excluidos los de permisos temporales y matrícula turística",
+    "Solo el que circule de forma efectiva por las vías públicas del municipio durante el período impositivo"
+   ],
+   "correct": 0,
+   "exp": "Art. 92.2 TRLRHL: «Se considera vehículo apto para la circulación el que hubiera sido matriculado en los registros públicos correspondientes y mientras no haya causado baja en éstos. A los efectos de este impuesto también se considerarán aptos los vehículos provistos de permisos temporales y matrícula turística». La ITV, el seguro o la circulación efectiva no son requisitos.",
+   "fuente": "Art. 92.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "A los efectos de este impuesto también se considerarán aptos los vehículos provistos de permisos temporales y matrícula turística."
+  },
+  {
+   "q": "Según el art. 93.1 e) del TRLRHL, las exenciones del IVTM para los vehículos de personas de movilidad reducida y para los matriculados a nombre de personas con discapacidad para su uso exclusivo:",
+   "options": [
+    "No se aplican a un mismo sujeto pasivo por más de un vehículo simultáneamente",
+    "Se aplican a todos los vehículos de los que sea titular el beneficiario",
+    "Solo se aplican durante los cinco primeros años desde la matriculación",
+    "Solo se aplican si el vehículo lo conduce la propia persona con discapacidad"
+   ],
+   "correct": 0,
+   "exp": "Art. 93.1 e) TRLRHL: «Las exenciones previstas en los dos párrafos anteriores no resultarán aplicables a los sujetos pasivos beneficiarios de ellas por más de un vehículo simultáneamente». Se aplican mientras se mantengan las circunstancias, «tanto a los vehículos conducidos por personas con discapacidad como a los destinados a su transporte», y exigen un grado de discapacidad igual o superior al 33 %.",
+   "fuente": "Art. 93.1 e) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Las exenciones previstas en los dos párrafos anteriores no resultarán aplicables a los sujetos pasivos beneficiarios de ellas por más de un vehículo simultáneamente."
+  },
+  {
+   "q": "Según el art. 96.3 del TRLRHL, además de en la primera adquisición y en la baja definitiva del vehículo, la cuota del IVTM se prorratea por trimestres naturales en caso de:",
+   "options": [
+    "Cambio de domicilio del titular a otro municipio",
+    "Transmisión del vehículo a un nuevo titular",
+    "Baja temporal voluntaria pedida por el titular",
+    "Baja temporal por sustracción o robo del vehículo"
+   ],
+   "correct": 3,
+   "exp": "Art. 96.3 TRLRHL: la cuota se prorratea por trimestres naturales en la primera adquisición o la baja definitiva, y «También procederá el prorrateo de la cuota en los mismos términos en los supuestos de baja temporal por sustracción o robo de vehículo, y ello desde el momento en que se produzca dicha baja temporal en el Registro público correspondiente». El precepto no prevé prorrateo por cambio de domicilio, transmisión ni otras bajas temporales.",
+   "fuente": "Art. 96.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "También procederá el prorrateo de la cuota en los mismos términos en los supuestos de baja temporal por sustracción o robo de vehículo"
+  },
+  {
+   "q": "Según el art. 99.2 del TRLRHL, las Jefaturas Provinciales de Tráfico no tramitarán el cambio de titularidad administrativa de un vehículo en tanto su titular registral no haya acreditado el pago del IVTM correspondiente:",
+   "options": [
+    "Al período impositivo del mismo año en que se hace el trámite",
+    "Al período impositivo del año anterior a aquel en que se hace el trámite",
+    "A los cuatro últimos períodos impositivos no prescritos",
+    "A todos los períodos desde la primera matriculación"
+   ],
+   "correct": 1,
+   "exp": "Art. 99.2 TRLRHL: no se tramitará el cambio de titularidad «en tanto su titular registral no haya acreditado el pago del impuesto correspondiente al período impositivo del año anterior a aquel en que se realiza el trámite». Según el art. 99.3, la falta de anotaciones de impago en el Registro de Vehículos sirve de acreditación.",
+   "fuente": "Art. 99.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "en tanto su titular registral no haya acreditado el pago del impuesto correspondiente al período impositivo del año anterior a aquel en que se realiza el trámite"
+  },
+  {
+   "q": "Según el art. 101.1 del TRLRHL, a efectos del Impuesto sobre Construcciones, Instalaciones y Obras, tiene la consideración de dueño de la construcción, instalación u obra:",
+   "options": [
+    "Quien figure como titular de la licencia urbanística concedida",
+    "Quien sea propietario del inmueble sobre el que se realiza",
+    "Quien soporte los gastos o el coste que comporte su realización",
+    "Quien la ejecute materialmente como contratista de la obra"
+   ],
+   "correct": 2,
+   "exp": "Art. 101.1, párrafo segundo, TRLRHL: «tendrá la consideración de dueño de la construcción, instalación u obra quien soporte los gastos o el coste que comporte su realización». El contribuyente es el dueño, sea o no propietario del inmueble; quien solicita la licencia o realiza la obra puede ser sustituto (art. 101.2), pero no por ello es dueño.",
+   "fuente": "Art. 101.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "tendrá la consideración de dueño de la construcción, instalación u obra quien soporte los gastos o el coste que comporte su realización"
+  },
+  {
+   "q": "Según el art. 103.3 del TRLRHL, las ordenanzas fiscales podrán regular como deducción de la cuota íntegra o bonificada del ICIO:",
+   "options": [
+    "El importe del IVA soportado por el sujeto pasivo en la ejecución de la obra",
+    "Los honorarios de los profesionales que hayan redactado el proyecto",
+    "El importe de la tasa por el otorgamiento de la licencia urbanística de la obra",
+    "La cuota del IBI pagada por el inmueble en el que se realiza la obra"
+   ],
+   "correct": 2,
+   "exp": "Art. 103.3 TRLRHL: las ordenanzas fiscales podrán regular como deducción de la cuota íntegra o bonificada «el importe satisfecho o que deba satisfacer el sujeto pasivo en concepto de tasa por el otorgamiento de la licencia urbanística correspondiente a la construcción, instalación u obra de que se trate». El IVA y los honorarios no son deducciones de la cuota: simplemente no forman parte de la base imponible (art. 102.1).",
+   "fuente": "Art. 103.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "el importe satisfecho o que deba satisfacer el sujeto pasivo en concepto de tasa por el otorgamiento de la licencia urbanística correspondiente a la construcción, instalación u obra de que se trate"
+  },
+  {
+   "q": "Según el art. 105.1 a) del TRLRHL, están exentos del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana los incrementos de valor que se manifiesten como consecuencia de:",
+   "options": [
+    "La constitución y transmisión de derechos de servidumbre",
+    "La constitución y transmisión de derechos de usufructo",
+    "La transmisión de terrenos a título lucrativo entre hermanos",
+    "La transmisión de terrenos por expropiación forzosa"
+   ],
+   "correct": 0,
+   "exp": "Art. 105.1 a) TRLRHL: están exentos los incrementos de valor que se manifiesten como consecuencia de «La constitución y transmisión de derechos de servidumbre». El usufructo es un derecho real de goce limitativo del dominio y su constitución o transmisión está sujeta (art. 104.1); las transmisiones lucrativas entre hermanos y las expropiaciones tampoco figuran entre las exenciones del art. 105.",
+   "fuente": "Art. 105.1 a) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "a) La constitución y transmisión de derechos de servidumbre."
+  },
+  {
+   "q": "Según el art. 109.3 del TRLRHL, si el contrato que dio lugar al Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana queda sin efecto por mutuo acuerdo de las partes contratantes:",
+   "options": [
+    "Procede la devolución, siempre que se reclame en el plazo de cinco años",
+    "Procede la devolución, salvo que el contrato haya producido efectos lucrativos",
+    "No procede la devolución, pero el nuevo acto queda exento del impuesto",
+    "No procede la devolución y se considera un acto nuevo sujeto a tributación"
+   ],
+   "correct": 3,
+   "exp": "Art. 109.3 TRLRHL: «Si el contrato queda sin efecto por mutuo acuerdo de las partes contratantes, no procederá la devolución del impuesto satisfecho y se considerará como un acto nuevo sujeto a tributación. Como tal mutuo acuerdo se estimará la avenencia en acto de conciliación y el simple allanamiento a la demanda». La devolución en cinco años y sin efectos lucrativos es el régimen del art. 109.2, para la nulidad, rescisión o resolución declaradas por resolución firme.",
+   "fuente": "Art. 109.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Si el contrato queda sin efecto por mutuo acuerdo de las partes contratantes, no procederá la devolución del impuesto satisfecho y se considerará como un acto nuevo sujeto a tributación."
+  },
+  {
+   "q": "Según el art. 110.7 del TRLRHL, los notarios están obligados a remitir al ayuntamiento la relación o índice de los documentos autorizados en el trimestre anterior que pongan de manifiesto la realización del hecho imponible del IIVTNU:",
+   "options": [
+    "Dentro del primer mes de cada semestre",
+    "Dentro de la primera quincena de cada trimestre",
+    "Dentro de los diez primeros días de cada mes",
+    "Dentro del mes siguiente a cada autorización"
+   ],
+   "correct": 1,
+   "exp": "Art. 110.7 TRLRHL: los notarios remitirán al ayuntamiento, «dentro de la primera quincena de cada trimestre, relación o índice comprensivo de todos los documentos por ellos autorizados en el trimestre anterior» en los que se ponga de manifiesto el hecho imponible del impuesto, con excepción de los actos de última voluntad.",
+   "fuente": "Art. 110.7 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "dentro de la primera quincena de cada trimestre"
+  }
+ ]
+}
