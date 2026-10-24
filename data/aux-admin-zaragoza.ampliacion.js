@@ -62987,3 +62987,475 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 15 · lote 2026-10-24 · 36 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 15, [
+  {
+    "q": "Según el art. 5 del ROTPC, el proceso de desconcentración municipal en sus órganos territoriales será:",
+    "options": [
+      "Gradual y voluntario para cada Junta Municipal",
+      "Temporal y revisable en cada mandato corporativo",
+      "Selectivo y limitado a los distritos urbanos",
+      "Continuo y uniforme en todo el ámbito municipal"
+    ],
+    "correct": 3,
+    "exp": "El art. 5, párrafo primero, del ROTPC dispone que el proceso de desconcentración municipal en sus órganos territoriales «será continuo y uniforme en todo el ámbito municipal». El párrafo segundo permite, además, aprobar programas de desconcentración que supongan experiencias piloto en una o varias Juntas, para evaluar su impacto y extenderlas después a otras, pero eso no convierte el proceso en voluntario para cada Junta ni lo limita a los distritos urbanos (alcanza a Juntas Municipales y Vecinales). Nada se dice de una revisión en cada mandato.",
+    "fuente": "Art. 5 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 del ROTPC, ¿qué actos de los órganos de los Consejos de Distrito pueden recurrirse ante el órgano municipal competente?",
+    "options": [
+      "Solo los definitivos, porque los actos de trámite no son recurribles en ningún caso",
+      "Todos los actos, sean de trámite o definitivos, sin ninguna limitación por razón de su contenido",
+      "Los definitivos y los de trámite que impidan continuar el procedimiento o causen indefensión",
+      "Solo los que impongan sanciones o denieguen subvenciones a las entidades ciudadanas"
+    ],
+    "correct": 2,
+    "exp": "El art. 10, párrafo segundo, del ROTPC permite recurrir ante el órgano municipal competente los actos de los órganos de los Consejos de Distrito «que sean definitivos o que, siendo de trámite, determinen la imposibilidad de continuar un procedimiento o produzcan indefensión». Por eso no es cierto que los actos de trámite nunca sean recurribles, ni que lo sean todos sin límite; tampoco se limita el recurso a sanciones o subvenciones. Ten en cuenta que el art. 112.1 de la Ley 39/2015, que es la ley básica, admite además recurso contra los actos de trámite que «deciden directa o indirectamente el fondo del asunto» o causan «perjuicio irreparable a derechos e intereses legítimos»; la pregunta se ciñe a lo que dice el ROTPC.",
+    "fuente": "Art. 10, párr. 2.º, ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12 del ROTPC, las competencias que los órganos municipales confieran a las Juntas Municipales y Vecinales con arreglo a los Planes de Desconcentración podrán tener carácter:",
+    "options": [
+      "De iniciativa, de gestión, consultivo o de control",
+      "Normativo, sancionador, tributario o expropiatorio",
+      "Legislativo, ejecutivo, arbitral o jurisdiccional",
+      "De inspección, de recaudación, de policía o de fomento"
+    ],
+    "correct": 0,
+    "exp": "El art. 12, párrafo primero, del ROTPC dispone que las Juntas Municipales y Vecinales ejercerán las competencias asignables y desconcentrables que les confieran los órganos municipales, con arreglo a los Planes de Desconcentración, «las cuales podrán tener carácter de iniciativa, de gestión, consultivo o de control», sin perjuicio de las competencias de control de los órganos de gobierno municipal. Las demás combinaciones no figuran en el precepto.",
+    "fuente": "Art. 12, párr. 1.º, ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13 del ROTPC, los acuerdos de asignación de competencias a las Juntas Municipales deberán contener necesariamente, entre otros extremos:",
+    "options": [
+      "El informe previo favorable del Consejo de la Ciudad de Zaragoza",
+      "El órgano de la Junta Municipal que desempeñará la función",
+      "La conformidad expresa de la mayoría de los Vocales de la Junta",
+      "El dictamen previo de la Comisión de Sugerencias y Reclamaciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 del ROTPC enumera el contenido necesario de los acuerdos de asignación de competencias: descripción exacta de la función y su carácter; designación del Distrito; el órgano de la Junta Municipal que desempeñará la función; facultades de coordinación, inspección y control de los órganos delegantes; recursos humanos y materiales necesarios; y cualquier otro extremo sobre las condiciones de ejercicio. No se exige informe del Consejo de la Ciudad, conformidad de los Vocales ni dictamen de la Comisión Especial de Sugerencias y Reclamaciones.",
+    "fuente": "Art. 13, párr. 2.º, ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13 del ROTPC, los órganos municipales competentes, a propuesta de la Alcaldía o de la Delegación correspondiente, podrán exceptuar de la gestión y competencia de los Distritos municipales:",
+    "options": [
+      "Las instalaciones o servicios cuyo coste supere los recursos presupuestarios asignados al Distrito",
+      "Las instalaciones o servicios situados en el límite territorial entre dos o más Distritos",
+      "Las instalaciones o servicios que hayan sido objeto de quejas ante la Comisión de Sugerencias",
+      "Las instalaciones o servicios que, por su carácter, deban considerarse como generales de la ciudad"
+    ],
+    "correct": 3,
+    "exp": "El art. 13, párrafo primero, del ROTPC, tras fijar que la atribución de competencias se hará con carácter general para todos los Distritos, permite que los órganos municipales competentes, a propuesta de la Alcaldía o de la Delegación correspondiente, exceptúen de la gestión y competencia de los Distritos «determinadas instalaciones o servicios que, por su carácter, deban considerarse como generales de la ciudad». Los demás criterios (coste, situación en el límite entre Distritos, quejas presentadas) no aparecen en el precepto.",
+    "fuente": "Art. 13, párr. 1.º, ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15 del ROTPC, al delegar la Presidencia efectiva de las Juntas Municipales, el Alcalde tendrá en consideración los resultados de las elecciones municipales en sus territorios, procurando que:",
+    "options": [
+      "Cada Junta sea presidida por un Concejal del grupo más votado en su territorio",
+      "Ningún Concejal del grupo de gobierno presida más de dos Juntas Municipales",
+      "Al menos un Concejal de cada Grupo Municipal sea presidente de una Junta Municipal",
+      "Las Presidencias se repartan entre los grupos en proporción a su número de Concejales"
+    ],
+    "correct": 2,
+    "exp": "El art. 15, párrafo segundo, del ROTPC dispone que, en el ejercicio de la delegación de la Presidencia efectiva de las Juntas, el Alcalde tendrá en consideración los resultados electorales en los territorios de las Juntas, «procurando que, al menos, un Concejal de cada Grupo Municipal sea presidente de una Junta Municipal». No establece un reparto proporcional, ni la presidencia por el grupo más votado, ni un límite de dos Juntas. Concuerda con el art. 128.3 LBRL (la presidencia del distrito corresponde en todo caso a un concejal) y con el art. 12.1.e) de la Ley 10/2017, que atribuye al Alcalde de Zaragoza el nombramiento y cese de los Presidentes de los distritos.",
+    "fuente": "Art. 15, párr. 2.º, ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18 del ROTPC, en supuestos de especial relevancia y en materias desconcentradas, el órgano municipal competente, a iniciativa del Pleno de la Junta Municipal, podrá acordar que los informes de la Junta en relación con su territorio sean:",
+    "options": [
+      "Previos y preceptivos a la resolución del órgano que tenga la competencia final",
+      "Vinculantes para el órgano que tenga atribuida la competencia final del asunto",
+      "Sustitutivos de la resolución del órgano que tenga atribuida la competencia final",
+      "Posteriores a la resolución final, a efectos de control y seguimiento de la gestión"
+    ],
+    "correct": 0,
+    "exp": "El art. 18 del ROTPC, tras enumerar los asuntos sobre los que informa el Pleno de la Junta Municipal en relación con su territorio, añade que el órgano municipal competente, a iniciativa del Pleno de la Junta, podrá acordar que, en supuestos de especial relevancia y en materias desconcentradas, esos informes «sean previos y preceptivos» a la adopción de la resolución del órgano que tenga atribuida la competencia final. Preceptivo no significa vinculante: el precepto no atribuye a esos informes carácter vinculante ni sustitutivo de la resolución.",
+    "fuente": "Art. 18 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.2 del ROTPC, las mesas de trabajo y demás órganos complementarios que el Pleno de la Junta Municipal cree para el debate y estudio de asuntos concretos:",
+    "options": [
+      "Duran lo mismo que el mandato corporativo, salvo que el Pleno de la Junta acuerde antes su disolución expresa",
+      "Se extinguen al año de su constitución, salvo prórroga acordada por mayoría absoluta del Pleno",
+      "Se extinguen automáticamente al informar sobre su objeto, salvo que su acuerdo de creación diga otra cosa",
+      "Subsisten hasta que el Presidente de la Junta acuerde su disolución mediante resolución motivada"
+    ],
+    "correct": 2,
+    "exp": "El art. 20.2 del ROTPC permite al Pleno de la Junta Municipal crear órganos complementarios, como mesas de trabajo, que elevarán sus conclusiones al Pleno, y dispone que «se extinguen automáticamente una vez que hayan informado sobre el asunto que constituye su objeto, salvo que en el acuerdo de su constitución se establezca otra cosa». No se vinculan al mandato corporativo, a un plazo anual ni a una resolución del Presidente.",
+    "fuente": "Art. 20.2 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.3 del ROTPC, el asunto propuesto por los miembros de la Junta que han solicitado la celebración de una sesión extraordinaria:",
+    "options": [
+      "Puede llevarse libremente a la siguiente sesión ordinaria si así lo decide el Presidente de la Junta Municipal",
+      "Debe tratarse siempre en la siguiente sesión ordinaria, sin necesidad de convocar una extraordinaria",
+      "Solo puede llevarse a otra sesión si lo autoriza el Alcalde de la ciudad, a propuesta del Presidente",
+      "No puede llevarse a otra sesión ordinaria o extraordinaria sin autorización expresa de los solicitantes"
+    ],
+    "correct": 3,
+    "exp": "El art. 23.3 del ROTPC dispone que la sesión extraordinaria solicitada no podrá demorarse más de quince días hábiles desde la solicitud, «no pudiendo incorporarse el asunto propuesto al orden del día de una sesión ordinaria o de otra extraordinaria si no lo autorizan expresamente los solicitantes de la convocatoria». La decisión no corresponde, por tanto, al Presidente de la Junta ni al Alcalde.",
+    "fuente": "Art. 23.3 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.2 del ROTPC, si no existe quórum en primera convocatoria, la sesión plenaria de la Junta se entiende convocada automáticamente quince minutos más tarde, y para celebrarla en ese supuesto es suficiente la asistencia de:",
+    "options": [
+      "El Presidente, el Secretario y la mitad de los Vocales con voto",
+      "El Presidente, el Secretario y dos Vocales con derecho a voto",
+      "El Presidente y la cuarta parte de los miembros con derecho a voto",
+      "Cualquier número de asistentes, siempre que esté el Presidente"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.2 del ROTPC establece que la convocatoria señalará que, en el supuesto de no existir quórum, se entenderá convocada la sesión automáticamente quince minutos más tarde, «siendo suficiente para celebrar la sesión en este supuesto la asistencia del Presidente, Secretario y dos Vocales con derecho a voto». No basta cualquier número de asistentes con el Presidente: se exige también el Secretario y dos Vocales con voto.",
+    "fuente": "Art. 24.2 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.5 del ROTPC, las intervenciones del público a las que el Presidente puede invitar una vez finalizada la sesión de la Junta:",
+    "options": [
+      "Se transcriben íntegramente en el acta de la sesión",
+      "Se recogen de forma sucinta en el acta de la sesión",
+      "Se reflejan en un anexo al acta firmado por el Presidente",
+      "No son objeto de reflejo en el acta de la sesión"
+    ],
+    "correct": 3,
+    "exp": "El art. 26.5 del ROTPC dispone: «Una vez finalizada la sesión, El Presidente podrá invitar al publico a que realice intervenciones, no siendo las mismas objeto de reflejo en el acta». Por tanto, no se transcriben ni se resumen en el acta ni en un anexo. (La recogida sucinta de opiniones del art. 27.f) se refiere a las emitidas durante la sesión.)",
+    "fuente": "Art. 26.5 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28 del ROTPC, el acuerdo de reprobación de la gestión del Presidente de una Junta Municipal deberá ser adoptado por:",
+    "options": [
+      "La mayoría simple de los miembros presentes con derecho a voto",
+      "Los dos tercios del número legal de miembros del órgano colegiado de gobierno",
+      "La mayoría absoluta de los miembros presentes en la sesión",
+      "La mayoría absoluta del número legal de miembros del órgano colegiado"
+    ],
+    "correct": 3,
+    "exp": "El art. 28 del ROTPC dispone que el acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del Pleno «deberá ser adoptado por la mayoría absoluta del número legal de los miembros del órgano colegiado de gobierno», y se comunicará en el plazo de veinticuatro horas al Alcalde. La mayoría simple es la regla general para los acuerdos de la Junta (art. 21.4), no para la reprobación.",
+    "fuente": "Art. 28 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 34 del ROTPC, el Consejo Rector de la Junta Vecinal, de creación potestativa, lo forman el Presidente, los Presidentes de Concejos Locales, con voz y sin voto un representante por todas las Asociaciones de Vecinos, y:",
+    "options": [
+      "Un Vocal por cada grupo político municipal",
+      "Los Vocales de la Junta Vecinal",
+      "Dos Vocales elegidos por el Pleno de la Junta",
+      "El Concejal Delegado de Juntas Vecinales"
+    ],
+    "correct": 1,
+    "exp": "El art. 34 del ROTPC dispone que el Consejo Rector de la Junta Vecinal «lo forman el Presidente, los Vocales, los Presidentes de Concejos Locales» y, con voz y sin voto, un representante por todas las Asociaciones de Vecinos. A diferencia del Consejo Rector de la Junta Municipal (art. 19), que incluye un Vocal por cada grupo político municipal con representación en la Junta, en la Junta Vecinal se integran los Vocales.",
+    "fuente": "Art. 34 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 43 del ROTPC, las oficinas administrativas que asisten a las Juntas Municipales y Vecinales se coordinarán a través de:",
+    "options": [
+      "El Consejo de Distrito al que pertenecen",
+      "La Oficina Municipal de Apoyo al Ciudadano",
+      "El Consejo Territorial de Alcaldes de Barrio",
+      "La Oficina Técnica del Consejo de la Ciudad"
+    ],
+    "correct": 0,
+    "exp": "El art. 43 del ROTPC dispone que las Juntas Municipales y Vecinales estarán asistidas por oficinas administrativas suficientemente dotadas y que «Estas oficinas se coordinarán a través del Consejo de Distrito al que pertenecen». La Oficina Municipal de Apoyo al Ciudadano (art. 51), el Consejo Territorial de Alcaldes de Barrio (art. 30) y la Oficina Técnica del Consejo de la Ciudad (art. 98) tienen otras funciones.",
+    "fuente": "Art. 43 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 65 del ROTPC, los datos del Censo Municipal de Entidades Ciudadanas se enviarán a la totalidad de las Áreas Municipales, incluso a los centros territorializados:",
+    "options": [
+      "Una vez al año, cuando se elabore y actualice el Fichero de Entidades Ciudadanas",
+      "Una vez al mes y siempre que lo solicite el Consejo de la Ciudad",
+      "Una vez por trimestre y siempre que un órgano lo solicite por escrito",
+      "Una vez por semestre y siempre que lo solicite la Alcaldía"
+    ],
+    "correct": 2,
+    "exp": "El art. 65 del ROTPC ordena enviar los datos del Censo a la totalidad de las Áreas Municipales, incluso a los centros territorializados, para canalizar la participación de los vecinos como usuarios de los servicios, y añade: «Dicho trámite se hará una vez por trimestre y siempre que un órgano de los antes citados lo solicite por escrito al Departamento responsable del Censo». La periodicidad anual corresponde al Fichero de Entidades Ciudadanas del art. 66, que es otra cosa.",
+    "fuente": "Art. 65 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 81 del ROTPC, las entidades ciudadanas inscritas en el Censo que quieran intervenir ante el Pleno de su Junta Municipal o Vecinal en relación con un punto del orden del día lo harán:",
+    "options": [
+      "Con autorización del Alcalde de la ciudad, por medio de dos representantes y tras la votación",
+      "Con autorización del Presidente, por un único representante y antes del debate y votación",
+      "Sin autorización previa, por un único representante y una vez votada la propuesta",
+      "Con autorización del Secretario, por escrito y antes de la lectura de la propuesta"
+    ],
+    "correct": 1,
+    "exp": "El art. 81 del ROTPC dispone que las entidades inscritas deberán solicitarlo al Concejal Presidente o al Alcalde de Barrio y que, «Con la autorización de éste y a través de un único representante, podrán exponer su parecer durante el tiempo que señale el Presidente, con anterioridad a la lectura, debate y votación de la propuesta incluida en el orden del día».",
+    "fuente": "Art. 81 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85 del ROTPC, en relación con el mundo asociativo, entre las funciones del Consejo de la Ciudad de Zaragoza figura:",
+    "options": [
+      "Participar en la mediación en posibles conflictos internos de las asociaciones y entre éstas",
+      "Acordar la inscripción de las asociaciones solicitantes en el Censo Municipal de Entidades Ciudadanas",
+      "Resolver sobre la declaración de Interés público municipal de las asociaciones solicitantes",
+      "Fiscalizar las cuentas anuales de las asociaciones que reciban subvenciones municipales"
+    ],
+    "correct": 0,
+    "exp": "El art. 85 del ROTPC atribuye al Consejo de la Ciudad, para un mejor desarrollo del mundo asociativo, la función de «Participar en la mediación en posibles conflictos internos de las asociaciones y entre éstas». La inscripción en el Censo la acuerda el Alcalde o Teniente de Alcalde Delegado (art. 62); la declaración de Interés público municipal la resuelve el Pleno del Ayuntamiento, con informe del Consejo (art. 69); y la fiscalización de cuentas no es función del Consejo.",
+    "fuente": "Art. 85 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87 del ROTPC, la estructura que tendrá necesariamente el Consejo de la Ciudad de Zaragoza comprende, además de la Presidencia, la Vicepresidencia y el Pleno del Consejo:",
+    "options": [
+      "Un Consejo Rector y una Junta de Portavoces de los grupos municipales",
+      "Las Comisiones del Consejo de la Ciudad y la Oficina Técnica",
+      "Una Comisión Permanente y una Secretaría General propia",
+      "Una Gerencia y una Asamblea de Entidades del Consejo"
+    ],
+    "correct": 1,
+    "exp": "El art. 87 del ROTPC dispone que el Consejo de la Ciudad de Zaragoza tendrá necesariamente la siguiente estructura: Presidencia, Vicepresidencia, Pleno del Consejo, Comisiones del Consejo de la Ciudad y Oficina Técnica. Sus órganos están asistidos por el Secretario General del Pleno de la Corporación, o funcionario en quien delegue, y por el Área de Participación Ciudadana; no tiene una Secretaría General propia, ni Consejo Rector, Comisión Permanente o Gerencia.",
+    "fuente": "Art. 87 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 91 del ROTPC, el Presidente del Consejo de la Ciudad de Zaragoza nombrará Vicepresidente del Consejo a:",
+    "options": [
+      "El Secretario General del Pleno del Ayuntamiento",
+      "El Teniente de Alcalde de Participación Ciudadana",
+      "El Rector de la Universidad de Zaragoza o su delegado",
+      "El miembro del Consejo que elija el Pleno del Consejo"
+    ],
+    "correct": 1,
+    "exp": "El art. 91 del ROTPC dispone: «El Presidente nombrará al Teniente de Alcalde de Participación Ciudadana Vicepresidente del Consejo», que le asistirá y le suplirá en caso de vacante, enfermedad o ausencia. El art. 92 lo confirma al incluir en el Pleno del Consejo al Teniente de Alcalde Coordinador del Área de Participación Ciudadana, «que será su Vicepresidente». El Secretario General del Pleno asiste a los órganos del Consejo (art. 87) y el Rector es un miembro más del Pleno (art. 92).",
+    "fuente": "Art. 91 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94 del ROTPC, el Pleno del Consejo de la Ciudad de Zaragoza se reunirá en sesión ordinaria:",
+    "options": [
+      "Cuatro veces al año",
+      "Una vez cada dos meses",
+      "Tres veces al año",
+      "Dos veces al año"
+    ],
+    "correct": 0,
+    "exp": "El art. 94 del ROTPC dispone: «El Pleno del Consejo se reunirá cuatro veces al año en sesión ordinaria». Además, se reunirá en sesión extraordinaria siempre que el Presidente lo considere necesario o cuando lo soliciten un tercio de sus miembros. (Tres veces al año, como mínimo, es la periodicidad de la Comisión Especial de Sugerencias y Reclamaciones, art. 106.1.)",
+    "fuente": "Art. 94 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 103 del ROTPC, en cuanto a su independencia, la Comisión Especial de Sugerencias y Reclamaciones:",
+    "options": [
+      "Actúa conforme a las instrucciones que le dirijan el Alcalde o el Teniente de Alcalde delegado",
+      "No está sujeta a mandato imperativo alguno ni recibe instrucciones de ninguna Autoridad",
+      "Se sujeta a las directrices generales que apruebe cada año el Pleno del Ayuntamiento",
+      "Depende jerárquicamente del Área de Participación Ciudadana y recibe sus instrucciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 103 del ROTPC dispone: «La Comisión Especial de Sugerencias y Reclamaciones no estará sujeta a mandato imperativo alguno. No recibirá instrucciones de ninguna Autoridad», y desarrollará sus funciones «con autonomía y según su criterio». Que esté adscrita al Área de Participación Ciudadana (art. 102) no la somete a instrucciones de esta.",
+    "fuente": "Art. 103 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 105 del ROTPC, las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones:",
+    "options": [
+      "Anulan el acto administrativo reclamado cuando aprecian una infracción del ordenamiento jurídico",
+      "No suponen por sí mismas la modificación o anulación de actos o resoluciones administrativas",
+      "Suspenden la ejecución del acto reclamado hasta que resuelva el órgano municipal competente",
+      "Obligan al órgano autor del acto reclamado a revisarlo de oficio en el plazo de un mes"
+    ],
+    "correct": 1,
+    "exp": "El art. 105 del ROTPC dispone que las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones «no supondrán por sí mismas, en ningún caso, la modificación o anulación de actos o resoluciones administrativas», ni podrá la Comisión interponer acciones judiciales. Puede proponer fórmulas de conciliación y recomendar la modificación de normas, pero no anula, suspende ni obliga a revisar actos.",
+    "fuente": "Art. 105 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.1 del ROTPC, la Comisión Especial de Sugerencias y Reclamaciones, cuyo funcionamiento tiene carácter periódico, se reunirá al menos:",
+    "options": [
+      "Una vez al año",
+      "Dos veces al año",
+      "Seis veces al año",
+      "Tres veces al año"
+    ],
+    "correct": 3,
+    "exp": "El art. 106.1 del ROTPC dispone que la Comisión Especial de Sugerencias y Reclamaciones «se reunirá al menos tres veces al año, teniendo su funcionamiento carácter periódico», y que el Presidente podrá convocar reuniones extraordinarias cuando la gravedad o urgencia de los asuntos lo requieran.",
+    "fuente": "Art. 106.1 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107 del ROTPC, las sesiones de la Comisión Especial de Sugerencias y Reclamaciones:",
+    "options": [
+      "No son públicas, y quienes comparecen para informar deben abandonar la reunión antes de deliberar",
+      "Son públicas, salvo que la Comisión acuerde lo contrario por mayoría absoluta del número legal de sus miembros",
+      "Son públicas, pero el público asistente no puede intervenir ni manifestar agrado o desagrado",
+      "No son públicas, pero quienes comparecen pueden asistir a la deliberación sin derecho a voto"
+    ],
+    "correct": 0,
+    "exp": "El art. 107 del ROTPC dispone que «Las sesiones de la Comisión Especial de Sugerencias y Reclamaciones, no serán públicas». Pueden comparecer autoridades, funcionarios o empleados públicos relacionados con la queja para informar, «tras lo cual, y antes de iniciarse la deliberación, deberán abandonar el lugar de la reunión». La investigación se lleva a cabo con la más absoluta reserva.",
+    "fuente": "Art. 107 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 109 del ROTPC, ¿puede una autoridad administrativa presentar quejas o reclamaciones ante la Comisión Especial de Sugerencias y Reclamaciones en asuntos de su competencia?",
+    "options": [
+      "Sí, siempre que invoque un interés legítimo y tenga capacidad de obrar",
+      "No, ninguna autoridad administrativa puede hacerlo en asuntos de su competencia",
+      "Sí, pero solo a través de la Oficina Técnica de la Comisión y por escrito",
+      "Solo si lo autoriza previamente el Alcalde de la ciudad o el Teniente de Alcalde delegado"
+    ],
+    "correct": 1,
+    "exp": "El art. 109.2 del ROTPC permite presentar quejas o reclamaciones a toda persona, natural o jurídica, con capacidad de obrar que invoque un interés legítimo, pero añade: «Ninguna autoridad administrativa podrá presentar quejas o reclamaciones ante la citada Comisión en asuntos de su competencia». La prohibición no se salva con interés legítimo, con la vía de presentación ni con autorización del Alcalde.",
+    "fuente": "Art. 109.2 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 113.2 del ROTPC, los Servicios y Organismos responsables deberán dar respuesta directa y por escrito a los interesados que hayan presentado una queja, reclamación o sugerencia, en un plazo máximo, contado desde la primera comunicación recibida de la Oficina Técnica de apoyo a la Comisión, de:",
+    "options": [
+      "Diez días",
+      "Un mes",
+      "Quince días",
+      "Veinte días"
+    ],
+    "correct": 2,
+    "exp": "El art. 113.2 del ROTPC dispone que los Servicios y Organismos responsables «deberán dar respuesta directa y por escrito a los interesados en el plazo máximo de quince días, a contar desde la primera comunicación recibida desde la Oficina Técnica», comunicando a esta la solución adoptada. Los diez días del art. 113.1 son el plazo para que la Comisión recabe información e investigue desde la presentación de la queja.",
+    "fuente": "Art. 113.2 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional segunda del ROTPC, a todos los Barrios Rurales descritos en su art. 2 se les reconoce la condición de:",
+    "options": [
+      "Entidades locales menores con personalidad jurídica propia",
+      "Distritos municipales a todos los efectos administrativos",
+      "Entidades singulares de población a efectos estadísticos",
+      "Concejos Locales con un Presidente y cuatro Vocales propios"
+    ],
+    "correct": 2,
+    "exp": "La disposición adicional segunda del ROTPC dispone: «Se reconoce a todos los Barrios Rurales descritos en el Artículo 2 de este Reglamento la condición de entidades singulares de población a efectos estadísticos, y así se comunicará a los organismos competentes». Los Barrios Rurales se rigen por Juntas Vecinales y forman parte del Distrito Rural (art. 2); no son entidades con personalidad jurídica ni Concejos Locales.",
+    "fuente": "Disposición adicional segunda ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «El aprendizaje de recursos y habilidades» del Manual de Atención a la Ciudadanía, ¿qué hace que una persona conciba su trabajo (y su vida) como un continuo proceso de aprendizaje?",
+    "options": [
+      "Una actitud humilde acompañada de buenas dosis de constancia y tolerancia a la frustración",
+      "Una actitud crítica acompañada de buenas dosis de ambición y de espíritu competitivo",
+      "Una formación reglada acompañada de buenas dosis de experiencia y de antigüedad en el puesto",
+      "Una actitud perfeccionista acompañada de buenas dosis de autoexigencia y de autocontrol"
+    ],
+    "correct": 0,
+    "exp": "El Manual (pág. 14) afirma: «Una actitud humilde acompañada de buenas dosis de constancia y tolerancia a la frustración hacen que una persona conciba su trabajo (y su vida) como un continuo proceso de aprendizaje». El «Recuerde» de la pág. 15 lo resume: concebir el trabajo como un continuo proceso de aprendizaje, con una actitud humilde, con buenas dosis de constancia y con tolerancia a la frustración.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El aprendizaje de recursos y habilidades», pág. 14",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «La habilidad de hablar» del Manual de Atención a la Ciudadanía, que la expresión sea clara significa, entre otras cosas:",
+    "options": [
+      "Emplear siempre los términos técnicos exactos de la norma que se aplica",
+      "Repetir al menos dos veces cada dato relevante para la persona",
+      "Evitar el argot o jerga profesional de las administraciones públicas",
+      "Hablar con un volumen de voz alto para asegurar que se nos oye"
+    ],
+    "correct": 2,
+    "exp": "Según el Manual (pág. 23), «Expresión clara significa que los términos lingüísticos empleados sean también conocidos por quien nos escucha y hacemos aquí especial mención a evitar el argot o jerga profesional de las administraciones públicas»; también, que los mensajes no verbales ratifiquen el contenido de las palabras. Emplear los términos técnicos de la norma va en sentido contrario, y el Manual recomienda un volumen de voz ligeramente bajo y acogedor (pág. 31).",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La habilidad de hablar», pág. 23",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «El primer contacto: saludarse» del Manual de Atención a la Ciudadanía, el saludo conviene iniciarlo con:",
+    "options": [
+      "La petición de la documentación necesaria para la gestión",
+      "Una declaración de buenos deseos y de aclaración de intenciones",
+      "La indicación del tiempo aproximado que durará la gestión",
+      "Una disculpa por la espera, se haya producido esta o no"
+    ],
+    "correct": 1,
+    "exp": "El Manual (pág. 25) indica que, como norma general, debemos tomar la iniciativa en el saludo y que «El saludo conviene iniciarlo con una declaración de buenos deseos y de aclaración de intenciones», con ejemplos como «Buenos días, ¿en qué puedo ayudarle?». Pedir la documentación o anunciar la duración de la gestión no es lo que recomienda; la disculpa por la espera solo aparece en un ejemplo para cuando se ha hecho esperar a la persona.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El primer contacto: saludarse», pág. 25",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «Capacidad de respuesta» del Manual de Atención a la Ciudadanía, buscar las informaciones solo cuando las necesitamos o nos las piden no habla mucho en favor de una buena capacidad de respuesta; por eso es necesaria cierta dosis de:",
+    "options": [
+      "Anticipación y previsión",
+      "Tranquilidad y paciencia",
+      "Firmeza y autoridad",
+      "Prudencia y reserva"
+    ],
+    "correct": 0,
+    "exp": "El Manual (pág. 27) concluye: «En definitiva, lo que estamos sugiriendo es que es necesaria cierta dosis de anticipación y de previsión. Buscar las informaciones sólo cuando las necesitamos o nos las piden no habla mucho en favor de una buena capacidad de respuesta». Por eso recomienda conocer con cierta exactitud el funcionamiento de los otros servicios de los que dependemos.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Capacidad de respuesta», pág. 27",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «Mantener la calma» del Manual de Atención a la Ciudadanía, una buena estrategia para mantener la calma en una situación tensa, de diálogo difícil, es:",
+    "options": [
+      "Interrumpir la atención y ausentarse unos minutos del puesto de trabajo",
+      "Elevar algo el tono de voz para recuperar el control de la conversación",
+      "Remitir de inmediato a la persona al procedimiento de quejas y sugerencias",
+      "Respirar profundamente varias veces para enlentecer el ritmo respiratorio"
+    ],
+    "correct": 3,
+    "exp": "El Manual (pág. 28) señala: «Una buena estrategia para mantener la calma en una situación tensa, de diálogo difícil, es respirar profundamente varias veces. Al enlentecer el ritmo respiratorio, el cuerpo es inducido a un tipo de repuestas más controladas». Otra estrategia igualmente eficaz es el diálogo constructivo con uno mismo (autoverbalizaciones). Elevar el volumen de voz figura entre lo que no hay que hacer (pág. 39).",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Mantener la calma», pág. 28",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según «La curva de la hostilidad» del Manual de Atención a la Ciudadanía, ¿cuándo es el momento oportuno de presentar nuestros argumentos para la comprensión y solución del problema?",
+    "options": [
+      "Cuando la persona irritada ha vuelto al nivel racional de comunicación del que había salido",
+      "En la fase de disparo o salida, para frenar cuanto antes la escalada de la persona irritada",
+      "En cuanto la reacción inicial empieza a perder consistencia y a venirse abajo",
+      "En la fase de afrontamiento, defendiendo nuestra actuación o la del Ayuntamiento"
+    ],
+    "correct": 0,
+    "exp": "En la fase 6 («Solución del problema»), el Manual (pág. 35) dice: «Si hemos conseguido que la persona irritada retome a un nivel racional de comunicación del que había salido, es el momento oportuno de presentar nuestros argumentos que posibiliten la comprensión y solución del problema». En la fase de disparo lo oportuno es escuchar, cuando la reacción empieza a venirse abajo (enlentecimiento) todavía no es el momento de argumentar, y defender nuestra actuación o al Ayuntamiento en la fase de afrontamiento hace probable que se repita la fase de disparo (pág. 36).",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La curva de la hostilidad», Fase 6, pág. 35",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre los «siete errores» de los servicios con atención a la ciudadanía, el Manual describe uno cuyo mensaje de fondo es «¡Cómo pretende saber lo que es mejor para Vd. y no lo entendería», con una alta probabilidad de incidentes, conflictos y situaciones problemáticas. ¿Cómo se denomina?",
+    "options": [
+      "Frialdad",
+      "Apatía",
+      "Excesiva reglamentación",
+      "Condescendencia"
+    ],
+    "correct": 3,
+    "exp": "El Manual (pág. 12) define la condescendencia así: «El mensaje de fondo es “¡Cómo pretende saber lo que es mejor para Vd. y no lo entendería”. El resultado es una alta probabilidad de incidentes, conflictos y situaciones problemáticas». La frialdad consiste en percibir a la persona como un personaje molesto; la apatía es lo contrario de la simpatía y la empatía; y la excesiva reglamentación es la falta de flexibilidad por estar «pegado» a la norma.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las características de la calidad en un servicio con atención a la ciudadanía, el Manual de Atención a la Ciudadanía señala que es necesario hacer las cosas bien:",
+    "options": [
+      "Siempre, aunque ello suponga dedicar más tiempo a cada persona",
+      "Según el procedimiento, aunque la persona no quede satisfecha",
+      "La primera vez, sin olvidar que para cada cual esa es «su vez»",
+      "Aunque sea más despacio, porque la rapidez es algo secundario"
+    ],
+    "correct": 2,
+    "exp": "La segunda característica de la calidad que recoge el Manual (pág. 13) es: «Es necesario hacer las cosas bien la primera vez, sin olvidar que para cada cual esa es “su vez”». El Manual no subordina la satisfacción de la persona al procedimiento (critica la excesiva reglamentación) ni considera secundaria la rapidez, que califica de factor a menudo decisivo (pág. 27).",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Características de la calidad en un servicio con atención a la ciudadanía», característica 2.ª, pág. 13",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el principio básico del Manual de Atención a la Ciudadanía que afirma que la interacción es única para el ciudadano o ciudadana atendidos, pero múltiple y repetitiva para el personal que realiza contacto directo, el peligro es que la repetitividad conlleva:",
+    "options": [
+      "La frustración",
+      "El agotamiento",
+      "El aburrimiento",
+      "La desconfianza"
+    ],
+    "correct": 2,
+    "exp": "El principio 4 del Manual (pág. 42) dice: «El peligro es que la repetitividad conlleva EL ABURRIMIENTO», y entonces los contenidos de trabajo se hacen con rutina y descuido, las relaciones personales no se cuidan o se olvidan y la ciudadanía puede convertirse en un número o un bulto.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 4, pág. 42",
+    "confianza": "alta"
+  }
+]);

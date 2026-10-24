@@ -1,39 +1,71 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 15,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el primer principio básico del Manual de Atención a la Ciudadanía («Para la ciudadanía»), lo único tangible de una organización abstracta e inasible como el Ayuntamiento es:",
+      "q": "Según el art. 25.3 del ROTPC, ¿cuántas mociones por razones de urgencia pueden someter los grupos, o un mínimo de tres Vocales, a la consideración del Pleno de la Junta, presentándolas antes del inicio de la sesión plenaria?",
       "options": [
-        "Las normas y los procedimientos que aplica en cada servicio",
-        "El soporte físico y, sobre todo, la persona de contacto",
-        "Los impresos, folletos y letreros que ofrece al público",
-        "Los resultados de las encuestas de satisfacción ciudadana"
+        "Una sola moción",
+        "Dos mociones como máximo",
+        "Tres mociones como máximo",
+        "Un número ilimitado de mociones"
       ],
-      "correct": 1,
-      "exp": "El principio 1 (pág. 40) dice que el Ayuntamiento es una organización y, por tanto, algo abstracto e inasible, y que «Lo único tangible es EL SOPORTE FÍSICO Y, sobre todo, LA PERSONA DE CONTACTO». Ambos dan el rostro del servicio y, por tanto, «SON EL SERVICIO».",
-      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 1, pág. 40",
+      "correct": 0,
+      "exp": "El art. 25.3, párrafo segundo, del ROTPC dispone que los grupos, o un mínimo de tres vocales, podrán someter a la consideración del Pleno «una sola moción por razones de urgencia que se podrá presentar antes del inicio de la sesión plenaria». El autor justifica la urgencia y el Pleno vota acto seguido la procedencia de su debate; si se aprueba por mayoría simple, se debate y vota el proyecto de acuerdo.",
+      "fuente": "Art. 25.3, párr. 2.º, ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 40: la respuesta marcada (soporte físico y, sobre todo, persona de contacto) es literal del principio 1. Pero el distractor «Los impresos, folletos y letreros que ofrece al público» no es claramente falso: el propio Manual (pág. 8) incluye letreros, folletos e impresos entre los «aspectos tangibles», y se pueden entender como parte del «soporte físico». Un opositor que conozca el Manual puede dudar. Arreglo: sustituir ese distractor por algo ajeno a lo tangible, p. ej. «Los acuerdos y resoluciones que adoptan sus órganos de gobierno». Por lo demás no repite (la existente de pág. 8 pregunta el factor «aspectos tangibles», no el principio 1). | Revisor 2 (CONFIRMADA): Manual 2018, principio 1: «Lo único tangible es EL SOPORTE FÍSICO Y, sobre todo, LA PERSONA DE CONTACTO». Nota: impresos, folletos y letreros forman parte de los «aspectos tangibles» del apartado de calidad, pero como «lo único tangible» la opción es falsa, porque omite a la persona de contacto, que es lo esencial. Sin ambigüedad real. No repetida.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 25.3, párr. 2.º ROTPC literal: «una sola moción por razones de urgencia». Leída como cupo total o como cupo por grupo, la respuesta literal es la misma y ningún distractor pasa a ser cierto. No se delata por la longitud: la correcta es la más corta, y «una sola» es la forma natural del límite unitario. Sin repetición: las existentes del 25.3 preguntan la antelación de tres días hábiles y el nombre de «mociones». | Revisor 2 (DUDOSA): Contenido correcto: art. 25.3 párr. 2.º ROTPC, «una sola moción por razones de urgencia que se podrá presentar antes del inicio de la sesión plenaria». Sin duplicado (las existentes del 25.3 son sobre la antelación de tres días hábiles). Pero la forma delata/descompensa: la correcta es la única con el giro enfático literal «Una sola moción» frente a «Dos/Tres mociones como máximo», y el enunciado habla en plural («presentándolas»). Arreglo: homogeneizar opciones («Una como máximo», «Dos como máximo», «Tres como máximo», «Sin límite de número») y redactar el enunciado sin plural («que se presenten antes del inicio…»).",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "¿Cuántos principios numerados recoge el apartado «Principios básicos en la atención a la ciudadanía», con el que concluye el Manual de Atención a la Ciudadanía?",
+      "q": "Según el art. 73 del ROTPC, si la propuesta de resolución sobre la declaración de Interés ciudadano de una entidad es desestimatoria, se dará audiencia a la entidad solicitante para que formule alegaciones en el plazo de:",
       "options": [
-        "Diez",
-        "Doce",
-        "Dieciséis",
-        "Catorce"
+        "Diez días",
+        "Quince días",
+        "Un mes",
+        "Tres meses"
       ],
-      "correct": 3,
-      "exp": "El apartado (págs. 40-45) numera catorce principios, del «1. Para la ciudadanía» al «14. Para cambiar se necesita mucho tiempo y esfuerzo», tras el cual el Manual termina («FIN»). Ojo: el enunciado de la pregunta 15 del examen oficial de 31-may-2026 decía que el Manual «concluye con quince principios básicos», pero el texto numera catorce.",
-      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», págs. 40-45",
+      "correct": 2,
+      "exp": "El art. 73 del ROTPC dispone que el Área de Participación Ciudadana propondrá al Pleno la concesión de la declaración de Interés ciudadano y que, «En el caso de que la propuesta sea desestimatoria se dará audiencia a la entidad solicitante para que en el plazo de un mes pueda formular alegaciones» y presentar documentos. El art. 69 prevé el mismo plazo para la declaración de Interés público municipal.",
+      "fuente": "Art. 73 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Duda (1): el texto (págs. 40-45) numera 14 principios y termina en «FIN», así que la respuesta es literalmente cierta. Pero no es segura. El tribunal, en la P15 del examen oficial de 31-may-2026, afirmó en el enunciado que el Manual «concluye con quince principios básicos». Esto indica que el tribunal cuenta de otra forma o maneja otra versión, y no he podido descartarlo. Si vuelve a caer, la cifra «oficial» puede ser 15 y enseñar «14» llevaría al error. Además, un recuento de epígrafes aporta poco. Las opciones esquivan deliberadamente «Quince», lo que confirma el conflicto. La explicación incluye una nota editorial sobre el examen. Ante la duda, rechazo. | Revisor 2 (RECHAZADA): El PDF de 2018 numera 14 principios (del 1 al 14, y después FIN), pero el propio tribunal, en la P15 del examen oficial de 31-may-2026 que ya está en el banco (tema 21), parte de que el Manual «concluye con quince principios básicos». Enseñar «catorce» como dato de examen contradice la premisa del tribunal: o usa otra edición o cuenta de otra forma. Si cae «¿cuántos principios?», la respuesta que esperaría el tribunal no coincide con esta. Además, en la app la explicación contradice una pregunta oficial. Riesgo de perjudicar al opositor: se rechaza.",
+      "notaRevision": "Revisor 1 (RECHAZADA): El art. 73 ROTPC dice, en efecto, «en el plazo de un mes», pero el art. 82.2 LPAC (Ley 39/2015, básica) fija la audiencia «en un plazo no inferior a diez días ni superior a quince». Lo mismo decía el art. 84.2 de la Ley 30/1992, vigente cuando se aprobó el ROTPC. Un reglamento municipal no puede alterar ese trámite (art. 1.2 LPAC), así que se presentaría como vigente una regla contraria a la legislación básica (regla 10). Además, la respuesta coincide con uno de los distractores habituales de audiencia («Diez días», «Quince días»), lo que confunde con el régimen general. No hay pregunta existente que la repita. | Revisor 2 (DUDOSA): Literalmente correcta: art. 73 ROTPC, audiencia a la entidad «en el plazo de un mes» si la propuesta es desestimatoria (igual en art. 69). Problema (reglas 7-10): el art. 82.2 LPAC, legislación básica posterior (y antes el 84.2 de la Ley 30/1992), fija para el trámite de audiencia un plazo «no inferior a diez días ni superior a quince», de modo que los distractores «Diez días» y «Quince días» son precisamente el plazo de la norma básica y el mes del ROTPC puede considerarse desplazado. Arreglo: avisar en la explicación de la discrepancia con el art. 82.2 LPAC y cambiar esos dos distractores por cifras ajenas a ambas normas (p. ej., «Cinco días», «Dos meses»), o descartarla.",
       "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el Manual de Atención a la Ciudadanía, ¿cuál de los siguientes se encuadra entre los componentes sociales de la conducta interpersonal en el puesto de trabajo de atención directa?",
+      "options": [
+        "La voz: tono, timbre y volumen",
+        "La forma de pensar: interpretaciones, fantasías y recuerdos",
+        "El sistema hormonal y el sistema nervioso central",
+        "Las normas sociales: legalidad, normas de educación"
+      ],
+      "correct": 3,
+      "exp": "El Manual (págs. 16-17) agrupa los componentes de la conducta interpersonal en tres bloques. Son componentes sociales el contexto, «Las normas sociales: legalidad, normas de educación», la idiosincrasia del puesto, la pertenencia a un grupo y los valores y actitudes de la organización. La voz (tono, timbre, volumen), el sistema hormonal y el sistema nervioso central son componentes biológicos, y la forma de pensar es un componente psicológico.",
+      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Componentes básicos de la conducta humana», págs. 16-17",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): El contenido es correcto (Manual, pág. 17: «Las normas sociales: legalidad, normas de educación» está entre los componentes sociales; la voz y los sistemas hormonal y nervioso son biológicos y la forma de pensar es psicológica). Pero la correcta se delata por la forma: es la única opción que repite la palabra «sociales» del enunciado (regla 7 bis). Arreglo: usar como correcta otro componente social de la pág. 17, por ejemplo «El contexto: ambiente de trabajo, situación personal y familiar» o «La pertenencia a un grupo determinado (categoría profesional, unidad en que se trabaja)». No repite las existentes sobre los tres bloques ni sobre los componentes psicológicos. | Revisor 2 (CONFIRMADA): Manual, «Componentes básicos de la conducta humana»: entre los componentes sociales, «Las normas sociales: legalidad, normas de educación». La voz, el sistema hormonal y el SNC son componentes biológicos; la forma de pensar, psicológico. Respuesta única. No repite las existentes (tres bloques y componentes psicológicos).",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el principio básico «Dirigir nuestra atención hacia la solución del problema» del Manual de Atención a la Ciudadanía, nuestras palabras y gestos deben ir dirigidos hacia:",
+      "options": [
+        "La persona en sí, más que hacia sus comportamientos concretos",
+        "La norma aplicable, más que hacia las circunstancias del caso",
+        "Los aspectos emocionales, más que hacia el contenido de la demanda",
+        "Los comportamientos concretos, no hacia la persona en sí"
+      ],
+      "correct": 3,
+      "exp": "El principio 5 del Manual (pág. 42) advierte que tomarse las cosas demasiado personalmente suele acarrear muchos problemas y pocas soluciones, y que «Nuestras palabras y gestos deben ir dirigidos hacia los comportamientos concretos, no hacia la persona en sí».",
+      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 5, pág. 42",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): El contenido es correcto (Manual, pág. 42, principio 5: «deben ir dirigidos hacia los comportamientos concretos, no hacia la persona en sí»). Pero se delata por la forma: un distractor es la inversión exacta de la correcta, lo que deja solo dos candidatas, y la correcta es la única con la estructura «..., no hacia ...», mientras que las otras tres usan «..., más que hacia ...» (regla 7 bis). Arreglo: dar a las cuatro la misma estructura (por ejemplo, todas «X, no hacia Y») y cambiar el distractor espejo por otro, como «La norma aplicable, no hacia las circunstancias del caso». | Revisor 2 (CONFIRMADA): Manual, «Principios básicos», principio 5: «Nuestras palabras y gestos deben ir dirigidos hacia los comportamientos concretos, no hacia la persona en sí». El distractor inverso es falso; los otros, ajenos. Correcta, la más corta. Sin duplicado.",
+      "_motivo": "veredicto DUDOSA"
     }
   ]
 }
