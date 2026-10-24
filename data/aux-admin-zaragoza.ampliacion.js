@@ -526,7 +526,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
       "Dos años continuados"
     ],
     "correct": 3,
-    "exp": "El art. 16.3 del RD 365/1995 dispone que «cada período de excedencia tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince». El art. 89.2 TREBEP no fija plazo: remite a las leyes de Función Pública de desarrollo la determinación de los periodos mínimos de permanencia.",
+    "exp": "El art. 16.3 del RD 365/1995 dispone que «cada período de excedencia tendrá una duración no inferior a dos años continuados», y el art. 29.3 c) de la Ley 30/1984 dice lo mismo («en ella no se podrá permanecer menos de dos años continuados»); el TREBEP deroga ese artículo «con el alcance establecido en el apartado 2 de la disposición final cuarta» (disposición derogatoria única b), de modo que sigue aplicándose, en tanto no se oponga al Estatuto, hasta que se dicten las leyes de Función Pública y las normas reglamentarias de desarrollo. El art. 89.2 TREBEP no fija plazo: remite a esas leyes la determinación de los periodos mínimos de permanencia. Cuidado con el resto del art. 16.3 y con el 16.4: la duración máxima («con un máximo de quince» años) y la pérdida de la condición de funcionario por no pedir el reingreso a tiempo ya no rigen. Procedían de la redacción que la Ley 22/1993 dio al art. 29.3 c) de la Ley 30/1984, y la Ley 13/1996 (art. 104) los suprimió; el TREBEP tampoco fija un máximo ni recoge esa causa de pérdida en su art. 63.",
     "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)"
   },
 ]);
@@ -6050,27 +6050,27 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
   {
     "q": "Según el art. 7.1.a) del RD 365/1995, cuando el puesto desempeñado antes de pasar a servicios especiales se hubiera obtenido por libre designación, al reingreso se adjudicará...",
     "options": [
-      "Un puesto de nivel inferior en el mismo Ministerio, con carácter definitivo",
-      "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio",
-      "Un puesto de igual nivel y similares retribuciones, con carácter provisional, en el mismo municipio, hasta obtener otro con carácter definitivo",
-      "El mismo puesto que desempeñaba, con carácter definitivo"
+      "Un puesto de nivel inmediatamente inferior, con carácter definitivo, en el mismo Ministerio y municipio en que prestaba servicios",
+      "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio, cualquiera que sea el municipio",
+      "Un puesto de igual nivel y similares retribuciones en el mismo municipio, con carácter provisional hasta obtener otro definitivo",
+      "El mismo puesto de libre designación que desempeñaba, con carácter definitivo, salvo que haya sido suprimido o amortizado"
     ],
     "correct": 2,
-    "exp": "El art. 7.1.a) prevé un puesto provisional de igual nivel y similares retribuciones en el mismo municipio para quienes procedían de un puesto de libre designación.",
-    "fuente": "Art. 7.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "El art. 7.1 a) del RD 365/1995 dispone que, cuando el puesto desempeñado con anterioridad se hubiera obtenido por libre designación, se adjudicará al funcionario, «con carácter provisional, en tanto no obtengan otro con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo municipio». No se le devuelve el puesto de libre designación ni se le adjudica uno de nivel inferior; la adjudicación con carácter definitivo en el mismo Ministerio es propia de la letra b), para los demás casos, y siempre en el mismo municipio. El art. 87.3 TREBEP, básico, garantiza como mínimo a quienes se encuentran en servicios especiales el derecho «a reingresar al servicio activo en la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados, de acuerdo con el sistema de carrera administrativa vigente en la Administración Pública a la que pertenezcan». El art. 7.1 del RD 365/1995 concreta esa garantía para los funcionarios de la Administración General del Estado.",
+    "fuente": "Art. 7.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas); art. 87.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
     "q": "En los supuestos no correspondientes a libre designación, el art. 7.1.b) del RD 365/1995 dispone que se adjudicará al funcionario, con carácter definitivo...",
     "options": [
-      "Un puesto de igual nivel en otro Ministerio, con carácter provisional",
-      "Un puesto de nivel superior en otro Ministerio",
-      "Cualquier puesto vacante en la Administración, sin garantía de nivel",
+      "Un puesto de igual nivel y similares retribuciones en cualquier Ministerio de la misma provincia",
+      "Un puesto de nivel superior en el mismo Ministerio, siempre que exista vacante en el municipio",
+      "Cualquier puesto vacante de su Cuerpo o Escala en la Administración, sin garantía de nivel",
       "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio"
     ],
     "correct": 3,
-    "exp": "El art. 7.1.b) adjudica, con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio.",
-    "fuente": "Art. 7.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "El art. 7.1 b) del RD 365/1995 dispone que, en los casos en que el puesto anterior no se obtuvo por libre designación, se adjudicará al funcionario, «con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio». No basta un puesto de otro Ministerio de la provincia ni cualquier vacante sin garantía de nivel, y el precepto no habla de un nivel superior. El art. 87.3 TREBEP, básico, garantiza como mínimo a quienes se encuentran en servicios especiales el derecho «a reingresar al servicio activo en la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados, de acuerdo con el sistema de carrera administrativa vigente en la Administración Pública a la que pertenezcan». El art. 7.1 del RD 365/1995 concreta esa garantía para los funcionarios de la Administración General del Estado.",
+    "fuente": "Art. 7.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas); art. 87.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
@@ -6154,14 +6154,14 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
   {
     "q": "Según el art. 10.1 del RD 365/1995, los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de éstas, hallándose en situación de...",
     "options": [
-      "Servicios especiales en todo caso",
-      "Excedencia forzosa en su Cuerpo o Escala de origen",
+      "Servicios especiales en la Comunidad Autónoma, con reserva del puesto que ocupaban en su Cuerpo o Escala de origen",
+      "Servicio activo en la Comunidad Autónoma y excedencia forzosa en su Cuerpo o Escala de origen hasta su integración",
       "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
-      "Excedencia voluntaria por servicios en el sector público"
+      "Servicio activo en la Comunidad Autónoma y excedencia voluntaria por servicios en el sector público en su Cuerpo o Escala de origen"
     ],
     "correct": 2,
-    "exp": "El art. 10.1 sitúa a los funcionarios transferidos en servicio activo en la Comunidad Autónoma, y en 'servicio en Comunidades Autónomas' respecto de su Cuerpo o Escala de origen.",
-    "fuente": "Art. 10.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "El art. 10.1 del RD 365/1995 dispone que los funcionarios transferidos a las Comunidades Autónomas «se integran plenamente en la organización de las mismas y su situación administrativa es la de servicio activo en ellas», y que en los Cuerpos o Escalas de la Administración del Estado de los que procedieran permanecen «en la situación administrativa especial de servicio en Comunidades Autónomas». Aviso: el TREBEP, básico y posterior, ya no recoge esa situación con ese nombre; la ha sustituido por la de servicio en otras Administraciones Públicas (arts. 85.1 c) y 88.1). Su art. 88.2 mantiene lo esencial: los funcionarios transferidos se hallan «en la situación de servicio activo en la Función Pública de la comunidad autónoma en la que se integran» y conservan todos sus derechos en la Administración de origen «como si se hallaran en servicio activo».",
+    "fuente": "Art. 10.1 RD 365/1995 (Reglamento de Situaciones Administrativas); arts. 85.1 y 88 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
@@ -6181,13 +6181,13 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "Según el art. 11.1 del RD 365/1995, los funcionarios de la Administración del Estado que pasan a ocupar puestos en Comunidades Autónomas mediante concurso, libre designación o reasignación de efectivos...",
     "options": [
       "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas",
-      "Pasan automáticamente a la situación de excedencia voluntaria",
-      "Pasan a la situación de servicios especiales",
-      "Pierden su condición de funcionarios de la Administración del Estado"
+      "Pasan a excedencia voluntaria por prestación de servicios en el sector público en la Administración del Estado",
+      "Pasan a servicios especiales en la Administración del Estado mientras desempeñen el puesto autonómico",
+      "Pierden su condición de funcionarios del Estado y se integran como funcionarios propios de la Comunidad Autónoma de destino"
     ],
     "correct": 0,
-    "exp": "El art. 11.1 les mantiene la condición de funcionarios del Estado, en la situación de servicio en Comunidades Autónomas.",
-    "fuente": "Art. 11.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "El art. 11.1 del RD 365/1995 dispone que estos funcionarios se someten al régimen estatutario y a la legislación de función pública de la Comunidad Autónoma en que estén destinados, «pero conservarán su condición de funcionarios de la Administración del Estado en la situación de servicio en Comunidades Autónomas». Aviso: el TREBEP, básico y posterior, ha sustituido esa situación por la de servicio en otras Administraciones Públicas (arts. 85.1 c) y 88.1). Según su art. 88.3, quienes están en ella por haber obtenido un puesto mediante los sistemas de provisión «se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen».",
+    "fuente": "Art. 11.1 RD 365/1995 (Reglamento de Situaciones Administrativas); arts. 85.1 y 88 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
@@ -6324,15 +6324,15 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
 
 /* tema 18 · 40 preguntas */
 window.addQuestions('aux-admin-zaragoza', 18, [  {
-    "q": "Según el artículo 89.4 del TREBEP, la excedencia para el cuidado de hijos tendrá, en todo caso, una duración máxima de tres años contados desde:",
+    "q": "Según el artículo 89.4 del TREBEP, el periodo de excedencia de duración no superior a tres años para atender al cuidado de cada hijo se cuenta desde:",
     "options": [
-      "La fecha de reincorporación del otro progenitor al servicio activo",
-      "La fecha en que el menor cumpla un año de edad.",
-      "La fecha de solicitud de la excedencia",
-      "La fecha de nacimiento o de la resolución judicial de adopción"
+      "La fecha de reincorporación al servicio activo del otro progenitor, si es funcionario",
+      "La fecha en que termine el permiso por nacimiento, adopción, guarda o acogimiento",
+      "La fecha de la solicitud de la excedencia o, en su caso, de la resolución que la concede",
+      "La fecha de nacimiento o, en su caso, de la resolución judicial o administrativa"
     ],
     "correct": 3,
-    "exp": "El art. 89.4 TREBEP fija una duración máxima de tres años a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa. El art. 14.1 del RD 365/1995, en su literalidad, solo menciona el nacimiento como día inicial del cómputo; la resolución judicial de adopción fija allí únicamente el momento desde el que puede solicitarse la excedencia.",
+    "exp": "El art. 89.4 TREBEP reconoce a los funcionarios de carrera «un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, o de cada menor sujeto a guarda con fines de adopción o acogimiento permanente, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa». El precepto no cuenta el plazo desde el fin del permiso por nacimiento, ni desde la solicitud o la concesión de la excedencia, ni desde la reincorporación del otro progenitor. El art. 14.1 del RD 365/1995, anterior al Estatuto, solo cuenta los tres años «desde la fecha del nacimiento»; allí la resolución judicial de adopción fija únicamente el momento desde el que puede solicitarse la excedencia.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
@@ -6451,32 +6451,6 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
     "correct": 0,
     "exp": "El art. 16.2 exige servicios efectivos durante los cinco años inmediatamente anteriores a la solicitud.",
     "fuente": "Art. 16.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Conforme al artículo 16.3 del RD 365/1995, cada período de excedencia voluntaria por interés particular no podrá superar, como máximo:",
-    "options": [
-      "Un mínimo de un año y un máximo de diez, cualquiera que sea el tiempo de servicios prestados",
-      "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince",
-      "Diez años, cualquiera que sea el tiempo de servicios prestados",
-      "Un número de años equivalente al doble de los servicios prestados"
-    ],
-    "correct": 1,
-    "exp": "El art. 16.3 limita cada período al número de años acreditados de servicios, con un máximo absoluto de quince años.",
-    "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el artículo 16.4 del RD 365/1995, si el funcionario no solicita el reingreso al servicio activo dentro del plazo máximo expresado en la resolución de concesión de la excedencia por interés particular, se produce:",
-    "options": [
-      "La apertura automática de expediente disciplinario",
-      "La prórroga automática de la excedencia por un nuevo período igual",
-      "La pérdida de la condición de funcionario",
-      "La declaración de oficio en suspensión provisional"
-    ],
-    "correct": 2,
-    "exp": "El art. 16.4 sanciona la falta de petición de reingreso dentro de plazo con la pérdida de la condición de funcionario.",
-    "fuente": "Art. 16.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
   },
   {
@@ -6698,19 +6672,6 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
     "correct": 3,
     "exp": "El art. 21.3 atribuye la potestad a la autoridad que ordenó la incoación y fija un límite de seis meses, salvo paralización imputable al interesado.",
     "fuente": "Art. 21.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el artículo 21.4 del RD 365/1995, el funcionario en suspensión provisional tendrá derecho a percibir:",
-    "options": [
-      "El 75 por 100 de su sueldo, trienios y pagas extraordinarias, además de la totalidad de la prestación económica por hijo a cargo",
-      "La totalidad del sueldo, excepto el complemento específico",
-      "El 50 por 100 del sueldo, sin trienios ni pagas extraordinarias",
-      "El 100 por 100 del sueldo durante los tres primeros meses"
-    ],
-    "correct": 0,
-    "exp": "El art. 21.4 fija en el 75 por 100 el sueldo, trienios y pagas extraordinarias del suspenso provisional, con percepción íntegra de la prestación por hijo a cargo.",
-    "fuente": "Art. 21.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
   },
   {
@@ -15202,8 +15163,8 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
       "el artículo 22.2 de la Ley 7/1985"
     ],
     "correct": 1,
-    "exp": "El art. 177.5 TRLRHL remite al quórum del art. 47.3 de la Ley 7/1985, de 2 de abril (LBRL).",
-    "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004)",
+    "exp": "El art. 177.5 TRLRHL dice: «Excepcionalmente, y por acuerdos adoptados con el quórum establecido por el artículo 47.3 de la Ley 7/1985, de 2 de abril, se considerarán recursos efectivamente disponibles para financiar nuevos o mayores gastos, por operaciones corrientes, que expresamente sean declarados necesarios y urgentes, los procedentes de operaciones de crédito…». Esa remisión al art. 47.3 LBRL ha quedado desfasada: desde la Ley 57/2003, el art. 47.3 ya no enumera mayorías, sino que remite al art. 123.2 para los municipios de gran población (como Zaragoza); en los municipios de régimen común, la mayoría absoluta para estas operaciones figura hoy en el art. 47.2 l), que menciona expresamente «las operaciones de crédito previstas en el artículo 158.5 de la Ley 39/1988», antecedente del actual art. 177.5. Aviso: este régimen sigue escrito en el art. 177.5 TRLRHL (y en el art. 36.3 RD 500/1990), pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por tanto, hoy no cabe acudir a un préstamo a largo plazo para financiar gasto corriente por la vía del art. 177.5.",
+    "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012); art. 47 LBRL (Ley 7/1985)",
     "confianza": "alta"
   },
   {
@@ -15215,8 +15176,8 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
       "el 50 por ciento de los recursos por operaciones corrientes"
     ],
     "correct": 2,
-    "exp": "El art. 177.5 TRLRHL fija en el 5 por ciento de los recursos por operaciones corrientes el límite del importe total anual.",
-    "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004)",
+    "exp": "El art. 177.5 TRLRHL exige, entre las condiciones que deben darse conjuntamente, «Que su importe total anual no supere el cinco por ciento de los recursos por operaciones corrientes del presupuesto de la entidad». El 25 por ciento es el límite de la carga financiera total, otra de las condiciones. Aviso: este régimen sigue escrito en el art. 177.5 TRLRHL (y en el art. 36.3 RD 500/1990), pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por tanto, hoy no cabe acudir a un préstamo a largo plazo para financiar gasto corriente por la vía del art. 177.5.",
+    "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012)",
     "confianza": "alta"
   },
   {
@@ -15228,8 +15189,8 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
       "el 25 por ciento de los expresados recursos"
     ],
     "correct": 3,
-    "exp": "El art. 177.5 TRLRHL exige que la carga financiera total no supere el 25 por ciento de los recursos por operaciones corrientes.",
-    "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004)",
+    "exp": "El art. 177.5 TRLRHL exige, entre las condiciones que deben darse conjuntamente, «Que la carga financiera total de la entidad, incluida la derivada de las operaciones proyectadas, no supere el 25 por ciento de los expresados recursos», es decir, de los recursos por operaciones corrientes del presupuesto. El 5 por ciento es el límite del importe total anual de las operaciones. Aviso: este régimen sigue escrito en el art. 177.5 TRLRHL (y en el art. 36.3 RD 500/1990), pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por tanto, hoy no cabe acudir a un préstamo a largo plazo para financiar gasto corriente por la vía del art. 177.5.",
+    "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012)",
     "confianza": "alta"
   },
   {
@@ -23436,14 +23397,14 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
   {
     "q": "Según el art. 9.3 RBEL, los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen de:",
     "options": [
-      "El interventor municipal, exclusivamente",
-      "El secretario, o en su caso la Asesoría Jurídica y, en defecto de ambos, de un Letrado",
-      "El Pleno en sesión extraordinaria",
-      "El órgano autonómico competente en materia de patrimonio"
+      "El interventor, o, en su caso, la Intervención General y, en defecto de ambos, el Tesorero",
+      "El secretario, o, en su caso, la Asesoría Jurídica y, en defecto de ambos, un Letrado",
+      "El Alcalde, o, en su caso, la Junta de Gobierno Local y, en defecto de ambos, el Pleno",
+      "El órgano autonómico de patrimonio o, en su defecto, la Diputación Provincial respectiva"
     ],
     "correct": 1,
-    "exp": "El art. 9.3 RBEL exige dictamen previo 'del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado'.",
-    "fuente": "Art. 9.3 RBEL",
+    "exp": "El art. 9.3 RBEL dispone que los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales «deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado». En Aragón, donde mandan la Ley 7/1999 y el Decreto 347/2002, la regla es equivalente: el art. 43.2 de ese Reglamento de Bienes, Actividades, Servicios y Obras exige «dictamen previo del Secretario o, en su caso, de la Asesoría jurídica, y, en defecto de ambos, de un Letrado», y el art. 120.3 de la Ley 7/1999 pide el dictamen «del Secretario, de la asesoría jurídica de la entidad local o de un letrado externo». Zaragoza, como municipio de gran población, tiene la asesoría jurídica del art. 129 LBRL: sin perjuicio de las funciones reservadas al secretario del Pleno, es el órgano «responsable de la asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, comprensiva del asesoramiento jurídico y de la representación y defensa en juicio del ayuntamiento». El interventor, el Alcalde, la Junta de Gobierno y los órganos autonómicos o provinciales no emiten ese dictamen.",
+    "fuente": "Art. 9.3 RBEL (RD 1372/1986); art. 43.2 Decreto 347/2002 (Aragón); art. 120.3 Ley 7/1999 de Administración Local de Aragón; art. 129 LBRL",
     "confianza": "alta"
   },
   {
@@ -35040,14 +35001,14 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
   {
     "q": "De acuerdo con el art. 9.2.c) de la LPAC, la comunicación a la Secretaría General de Administración Digital para admitir un sistema distinto de los previstos en las letras a) y b) debe ir acompañada de:",
     "options": [
-      "Un dictamen del Consejo de Estado",
-      "Un aval bancario que garantice la seguridad del sistema",
+      "Un dictamen del Consejo de Estado sobre la adecuación del sistema a la normativa vigente",
+      "Un aval bancario que garantice la seguridad del sistema frente a posibles usos fraudulentos durante su implantación",
       "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
-      "Un informe preceptivo de la Abogacía del Estado"
+      "Un informe preceptivo de la Abogacía del Estado sobre la validez jurídica del sistema"
     ],
     "correct": 2,
-    "exp": "El art. 9.2.c) LPAC establece que la comunicación \"vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente\".",
-    "fuente": "Art. 9.2.c LPAC",
+    "exp": "El art. 9.2 c) LPAC establece que la comunicación a la Secretaría General de Administración Digital «vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente». El precepto no exige dictamen del Consejo de Estado, aval ni informe de la Abogacía del Estado. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)",
     "confianza": "alta"
   },
   {
@@ -35059,8 +35020,8 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
       "Dos meses"
     ],
     "correct": 3,
-    "exp": "El art. 9.2.c) LPAC dispone que \"de forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación\".",
-    "fuente": "Art. 9.2.c LPAC",
+    "exp": "El art. 9.2 c) LPAC dispone que «De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación», durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)",
     "confianza": "alta"
   },
   {
@@ -35313,14 +35274,14 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
   {
     "q": "La comunicación exigida por el art. 10.2.c) de la LPAC para admitir un nuevo sistema de firma debe acompañarse de:",
     "options": [
-      "La autorización previa de todas las Comunidades Autónomas",
-      "Una fianza equivalente al coste de implantación del sistema",
-      "Un informe técnico del Instituto Nacional de Ciberseguridad",
+      "La autorización previa de todas las Comunidades Autónomas en cuyo territorio vaya a utilizarse el nuevo sistema de firma",
+      "Una fianza equivalente al coste de implantación y mantenimiento del sistema de firma",
+      "Un informe técnico del Instituto Nacional de Ciberseguridad sobre la seguridad del sistema",
       "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente"
     ],
     "correct": 3,
-    "exp": "El art. 10.2.c) LPAC exige que la comunicación \"venga acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente\", en los mismos términos que el art. 9.2.c).",
-    "fuente": "Art. 10.2.c LPAC",
+    "exp": "El art. 10.2 c) LPAC dispone, en los mismos términos que el art. 9.2 c), que la comunicación «vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente». El precepto no exige autorización de las Comunidades Autónomas, fianza ni informe del Instituto Nacional de Ciberseguridad.",
+    "fuente": "Art. 10.2 c) LPAC (Ley 39/2015)",
     "confianza": "alta"
   },
   {
@@ -35332,8 +35293,8 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
       "Treinta días naturales"
     ],
     "correct": 0,
-    "exp": "El art. 10.2.c) LPAC exige que \"de forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación\", igual que para los sistemas de identificación del art. 9.2.c).",
-    "fuente": "Art. 10.2.c LPAC",
+    "exp": "El art. 10.2 c) LPAC dispone, igual que el art. 9.2 c) para los sistemas de identificación, que «De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación». Son dos meses, no un mes, treinta días naturales ni sesenta días hábiles. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+    "fuente": "Art. 10.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)",
     "confianza": "alta"
   },
   {
@@ -35345,8 +35306,8 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
       "La Secretaría General de Administración Digital, en el plazo de veinte días"
     ],
     "correct": 1,
-    "exp": "El art. 10.2.c) LPAC reproduce la misma exigencia que el art. 9.2.c): informe vinculante previo de la Secretaría de Estado de Seguridad, que debe emitirse en el plazo de diez días desde su solicitud.",
-    "fuente": "Art. 10.2.c LPAC",
+    "exp": "El art. 10.2 c) LPAC reproduce la exigencia del art. 9.2 c): durante los dos meses previos a la eficacia jurídica del sistema, el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, «previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud». La Secretaría General de Administración Digital es, según el precepto, la destinataria de la comunicación previa, no la que emite ese informe. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+    "fuente": "Art. 10.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)",
     "confianza": "alta"
   },
   {
@@ -35436,8 +35397,8 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
       "Solo si además presentan copia del DNI"
     ],
     "correct": 0,
-    "exp": "El art. 10.5 LPAC dice que \"cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma\".",
-    "fuente": "Art. 10.5 LPAC",
+    "exp": "El art. 10.5 LPAC dice que «Cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma». No exige comprobación adicional, copia del DNI ni confirmación de ningún órgano. En el art. 10, la Secretaría General de Administración Digital solo aparece en el apartado 2 c), como destinataria de la comunicación previa de nuevos sistemas de firma; además, quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital (disposición adicional primera del Real Decreto 1118/2024).",
+    "fuente": "Art. 10.5 LPAC (Ley 39/2015); RD 1118/2024 (DA 1.ª)",
     "confianza": "alta"
   },
   {
@@ -49787,8 +49748,8 @@ window.addQuestions('aux-admin-zaragoza', 13, [
       "al órgano competente en función de la cuantía del gasto imputable al ejercicio corriente."
     ],
     "correct": 0,
-    "exp": "Art. 88.1 RD 500/1990: «Corresponde la autorización y disposición de los gastos plurianuales al Pleno de la Entidad», si bien el apartado 2 permite al Pleno delegar dicha competencia de acuerdo con la normativa vigente. Previamente, el art. 86 exige que el Interventor certifique que no se superan los límites cuantitativos de los arts. 82 y, en su caso, 84.",
-    "fuente": "Art. 88.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "exp": "Art. 88.1 RD 500/1990: «Corresponde la autorización y disposición de los gastos plurianuales al Pleno de la Entidad», si bien el apartado 2 permite al Pleno delegar dicha competencia de acuerdo con la normativa vigente. Previamente, el art. 86 exige que el Interventor certifique que no se superan los límites cuantitativos de los arts. 82 y, en su caso, 84 (hoy, los del art. 174 TRLRHL). Aviso: esta atribución general al Pleno está desplazada en buena parte por normas posteriores con rango de ley. En la contratación, la disposición adicional segunda LCSP atribuye al Alcalde los contratos plurianuales de duración no superior a cuatro años cuyo importe acumulado no supere los límites de su apartado 1, y al Pleno los demás (apartado 2). En los municipios de gran población el órgano de contratación es la Junta de Gobierno Local, en Zaragoza el Gobierno de Zaragoza, «cualquiera que sea el importe del contrato o la duración del mismo» (disposición adicional segunda, apartado 4, LCSP; art. 14.1 f) de la Ley 10/2017). Fuera de la contratación, en estos municipios el Pleno autoriza gastos «en las materias de su competencia» (art. 123.1 h) LBRL), y el Gobierno de Zaragoza tiene atribuido «autorizar y disponer gastos en materia de su competencia» (art. 14.1 h) de la Ley 10/2017; art. 127.1 g) LBRL).",
+    "fuente": "Art. 88.1 RD 500/1990 (presupuestos de las entidades locales); DA 2.ª.1, 2 y 4 LCSP (Ley 9/2017); en Zaragoza, arts. 123.1 h) y 127.1 g) LBRL y art. 14.1 f) y h) Ley 10/2017",
     "confianza": "alta"
   },
   {
@@ -53147,8 +53108,8 @@ window.addQuestions('aux-admin-zaragoza', 13, [
       "El Interventor"
     ],
     "correct": 3,
-    "exp": "El art. 86 del RD 500/1990 dispone: «Previamente a la autorización de gastos con imputación a ejercicios futuros, el Interventor deberá certificar que no se superan los límites cuantitativos regulados en el artículo 82, y, en su caso, 84». Esos límites son los porcentajes del 70, 60 y 50 % y, en su caso, los que fije el Pleno en casos excepcionales.",
-    "fuente": "Art. 86 RD 500/1990 (presupuestos de las entidades locales)",
+    "exp": "El art. 86 del RD 500/1990 dispone: «Previamente a la autorización de gastos con imputación a ejercicios futuros, el Interventor deberá certificar que no se superan los límites cuantitativos regulados en el artículo 82, y, en su caso, 84». Esos límites son los porcentajes del 70, 60 y 50 por 100 y, en su caso, los que fije el Pleno en casos excepcionales. Aviso: el art. 82 del RD 500/1990, que desarrollaba la Ley de Haciendas Locales de 1988, aplica los porcentajes «al crédito inicial correspondiente en el año en que se adquiera el compromiso en firme» y solo a las inversiones y transferencias de capital. Hoy rige el art. 174.3 TRLRHL, que los aplica «al crédito correspondiente del año en que la operación se comprometió» y también a las transferencias corrientes derivadas de convenios (art. 174.2 e); el art. 174.5 permite al Pleno, en casos excepcionales, «ampliar el número de anualidades así como elevar los porcentajes».",
+    "fuente": "Art. 86 RD 500/1990 (presupuestos de las entidades locales); art. 174.3 y 174.5 TRLRHL (RDLeg 2/2004)",
     "confianza": "alta"
   },
   {
@@ -57615,8 +57576,8 @@ window.addQuestions('aux-admin-zaragoza', 4, [
       "Fijar el domicilio para las notificaciones"
     ],
     "correct": 0,
-    "exp": "El art. 9.2 c) admite «cualquier otro sistema que las Administraciones públicas consideren válido», siempre que cuente con «un registro previo como usuario que permita garantizar su identidad» y previa comunicación a la Secretaría General de Administración Digital. El art. 10.2 c) exige lo mismo para los sistemas de firma. La representación se acredita por los medios del art. 5.4; la ley no vincula ese registro previo con la capacidad de obrar ni con las notificaciones.",
-    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+    "exp": "El art. 9.2 c) admite «Cualquier otro sistema que las Administraciones públicas consideren válido», siempre que cuente con «un registro previo como usuario que permita garantizar su identidad» y previa comunicación a la Secretaría General de Administración Digital. El art. 10.2 c) exige lo mismo para los sistemas de firma. La representación se acredita por los medios del art. 5.4; la ley no vincula ese registro previo con la capacidad de obrar ni con las notificaciones. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)",
     "confianza": "alta"
   },
   {

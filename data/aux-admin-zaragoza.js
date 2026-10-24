@@ -3949,18 +3949,6 @@ const QUESTIONS = {
     "fuente": "Art. 9.2 b) LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 9.2 c), un sistema adicional de identificación 'cualquier otro que las Administraciones consideren válido' requiere, entre otros requisitos:",
-    "options": [
-      "Registro previo como usuario y comunicación a la Secretaría General de Administración Digital",
-      "Autorización del Tribunal Constitucional",
-      "Aprobación por el Congreso de los Diputados",
-      "Publicación en el Diario Oficial de la Unión Europea"
-    ],
-    "correct": 0,
-    "exp": "Art. 9.2 c) exige contar con un registro previo como usuario que garantice la identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio competente.",
-    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 9.2, las Administraciones deben garantizar que la utilización de los sistemas de las letras a) y b) sea posible:",
     "options": [
       "Únicamente en procedimientos tributarios",
@@ -4261,18 +4249,6 @@ const QUESTIONS = {
     "fuente": "Art. 6.2 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 9.2 c), tras la comunicación a la Secretaría General de Administración Digital, ¿cuánto tiempo debe transcurrir antes de la eficacia jurídica del nuevo sistema de identificación?",
-    "options": [
-      "Quince días",
-      "Una semana",
-      "Dos meses",
-      "Un año"
-    ],
-    "correct": 2,
-    "exp": "Art. 9.2 c): 'De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación...'",
-    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 9.2 c), durante el plazo de dos meses tras la comunicación de un nuevo sistema de identificación, ¿qué puede hacer el órgano estatal competente por motivos de seguridad pública?",
     "options": [
       "Prohibir el sistema directamente sin motivación",
@@ -4367,18 +4343,6 @@ const QUESTIONS = {
     "correct": 0,
     "exp": "Art. 6.3 a): 'Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del poderdante.'",
     "fuente": "Art. 6.3 a) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 9.2 c), la comunicación a la Secretaría General de Administración Digital para un nuevo sistema de identificación debe acompañarse de:",
-    "options": [
-      "El visto bueno del Consejo General del Poder Judicial",
-      "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
-      "Un aval bancario",
-      "Un informe de un auditor externo"
-    ],
-    "correct": 1,
-    "exp": "Art. 9.2 c): 'Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente.'",
-    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 12.1, además de los canales de acceso necesarios, ¿qué otro elemento deben poner las Administraciones a disposición de los interesados?",
@@ -11603,18 +11567,6 @@ const QUESTIONS = {
     "correct": 0,
     "exp": "Art. 9.2: obligación de ejercer 'las acciones necesarias' para la defensa de sus bienes y derechos (coincide con el art. 68.1 LBRL).",
     "fuente": "Art. 9.2 RBEL (RD 1372/1986)"
-  },
-  {
-    "q": "¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",
-    "options": [
-      "El Pleno.",
-      "El Secretario.",
-      "La Comunidad Autónoma.",
-      "El Alcalde."
-    ],
-    "correct": 1,
-    "exp": "Art. 9.3: los acuerdos para ejercitar dichas acciones se adoptan 'previo dictamen del secretario o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado'.",
-    "fuente": "Art. 9.3 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Por cual de los siguientes medios no puede, una entidad local, adquirir un bien?",

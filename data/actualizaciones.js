@@ -6,6 +6,353 @@
 window.ACTUALIZACIONES = window.ACTUALIZACIONES || {};
 window.ACTUALIZACIONES["aux-admin-zaragoza"] = [
  {
+  "id": "2026-10-24-correccion-9",
+  "fecha": "2026-10-24",
+  "tipo": "correccion",
+  "titulo": "Correcciones de la cuarta ronda de revisión",
+  "texto": "Revisión independiente contra el texto consolidado del BOE: reglas del Reglamento de situaciones administrativas desplazadas por el TREBEP (excedencia por interés particular, suspensión provisional), permiso por adopción, órganos estatales suprimidos, límites de los préstamos locales (DA 14.ª del RDL 20/2011) y preguntas repetidas (se archivan, no se borran).",
+  "preguntas": [
+   {
+    "tema": 18,
+    "q": "Según el artículo 21.4 del RD 365/1995, el funcionario en suspensión provisional tendrá derecho a percibir:",
+    "options": [
+     "El 75 por 100 de su sueldo, trienios y pagas extraordinarias, además de la totalidad de la prestación económica por hijo a cargo",
+     "La totalidad del sueldo, excepto el complemento específico",
+     "El 50 por 100 del sueldo, sin trienios ni pagas extraordinarias",
+     "El 100 por 100 del sueldo durante los tres primeros meses"
+    ],
+    "antes": "El 75 por 100 de su sueldo, trienios y pagas extraordinarias, además de la totalidad de la prestación económica por hijo a cargo",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: daba como vigente el 75 % del art. 21.4 RD 365/1995, desplazado por el art. 98.3 TREBEP (retribuciones básicas); corregida repetiría la 18-177."
+   },
+   {
+    "tema": 18,
+    "q": "Según el artículo 89.4 del TREBEP, el periodo de excedencia de duración no superior a tres años para atender al cuidado de cada hijo se cuenta desde:",
+    "options": [
+     "La fecha de reincorporación al servicio activo del otro progenitor, si es funcionario",
+     "La fecha en que termine el permiso por nacimiento, adopción, guarda o acogimiento",
+     "La fecha de la solicitud de la excedencia o, en su caso, de la resolución que la concede",
+     "La fecha de nacimiento o, en su caso, de la resolución judicial o administrativa"
+    ],
+    "antes": "La fecha de nacimiento o de la resolución judicial de adopción",
+    "ahora": "La fecha de nacimiento o, en su caso, de la resolución judicial o administrativa",
+    "nota": "Clave literal del art. 89.4 TREBEP («resolución judicial o administrativa», no solo «judicial de adopción»); enunciado sin la fórmula del RD 365/1995 y distractores igualados en longitud."
+   },
+   {
+    "tema": 18,
+    "q": "Conforme al artículo 16.3 del RD 365/1995, cada período de excedencia voluntaria por interés particular no podrá superar, como máximo:",
+    "options": [
+     "Un mínimo de un año y un máximo de diez, cualquiera que sea el tiempo de servicios prestados",
+     "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince",
+     "Diez años, cualquiera que sea el tiempo de servicios prestados",
+     "Un número de años equivalente al doble de los servicios prestados"
+    ],
+    "antes": "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: daba como vigente el máximo de quince años de la excedencia voluntaria por interés particular (art. 16.3 RD 365/1995), suprimido por la Ley 13/1996; el art. 89.2 TREBEP no fija máximo."
+   },
+   {
+    "tema": 18,
+    "q": "Según el artículo 16.4 del RD 365/1995, si el funcionario no solicita el reingreso al servicio activo dentro del plazo máximo expresado en la resolución de concesión de la excedencia por interés particular, se produce:",
+    "options": [
+     "La apertura automática de expediente disciplinario",
+     "La prórroga automática de la excedencia por un nuevo período igual",
+     "La pérdida de la condición de funcionario",
+     "La declaración de oficio en suspensión provisional"
+    ],
+    "antes": "La pérdida de la condición de funcionario",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: daba como vigente la pérdida de la condición de funcionario del art. 16.4 RD 365/1995, suprimida por la Ley 13/1996 y ausente del art. 63 TREBEP."
+   },
+   {
+    "tema": 18,
+    "q": "Según el Reglamento de Situaciones Administrativas (RD 365/1995), cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a:",
+    "options": [
+     "Tres años continuados",
+     "Un año",
+     "Cinco años continuados",
+     "Dos años continuados"
+    ],
+    "antes": "Dos años continuados",
+    "ahora": "Dos años continuados",
+    "nota": "La explicación ya no presenta como vigente el máximo de quince años: avisa de que lo suprimió la Ley 13/1996 y de que el TREBEP no fija máximo."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 7.1.a) del RD 365/1995, cuando el puesto desempeñado antes de pasar a servicios especiales se hubiera obtenido por libre designación, al reingreso se adjudicará...",
+    "options": [
+     "Un puesto de nivel inmediatamente inferior, con carácter definitivo, en el mismo Ministerio y municipio en que prestaba servicios",
+     "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio, cualquiera que sea el municipio",
+     "Un puesto de igual nivel y similares retribuciones en el mismo municipio, con carácter provisional hasta obtener otro definitivo",
+     "El mismo puesto de libre designación que desempeñaba, con carácter definitivo, salvo que haya sido suprimido o amortizado"
+    ],
+    "antes": "Un puesto de igual nivel y similares retribuciones, con carácter provisional, en el mismo municipio, hasta obtener otro con carácter definitivo",
+    "ahora": "Un puesto de igual nivel y similares retribuciones en el mismo municipio, con carácter provisional hasta obtener otro definitivo",
+    "nota": "La clave no cambia de sentido; distractores igualados en longitud y explicación con la garantía mínima de reingreso del art. 87.3 TREBEP."
+   },
+   {
+    "tema": 18,
+    "q": "En los supuestos no correspondientes a libre designación, el art. 7.1.b) del RD 365/1995 dispone que se adjudicará al funcionario, con carácter definitivo...",
+    "options": [
+     "Un puesto de igual nivel y similares retribuciones en cualquier Ministerio de la misma provincia",
+     "Un puesto de nivel superior en el mismo Ministerio, siempre que exista vacante en el municipio",
+     "Cualquier puesto vacante de su Cuerpo o Escala en la Administración, sin garantía de nivel",
+     "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio"
+    ],
+    "antes": "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio",
+    "ahora": "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio",
+    "nota": "La clave no cambia; distractores coherentes con el enunciado y explicación con la garantía mínima de reingreso del art. 87.3 TREBEP."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 10.1 del RD 365/1995, los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de éstas, hallándose en situación de...",
+    "options": [
+     "Servicios especiales en la Comunidad Autónoma, con reserva del puesto que ocupaban en su Cuerpo o Escala de origen",
+     "Servicio activo en la Comunidad Autónoma y excedencia forzosa en su Cuerpo o Escala de origen hasta su integración",
+     "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
+     "Servicio activo en la Comunidad Autónoma y excedencia voluntaria por servicios en el sector público en su Cuerpo o Escala de origen"
+    ],
+    "antes": "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
+    "ahora": "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
+    "nota": "Distractores igualados en longitud; la explicación avisa de que el TREBEP sustituyó la situación de «servicio en Comunidades Autónomas» por la de «servicio en otras Administraciones Públicas»."
+   },
+   {
+    "tema": 18,
+    "q": "Según el art. 11.1 del RD 365/1995, los funcionarios de la Administración del Estado que pasan a ocupar puestos en Comunidades Autónomas mediante concurso, libre designación o reasignación de efectivos...",
+    "options": [
+     "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas",
+     "Pasan a excedencia voluntaria por prestación de servicios en el sector público en la Administración del Estado",
+     "Pasan a servicios especiales en la Administración del Estado mientras desempeñen el puesto autonómico",
+     "Pierden su condición de funcionarios del Estado y se integran como funcionarios propios de la Comunidad Autónoma de destino"
+    ],
+    "antes": "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas",
+    "ahora": "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas",
+    "nota": "Distractores igualados en longitud; la explicación avisa de que el TREBEP llama hoy a esa situación «servicio en otras Administraciones Públicas» (art. 88)."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 9.2 c), un sistema adicional de identificación 'cualquier otro que las Administraciones consideren válido' requiere, entre otros requisitos:",
+    "options": [
+     "Registro previo como usuario y comunicación a la Secretaría General de Administración Digital",
+     "Autorización del Tribunal Constitucional",
+     "Aprobación por el Congreso de los Diputados",
+     "Publicación en el Diario Oficial de la Unión Europea"
+    ],
+    "antes": "Registro previo como usuario y comunicación a la Secretaría General de Administración Digital",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada por repetir la 4-138 (art. 9.2 c) LPAC)."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 9.2 c), tras la comunicación a la Secretaría General de Administración Digital, ¿cuánto tiempo debe transcurrir antes de la eficacia jurídica del nuevo sistema de identificación?",
+    "options": [
+     "Quince días",
+     "Una semana",
+     "Dos meses",
+     "Un año"
+    ],
+    "antes": "Dos meses",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada por repetir la 4-140 (dos meses, art. 9.2 c) LPAC)."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 9.2 c), la comunicación a la Secretaría General de Administración Digital para un nuevo sistema de identificación debe acompañarse de:",
+    "options": [
+     "El visto bueno del Consejo General del Poder Judicial",
+     "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+     "Un aval bancario",
+     "Un informe de un auditor externo"
+    ],
+    "antes": "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada por repetir la 4-139 (declaración responsable, art. 9.2 c) LPAC)."
+   },
+   {
+    "tema": 4,
+    "q": "De acuerdo con el art. 9.2.c) de la LPAC, la comunicación a la Secretaría General de Administración Digital para admitir un sistema distinto de los previstos en las letras a) y b) debe ir acompañada de:",
+    "options": [
+     "Un dictamen del Consejo de Estado sobre la adecuación del sistema a la normativa vigente",
+     "Un aval bancario que garantice la seguridad del sistema frente a posibles usos fraudulentos durante su implantación",
+     "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+     "Un informe preceptivo de la Abogacía del Estado sobre la validez jurídica del sistema"
+    ],
+    "antes": "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+    "ahora": "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+    "nota": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital; distractores alargados (regla 7 bis). La clave no cambia."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 9.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de identificación tenga eficacia jurídica?",
+    "options": [
+     "Tres meses",
+     "Un mes",
+     "Quince días",
+     "Dos meses"
+    ],
+    "antes": "Dos meses",
+    "ahora": "Dos meses",
+    "nota": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital."
+   },
+   {
+    "tema": 4,
+    "q": "La comunicación exigida por el art. 10.2.c) de la LPAC para admitir un nuevo sistema de firma debe acompañarse de:",
+    "options": [
+     "La autorización previa de todas las Comunidades Autónomas en cuyo territorio vaya a utilizarse el nuevo sistema de firma",
+     "Una fianza equivalente al coste de implantación y mantenimiento del sistema de firma",
+     "Un informe técnico del Instituto Nacional de Ciberseguridad sobre la seguridad del sistema",
+     "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente"
+    ],
+    "antes": "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+    "ahora": "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+    "nota": "Cita literal corregida («vendrá acompañada») y distractores alargados (regla 7 bis). La clave no cambia."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 10.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de firma tenga eficacia jurídica?",
+    "options": [
+     "Dos meses",
+     "Sesenta días hábiles",
+     "Un mes",
+     "Treinta días naturales"
+    ],
+    "antes": "Dos meses",
+    "ahora": "Dos meses",
+    "nota": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital."
+   },
+   {
+    "tema": 4,
+    "q": "Durante el plazo previo a la eficacia jurídica de un nuevo sistema de firma del art. 10.2.c) de la LPAC, el órgano estatal competente por motivos de seguridad pública puede acudir a la vía jurisdiccional previo informe vinculante de:",
+    "options": [
+     "La Agencia Española de Protección de Datos, en el plazo de un mes",
+     "La Secretaría de Estado de Seguridad, en el plazo de diez días desde su solicitud",
+     "El Consejo de Estado, en el plazo de quince días",
+     "La Secretaría General de Administración Digital, en el plazo de veinte días"
+    ],
+    "antes": "La Secretaría de Estado de Seguridad, en el plazo de diez días desde su solicitud",
+    "ahora": "La Secretaría de Estado de Seguridad, en el plazo de diez días desde su solicitud",
+    "nota": "La explicación dice por qué falla el distractor de la Secretaría General de Administración Digital y avisa de su supresión."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 10.5 de la LPAC, cuando los interesados utilicen un sistema de firma de los previstos en dicho artículo, su identidad se entiende acreditada:",
+    "options": [
+     "Mediante el propio acto de la firma",
+     "Cuando lo confirme expresamente la Secretaría General de Administración Digital",
+     "Únicamente tras una comprobación adicional por el órgano instructor",
+     "Solo si además presentan copia del DNI"
+    ],
+    "antes": "Mediante el propio acto de la firma",
+    "ahora": "Mediante el propio acto de la firma",
+    "nota": "La explicación dice por qué fallan los distractores y avisa de la supresión de la Secretaría General de Administración Digital."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 9.2 c) de la Ley 39/2015, los sistemas de identificación de esa letra deben contar con un registro previo como usuario. ¿Qué debe permitir ese registro?",
+    "options": [
+     "Garantizar la identidad del interesado",
+     "Acreditar la representación del interesado",
+     "Comprobar la capacidad de obrar del interesado",
+     "Fijar el domicilio para las notificaciones"
+    ],
+    "antes": "Garantizar la identidad del interesado",
+    "ahora": "Garantizar la identidad del interesado",
+    "nota": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital."
+   },
+   {
+    "tema": 10,
+    "q": "¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",
+    "options": [
+     "El Pleno.",
+     "El Secretario.",
+     "La Comunidad Autónoma.",
+     "El Alcalde."
+    ],
+    "antes": "El Secretario.",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: la clave «El Secretario» omitía la Asesoría Jurídica y el Letrado del art. 9.3 RBEL (y del art. 43.2 del Decreto 347/2002); corregida repetiría la 10-229."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 9.3 RBEL, los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen de:",
+    "options": [
+     "El interventor, o, en su caso, la Intervención General y, en defecto de ambos, el Tesorero",
+     "El secretario, o, en su caso, la Asesoría Jurídica y, en defecto de ambos, un Letrado",
+     "El Alcalde, o, en su caso, la Junta de Gobierno Local y, en defecto de ambos, el Pleno",
+     "El órgano autonómico de patrimonio o, en su defecto, la Diputación Provincial respectiva"
+    ],
+    "antes": "El secretario, o en su caso la Asesoría Jurídica y, en defecto de ambos, de un Letrado",
+    "ahora": "El secretario, o, en su caso, la Asesoría Jurídica y, en defecto de ambos, un Letrado",
+    "nota": "Distractores de la misma forma que la clave (regla 7 bis) y explicación con la norma aragonesa y el aviso de Zaragoza. La clave no cambia de sentido ni de posición."
+   },
+   {
+    "tema": 13,
+    "q": "Los acuerdos excepcionales previstos en el art. 177.5 TRLRHL para financiar gastos con operaciones de crédito exigen el quórum establecido en...",
+    "options": [
+     "el artículo 123 de la Ley 7/1985",
+     "el artículo 47.3 de la Ley 7/1985",
+     "el artículo 180 del propio TRLRHL",
+     "el artículo 22.2 de la Ley 7/1985"
+    ],
+    "antes": "el artículo 47.3 de la Ley 7/1985",
+    "ahora": "el artículo 47.3 de la Ley 7/1985",
+    "nota": "La clave (literal) no cambia; la explicación avisa de la DA 14.ª del RDL 20/2011 y de que la remisión al art. 47.3 LBRL está desfasada."
+   },
+   {
+    "tema": 13,
+    "q": "Según el art. 177.5 TRLRHL, el importe total anual de las operaciones de crédito allí previstas no podrá superar...",
+    "options": [
+     "el 25 por ciento de los recursos por operaciones corrientes",
+     "el 10 por ciento del presupuesto total",
+     "el 5 por ciento de los recursos por operaciones corrientes",
+     "el 50 por ciento de los recursos por operaciones corrientes"
+    ],
+    "antes": "el 5 por ciento de los recursos por operaciones corrientes",
+    "ahora": "el 5 por ciento de los recursos por operaciones corrientes",
+    "nota": "La clave no cambia; la explicación avisa de que la DA 14.ª del RDL 20/2011 limita los préstamos a largo plazo a la financiación de inversiones."
+   },
+   {
+    "tema": 13,
+    "q": "Según el art. 177.5 TRLRHL, la carga financiera total de la entidad, incluida la derivada de las operaciones proyectadas, no podrá superar...",
+    "options": [
+     "el 15 por ciento de los expresados recursos",
+     "el 5 por ciento de los recursos por operaciones corrientes",
+     "el 30 por ciento de los expresados recursos",
+     "el 25 por ciento de los expresados recursos"
+    ],
+    "antes": "el 25 por ciento de los expresados recursos",
+    "ahora": "el 25 por ciento de los expresados recursos",
+    "nota": "La clave no cambia; la explicación avisa de que la DA 14.ª del RDL 20/2011 limita los préstamos a largo plazo a la financiación de inversiones."
+   },
+   {
+    "tema": 13,
+    "q": "Según el art. 86 del RD 500/1990, antes de autorizar gastos con imputación a ejercicios futuros, ¿quién debe certificar que no se superan los límites cuantitativos de los gastos plurianuales?",
+    "options": [
+     "El Tesorero",
+     "El Secretario de la corporación",
+     "La Comisión Especial de Cuentas",
+     "El Interventor"
+    ],
+    "antes": "El Interventor",
+    "ahora": "El Interventor",
+    "nota": "La clave no cambia; la explicación avisa de que los porcentajes de los gastos plurianuales se calculan hoy según el art. 174.3 TRLRHL, no sobre el «crédito inicial» del art. 82 RD 500/1990."
+   },
+   {
+    "tema": 13,
+    "q": "Según el art. 88.1 del RD 500/1990, la autorización y disposición de los gastos plurianuales corresponde:",
+    "options": [
+     "al Pleno de la entidad.",
+     "al Presidente de la entidad, en todo caso.",
+     "al Interventor, previa certificación de los límites cuantitativos.",
+     "al órgano competente en función de la cuantía del gasto imputable al ejercicio corriente."
+    ],
+    "antes": "al Pleno de la entidad.",
+    "ahora": "al Pleno de la entidad.",
+    "nota": "La clave (literal del art. 88.1 RD 500/1990) no cambia; la explicación avisa de que la DA 2.ª LCSP reparte hoy los contratos plurianuales entre Alcalde y Pleno y de lo que rige en Zaragoza."
+   }
+  ]
+ },
+ {
   "id": "2026-10-24-correccion-8",
   "fecha": "2026-10-24",
   "tipo": "correccion",

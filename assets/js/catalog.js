@@ -24,7 +24,7 @@
       // los archivos de ampliación cuando los crea
       files:['data/aux-admin-zaragoza.js', 'data/aux-admin-zaragoza.ampliacion.js'],
       // nº aproximado de preguntas; se corrige solo al abrir la oposición
-      preguntas:6708,
+      preguntas:6701,
       // temas con esquema de estudio en data/esquemas/<slug>/tNN.js
       // (tools/validar-esquemas.js avisa si esta lista no coincide)
       esquemas:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]

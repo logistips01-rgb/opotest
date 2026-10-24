@@ -103,5 +103,113 @@
   "tema": 6,
   "_retirada": "2026-10-24",
   "_motivo": "Retirada: fuente y explicación equivocadas (es el art. 52.2) y, corregida, repetiría la 6-221."
+ },
+ {
+  "q": "Según el artículo 21.4 del RD 365/1995, el funcionario en suspensión provisional tendrá derecho a percibir:",
+  "options": [
+   "El 75 por 100 de su sueldo, trienios y pagas extraordinarias, además de la totalidad de la prestación económica por hijo a cargo",
+   "La totalidad del sueldo, excepto el complemento específico",
+   "El 50 por 100 del sueldo, sin trienios ni pagas extraordinarias",
+   "El 100 por 100 del sueldo durante los tres primeros meses"
+  ],
+  "correct": 0,
+  "exp": "El art. 21.4 fija en el 75 por 100 el sueldo, trienios y pagas extraordinarias del suspenso provisional, con percepción íntegra de la prestación por hijo a cargo.",
+  "fuente": "Art. 21.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+  "confianza": "alta",
+  "tema": 18,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: daba como vigente el 75 % del art. 21.4 RD 365/1995, desplazado por el art. 98.3 TREBEP (retribuciones básicas); corregida repetiría la 18-177."
+ },
+ {
+  "q": "Conforme al artículo 16.3 del RD 365/1995, cada período de excedencia voluntaria por interés particular no podrá superar, como máximo:",
+  "options": [
+   "Un mínimo de un año y un máximo de diez, cualquiera que sea el tiempo de servicios prestados",
+   "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince",
+   "Diez años, cualquiera que sea el tiempo de servicios prestados",
+   "Un número de años equivalente al doble de los servicios prestados"
+  ],
+  "correct": 1,
+  "exp": "El art. 16.3 limita cada período al número de años acreditados de servicios, con un máximo absoluto de quince años.",
+  "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+  "confianza": "alta",
+  "tema": 18,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: daba como vigente el máximo de quince años de la excedencia voluntaria por interés particular (art. 16.3 RD 365/1995), suprimido por la Ley 13/1996; el art. 89.2 TREBEP no fija máximo."
+ },
+ {
+  "q": "Según el artículo 16.4 del RD 365/1995, si el funcionario no solicita el reingreso al servicio activo dentro del plazo máximo expresado en la resolución de concesión de la excedencia por interés particular, se produce:",
+  "options": [
+   "La apertura automática de expediente disciplinario",
+   "La prórroga automática de la excedencia por un nuevo período igual",
+   "La pérdida de la condición de funcionario",
+   "La declaración de oficio en suspensión provisional"
+  ],
+  "correct": 2,
+  "exp": "El art. 16.4 sanciona la falta de petición de reingreso dentro de plazo con la pérdida de la condición de funcionario.",
+  "fuente": "Art. 16.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+  "confianza": "alta",
+  "tema": 18,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: daba como vigente la pérdida de la condición de funcionario del art. 16.4 RD 365/1995, suprimida por la Ley 13/1996 y ausente del art. 63 TREBEP."
+ },
+ {
+  "q": "Según el art. 9.2 c), un sistema adicional de identificación 'cualquier otro que las Administraciones consideren válido' requiere, entre otros requisitos:",
+  "options": [
+   "Registro previo como usuario y comunicación a la Secretaría General de Administración Digital",
+   "Autorización del Tribunal Constitucional",
+   "Aprobación por el Congreso de los Diputados",
+   "Publicación en el Diario Oficial de la Unión Europea"
+  ],
+  "correct": 0,
+  "exp": "Art. 9.2 c) exige contar con un registro previo como usuario que garantice la identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio competente.",
+  "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetir la 4-138 (art. 9.2 c) LPAC)."
+ },
+ {
+  "q": "Según el art. 9.2 c), tras la comunicación a la Secretaría General de Administración Digital, ¿cuánto tiempo debe transcurrir antes de la eficacia jurídica del nuevo sistema de identificación?",
+  "options": [
+   "Quince días",
+   "Una semana",
+   "Dos meses",
+   "Un año"
+  ],
+  "correct": 2,
+  "exp": "Art. 9.2 c): 'De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación...'",
+  "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetir la 4-140 (dos meses, art. 9.2 c) LPAC)."
+ },
+ {
+  "q": "Según el art. 9.2 c), la comunicación a la Secretaría General de Administración Digital para un nuevo sistema de identificación debe acompañarse de:",
+  "options": [
+   "El visto bueno del Consejo General del Poder Judicial",
+   "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+   "Un aval bancario",
+   "Un informe de un auditor externo"
+  ],
+  "correct": 1,
+  "exp": "Art. 9.2 c): 'Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente.'",
+  "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetir la 4-139 (declaración responsable, art. 9.2 c) LPAC)."
+ },
+ {
+  "q": "¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",
+  "options": [
+   "El Pleno.",
+   "El Secretario.",
+   "La Comunidad Autónoma.",
+   "El Alcalde."
+  ],
+  "correct": 1,
+  "exp": "Art. 9.3: los acuerdos para ejercitar dichas acciones se adoptan 'previo dictamen del secretario o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado'.",
+  "fuente": "Art. 9.3 RBEL (RD 1372/1986)",
+  "tema": 10,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: la clave «El Secretario» omitía la Asesoría Jurídica y el Letrado del art. 9.3 RBEL (y del art. 43.2 del Decreto 347/2002); corregida repetiría la 10-229."
  }
 ]
