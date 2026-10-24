@@ -1,150 +1,118 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 16,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el art. 140.1.b) de la Ley 7/1999, de Administración Local de Aragón, la información pública de una ordenanza aprobada inicialmente se abre previo anuncio del acuerdo de aprobación inicial en:",
+      "q": "Según la disposición transitoria segunda de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, ¿en qué plazo debía el Ayuntamiento de Zaragoza adaptar a esa ley sus Reglamentos de naturaleza orgánica?",
       "options": [
-        "El «Boletín Oficial» de la provincia y un diario de los de mayor difusión de la provincia",
-        "El «Boletín Oficial del Estado» y la sede electrónica de la entidad",
-        "La sección correspondiente del «Boletín Oficial de Aragón» y el tablón de anuncios de la entidad",
-        "Únicamente el tablón de anuncios de la entidad"
+        "En el plazo de tres meses desde su publicación",
+        "En el plazo de un año desde su entrada en vigor",
+        "En el plazo de seis meses desde su publicación",
+        "En el plazo de dos años desde su entrada en vigor"
       ],
       "correct": 2,
-      "exp": "El art. 140.1.b) regula la «Información pública, previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad del acuerdo de aprobación inicial, por el plazo mínimo de treinta días». Es una diferencia con el art. 49 LBRL, que no dice dónde se anuncia. El boletín de la provincia es donde se publica después el texto íntegro para su entrada en vigor (art. 141.1), y el diario de mayor difusión es propio de las ordenanzas fiscales (art. 17.2 TRLRHL).",
-      "fuente": "Art. 140.1.b) Ley 7/1999 (Administración Local de Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 140.1.b) Ley 7/1999 literal: anuncio «en la sección correspondiente del Boletín Oficial de Aragón y en el tablón de anuncios de la entidad». Los distractores son falsos: no hay diario, ni BOE, ni basta el tablón. La explicación es exacta. Nota para la sesión principal: en Zaragoza rige el art. 48.3.b) Ley 10/2017 («boletín oficial correspondiente y tablón de anuncios municipal»). Es compatible con la respuesta, porque la DA 4.ª Ley 7/1999 integra los BOP como secciones del BOA. No induce a error. | Revisor 2 (DUDOSA): La respuesta marcada es literal del art. 140.1.b) Ley 7/1999 y coincide con el art. 48.3.b) Ley 10/2017 («boletín oficial correspondiente y tablón»). Pero la explicación es inexacta: según la disp. adic. 4.ª de la Ley 7/1999, los BOP de Huesca, Teruel y Zaragoza se integran como secciones del BOA, y toda referencia legal al BOP se entiende hecha a esas secciones. Así, el distractor «BOP y un diario» es medio cierto (solo lo falsea el diario) y la explicación lo contrapone al BOA como si fueran boletines distintos. Arreglo: reescribir la exp citando la DA 4.ª y cambiar ese distractor por uno sin el BOP (p. ej. «El BOE y un diario de los de mayor difusión de la provincia»).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 141.1 de la Ley 7/1999, de Administración Local de Aragón, los reglamentos y las ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido:",
-      "options": [
-        "Quince días hábiles contados desde que la Administración del Estado o de la Comunidad Autónoma recibe la comunicación del acuerdo",
-        "Veinte días contados desde el siguiente al de su publicación en el «Boletín Oficial de Aragón»",
-        "Quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
-        "Un mes contado desde su aprobación definitiva por el Pleno"
-      ],
-      "correct": 2,
-      "exp": "El art. 141.1 dispone que los reglamentos y las ordenanzas, incluidos los contenidos normativos de los planes urbanísticos, «no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia». La ley aragonesa cuenta el plazo desde la publicación. El primer distractor reproduce la fórmula de los arts. 70.2 y 65.2 LBRL (quince días hábiles desde la recepción de la comunicación del acuerdo), no la del art. 141.1.",
-      "fuente": "Art. 141.1 Ley 7/1999 (Administración Local de Aragón)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 141.1 Ley 7/1999 literal: «quince días contados desde el siguiente al de la publicación de su texto íntegro en el Boletín Oficial de la provincia». Los distractores son falsos según ese artículo, y la explicación advierte bien que el primero es la fórmula de los arts. 70.2 y 65.2 LBRL. AVISO a la sesión principal: el art. 141.1 no coincide con la regla básica de los arts. 70.2 y 65.2 LBRL, que prevalece en todos los municipios. La pregunta es correcta porque está anclada al art. 141.1 y la explicación lo aclara. Esto no es una especialidad de Zaragoza como municipio de gran población. | Revisor 2 (DUDOSA): La respuesta es literal del art. 141.1 Ley 7/1999 («quince días contados desde el siguiente al de la publicación de su texto íntegro en el BOP»; sin calificar los días). Pero el primer distractor reproduce la regla del art. 70.2 en relación con el 65.2 LBRL (quince días hábiles desde la recepción de la comunicación), que es legislación básica y rige también en Zaragoza, y el banco ya la enseña como correcta (pregunta del art. 70.2 con «Quince días hábiles»). Un distractor que es la norma aplicable en Zaragoza es una trampa, aunque el enunciado cite la ley aragonesa. Arreglo: sustituirlo por uno ajeno a cualquier norma aplicable (p. ej. «Un mes contado desde el siguiente al de su publicación en el BOA») y advertir en la exp de que la regla convive con el art. 70.2 LBRL.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 141.1 de la Ley 7/1999, de Administración Local de Aragón, el plazo de quince días que debe transcurrir antes de que una ordenanza produzca efectos jurídicos es el plazo en el que:",
-      "options": [
-        "Los vecinos pueden presentar reclamaciones contra el texto definitivamente aprobado",
-        "El Alcalde puede devolver la ordenanza al Pleno para una nueva deliberación",
-        "La Comisión Jurídica Asesora debe emitir dictamen sobre la legalidad de la ordenanza",
-        "La Administración del Estado o de la Comunidad Autónoma pueden ejercer sus facultades de requerimiento a las entidades locales en orden a la anulación del reglamento u ordenanza"
-      ],
-      "correct": 3,
-      "exp": "El art. 141.1 explica que esos quince días son el «plazo en el que la Administración del Estado o de la Comunidad Autónoma podrán ejercer sus facultades de requerimiento a las entidades locales, en orden a la anulación del reglamento u ordenanza». Las reclamaciones de los vecinos se presentan antes, en la información pública (art. 140.1.b). La ley no prevé ningún veto del Alcalde ni dictamen de la Comisión Jurídica Asesora en ese plazo.",
-      "fuente": "Art. 141.1 Ley 7/1999 (Administración Local de Aragón)",
+      "exp": "La disposición transitoria segunda.1 de la Ley 10/2017 dispone: «El Ayuntamiento de Zaragoza adaptará sus Reglamentos de naturaleza orgánica a lo dispuesto en esta Ley en el plazo de seis meses desde su publicación, sin perjuicio de la entrada en vigor de la misma». El plazo es de seis meses y se cuenta desde la publicación de la ley; no son tres meses, ni un año, ni dos años, y no se cuenta desde la entrada en vigor.",
+      "fuente": "Disposición transitoria segunda.1 Ley 10/2017 (capitalidad de Zaragoza)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Correcta según el texto: el art. 141.1 Ley 7/1999 dice «plazo en el que la Administración del Estado o de la Comunidad Autónoma podrán ejercer sus facultades de requerimiento… en orden a la anulación». Pero repite una pregunta que ya está en el tema 16: «El plazo del art. 65.2 LBRL, cuyo transcurso condiciona la entrada en vigor de las ordenanzas según el art. 70.2, es el que tienen la Administración del Estado o de la Comunidad Autónoma para: Formular el requerimiento motivado de anulación…». Pregunta lo mismo con otras palabras (regla 6). | Revisor 2 (RECHAZADA): El contenido es correcto (art. 141.1 Ley 7/1999: plazo para que el Estado o la Comunidad Autónoma ejerzan sus facultades de requerimiento en orden a la anulación), pero repite en sustancia una pregunta del tema 16: «El plazo del art. 65.2 LBRL, cuyo transcurso condiciona la entrada en vigor de las ordenanzas según el art. 70.2, es el que tienen la Administración del Estado o de la Comunidad Autónoma para: formular el requerimiento…». Es el mismo concepto con otra cita.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Verificado en el consolidado BOE-A-2018-1683: DT 2.ª.1 dice literalmente «en el plazo de seis meses desde su publicación». Distractores falsos (tres meses, un año, dos años; cómputo desde la entrada en vigor). Dentro del epígrafe (Reglamentos en la ley de capitalidad). Sin repetición en temas 8/12/14/15/16/21. | Revisor 2 (RECHAZADA): DT 2.ª.1 Ley 10/2017 verificada en el consolidado (BOE-A-2018-1683): seis meses desde su publicación; la respuesta es literalmente correcta. Pero es un plazo transitorio agotado: la ley se publicó en el BOA el 1-12-2017 y el plazo venció en junio de 2018. Es un dato histórico sin aplicación en 2027 (el propio enunciado usa «debía»). Se rechaza por agotado.",
       "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el art. 126.4 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de los siguientes acuerdos requiere el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación?",
+      "q": "Según la disposición transitoria segunda.2 de la Ley 10/2017 (capitalidad de Zaragoza), los procedimientos del capítulo V (entre ellos, la aprobación de ordenanzas y Reglamentos) iniciados antes de la entrada en vigor de la ley se rigen por la normativa anterior. ¿Cuándo se entiende iniciado el procedimiento a estos efectos?",
       "options": [
-        "La aprobación del presupuesto anual",
-        "La aprobación de la plantilla de personal",
-        "La aprobación de la cuenta general",
-        "La aprobación de las ordenanzas fiscales"
-      ],
-      "correct": 3,
-      "exp": "El art. 126.4.k) de la Ley 7/1999 exige mayoría absoluta del número legal de miembros para «La creación e imposición de recursos propios de carácter tributario, así como la aprobación de las ordenanzas fiscales». El presupuesto, la plantilla y la cuenta general no están en la lista del art. 126.4, de modo que se rigen por la regla general de la mayoría simple de los presentes (art. 126.1). Ojo: es una exigencia de la ley aragonesa, porque el art. 47.2 LBRL no incluye las ordenanzas fiscales. En los municipios de gran población, como Zaragoza, la LBRL remite a las mayorías del art. 123.2 (art. 47.3 LBRL).",
-      "fuente": "Art. 126.4.k) Ley 7/1999 (Administración Local de Aragón)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Según el art. 126.4.k) Ley 7/1999 la pregunta es correcta, pero INDUCE A ERROR SOBRE ZARAGOZA. En Zaragoza, el art. 11.2 de la Ley 10/2017 (mayoría simple como regla, y mayoría absoluta solo para los acuerdos que exija la legislación básica) y los arts. 47.3 y 123.2 LBRL hacen que la ordenanza fiscal se apruebe por mayoría simple. La Ley 10/2017 sí regula las mayorías, así que la Ley 7/1999 no se le aplica como supletoria en este punto (DA 1.ª.3). Además, contradice una pregunta del tema 16 que da por buena la «mayoría simple de votos» para las ordenanzas en los municipios de gran población (art. 123.2 LBRL). Para Zaragoza, ninguna de las cuatro opciones exigiría mayoría absoluta. | Revisor 2 (RECHAZADA): Es literal del art. 126.4.k) Ley 7/1999, pero la respuesta es FALSA para Zaragoza. En los municipios de gran población las mayorías son las del art. 123.2 LBRL (art. 47.3 LBRL), y el art. 11.2 Ley 10/2017 fija la mayoría simple como regla y la absoluta solo para los acuerdos de la legislación básica. El art. 123.2 exige mayoría absoluta solo para las letras c), e), f), j) y o) y el planeamiento general, no para la g) (recursos tributarios) ni para las ordenanzas. En Zaragoza, pues, una ordenanza fiscal se aprueba por mayoría simple, y el banco ya enseña la mayoría simple del 123.2 para las ordenanzas en gran población. La propia exp lo reconoce.",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 126.4 de la Ley 7/1999, de Administración Local de Aragón, la aprobación de las ordenanzas reguladoras de los aprovechamientos de bienes comunales requiere:",
-      "options": [
-        "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
-        "La mayoría simple de los miembros presentes",
-        "El voto favorable de las dos terceras partes del número de hecho y, en todo caso, de la mayoría absoluta del número legal de miembros",
-        "El voto favorable de las tres quintas partes del número legal de miembros"
+        "Si el Gobierno de Zaragoza hubiera aprobado el correspondiente proyecto",
+        "Si se hubiera publicado el anuncio de información pública en el boletín oficial",
+        "Si la Comisión plenaria competente hubiera emitido ya su dictamen",
+        "Si el Pleno hubiera adoptado ya el acuerdo de aprobación inicial"
       ],
       "correct": 0,
-      "exp": "El art. 126.4 exige «el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación» para, entre otros, «g) La aprobación de las ordenanzas reguladoras de los aprovechamientos de bienes comunales, así como la cesión, por cualquier título, de su aprovechamiento». La mayoría de dos tercios del número de hecho del art. 126.3 se reserva para la creación y supresión de municipios, las entidades locales menores, la delimitación del término y el cambio de nombre o capitalidad. La ley no prevé una mayoría de tres quintos.",
-      "fuente": "Art. 126.4.g) Ley 7/1999 (Administración Local de Aragón)",
+      "exp": "La disposición transitoria segunda.2 de la Ley 10/2017 establece que los procedimientos del capítulo V iniciados antes de su entrada en vigor se rigen por la normativa anterior, y añade: «A estos efectos se entenderá que los procedimientos han sido iniciados si se hubiera aprobado el correspondiente proyecto por el Gobierno de Zaragoza». El criterio es la aprobación del proyecto, que es además la primera fase del procedimiento del art. 48.3.a); la información pública, el dictamen de la Comisión plenaria o un acuerdo plenario no son el momento que fija la ley.",
+      "fuente": "Disposición transitoria segunda.2 Ley 10/2017 (capitalidad de Zaragoza)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Según el art. 126.4.g) Ley 7/1999 la pregunta es correcta, pero la respuesta es distinta para Zaragoza. Por los arts. 47.3 y 123.2 LBRL y el art. 11.2 de la Ley 10/2017, en un municipio de gran población estas ordenanzas no figuran entre los acuerdos de mayoría absoluta y se aprueban por mayoría simple. Para Zaragoza, la opción correcta sería el distractor «mayoría simple». Tiene el mismo defecto que la P12. | Revisor 2 (RECHAZADA): Es literal del art. 126.4.g) Ley 7/1999, pero la respuesta es falsa para Zaragoza, municipio de gran población: arts. 47.3 y 123.2 LBRL y art. 11.2 Ley 10/2017. Las ordenanzas de aprovechamiento de bienes comunales no están entre los acuerdos que el art. 123.2 somete a mayoría absoluta, de modo que en Zaragoza basta la mayoría simple. Contradice lo que el banco enseña para gran población.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Verificado DT 2.ª.2 Ley 10/2017: «se entenderá que los procedimientos han sido iniciados si se hubiera aprobado el correspondiente proyecto por el Gobierno de Zaragoza». Información pública, dictamen de Comisión y aprobación plenaria no son el criterio legal. Coherente con art. 48.3.a). Epígrafe: procedimiento del cap. V. Sin repetición. | Revisor 2 (RECHAZADA): DT 2.ª.2 Ley 10/2017 verificada: el procedimiento se entiende iniciado si el Gobierno de Zaragoza ha aprobado el proyecto. Pero es un régimen transitorio agotado: afecta a procedimientos iniciados antes del 21-12-2017, fecha de entrada en vigor, y no tiene ninguna relevancia en 2027. Se rechaza por agotado.",
       "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el art. 197.1 de la Ley 7/1999, de Administración Local de Aragón, respecto del sistema de infracciones y sanciones establecido en las leyes sectoriales, las ordenanzas locales podrán:",
+      "q": "Según la disposición final primera.2 de la Ley 10/2017 (capitalidad de Zaragoza), ¿qué trámite se exige respecto de todo proyecto de disposición reglamentaria de desarrollo de esa ley?",
       "options": [
-        "Elevar las cuantías máximas de las sanciones fijadas en la ley sectorial",
-        "Complementarlo y adaptarlo, introduciendo especificaciones o graduaciones, sin que supongan nuevas infracciones o sanciones ni alteren su naturaleza o límites",
-        "Sustituirlo íntegramente por un régimen sancionador propio de la entidad local",
-        "Suspender su aplicación en el término municipal por razones de interés local"
+        "Someterlo a la aprobación previa del Pleno de Zaragoza por mayoría absoluta del número legal",
+        "Notificarlo antes de su aprobación al municipio de Zaragoza, para que lo informe preceptivamente",
+        "Someterlo antes de su aprobación a dictamen vinculante del Consejo Bilateral de Capitalidad",
+        "Publicarlo en la sede electrónica del Ayuntamiento durante un plazo de treinta días naturales"
       ],
       "correct": 1,
-      "exp": "El art. 197.1 dispone: «Las ordenanzas locales podrán complementar y adaptar el sistema de infracciones y sanciones establecido en las leyes sectoriales, introduciendo las especificaciones o graduaciones que consideren conveniente, sin que, en ningún caso, supongan nuevas infracciones o sanciones, ni alteren su naturaleza o límites». Elevar las cuantías alteraría sus límites, y sustituir o suspender el régimen legal va contra el propio precepto.",
-      "fuente": "Art. 197.1 Ley 7/1999 (Administración Local de Aragón)",
+      "exp": "La disposición final primera.2 de la Ley 10/2017 dispone: «El municipio de Zaragoza deberá ser notificado de todo proyecto de disposición reglamentaria de desarrollo de esta Ley con carácter previo a su aprobación, a fin de que informe preceptivamente en el seno del procedimiento de aprobación». La ley exige notificación e informe preceptivo del municipio; no exige aprobación del Pleno municipal, dictamen del Consejo Bilateral de Capitalidad ni publicación en la sede electrónica municipal.",
+      "fuente": "Disposición final primera.2 Ley 10/2017 (capitalidad de Zaragoza)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 197.1 Ley 7/1999, literal). Pero queda FUERA DEL EPÍGRAFE del tema 16. El art. 197 está en el Título VII, capítulo I, «Intervención administrativa en la actividad privada», de la Ley 7/1999: es materia de policía administrativa, que corresponde al tema 11 («La actividad de las entidades Locales. Policía…»). El epígrafe del tema 16 no menciona la potestad sancionadora. Si se quiere aprovechar, propongo pasarla al tema 11, previa revisión allí; ese tema no tiene ninguna pregunta de la Ley 7/1999. | Revisor 2 (CONFIRMADA): Art. 197.1 Ley 7/1999 literal. Coincide con la regla de las especificaciones o graduaciones del art. 27.3 LRJSP y es compatible con los arts. 139-141 LBRL. Los distractores (elevar cuantías, sustituir o suspender el régimen legal) son contrarios al precepto. No hay duplicado en el banco.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Verificado DF 1.ª.2 Ley 10/2017: notificación previa al municipio «a fin de que informe preceptivamente». Ninguno de los distractores (aprobación del Pleno, dictamen vinculante del Consejo Bilateral, publicación 30 días en sede) aparece en el texto. Lo considero dentro del epígrafe (Reglamentos en la ley de capitalidad). Sin repetición. | Revisor 2 (RECHAZADA): La DF 1.ª.2 Ley 10/2017 está bien citada, pero la pregunta cae fuera del epígrafe del tema 16. El precepto se refiere a los proyectos de reglamento de desarrollo de la ley que tramita otra Administración (la autonómica), en los que el municipio solo informa; no trata de la aprobación de ordenanzas o Reglamentos municipales. Además, el enunciado no dice quién elabora el proyecto, y la DF 1.ª.1 atribuye al propio Pleno municipal parte del desarrollo reglamentario: notificar al municipio un proyecto suyo no tiene sentido, así que la pregunta es ambigua. La correcta es además la opción más larga.",
       "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el art. 17.2 del TRLRHL, además de los ayuntamientos de población superior a 10.000 habitantes, ¿qué entidades deben publicar también el anuncio de exposición de las ordenanzas fiscales en un diario de los de mayor difusión de la provincia?",
+      "q": "Según la disposición adicional primera.3 de la Ley 10/2017 (capitalidad de Zaragoza), ¿cómo se aplica en Zaragoza la legislación autonómica de Aragón en materia de régimen local, como la Ley 7/1999, que también regula la aprobación de ordenanzas y reglamentos?",
       "options": [
-        "Las diputaciones provinciales y los órganos de gobierno de las entidades supramunicipales",
-        "Las entidades locales menores, cuando gestionen tributos propios",
-        "Los municipios en régimen de concejo abierto",
-        "Los ayuntamientos que hayan delegado la gestión tributaria en otra Administración"
-      ],
-      "correct": 0,
-      "exp": "El art. 17.2 TRLRHL obliga a todas las entidades locales a publicar los anuncios de exposición en el boletín oficial de la provincia, y añade: «Las diputaciones provinciales, los órganos de gobierno de las entidades supramunicipales y los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además, en un diario de los de mayor difusión de la provincia». Las entidades locales menores, los concejos abiertos y los ayuntamientos que han delegado la gestión tributaria no figuran como categoría en el precepto.",
-      "fuente": "Art. 17.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 17.2 TRLRHL), pero hay dos problemas. (1) La respuesta trata de las diputaciones provinciales y de las entidades supramunicipales, que no son municipios, cuando el epígrafe se refiere a las ordenanzas «de los municipios». La provincia está fuera de alcance según fuentes.json. (2) En cuanto a la duda del redactor: no la repite al pie de la letra, pero pregunta por la misma frase del art. 17.2 que ya tiene dos preguntas en el tema 12 («Según el art. 17.2 del TRLRHL, los Ayuntamientos de población superior a 10.000 habitantes deben publicar… además… en: Un diario…» y «¿qué ayuntamientos deben publicarlo también en un diario…?»), y el enunciado da la respuesta de esas dos. Lo único nuevo es el dato de las diputaciones. | Revisor 2 (CONFIRMADA): Art. 17.2 TRLRHL literal: diputaciones provinciales, órganos de gobierno de las entidades supramunicipales y ayuntamientos de más de 10.000 habitantes. Las otras tres categorías no figuran. Compatible con Zaragoza.",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 10.4.b) de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, el dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno, corresponde a:",
-      "options": [
-        "El Gobierno de Zaragoza",
-        "El Consejo Social de la ciudad",
-        "El Secretario General del Pleno",
-        "Las Comisiones del Pleno"
+        "Con carácter preferente, de modo que prevalece sobre la Ley 10/2017 en caso de contradicción",
+        "En los aspectos que el Pleno municipal acuerde expresamente aplicar en cada caso concreto",
+        "En ningún aspecto, porque la Ley 10/2017 la desplaza por completo en el municipio de Zaragoza",
+        "Con carácter supletorio, en los aspectos y materias que no se hallen regulados en la Ley 10/2017"
       ],
       "correct": 3,
-      "exp": "El art. 10.4 de la Ley 10/2017 atribuye a las Comisiones del Pleno, entre otras funciones, «b) El dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno». Al Gobierno de Zaragoza le corresponde aprobar los proyectos (arts. 14.1.a y 48.3.a), no dictaminarlos.",
-      "fuente": "Art. 10.4.b) Ley 10/2017 (capitalidad de Zaragoza)",
-      "confianza": "alta",
+      "exp": "La disposición adicional primera.3 de la Ley 10/2017 dispone: «La legislación autonómica de Aragón en materia de régimen local se aplicará con carácter supletorio en todos aquellos aspectos y materias relativos a los diferentes sectores de intervención administrativa y al régimen local que no se hallen regulados en esta Ley». Por eso, en la aprobación de ordenanzas y Reglamentos, que regula el art. 48 de la Ley 10/2017, la Ley 7/1999 solo juega como supletoria. No prevalece sobre la ley de capitalidad, no depende de un acuerdo del Pleno y tampoco queda desplazada por completo.",
+      "fuente": "Disposición adicional primera.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "media",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 10.4.b) Ley 10/2017, BOE-A-2018-1683, literal). Pero REPITE en el fondo preguntas que ya están en el tema 16, como la del art. 48.3.c) («…se remite a… la Comisión plenaria competente, para la emisión del oportuno dictamen») y las del art. 48.4.a) (dictamen de la Comisión plenaria). El matiz nuevo («incluidos los de naturaleza orgánica») no lo examina ninguna opción. Si se quiere aprovechar el art. 10.4.b), habría que preguntar precisamente por ese matiz. | Revisor 2 (DUDOSA): Art. 10.4.b) Ley 10/2017 literal (consolidado BOE-A-2018-1683) y respuesta correcta, con distractores falsos (el Gobierno aprueba los proyectos según el art. 14.1.a; el Consejo Social y el Secretario General no dictaminan). Pero roza el duplicado: el banco ya pregunta, por el art. 48.3.c), a quién se remite el proyecto «para la emisión del oportuno dictamen» (Comisión plenaria) y, por el 48.4.a) y el 49.a), el dictamen de la Comisión. Solo aporta el inciso «incluidos los de naturaleza orgánica». Arreglo: centrar la pregunta en ese inciso (si el dictamen alcanza también a los reglamentos orgánicos) o descartarla.",
+      "notaRevision": "Revisor 1 (RECHAZADA): Texto correcto (DA 1.ª.3 Ley 10/2017, verificado), pero fuera del epígrafe del tema 16: es una cláusula general de supletoriedad de la legislación autonómica de régimen local, no una regla sobre la aprobación de ordenanzas, ordenanzas fiscales o Reglamentos; encaja en el tema 14 (disposiciones generales de la ley). El enlace con la Ley 7/1999 lo añade el enunciado, no la norma. Confianza «media» del redactor. Ante la duda, se rechaza. | Revisor 2 (CONFIRMADA): DA 1.ª.3 Ley 10/2017 verificada literalmente: la legislación autonómica de régimen local se aplica con carácter supletorio en lo no regulado por esa ley. El distractor de la prevalencia es falso, porque la DA 1.ª.1 hace prevalecer la Ley 10/2017. También son falsos el del acuerdo del Pleno y el del desplazamiento total. Comprobado que la Ley 7/1999 regula la aprobación de ordenanzas y reglamentos (arts. 139-141), así que la premisa del enunciado es cierta. Está en el límite del epígrafe, pero queda dentro por su enlace con la aprobación de ordenanzas en Zaragoza (art. 48).",
       "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "¿Qué medio de publicidad del anuncio de exposición al público de una ordenanza fiscal exige el art. 49.b) de la Ley 10/2017 (capitalidad de Zaragoza) y NO menciona el art. 17 del TRLRHL?",
+      "q": "En los municipios de gran población, como Zaragoza, ¿qué función atribuye el art. 137.1.b) LBRL al órgano para la resolución de las reclamaciones económico-administrativas en relación con las ordenanzas fiscales?",
       "options": [
-        "El tablón de anuncios",
-        "La sede electrónica municipal",
-        "El boletín oficial",
-        "Un diario de los de mayor difusión de la provincia"
+        "La aprobación inicial de las ordenanzas fiscales",
+        "El dictamen sobre los proyectos de ordenanzas fiscales",
+        "La resolución de las reclamaciones contra la ordenanza fiscal expuesta al público",
+        "La aprobación del proyecto de ordenanza fiscal"
       ],
       "correct": 1,
-      "exp": "El art. 49.b) de la Ley 10/2017 ordena exponer al público la ordenanza fiscal aprobada inicialmente, «previo anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal». El art. 17 TRLRHL prevé la exposición en el tablón de anuncios (17.1) y el anuncio en el boletín oficial de la provincia y, en ayuntamientos de más de 10.000 habitantes, en un diario de los de mayor difusión de la provincia (17.2), pero no menciona la sede electrónica. El tablón, el boletín y el diario están todos en el art. 17.",
-      "fuente": "Art. 49.b) Ley 10/2017 (capitalidad de Zaragoza) y art. 17.1 y 17.2 TRLRHL (RDLeg 2/2004)",
+      "exp": "El art. 137.1 LBRL encomienda a este órgano especializado, en su letra b), «El dictamen sobre los proyectos de ordenanzas fiscales». En Zaragoza, la aprobación del proyecto de ordenanza fiscal corresponde al Gobierno de Zaragoza y la aprobación inicial a la Comisión plenaria (art. 49.a) Ley 10/2017); las reclamaciones presentadas en la exposición pública las resuelve el Pleno a propuesta de la Comisión plenaria (art. 49.c) Ley 10/2017). Las reclamaciones de las que conoce este órgano son las de la letra a): las que se formulan contra actos de gestión, liquidación, recaudación e inspección de tributos e ingresos de derecho público de competencia municipal.",
+      "fuente": "Art. 137.1.b) LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 49.b) Ley 10/2017; el art. 17 TRLRHL no menciona la sede electrónica). Pero REPITE una pregunta que ya está en el tema 16: «Según el art. 49.b) de la Ley de Capitalidad, el anuncio del periodo de exposición al público de una ordenanza fiscal debe publicarse en el boletín oficial correspondiente, en el tablón de anuncios y, además, en… la sede electrónica municipal». Examina el mismo dato con otra redacción (regla 6). | Revisor 2 (RECHAZADA): El contenido es correcto (el art. 49.b) Ley 10/2017 menciona la sede electrónica y el art. 17 TRLRHL no; el tablón está en el 17.1 y el boletín y el diario en el 17.2), pero repite preguntas del banco: «Según el art. 49.b)… boletín, tablón y, además, en… → la sede electrónica municipal» y «Según el art. 49.b)… ¿qué trámite sigue? → anuncio en boletín, tablón y sede electrónica». La comparación con el TRLRHL no cambia el dato que se pregunta.",
+      "notaRevision": "Revisor 1 (RECHAZADA): Contenido correcto (art. 137.1.b) LBRL verificado), pero REPITE una pregunta existente del tema 14: «Según el art. 137.1 de la LBRL, ¿cuál de las siguientes funciones corresponde también al órgano especializado…? => Emitir dictamen sobre los proyectos de ordenanzas fiscales». Mismo dato con otras palabras. | Revisor 2 (RECHAZADA): Art. 137.1.b) LBRL verificado: la respuesta es correcta. Pero repite una pregunta que ya está en el tema 14: «Según el art. 137.1 de la LBRL, ¿cuál de las siguientes funciones corresponde también al órgano especializado...? → Emitir dictamen sobre los proyectos de ordenanzas fiscales». Es la misma pregunta con otras palabras.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, ¿qué órgano conoce en única instancia de los recursos que se deduzcan en relación con las disposiciones generales emanadas de las Entidades locales, como una ordenanza municipal?",
+      "options": [
+        "El Juzgado de lo Contencioso-administrativo con sede en la capital de la provincia",
+        "La Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia",
+        "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+        "La Sala de lo Contencioso-administrativo del Tribunal Supremo"
+      ],
+      "correct": 1,
+      "exp": "El art. 10.1.b) LJCA atribuye a las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia el conocimiento, en única instancia, de los recursos que se deduzcan en relación con «Las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades locales». Los Juzgados de lo Contencioso-administrativo conocen de los recursos frente a los actos de las entidades locales (art. 8.1 LJCA), no frente a sus disposiciones generales. La Audiencia Nacional y el Tribunal Supremo no tienen atribuido este recurso.",
+      "fuente": "Art. 10.1.b) LJCA (Ley 29/1998)",
+      "confianza": "media",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato correcto (art. 10.1.b LJCA verificado: TSJ en única instancia para disposiciones generales de entidades locales), pero la LJCA no figura en ningún tema del Anexo I (BOPZ 170/2026) y el epígrafe del tema 16 trata de reglamentos y ordenanzas y su aprobación, no de su control jurisdiccional ni de la competencia de los tribunales. Fuera de epígrafe; se rechaza. | Revisor 2 (CONFIRMADA): Art. 10.1.b) LJCA verificado: las Salas de lo Contencioso-administrativo de los TSJ conocen en única instancia de los recursos contra las disposiciones generales de las Entidades locales. El art. 8.1 LJCA da a los Juzgados solo los actos, y ni la Audiencia Nacional ni el Tribunal Supremo tienen atribuido este recurso. Dentro del epígrafe (control de las ordenanzas) y sin duplicado: las preguntas del banco sobre el recurso directo no preguntan por el órgano.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 46.1 LJCA, ¿cuál es el plazo para interponer recurso contencioso-administrativo contra una disposición general, como una ordenanza municipal?",
+      "options": [
+        "Un mes, contado desde el día siguiente al de su publicación",
+        "Dos meses, contados desde su aprobación definitiva por el Pleno",
+        "Seis meses, contados desde el día siguiente al de su publicación",
+        "Dos meses, contados desde el día siguiente al de su publicación"
+      ],
+      "correct": 3,
+      "exp": "El art. 46.1 LJCA dispone: «El plazo para interponer el recurso contencioso-administrativo será de dos meses contados desde el día siguiente al de la publicación de la disposición impugnada». No es un mes; el plazo de seis meses es el que el mismo artículo prevé cuando el acto no es expreso, y el cómputo no arranca de la aprobación definitiva, sino de la publicación. Para las ordenanzas fiscales, el art. 19.1 TRLRHL remite igualmente a la forma y plazos de las normas reguladoras de esta jurisdicción, a partir de su publicación.",
+      "fuente": "Art. 46.1 LJCA (Ley 29/1998)",
+      "confianza": "media",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato correcto (art. 46.1 LJCA verificado: dos meses desde el día siguiente a la publicación), pero fuera de epígrafe: la LJCA no está en el programa y el plazo de recurso contencioso no forma parte de la aprobación de ordenanzas. Además, solapa con preguntas existentes del tema 16 (recurso directo «dentro del plazo legalmente establecido desde su publicación», arts. 25.1 y 46.1 LJCA; art. 19.1 TRLRHL). | Revisor 2 (CONFIRMADA): Art. 46.1 LJCA verificado: dos meses desde el día siguiente al de la publicación de la disposición impugnada. Los seis meses se refieren al acto no expreso. La referencia al art. 19.1 TRLRHL también es exacta. Los distractores son falsos y el banco no tiene ninguna pregunta sobre este plazo aplicado a las ordenanzas.",
       "_motivo": "veredicto RECHAZADA"
     }
   ]

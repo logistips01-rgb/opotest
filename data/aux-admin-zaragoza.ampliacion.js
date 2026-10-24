@@ -64888,3 +64888,215 @@ window.addQuestions('aux-admin-zaragoza', 14, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 16 · lote 2026-10-24 · 16 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 16, [
+  {
+    "q": "Según la disposición final primera.1 de la Ley 10/2017 (capitalidad de Zaragoza), sin perjuicio de las competencias del Gobierno de Aragón, ¿a quién corresponde el desarrollo reglamentario de las cuestiones organizativas relativas a las competencias propias reconocidas en esa ley?",
+    "options": [
+      "Al Gobierno de Zaragoza, en pleno",
+      "Al Alcalde de Zaragoza, por decreto",
+      "Al Consejo Bilateral de Capitalidad",
+      "Al Pleno del municipio de Zaragoza"
+    ],
+    "correct": 3,
+    "exp": "La disposición final primera.1 de la Ley 10/2017 dispone: «Sin perjuicio de las competencias del Gobierno de Aragón, corresponde al Pleno del municipio de Zaragoza el desarrollo reglamentario de las cuestiones organizativas relativas a las competencias propias reconocidas en esta Ley». Ni el Gobierno de Zaragoza, ni el Alcalde ni el Consejo Bilateral de Capitalidad tienen atribuido ese desarrollo reglamentario.",
+    "fuente": "Disposición final primera.1 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.4.b) de la Ley 10/2017 (capitalidad de Zaragoza), ¿qué alcance tiene la función de las Comisiones del Pleno de dictaminar las normas municipales con carácter previo a su aprobación por el Pleno?",
+    "options": [
+      "Comprende las ordenanzas y Reglamentos municipales, excepto los de naturaleza orgánica",
+      "Comprende las ordenanzas fiscales y los Reglamentos de naturaleza orgánica, pero no el resto",
+      "Comprende las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica",
+      "Comprende las ordenanzas municipales, pero no los Reglamentos, que van directamente al Pleno"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.4.b) de la Ley 10/2017 atribuye a las Comisiones del Pleno «El dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno». El dictamen alcanza, por tanto, a ordenanzas y Reglamentos, también a los orgánicos; no se excluyen los Reglamentos orgánicos ni los demás Reglamentos, ni se limita a las ordenanzas fiscales.",
+    "fuente": "Art. 10.4.b) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los municipios de gran población, ¿a quién corresponde, según el art. 122.5.d) LBRL, la comunicación, publicación y ejecución de los acuerdos plenarios, como el que aprueba una ordenanza?",
+    "options": [
+      "Al secretario general del Pleno",
+      "Al Alcalde, mediante decreto",
+      "Al concejal-secretario de la Junta de Gobierno Local",
+      "Al titular de la asesoría jurídica municipal"
+    ],
+    "correct": 0,
+    "exp": "El art. 122.5 LBRL atribuye al secretario general del Pleno, en su letra d), «La comunicación, publicación y ejecución de los acuerdos plenarios». Al Alcalde le corresponde ordenar la publicación, ejecución y cumplimiento de los acuerdos de los órganos ejecutivos, no de los del Pleno (art. 124.4.f) LBRL; en Zaragoza, art. 12.1.f) Ley 10/2017). El concejal-secretario de la Junta de Gobierno Local redacta las actas de esta y certifica sus acuerdos (art. 126.4 LBRL), y la asesoría jurídica no tiene esa función. El Pleno de Zaragoza cuenta con un Secretario General (art. 10.3 Ley 10/2017).",
+    "fuente": "Art. 122.5.d) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Pleno del Ayuntamiento de Zaragoza va a aprobar la modificación de su Reglamento orgánico. Según el art. 122.5.e) LBRL, el asesoramiento legal del secretario general del Pleno en ese asunto:",
+    "options": [
+      "Es preceptivo si lo solicita un tercio de los miembros; si no, es potestativo",
+      "Es preceptivo si así lo ordena el Presidente del Pleno; si no, es potestativo",
+      "Es potestativo, porque lo sustituye el dictamen de la Comisión del Pleno",
+      "Es preceptivo en todo caso, por tratarse de una materia que exige mayoría especial"
+    ],
+    "correct": 3,
+    "exp": "El art. 122.5.e) LBRL declara preceptivo el asesoramiento legal del secretario general del Pleno, entre otros supuestos, «2.º Siempre que se trate de asuntos sobre materias para las que se exija una mayoría especial». La aprobación y modificación de los reglamentos orgánicos exige mayoría absoluta del número legal de miembros (art. 123.2 LBRL, en relación con su apartado 1.c); en Zaragoza, art. 11.2 Ley 10/2017). Por eso el informe es preceptivo sin necesidad de que lo pida un tercio de los miembros o lo ordene el Presidente, que son otros supuestos distintos (el 1.º), y el dictamen de la Comisión no lo sustituye.",
+    "fuente": "Art. 122.5.e).2.º LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.2 LBRL, además de ejercer su potestad reglamentaria en materia tributaria a través de Ordenanzas fiscales y de Ordenanzas generales de gestión, recaudación e inspección, las Corporaciones locales podrán:",
+    "options": [
+      "Dispensar de su cumplimiento a contribuyentes concretos por resolución motivada",
+      "Suspender su aplicación mientras se resuelven las reclamaciones presentadas",
+      "Emanar disposiciones interpretativas y aclaratorias de dichas Ordenanzas",
+      "Aprobar su modificación por decreto de la Alcaldía en los casos de urgencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.2 LBRL dispone: «La potestad reglamentaria de las entidades locales en materia tributaria se ejercerá a través de Ordenanzas fiscales reguladoras de sus tributos propios y de Ordenanzas generales de gestión, recaudación e inspección. Las Corporaciones locales podrán emanar disposiciones interpretativas y aclaratorias de las mismas». El precepto no prevé dispensas individuales (que el art. 139.3 Ley 7/1999 prohíbe expresamente), ni la suspensión de la ordenanza mientras se tramitan reclamaciones, ni su modificación por decreto de la Alcaldía.",
+    "fuente": "Art. 106.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.2 LBRL, las Ordenanzas fiscales obligan en el territorio de la respectiva entidad local y se aplican conforme a los principios de:",
+    "options": [
+      "Residencia efectiva y de territorialidad, según los casos",
+      "Capacidad económica y de progresividad tributaria, según los casos",
+      "Generalidad y de igualdad tributaria, según los casos",
+      "Legalidad y de reserva de ley, según los casos"
+    ],
+    "correct": 0,
+    "exp": "El art. 107.2 LBRL dispone: «Las Ordenanzas fiscales obligan en el territorio de la respectiva entidad local y se aplican conforme a los principios de residencia efectiva y de territorialidad, según los casos». Los demás pares de principios (capacidad económica y progresividad, generalidad e igualdad, legalidad y reserva de ley) no son los que este precepto menciona para la aplicación de las ordenanzas fiscales.",
+    "fuente": "Art. 107.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 128.1 de la Ley 39/2015 (LPAC), los órganos de gobierno locales ejercen la potestad reglamentaria de acuerdo con lo previsto en:",
+    "options": [
+      "La Constitución y los reglamentos que el Gobierno de la Nación dicte específicamente para las entidades locales",
+      "Los Estatutos de Autonomía y las leyes anuales de presupuestos de cada Comunidad Autónoma",
+      "La Constitución, los Estatutos de Autonomía y la Ley 7/1985, reguladora de las Bases del Régimen Local",
+      "La Constitución y los convenios que cada municipio suscriba con su Comunidad Autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 128.1 LPAC dispone que el ejercicio de la potestad reglamentaria corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas «y a los órganos de gobierno locales, de acuerdo con lo previsto en la Constitución, los Estatutos de Autonomía y la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local». No menciona reglamentos estatales dictados para las entidades locales, leyes de presupuestos ni convenios.",
+    "fuente": "Art. 128.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 128.2 LPAC establece que los reglamentos y disposiciones administrativas no podrán, entre otras cosas, tipificar infracciones administrativas, establecer sanciones ni establecer tributos. ¿Con qué salvedad formula el precepto esa prohibición?",
+    "options": [
+      "Salvo que la disposición se apruebe por mayoría absoluta del órgano competente",
+      "Sin perjuicio de su función de desarrollo o colaboración con respecto a la ley",
+      "Salvo en las disposiciones que apruebe el Pleno de un municipio de gran población",
+      "Sin perjuicio de lo que se pacte en convenio con la Comunidad Autónoma respectiva"
+    ],
+    "correct": 1,
+    "exp": "El art. 128.2 LPAC dispone: «Sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público». La única salvedad es esa función de desarrollo o colaboración con la ley; la mayoría con que se apruebe la norma, el tamaño del municipio o un convenio no la levantan. Así, una ordenanza solo tipifica infracciones cuando una ley lo permite, como hace el art. 139 LBRL «en defecto de normativa sectorial específica».",
+    "fuente": "Art. 128.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.1 LPAC, ¿dónde debe quedar suficientemente justificada la adecuación de un proyecto de reglamento a los principios de buena regulación?",
+    "options": [
+      "En el preámbulo de la norma",
+      "En la memoria económica",
+      "En el informe de la Secretaría",
+      "En el anuncio de información pública"
+    ],
+    "correct": 0,
+    "exp": "El art. 129.1 LPAC dispone: «En la exposición de motivos o en el preámbulo, según se trate, respectivamente, de anteproyectos de ley o de proyectos de reglamento, quedará suficientemente justificada su adecuación a dichos principios». A los proyectos de reglamento les corresponde, pues, el preámbulo; el precepto no remite a una memoria económica, a un informe de Secretaría ni al anuncio de información pública. La STC 55/2018 declaró los arts. 129 y 130.2 inaplicables a las iniciativas legislativas autonómicas, pero los consideró «bases del régimen jurídico de las administraciones públicas (art. 149.1.18 CE) relativas a la elaboración de reglamentos».",
+    "fuente": "Art. 129.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.4 LPAC, el principio de seguridad jurídica exige que la iniciativa normativa se ejerza de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea, para generar un marco normativo:",
+    "options": [
+      "Flexible, revisable y adaptado a cada ejercicio económico",
+      "Uniforme en todo el territorio, sin especialidades locales",
+      "Exhaustivo, que agote la regulación de cada materia",
+      "Estable, predecible, integrado, claro y de certidumbre"
+    ],
+    "correct": 3,
+    "exp": "El art. 129.4, párrafo primero, LPAC dispone que, a fin de garantizar el principio de seguridad jurídica, la iniciativa normativa se ejercerá de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea, «para generar un marco normativo estable, predecible, integrado, claro y de certidumbre, que facilite su conocimiento y comprensión». No habla de un marco flexible o revisable cada ejercicio, uniforme sin especialidades locales ni exhaustivo.",
+    "fuente": "Art. 129.4, párrafo primero, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.6 LPAC, ¿qué exige el principio de eficiencia a la iniciativa normativa, por ejemplo en la elaboración de una ordenanza municipal?",
+    "options": [
+      "Contener la regulación imprescindible, tras constatar que no existen otras medidas menos restrictivas de derechos",
+      "Evitar cargas administrativas innecesarias o accesorias y racionalizar la gestión de los recursos públicos",
+      "Ejercerse de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea",
+      "Estar justificada por una razón de interés general y ser el instrumento más adecuado para sus fines"
+    ],
+    "correct": 1,
+    "exp": "El art. 129.6 LPAC dispone: «En aplicación del principio de eficiencia, la iniciativa normativa debe evitar cargas administrativas innecesarias o accesorias y racionalizar, en su aplicación, la gestión de los recursos públicos». Las demás opciones describen otros principios del mismo artículo: la regulación imprescindible es el de proporcionalidad (art. 129.3), la coherencia con el ordenamiento es el de seguridad jurídica (art. 129.4) y la razón de interés general es el de necesidad y eficacia (art. 129.2).",
+    "fuente": "Art. 129.6 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.7 LPAC, cuando una iniciativa normativa afecte a los gastos o ingresos públicos presentes o futuros:",
+    "options": [
+      "Debe contar con informe favorable del Ministerio de Hacienda y aplazar su entrada en vigor al ejercicio siguiente",
+      "Debe aprobarse por mayoría absoluta y con informe vinculante del órgano interventor de la Administración autora",
+      "Deben cuantificarse y valorarse sus efectos, supeditándose a la estabilidad presupuestaria y la sostenibilidad financiera",
+      "Debe someterse a una consulta pública específica y a la aprobación previa del presupuesto que vaya a financiarla"
+    ],
+    "correct": 2,
+    "exp": "El art. 129.7 LPAC dispone: «Cuando la iniciativa normativa afecte a los gastos o ingresos públicos presentes o futuros, se deberán cuantificar y valorar sus repercusiones y efectos, y supeditarse al cumplimiento de los principios de estabilidad presupuestaria y sostenibilidad financiera». El precepto no exige informe del Ministerio de Hacienda, mayoría absoluta, informe vinculante de la intervención, consulta pública específica ni aprobación previa del presupuesto. En Zaragoza, además, toda proposición o enmienda que aumente los créditos o disminuya los ingresos del ejercicio en curso requiere la conformidad del Gobierno de Zaragoza (art. 48.6 Ley 10/2017).",
+    "fuente": "Art. 129.7 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 130.1 LPAC, las Administraciones Públicas revisarán periódicamente su normativa vigente para adaptarla a los principios de buena regulación. ¿Qué se hace con el resultado de esa evaluación?",
+    "options": [
+      "Se plasma en un informe que se hará público",
+      "Se comunica de forma reservada al Ministerio competente",
+      "Se incorpora al preámbulo de la siguiente norma aprobada",
+      "Se somete a información pública por plazo de treinta días"
+    ],
+    "correct": 0,
+    "exp": "El art. 130.1, párrafo segundo, LPAC dispone: «El resultado de la evaluación se plasmará en un informe que se hará público, con el detalle, periodicidad y por el órgano que determine la normativa reguladora de la Administración correspondiente». No es una comunicación reservada al Ministerio, ni se incorpora a un preámbulo, ni se somete a información pública. La STC 55/2018 declaró este artículo inaplicable a las iniciativas legislativas de las Comunidades Autónomas, pero sobre este párrafo segundo dijo que «tiene un contenido muy general que, en cuanto tal, tampoco puede desbordar el ámbito de lo básico».",
+    "fuente": "Art. 130.1, párrafo segundo, LPAC (Ley 39/2015)",
+    "confianza": "media"
+  },
+  {
+    "q": "Según el art. 131 LPAC, los reglamentos y disposiciones administrativas han de publicarse en el diario oficial correspondiente para que entren en vigor. ¿Qué carácter tienen los demás medios de publicidad que puedan establecer las Administraciones?",
+    "options": [
+      "Sustitutivo del diario oficial, si así se acuerda",
+      "Obligatorio para las entidades locales de gran población",
+      "Preferente sobre el diario oficial en el ámbito local",
+      "Complementario, y su establecimiento es facultativo"
+    ],
+    "correct": 3,
+    "exp": "El art. 131 LPAC dispone que las normas con rango de ley, los reglamentos y las disposiciones administrativas «habrán de publicarse en el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos. Adicionalmente, y de manera facultativa, las Administraciones Públicas podrán establecer otros medios de publicidad complementarios». Esos medios no sustituyen al diario oficial, no son obligatorios para ningún tipo de municipio y no prevalecen sobre la publicación oficial.",
+    "fuente": "Art. 131, párrafo primero, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 131 LPAC, ¿qué efectos tiene la publicación de los diarios o boletines oficiales en las sedes electrónicas de la Administración competente, en las condiciones y con las garantías que cada Administración determine?",
+    "options": [
+      "Efectos meramente informativos, sin valor jurídico propio",
+      "Efectos supletorios, para cuando falte la edición impresa",
+      "Los mismos efectos que los atribuidos a su edición impresa",
+      "Efectos limitados a quienes se suscriban a la sede electrónica"
+    ],
+    "correct": 2,
+    "exp": "El art. 131, párrafo segundo, LPAC dispone: «La publicación de los diarios o boletines oficiales en las sedes electrónicas de la Administración, Órgano, Organismo público o Entidad competente tendrá, en las condiciones y con las garantías que cada Administración Pública determine, los mismos efectos que los atribuidos a su edición impresa». No tiene un valor meramente informativo, ni supletorio, ni limitado a suscriptores.",
+    "fuente": "Art. 131, párrafo segundo, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el primer párrafo del art. 133.4 LPAC, ¿en qué casos podrá prescindirse de los trámites de consulta, audiencia e información públicas previstos en ese artículo?",
+    "options": [
+      "En ordenanzas fiscales, o cuando la norma se vaya a aprobar por mayoría absoluta del número legal",
+      "En normas presupuestarias u organizativas, o cuando concurran razones graves de interés público",
+      "En reglamentos ejecutivos de una ley, o cuando la vigencia prevista de la norma sea inferior a un año",
+      "En ordenanzas de policía, o cuando así lo acuerde la Junta de Portavoces por razones de urgencia"
+    ],
+    "correct": 1,
+    "exp": "El primer párrafo del art. 133.4 LPAC dispone: «Podrá prescindirse de los trámites de consulta, audiencia e información públicas previstos en este artículo en el caso de normas presupuestarias u organizativas de la Administración General del Estado, la Administración autonómica, la Administración local o de las organizaciones dependientes o vinculadas a éstas, o cuando concurran razones graves de interés público que lo justifiquen». La STC 55/2018 salvó este párrafo como básico. La dispensa se refiere solo a los trámites «previstos en este artículo»: no alcanza a la información pública que exigen el art. 49.b) LBRL y, en Zaragoza, el art. 48.3.b) Ley 10/2017. Ordenanzas fiscales, reglamentos ejecutivos, normas de vigencia corta u ordenanzas de policía no figuran entre los supuestos.",
+    "fuente": "Art. 133.4, párrafo primero, LPAC (Ley 39/2015)",
+    "confianza": "media"
+  }
+]);
