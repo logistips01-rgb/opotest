@@ -1,0 +1,375 @@
+[
+  {
+    "tema": 18,
+    "q": "Según el artículo 21.4 del RD 365/1995, el funcionario en suspensión provisional tendrá derecho a percibir:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Regla 10. El art. 21.4 RD 365/1995 (75 por 100 del sueldo, trienios y pagas extraordinarias) está desplazado por el art. 98.3 TREBEP, básico y posterior: «El funcionario suspenso provisional tendrá derecho a percibir durante la suspensión las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo». Corregida conforme al TREBEP sería idéntica a la 18-177, que ya pregunta el art. 98.3 con esa misma clave. Las salvedades del 21.4 (pérdida de toda retribución por paralización imputable o por incomparecencia) tampoco sirven para reformularla: el art. 98.3 no las recoge y restringen el derecho que reconoce.",
+    "resumen": "Retirada: daba como vigente el 75 % del art. 21.4 RD 365/1995, desplazado por el art. 98.3 TREBEP (retribuciones básicas); corregida repetiría la 18-177.",
+    "cita": "Art. 98.3 TREBEP: «El funcionario suspenso provisional tendrá derecho a percibir durante la suspensión las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.» Art. 21.4 RD 365/1995: «El suspenso provisional tendrá derecho a percibir el 75 por 100 de su sueldo, trienios y pagas extraordinarias…».",
+    "revisor": "APROBADA (retirada). Comprobado: art. 21.4 RD 365/1995 (consolidado de 04/03/2006: «el 75 por 100 de su sueldo, trienios y pagas extraordinarias») frente al art. 98.3 TREBEP (consolidado de 03/10/2026: «las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo»). El 75 % está desplazado (regla 10). Corregida sería la 18-177, que ya pregunta el 98.3 con esa clave; las salvedades del 21.4 (paralización imputable, incomparecencia) recortan el derecho del 98.3 y no sirven para reformularla sin presentar como vigente algo dudoso."
+  },
+  {
+    "tema": 18,
+    "q": "Según el artículo 89.4 del TREBEP, la excedencia para el cuidado de hijos tendrá, en todo caso, una duración máxima de tres años contados desde:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el artículo 89.4 del TREBEP, el periodo de excedencia de duración no superior a tres años para atender al cuidado de cada hijo se cuenta desde:",
+      "options": [
+        "La fecha de reincorporación al servicio activo del otro progenitor, si es funcionario",
+        "La fecha en que termine el permiso por nacimiento, adopción, guarda o acogimiento",
+        "La fecha de la solicitud de la excedencia o, en su caso, de la resolución que la concede",
+        "La fecha de nacimiento o, en su caso, de la resolución judicial o administrativa"
+      ],
+      "correct": 3,
+      "exp": "El art. 89.4 TREBEP reconoce a los funcionarios de carrera «un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, o de cada menor sujeto a guarda con fines de adopción o acogimiento permanente, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa». El precepto no cuenta el plazo desde el fin del permiso por nacimiento, ni desde la solicitud o la concesión de la excedencia, ni desde la reincorporación del otro progenitor. El art. 14.1 del RD 365/1995, anterior al Estatuto, solo cuenta los tres años «desde la fecha del nacimiento»; allí la resolución judicial de adopción fija únicamente el momento desde el que puede solicitarse la excedencia.",
+      "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "La clave decía “La fecha de nacimiento o de la resolución judicial de adopción”, y el art. 89.4 TREBEP vigente dice «de la resolución judicial o administrativa» (comprende también la guarda con fines de adopción y el acogimiento permanente). Además, el enunciado decía “tendrá, en todo caso, una duración máxima”, fórmula del art. 14.1 RD 365/1995 que no está en el art. 89.4. Se reformula el enunciado con la letra del Estatuto, se pone la clave literal y se alargan los distractores, porque la clave pasaba a ser la más larga.",
+    "resumen": "Clave literal del art. 89.4 TREBEP («resolución judicial o administrativa», no solo «judicial de adopción»); enunciado sin la fórmula del RD 365/1995 y distractores igualados en longitud.",
+    "cita": "Art. 89.4 TREBEP: «…a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.»",
+    "revisor": "APROBADA sin cambios. Art. 89.4 TREBEP (consolidado de 03/10/2026; apartado 4 sin cambios desde 2015): «a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa». La clave nueva es literal y la anterior («resolución judicial de adopción») era incompleta. El enunciado deja la fórmula del art. 14.1 RD 365/1995 («en todo caso, una duración máxima») y usa la del Estatuto. Distractores falsos según el 89.4 (fin del permiso del art. 49, solicitud o concesión, reincorporación del otro progenitor). La cita del art. 14.1 RD 365/1995 de la explicación es exacta. Longitudes 80-88 (clave 0,91 del más largo). No repite la 18-8 (duración) ni la 18-309 (guarda y acogimiento) ni otra del banco o de lotes/nuevas."
+  },
+  {
+    "tema": 18,
+    "q": "Conforme al artículo 16.3 del RD 365/1995, cada período de excedencia voluntaria por interés particular no podrá superar, como máximo:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Regla 10. El máximo de quince años del art. 16.3 RD 365/1995 desarrollaba el art. 29.3 c) de la Ley 30/1984 en la redacción de la Ley 22/1993 (art. 19: «ni más del número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince»). La Ley 13/1996 (art. 104) dio nueva redacción a ese art. 29.3 c), que desde entonces solo dice que «en ella no se podrá permanecer menos de dos años continuados», y el art. 89.2 TREBEP no fija duración máxima. La clave presenta como vigente un límite suprimido hace casi treinta años. Corregida, preguntaría por el mínimo de dos años (ya está en la 18-21) o por la remisión del art. 89.2 TREBEP a las leyes de desarrollo (ya está en la 18-38).",
+    "resumen": "Retirada: daba como vigente el máximo de quince años de la excedencia voluntaria por interés particular (art. 16.3 RD 365/1995), suprimido por la Ley 13/1996; el art. 89.2 TREBEP no fija máximo.",
+    "cita": "Ley 13/1996, art. 104 (nueva redacción del art. 29.3 c) Ley 30/1984): «…será preciso haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante los cinco años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados.»",
+    "revisor": "APROBADA (retirada). Punto delicado (1), comprobado en los textos de publicación: la Ley 22/1993 (art. 19) dio al art. 29.3 c) Ley 30/1984 el máximo de quince años; la Ley 13/1996 (art. 104) lo redactó de nuevo y solo quedan los cinco años previos y «no se podrá permanecer menos de dos años continuados» (es la redacción del consolidado de la Ley 30/1984). El art. 89.2 TREBEP no fija máximo. La clave presenta como vigente un límite suprimido. Corregida repetiría la 18-21 (mínimo de dos años) o la 18-38 (remisión del 89.2 a las leyes de desarrollo)."
+  },
+  {
+    "tema": 18,
+    "q": "Según el artículo 16.4 del RD 365/1995, si el funcionario no solicita el reingreso al servicio activo dentro del plazo máximo expresado en la resolución de concesión de la excedencia por interés particular, se produce:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Regla 10. La pérdida de la condición de funcionario por no pedir el reingreso dentro del plazo máximo de la excedencia por interés particular (art. 16.4 RD 365/1995) desarrollaba el párrafo que la Ley 22/1993 había añadido al art. 29.3 c) de la Ley 30/1984 («La falta de petición de reingreso al servicio activo dentro del período de duración de la excedencia voluntaria por interés particular comportará la pérdida de la condición de funcionario»). La Ley 13/1996 (art. 104) suprimió ese párrafo junto con el plazo máximo, y el art. 63 TREBEP no recoge esa causa entre las de pérdida de la condición de funcionario de carrera. Corregida no tendría una respuesta legal clara (sin plazo máximo no hay plazo que incumplir); las causas del art. 63 ya las preguntan la 17-244, la 17-245 y la 17-273, y la declaración de oficio de la excedencia por interés particular, la 18-36.",
+    "resumen": "Retirada: daba como vigente la pérdida de la condición de funcionario del art. 16.4 RD 365/1995, suprimida por la Ley 13/1996 y ausente del art. 63 TREBEP.",
+    "cita": "Ley 22/1993, art. 19: «La falta de petición de reingreso al servicio activo dentro del período de duración de la excedencia voluntaria por interés particular comportará la pérdida de la condición de funcionario.» Art. 63 TREBEP: a) renuncia; b) pérdida de la nacionalidad; c) jubilación total; d) separación del servicio firme; e) inhabilitación absoluta o especial firme.",
+    "revisor": "APROBADA (retirada). Punto delicado (1): la pérdida de la condición de funcionario por no pedir el reingreso la introdujo la Ley 22/1993 (art. 19, cita literal comprobada) y desapareció con la nueva redacción de la Ley 13/1996 (art. 104); el art. 63 TREBEP enumera cinco causas y no la incluye. Sin plazo máximo no hay plazo que incumplir, así que no tiene arreglo. Lo cercano ya está en la 17-244, 17-245, 17-273 (art. 63) y 18-36 (declaración de oficio del 89.2)."
+  },
+  {
+    "tema": 18,
+    "q": "Según el Reglamento de Situaciones Administrativas (RD 365/1995), cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 16.3 del RD 365/1995 dispone que «cada período de excedencia tendrá una duración no inferior a dos años continuados», y el art. 29.3 c) de la Ley 30/1984 dice lo mismo («en ella no se podrá permanecer menos de dos años continuados»); el TREBEP deroga ese artículo «con el alcance establecido en el apartado 2 de la disposición final cuarta» (disposición derogatoria única b), de modo que sigue aplicándose, en tanto no se oponga al Estatuto, hasta que se dicten las leyes de Función Pública y las normas reglamentarias de desarrollo. El art. 89.2 TREBEP no fija plazo: remite a esas leyes la determinación de los periodos mínimos de permanencia. Cuidado con el resto del art. 16.3 y con el 16.4: la duración máxima («con un máximo de quince» años) y la pérdida de la condición de funcionario por no pedir el reingreso a tiempo ya no rigen. Procedían de la redacción que la Ley 22/1993 dio al art. 29.3 c) de la Ley 30/1984, y la Ley 13/1996 (art. 104) los suprimió; el TREBEP tampoco fija un máximo ni recoge esa causa de pérdida en su art. 63."
+    },
+    "motivo": "La explicación citaba entero el art. 16.3, incluido el máximo de quince años, como si siguiera vigente. Ese máximo y la pérdida de la condición de funcionario del art. 16.4 los suprimió la Ley 13/1996 (art. 104, nueva redacción del art. 29.3 c) Ley 30/1984), y el TREBEP no los recupera (arts. 89.2 y 63). La clave (dos años continuados) sigue siendo correcta. Regla 10.",
+    "resumen": "La explicación ya no presenta como vigente el máximo de quince años: avisa de que lo suprimió la Ley 13/1996 y de que el TREBEP no fija máximo.",
+    "cita": "Art. 29.3 c) Ley 30/1984 (redacción de la Ley 13/1996): «…en ella no se podrá permanecer menos de dos años continuados.»",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (1). La clave (dos años continuados) es literal del art. 16.3 RD 365/1995 y coincide con el art. 29.3 c) Ley 30/1984 en la redacción de la Ley 13/1996. La explicación nueva ya no presenta como vigente el máximo de quince años ni la pérdida de la condición de funcionario del 16.4 (suprimidos por la Ley 13/1996, comprobado). Cambio: la frase sobre la vigencia del art. 29.3 c) se ajusta a lo que dicen el TREBEP y la nota del consolidado: el art. 29 de la Ley 30/1984 figura entre los derogados por la disposición derogatoria única b) del TREBEP, pero «con el alcance establecido en el apartado 2 de la disposición final cuarta», que lo mantiene mientras no se dicten las leyes de Función Pública y las normas reglamentarias de desarrollo y en tanto no se oponga al Estatuto. La redacción propuesta («se mantiene en vigor… (disposición final cuarta.2)») callaba la derogación."
+  },
+  {
+    "tema": 18,
+    "q": "Según el art. 7.1.a) del RD 365/1995, cuando el puesto desempeñado antes de pasar a servicios especiales se hubiera obtenido por libre designación, al reingreso se adjudicará...",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Un puesto de nivel inmediatamente inferior, con carácter definitivo, en el mismo Ministerio y municipio en que prestaba servicios",
+        "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio, cualquiera que sea el municipio",
+        "Un puesto de igual nivel y similares retribuciones en el mismo municipio, con carácter provisional hasta obtener otro definitivo",
+        "El mismo puesto de libre designación que desempeñaba, con carácter definitivo, salvo que haya sido suprimido o amortizado"
+      ],
+      "correct": 2,
+      "exp": "El art. 7.1 a) del RD 365/1995 dispone que, cuando el puesto desempeñado con anterioridad se hubiera obtenido por libre designación, se adjudicará al funcionario, «con carácter provisional, en tanto no obtengan otro con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo municipio». No se le devuelve el puesto de libre designación ni se le adjudica uno de nivel inferior; la adjudicación con carácter definitivo en el mismo Ministerio es propia de la letra b), para los demás casos, y siempre en el mismo municipio. El art. 87.3 TREBEP, básico, garantiza como mínimo a quienes se encuentran en servicios especiales el derecho «a reingresar al servicio activo en la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados, de acuerdo con el sistema de carrera administrativa vigente en la Administración Pública a la que pertenezcan». El art. 7.1 del RD 365/1995 concreta esa garantía para los funcionarios de la Administración General del Estado.",
+      "fuente": "Art. 7.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas); art. 87.3 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "Revisión pedida por el aviso del 24-oct sobre el art. 87.3 TREBEP. La clave no está desplazada: el art. 7.1 a) RD 365/1995 da al funcionario un puesto de igual nivel y similares retribuciones en el mismo municipio, que cumple la garantía mínima del art. 87.3 TREBEP (reingreso en la misma localidad, con las retribuciones de la carrera consolidada). La explicación no mencionaba la norma básica; se añade. De paso, se alargan los distractores (regla 7 bis: la clave tenía 143 caracteres frente a 56-99) y se acorta la clave sin cambiar su sentido.",
+    "resumen": "La clave no cambia de sentido; distractores igualados en longitud y explicación con la garantía mínima de reingreso del art. 87.3 TREBEP.",
+    "cita": "Art. 87.3 TREBEP: «Quienes se encuentren en situación de servicios especiales tendrán derecho, al menos, a reingresar al servicio activo en la misma localidad…».",
+    "revisor": "APROBADA sin cambios. Punto delicado (2): el art. 87.3 TREBEP garantiza «al menos» el reingreso «en la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados» (cita literal comprobada). El art. 7.1 a) RD 365/1995 (puesto de igual nivel y similares retribuciones en el mismo municipio, provisional hasta obtener otro definitivo) cumple ese mínimo: el 87.3 no exige destino definitivo. No está desplazado. El que podría chocar con el 87.3 es el art. 7.2 (sin reserva al venir de una situación sin puesto), que ninguna pregunta usa. Clave abreviada sin cambiar el sentido; distractores falsos según el 7.1 a) y b). Longitudes 121-132 (clave 0,97)."
+  },
+  {
+    "tema": 18,
+    "q": "En los supuestos no correspondientes a libre designación, el art. 7.1.b) del RD 365/1995 dispone que se adjudicará al funcionario, con carácter definitivo...",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Un puesto de igual nivel y similares retribuciones en cualquier Ministerio de la misma provincia",
+        "Un puesto de nivel superior en el mismo Ministerio, siempre que exista vacante en el municipio",
+        "Cualquier puesto vacante de su Cuerpo o Escala en la Administración, sin garantía de nivel",
+        "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio"
+      ],
+      "correct": 3,
+      "exp": "El art. 7.1 b) del RD 365/1995 dispone que, en los casos en que el puesto anterior no se obtuvo por libre designación, se adjudicará al funcionario, «con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio». No basta un puesto de otro Ministerio de la provincia ni cualquier vacante sin garantía de nivel, y el precepto no habla de un nivel superior. El art. 87.3 TREBEP, básico, garantiza como mínimo a quienes se encuentran en servicios especiales el derecho «a reingresar al servicio activo en la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados, de acuerdo con el sistema de carrera administrativa vigente en la Administración Pública a la que pertenezcan». El art. 7.1 del RD 365/1995 concreta esa garantía para los funcionarios de la Administración General del Estado.",
+      "fuente": "Art. 7.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas); art. 87.3 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "Igual que la 18-201: el art. 7.1 b) RD 365/1995 es compatible con la garantía mínima del art. 87.3 TREBEP y la explicación no mencionaba la norma básica. Se cambian además los distractores: uno decía “con carácter provisional”, que contradice el propio enunciado (“con carácter definitivo”), y la clave era la más larga (85 frente a 46-69).",
+    "resumen": "La clave no cambia; distractores coherentes con el enunciado y explicación con la garantía mínima de reingreso del art. 87.3 TREBEP.",
+    "cita": "Art. 7.1 b) RD 365/1995: «En los restantes casos, se les adjudicará, con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio.»",
+    "revisor": "APROBADA sin cambios. Punto delicado (2), mismo análisis que la 18-201: el art. 7.1 b) RD 365/1995 («con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio», literal) es más favorable que el mínimo del 87.3 TREBEP. Se quita el distractor «con carácter provisional», que contradecía el propio enunciado. Los tres nuevos son falsos (otro Ministerio de la provincia, nivel superior, vacante sin garantía de nivel). Longitudes 85-96 (clave 0,89)."
+  },
+  {
+    "tema": 18,
+    "q": "Según el art. 10.1 del RD 365/1995, los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de éstas, hallándose en situación de...",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Servicios especiales en la Comunidad Autónoma, con reserva del puesto que ocupaban en su Cuerpo o Escala de origen",
+        "Servicio activo en la Comunidad Autónoma y excedencia forzosa en su Cuerpo o Escala de origen hasta su integración",
+        "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
+        "Servicio activo en la Comunidad Autónoma y excedencia voluntaria por servicios en el sector público en su Cuerpo o Escala de origen"
+      ],
+      "correct": 2,
+      "exp": "El art. 10.1 del RD 365/1995 dispone que los funcionarios transferidos a las Comunidades Autónomas «se integran plenamente en la organización de las mismas y su situación administrativa es la de servicio activo en ellas», y que en los Cuerpos o Escalas de la Administración del Estado de los que procedieran permanecen «en la situación administrativa especial de servicio en Comunidades Autónomas». Aviso: el TREBEP, básico y posterior, ya no recoge esa situación con ese nombre; la ha sustituido por la de servicio en otras Administraciones Públicas (arts. 85.1 c) y 88.1). Su art. 88.2 mantiene lo esencial: los funcionarios transferidos se hallan «en la situación de servicio activo en la Función Pública de la comunidad autónoma en la que se integran» y conservan todos sus derechos en la Administración de origen «como si se hallaran en servicio activo».",
+      "fuente": "Art. 10.1 RD 365/1995 (Reglamento de Situaciones Administrativas); arts. 85.1 y 88 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "Regla 10. La pregunta reproduce la situación de «servicio en Comunidades Autónomas» del RD 365/1995 sin avisar de que el TREBEP (arts. 85.1 c) y 88) la ha sustituido por la de «servicio en otras Administraciones Públicas». La clave es literal del art. 10.1 y el enunciado se ciñe a él, así que basta con avisar en la explicación. De paso, se alargan los distractores (la clave tenía 126 caracteres frente a 33-56).",
+    "resumen": "Distractores igualados en longitud; la explicación avisa de que el TREBEP sustituyó la situación de «servicio en Comunidades Autónomas» por la de «servicio en otras Administraciones Públicas».",
+    "cita": "Art. 88.2 TREBEP: «Los funcionarios transferidos a las comunidades autónomas se integran plenamente en la organización de la Función Pública de las mismas, hallándose en la situación de servicio activo en la Función Pública de la comunidad autónoma en la que se integran.»",
+    "revisor": "APROBADA sin cambios. Art. 10.1 RD 365/1995: citas literales comprobadas. Aviso correcto: el art. 85.1 TREBEP ya no tiene la situación de «servicio en Comunidades Autónomas» y el art. 88.1 declara a los transferidos en «servicio en otras Administraciones Públicas»; el 88.2 (citas literales comprobadas) mantiene lo esencial. Distractores falsos (servicios especiales; excedencia forzosa; excedencia voluntaria por servicios en el sector público). La clave ya no se delata: 126 frente a 114-131."
+  },
+  {
+    "tema": 18,
+    "q": "Según el art. 11.1 del RD 365/1995, los funcionarios de la Administración del Estado que pasan a ocupar puestos en Comunidades Autónomas mediante concurso, libre designación o reasignación de efectivos...",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas",
+        "Pasan a excedencia voluntaria por prestación de servicios en el sector público en la Administración del Estado",
+        "Pasan a servicios especiales en la Administración del Estado mientras desempeñen el puesto autonómico",
+        "Pierden su condición de funcionarios del Estado y se integran como funcionarios propios de la Comunidad Autónoma de destino"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1 del RD 365/1995 dispone que estos funcionarios se someten al régimen estatutario y a la legislación de función pública de la Comunidad Autónoma en que estén destinados, «pero conservarán su condición de funcionarios de la Administración del Estado en la situación de servicio en Comunidades Autónomas». Aviso: el TREBEP, básico y posterior, ha sustituido esa situación por la de servicio en otras Administraciones Públicas (arts. 85.1 c) y 88.1). Según su art. 88.3, quienes están en ella por haber obtenido un puesto mediante los sistemas de provisión «se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen».",
+      "fuente": "Art. 11.1 RD 365/1995 (Reglamento de Situaciones Administrativas); arts. 85.1 y 88 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "Igual que la 18-209: la clave usa la denominación del RD 365/1995, sustituida por la de «servicio en otras Administraciones Públicas» del TREBEP. Se avisa en la explicación. La clave sigue siendo literal y el fondo (conservan la condición de funcionario de origen) coincide con el art. 88.3 TREBEP. De paso, se alargan los distractores (la clave tenía 121 caracteres frente a 44-68).",
+    "resumen": "Distractores igualados en longitud; la explicación avisa de que el TREBEP llama hoy a esa situación «servicio en otras Administraciones Públicas» (art. 88).",
+    "cita": "Art. 88.3 TREBEP: «…se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen…».",
+    "revisor": "APROBADA sin cambios. Art. 11.1 RD 365/1995 y art. 88.3 TREBEP: citas literales comprobadas; el fondo (conservan la condición de funcionario de origen y se rigen por la legislación de la Administración de destino) coincide. Distractores falsos según los dos textos. Longitudes 101-123 (clave 0,98)."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2 c), un sistema adicional de identificación 'cualquier otro que las Administraciones consideren válido' requiere, entre otros requisitos:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repetida. Pregunta lo mismo que la 4-138 (requisitos del art. 9.2 c) LPAC: registro previo como usuario y comunicación previa a la Secretaría General de Administración Digital), que ya lleva el aviso sobre la supresión del ministerio y de esa Secretaría General. Además, su clave se delataba por la longitud (93 caracteres frente a 40-52) y la explicación no avisaba de la supresión del órgano.",
+    "resumen": "Retirada por repetir la 4-138 (art. 9.2 c) LPAC).",
+    "cita": "Art. 9.2 c) LPAC: «…siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital…».",
+    "revisor": "APROBADA (retirada). Repite la 4-138 (registro previo y comunicación del art. 9.2 c) y, en parte, la 4-254. Además, su explicación hablaba del «Ministerio competente» sin aviso y la clave se delataba (93 frente a 40-52). Cualquier arreglo duplicaría una de esas dos."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2 c), tras la comunicación a la Secretaría General de Administración Digital, ¿cuánto tiempo debe transcurrir antes de la eficacia jurídica del nuevo sistema de identificación?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repetida. Pregunta lo mismo que la 4-140 (los dos meses que deben transcurrir desde la comunicación antes de la eficacia jurídica del sistema de identificación, art. 9.2 c) LPAC); la 4-161 pregunta lo mismo para los sistemas de firma (art. 10.2 c).",
+    "resumen": "Retirada por repetir la 4-140 (dos meses, art. 9.2 c) LPAC).",
+    "cita": "Art. 9.2 c) LPAC: «De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación…».",
+    "revisor": "APROBADA (retirada). Pregunta lo mismo que la 4-140 (dos meses desde la comunicación, art. 9.2 c), con opciones casi iguales."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2 c), la comunicación a la Secretaría General de Administración Digital para un nuevo sistema de identificación debe acompañarse de:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repetida. Pregunta lo mismo que la 4-139 (la comunicación del art. 9.2 c) LPAC se acompaña de una declaración responsable); la 4-160 pregunta lo mismo para los sistemas de firma (art. 10.2 c). Además, su clave se delataba por la longitud (104 caracteres frente a 15-52).",
+    "resumen": "Retirada por repetir la 4-139 (declaración responsable, art. 9.2 c) LPAC).",
+    "cita": "Art. 9.2 c) LPAC: «Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente.»",
+    "revisor": "APROBADA (retirada). Pregunta lo mismo que la 4-139 (declaración responsable que acompaña a la comunicación del art. 9.2 c)."
+  },
+  {
+    "tema": 4,
+    "q": "De acuerdo con el art. 9.2.c) de la LPAC, la comunicación a la Secretaría General de Administración Digital para admitir un sistema distinto de los previstos en las letras a) y b) debe ir acompañada de:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Un dictamen del Consejo de Estado sobre la adecuación del sistema a la normativa vigente",
+        "Un aval bancario que garantice la seguridad del sistema frente a posibles usos fraudulentos durante su implantación",
+        "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+        "Un informe preceptivo de la Abogacía del Estado sobre la validez jurídica del sistema"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.2 c) LPAC establece que la comunicación a la Secretaría General de Administración Digital «vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente». El precepto no exige dictamen del Consejo de Estado, aval ni informe de la Abogacía del Estado. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+      "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)"
+    },
+    "motivo": "El enunciado menciona la Secretaría General de Administración Digital sin avisar de su supresión (21-feb-2025, RD 1118/2024) ni de la del ministerio que cita la LPAC (RD 829/2023). Se añade el mismo aviso aprobado para la 4-138 y la 4-159 en la ronda 3. De paso, se alargan los distractores: la clave (103 caracteres) casi doblaba al más largo (55). La clave no cambia de texto ni de posición.",
+    "resumen": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital; distractores alargados (regla 7 bis). La clave no cambia.",
+    "cita": "RD 1118/2024, DA 1.ª.2: «A la fecha de constitución efectiva de la Agencia quedarán suprimidos la Secretaría General de Administración Digital…». DF 1.ª.2: «Desde el momento de su constitución efectiva, la Agencia quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital…». Resolución BOE-A-2025-3627: «en su reunión constitutiva del 21 de febrero de 2025».",
+    "revisor": "APROBADA sin cambios. Art. 9.2 c) LPAC: «Esta comunicación vendrá acompañada de una declaración responsable…» (literal). Comprobado el aviso común: arts. 9.2 c) y 10.2 c) LPAC (consolidado de 06/11/2024) siguen nombrando la «Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital»; RD 829/2023, DF 1.ª (supresión del ministerio); RD 1118/2024, DA 1.ª.2 y DF 1.ª.2 (supresión y subrogación, cita literal); Resolución BOE-A-2025-3627 («reunión constitutiva del 21 de febrero de 2025»). Mismo criterio que la 4-138 y la 4-159 (ronda 3): no dice a quién se comunica hoy, y ninguna opción es la Agencia ni el ministerio actual. Distractores alargados y falsos (Consejo de Estado, aval, Abogacía del Estado). Longitudes 85-115 (clave 0,92)."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de identificación tenga eficacia jurídica?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 9.2 c) LPAC dispone que «De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación», durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+      "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)"
+    },
+    "motivo": "El enunciado menciona la Secretaría General de Administración Digital sin avisar de su supresión. Se añade el aviso aprobado para la 4-138 y la 4-159 (ronda 3). La clave no cambia.",
+    "resumen": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital.",
+    "cita": "RD 1118/2024, DA 1.ª.2: «A la fecha de constitución efectiva de la Agencia quedarán suprimidos la Secretaría General de Administración Digital…». DF 1.ª.2: «Desde el momento de su constitución efectiva, la Agencia quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital…». Resolución BOE-A-2025-3627: «en su reunión constitutiva del 21 de febrero de 2025».",
+    "revisor": "APROBADA sin cambios. La cita del art. 9.2 c) (dos meses, órgano estatal competente por motivos de seguridad pública, «previo informe vinculante») es literal. Comprobado el aviso común: arts. 9.2 c) y 10.2 c) LPAC (consolidado de 06/11/2024) siguen nombrando la «Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital»; RD 829/2023, DF 1.ª (supresión del ministerio); RD 1118/2024, DA 1.ª.2 y DF 1.ª.2 (supresión y subrogación, cita literal); Resolución BOE-A-2025-3627 («reunión constitutiva del 21 de febrero de 2025»). Mismo criterio que la 4-138 y la 4-159 (ronda 3): no dice a quién se comunica hoy, y ninguna opción es la Agencia ni el ministerio actual."
+  },
+  {
+    "tema": 4,
+    "q": "La comunicación exigida por el art. 10.2.c) de la LPAC para admitir un nuevo sistema de firma debe acompañarse de:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "La autorización previa de todas las Comunidades Autónomas en cuyo territorio vaya a utilizarse el nuevo sistema de firma",
+        "Una fianza equivalente al coste de implantación y mantenimiento del sistema de firma",
+        "Un informe técnico del Instituto Nacional de Ciberseguridad sobre la seguridad del sistema",
+        "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente"
+      ],
+      "correct": 3,
+      "exp": "El art. 10.2 c) LPAC dispone, en los mismos términos que el art. 9.2 c), que la comunicación «vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente». El precepto no exige autorización de las Comunidades Autónomas, fianza ni informe del Instituto Nacional de Ciberseguridad.",
+      "fuente": "Art. 10.2 c) LPAC (Ley 39/2015)"
+    },
+    "motivo": "Hallada al revisar el art. 10.2 c): la explicación entrecomillaba “venga acompañada”, y el texto oficial dice «vendrá acompañada». Se corrige la cita y, de paso, se alargan los distractores: la clave (103 caracteres) casi doblaba al más largo (62). La clave no cambia de texto ni de posición.",
+    "resumen": "Cita literal corregida («vendrá acompañada») y distractores alargados (regla 7 bis). La clave no cambia.",
+    "cita": "Art. 10.2 c) LPAC: «Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente.»",
+    "revisor": "APROBADA sin cambios. Comprobado: el art. 10.2 c) dice «vendrá acompañada», no «venga acompañada»; la cita queda corregida. Distractores falsos (autorización autonómica, fianza, informe del INCIBE). La clave ya no se delata: 106 frente a 84-120."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 10.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de firma tenga eficacia jurídica?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 10.2 c) LPAC dispone, igual que el art. 9.2 c) para los sistemas de identificación, que «De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación». Son dos meses, no un mes, treinta días naturales ni sesenta días hábiles. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+      "fuente": "Art. 10.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)"
+    },
+    "motivo": "El enunciado menciona la Secretaría General de Administración Digital sin avisar de su supresión. Se añade el aviso aprobado para la 4-138 y la 4-159 (ronda 3). La clave no cambia.",
+    "resumen": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital.",
+    "cita": "RD 1118/2024, DA 1.ª.2: «A la fecha de constitución efectiva de la Agencia quedarán suprimidos la Secretaría General de Administración Digital…». DF 1.ª.2: «Desde el momento de su constitución efectiva, la Agencia quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital…». Resolución BOE-A-2025-3627: «en su reunión constitutiva del 21 de febrero de 2025».",
+    "revisor": "APROBADA sin cambios. Art. 10.2 c): cita literal de los dos meses. Comprobado el aviso común: arts. 9.2 c) y 10.2 c) LPAC (consolidado de 06/11/2024) siguen nombrando la «Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital»; RD 829/2023, DF 1.ª (supresión del ministerio); RD 1118/2024, DA 1.ª.2 y DF 1.ª.2 (supresión y subrogación, cita literal); Resolución BOE-A-2025-3627 («reunión constitutiva del 21 de febrero de 2025»). Mismo criterio que la 4-138 y la 4-159 (ronda 3): no dice a quién se comunica hoy, y ninguna opción es la Agencia ni el ministerio actual."
+  },
+  {
+    "tema": 4,
+    "q": "Durante el plazo previo a la eficacia jurídica de un nuevo sistema de firma del art. 10.2.c) de la LPAC, el órgano estatal competente por motivos de seguridad pública puede acudir a la vía jurisdiccional previo informe vinculante de:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 10.2 c) LPAC reproduce la exigencia del art. 9.2 c): durante los dos meses previos a la eficacia jurídica del sistema, el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, «previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud». La Secretaría General de Administración Digital es, según el precepto, la destinataria de la comunicación previa, no la que emite ese informe. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+      "fuente": "Art. 10.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)"
+    },
+    "motivo": "Uno de los distractores menciona la Secretaría General de Administración Digital sin que la explicación diga por qué es falso ni avise de su supresión. Se añaden las dos cosas, con el criterio aprobado para la 4-138 y la 4-159 (ronda 3). La clave no cambia.",
+    "resumen": "La explicación dice por qué falla el distractor de la Secretaría General de Administración Digital y avisa de su supresión.",
+    "cita": "Art. 10.2 c) LPAC: «…previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.» RD 1118/2024, DA 1.ª.2: «A la fecha de constitución efectiva de la Agencia quedarán suprimidos la Secretaría General de Administración Digital…». DF 1.ª.2: «Desde el momento de su constitución efectiva, la Agencia quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital…». Resolución BOE-A-2025-3627: «en su reunión constitutiva del 21 de febrero de 2025».",
+    "revisor": "APROBADA sin cambios. Art. 10.2 c): «previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud» (literal). La explicación dice bien por qué falla el distractor de la Secretaría General de Administración Digital: es la destinataria de la comunicación, no la que informa. Comprobado el aviso común: arts. 9.2 c) y 10.2 c) LPAC (consolidado de 06/11/2024) siguen nombrando la «Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital»; RD 829/2023, DF 1.ª (supresión del ministerio); RD 1118/2024, DA 1.ª.2 y DF 1.ª.2 (supresión y subrogación, cita literal); Resolución BOE-A-2025-3627 («reunión constitutiva del 21 de febrero de 2025»). Mismo criterio que la 4-138 y la 4-159 (ronda 3): no dice a quién se comunica hoy, y ninguna opción es la Agencia ni el ministerio actual."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 10.5 de la LPAC, cuando los interesados utilicen un sistema de firma de los previstos en dicho artículo, su identidad se entiende acreditada:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 10.5 LPAC dice que «Cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma». No exige comprobación adicional, copia del DNI ni confirmación de ningún órgano. En el art. 10, la Secretaría General de Administración Digital solo aparece en el apartado 2 c), como destinataria de la comunicación previa de nuevos sistemas de firma; además, quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital (disposición adicional primera del Real Decreto 1118/2024).",
+      "fuente": "Art. 10.5 LPAC (Ley 39/2015); RD 1118/2024 (DA 1.ª)"
+    },
+    "motivo": "Uno de los distractores menciona la Secretaría General de Administración Digital sin aviso de su supresión. Se añade, con el criterio de la 4-138 y la 4-159 (ronda 3), y la explicación dice por qué fallan los distractores. La clave no cambia.",
+    "resumen": "La explicación dice por qué fallan los distractores y avisa de la supresión de la Secretaría General de Administración Digital.",
+    "cita": "Art. 10.5 LPAC: «Cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma.» RD 1118/2024, DA 1.ª.2: «A la fecha de constitución efectiva de la Agencia quedarán suprimidos la Secretaría General de Administración Digital…». DF 1.ª.2: «Desde el momento de su constitución efectiva, la Agencia quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital…». Resolución BOE-A-2025-3627: «en su reunión constitutiva del 21 de febrero de 2025».",
+    "revisor": "APROBADA CON CAMBIOS. Art. 10.5 LPAC: cita literal. Cambio: la explicación decía que la Secretaría General de Administración Digital «solo aparece en el art. 10.2 c)», y en la LPAC aparece también en el art. 9.2 c) y en las disposiciones adicionales sexta y octava. Ahora dice que, dentro del art. 10, solo aparece en el apartado 2 c). Aviso de la supresión comprobado (RD 1118/2024, DA 1.ª.2)."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2 c) de la Ley 39/2015, los sistemas de identificación de esa letra deben contar con un registro previo como usuario. ¿Qué debe permitir ese registro?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 9.2 c) admite «Cualquier otro sistema que las Administraciones públicas consideren válido», siempre que cuente con «un registro previo como usuario que permita garantizar su identidad» y previa comunicación a la Secretaría General de Administración Digital. El art. 10.2 c) exige lo mismo para los sistemas de firma. La representación se acredita por los medios del art. 5.4; la ley no vincula ese registro previo con la capacidad de obrar ni con las notificaciones. Aviso: el texto de la LPAC no se ha actualizado, pero el Ministerio de Asuntos Económicos y Transformación Digital ya no existe (lo suprimió el Real Decreto 829/2023, de 20 de noviembre, disposición final primera) y la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+      "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª); RD 1118/2024 (DA 1.ª y DF 1.ª)"
+    },
+    "motivo": "La explicación menciona la Secretaría General de Administración Digital sin avisar de su supresión. Se añade el aviso de la 4-138 y la 4-159 (ronda 3); de paso, la cita «Cualquier otro sistema…» pasa a mayúscula inicial, como en el texto oficial. La clave no cambia.",
+    "resumen": "Explicación con el aviso de la supresión de la Secretaría General de Administración Digital.",
+    "cita": "RD 1118/2024, DA 1.ª.2: «A la fecha de constitución efectiva de la Agencia quedarán suprimidos la Secretaría General de Administración Digital…». DF 1.ª.2: «Desde el momento de su constitución efectiva, la Agencia quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital…». Resolución BOE-A-2025-3627: «en su reunión constitutiva del 21 de febrero de 2025».",
+    "revisor": "APROBADA sin cambios. Art. 9.2 c): citas literales (la mayúscula de «Cualquier otro sistema…» es la del texto oficial). Comprobado el aviso común: arts. 9.2 c) y 10.2 c) LPAC (consolidado de 06/11/2024) siguen nombrando la «Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital»; RD 829/2023, DF 1.ª (supresión del ministerio); RD 1118/2024, DA 1.ª.2 y DF 1.ª.2 (supresión y subrogación, cita literal); Resolución BOE-A-2025-3627 («reunión constitutiva del 21 de febrero de 2025»). Mismo criterio que la 4-138 y la 4-159 (ronda 3): no dice a quién se comunica hoy, y ninguna opción es la Agencia ni el ministerio actual."
+  },
+  {
+    "tema": 10,
+    "q": "¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Clave incompleta y engañosa en Zaragoza. El art. 9.3 RBEL exige dictamen «del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado»; el art. 43.2 del Decreto aragonés 347/2002 dice lo mismo y el art. 120.3 de la Ley 7/1999 habla del «Secretario, de la asesoría jurídica de la entidad local o de un letrado externo». En Zaragoza, municipio de gran población, existe la asesoría jurídica del art. 129 LBRL, así que «El Secretario» a secas no es la respuesta. Corregida con la fórmula completa, sería idéntica a la 10-229, que ya pregunta el art. 9.3 RBEL con esa clave (y que en esta misma propuesta recibe el aviso aragonés y de Zaragoza).",
+    "resumen": "Retirada: la clave «El Secretario» omitía la Asesoría Jurídica y el Letrado del art. 9.3 RBEL (y del art. 43.2 del Decreto 347/2002); corregida repetiría la 10-229.",
+    "cita": "Art. 9.3 RBEL: «…deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado.»",
+    "revisor": "APROBADA (retirada). Art. 9.3 RBEL: «previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado»; art. 43.2 Decreto 347/2002 (BOA, versión de publicación) y art. 120.3 Ley 7/1999 dicen lo equivalente. «El Secretario», a secas, es incompleto, y en Zaragoza, que tiene la asesoría jurídica del art. 129 LBRL, engañoso. Corregida sería la 10-229. La reformulación sobre allanamiento y transacción del art. 120.3 Ley 7/1999 no es «poco»: exigiría una pregunta nueva con doble revisión."
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 9.3 RBEL, los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen de:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "El interventor, o, en su caso, la Intervención General y, en defecto de ambos, el Tesorero",
+        "El secretario, o, en su caso, la Asesoría Jurídica y, en defecto de ambos, un Letrado",
+        "El Alcalde, o, en su caso, la Junta de Gobierno Local y, en defecto de ambos, el Pleno",
+        "El órgano autonómico de patrimonio o, en su defecto, la Diputación Provincial respectiva"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.3 RBEL dispone que los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales «deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado». En Aragón, donde mandan la Ley 7/1999 y el Decreto 347/2002, la regla es equivalente: el art. 43.2 de ese Reglamento de Bienes, Actividades, Servicios y Obras exige «dictamen previo del Secretario o, en su caso, de la Asesoría jurídica, y, en defecto de ambos, de un Letrado», y el art. 120.3 de la Ley 7/1999 pide el dictamen «del Secretario, de la asesoría jurídica de la entidad local o de un letrado externo». Zaragoza, como municipio de gran población, tiene la asesoría jurídica del art. 129 LBRL: sin perjuicio de las funciones reservadas al secretario del Pleno, es el órgano «responsable de la asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, comprensiva del asesoramiento jurídico y de la representación y defensa en juicio del ayuntamiento». El interventor, el Alcalde, la Junta de Gobierno y los órganos autonómicos o provinciales no emiten ese dictamen.",
+      "fuente": "Art. 9.3 RBEL (RD 1372/1986); art. 43.2 Decreto 347/2002 (Aragón); art. 120.3 Ley 7/1999 de Administración Local de Aragón; art. 129 LBRL"
+    },
+    "motivo": "Al retirar la 10-109, esta queda como la pregunta del dictamen previo al ejercicio de acciones. La clave es literal del art. 9.3 RBEL, pero la explicación no decía que en Aragón rige la misma regla (art. 43.2 Decreto 347/2002 y art. 120.3 Ley 7/1999) ni que Zaragoza tiene asesoría jurídica (art. 129 LBRL); además, la clave (86 caracteres) se delataba frente a distractores de 30-56. Se alargan los distractores con la misma estructura, se pule la gramática de la clave («un Letrado») y se completa la explicación.",
+    "resumen": "Distractores de la misma forma que la clave (regla 7 bis) y explicación con la norma aragonesa y el aviso de Zaragoza. La clave no cambia de sentido ni de posición.",
+    "cita": "Decreto 347/2002, art. 43.2: «El ejercicio de las acciones necesarias para la defensa de los bienes y derechos de las Entidades locales requerirá dictamen previo del Secretario o, en su caso, de la Asesoría jurídica, y, en defecto de ambos, de un Letrado.» Ley 7/1999, art. 120.3: «…deberán adoptarse previo dictamen del Secretario, de la asesoría jurídica de la entidad local o de un letrado externo.»",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (4). Comprobados el art. 9.3 RBEL, el art. 43.2 RBASO (texto idéntico en sustancia), el art. 120.3 Ley 7/1999 (consolidado de 25/10/2022) y el art. 129 LBRL (consolidado de 03/10/2026). La clave es la fórmula del 9.3 RBEL; distractores con la misma estructura y falsos; longitudes 85-90. Cambios en la explicación: (a) el art. 120.3 Ley 7/1999 no repite el orden subsidiario del RBEL («en defecto de ambos»), sino que enumera tres alternativas; «la regla es la misma» pasa a «la regla es equivalente»; (b) el art. 129 LBRL se cita literalmente («asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, comprensiva del asesoramiento jurídico y de la representación y defensa en juicio del ayuntamiento»), con la salvedad de las funciones del secretario del Pleno. En Zaragoza (Ley 10/2017) no hay norma propia sobre este dictamen; el art. 17 solo prevé un Consejo Jurídico Municipal potestativo, de informes no vinculantes. La explicación no afirma qué órgano emite el dictamen en Zaragoza, y hace bien."
+  },
+  {
+    "tema": 13,
+    "q": "Los acuerdos excepcionales previstos en el art. 177.5 TRLRHL para financiar gastos con operaciones de crédito exigen el quórum establecido en...",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 177.5 TRLRHL dice: «Excepcionalmente, y por acuerdos adoptados con el quórum establecido por el artículo 47.3 de la Ley 7/1985, de 2 de abril, se considerarán recursos efectivamente disponibles para financiar nuevos o mayores gastos, por operaciones corrientes, que expresamente sean declarados necesarios y urgentes, los procedentes de operaciones de crédito…». Esa remisión al art. 47.3 LBRL ha quedado desfasada: desde la Ley 57/2003, el art. 47.3 ya no enumera mayorías, sino que remite al art. 123.2 para los municipios de gran población (como Zaragoza); en los municipios de régimen común, la mayoría absoluta para estas operaciones figura hoy en el art. 47.2 l), que menciona expresamente «las operaciones de crédito previstas en el artículo 158.5 de la Ley 39/1988», antecedente del actual art. 177.5. Aviso: este régimen sigue escrito en el art. 177.5 TRLRHL (y en el art. 36.3 RD 500/1990), pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por tanto, hoy no cabe acudir a un préstamo a largo plazo para financiar gasto corriente por la vía del art. 177.5.",
+      "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012); art. 47 LBRL (Ley 7/1985)"
+    },
+    "motivo": "Aviso pedido por la coordinación (24-oct): la DA 14.ª del RDL 20/2011, de vigencia indefinida desde la Ley 17/2012, limita los préstamos a largo plazo a la financiación de inversiones, y la explicación presentaba el art. 177.5 sin advertirlo. La clave es literal y no cambia. Al comprobar el art. 47 LBRL vigente se ve además que la remisión al «artículo 47.3» del 177.5 está desfasada (el 47.3 remite hoy al 123.2; la mayoría absoluta está en el 47.2 l); se avisa también.",
+    "resumen": "La clave (literal) no cambia; la explicación avisa de la DA 14.ª del RDL 20/2011 y de que la remisión al art. 47.3 LBRL está desfasada.",
+    "cita": "RDL 20/2011, DA 14.ª: «…podrán concertar nuevas operaciones de crédito a largo plazo para la financiación de inversiones, cuando el volumen total del capital vivo no exceda del 75 por ciento de los ingresos corrientes liquidados o devengados…». Ley 17/2012, DF 31.ª: «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida, la disposición adicional decimocuarta del Real Decreto-Ley 20/2011…». LBRL, art. 47.2 l): «…así como las operaciones de crédito previstas en el artículo 158.5 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.»",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (3), comprobado: RDL 20/2011, DA 14.ª (consolidado; redacción de la Ley 17/2012, DF 31.ª, «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida», sin cambios desde el 01/01/2013): ahorro neto positivo, capital vivo hasta el 75 % y, entre el 75 % y el límite del art. 53 TRLRHL, autorización del órgano de tutela financiera; las entidades con ahorro neto negativo o deuda por encima del art. 53 «no podrán concertar operaciones de crédito a largo plazo». Todo lo que dice el aviso está en el texto. La conclusión (no cabe un préstamo a largo plazo para gasto corriente por la vía del 177.5) es la lectura del propio Ministerio de Hacienda: su nota de 2012 sobre el régimen de la DA 14.ª exige el «destino a inversiones» y deja fuera las operaciones del art. 177.5 y los préstamos del 193.2. El aviso no enseña nada falso: no dice que el 177.5 esté derogado, sino que sigue escrito y que hoy no puede usarse. Remisión al art. 47.3 LBRL: comprobado con el selector de versiones del BOE que el 47.3 de 1999 enumeraba en su letra g) «las operaciones de crédito previstas en el artículo 158.5 de la Ley 39/1988», y que desde la Ley 57/2003 (en vigor el 01/01/2004) el 47.3 remite al 123.2 y esa mención está en el 47.2 l). La clave es literal del 177.5 y la única correcta. Cambio: la explicación decía que «la mayoría absoluta para estas operaciones figura en el art. 47.2 l)» justo después de mencionar a Zaragoza, y podía leerse como si rigiera allí. El 47.2 l) vale para los municipios de régimen común. En los de gran población, el art. 47.3 remite al 123.2, que no recoge estas operaciones, y el art. 11.2 Ley 10/2017 remite a «la legislación básica». Ahora dice «en los municipios de régimen común» y no afirma qué mayoría rige en Zaragoza."
+  },
+  {
+    "tema": 13,
+    "q": "Según el art. 177.5 TRLRHL, el importe total anual de las operaciones de crédito allí previstas no podrá superar...",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 177.5 TRLRHL exige, entre las condiciones que deben darse conjuntamente, «Que su importe total anual no supere el cinco por ciento de los recursos por operaciones corrientes del presupuesto de la entidad». El 25 por ciento es el límite de la carga financiera total, otra de las condiciones. Aviso: este régimen sigue escrito en el art. 177.5 TRLRHL (y en el art. 36.3 RD 500/1990), pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por tanto, hoy no cabe acudir a un préstamo a largo plazo para financiar gasto corriente por la vía del art. 177.5.",
+      "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012)"
+    },
+    "motivo": "Aviso pedido por la coordinación (24-oct) sobre la DA 14.ª del RDL 20/2011. La clave es literal del art. 177.5 y no cambia.",
+    "resumen": "La clave no cambia; la explicación avisa de que la DA 14.ª del RDL 20/2011 limita los préstamos a largo plazo a la financiación de inversiones.",
+    "cita": "Art. 177.5 TRLRHL: «Que su importe total anual no supere el cinco por ciento de los recursos por operaciones corrientes del presupuesto de la entidad.» RDL 20/2011, DA 14.ª: «…podrán concertar nuevas operaciones de crédito a largo plazo para la financiación de inversiones, cuando el volumen total del capital vivo no exceda del 75 por ciento de los ingresos corrientes liquidados o devengados…». Ley 17/2012, DF 31.ª: «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida, la disposición adicional decimocuarta del Real Decreto-Ley 20/2011…».",
+    "revisor": "APROBADA sin cambios. Punto delicado (3), comprobado: RDL 20/2011, DA 14.ª (consolidado; redacción de la Ley 17/2012, DF 31.ª, «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida», sin cambios desde el 01/01/2013): ahorro neto positivo, capital vivo hasta el 75 % y, entre el 75 % y el límite del art. 53 TRLRHL, autorización del órgano de tutela financiera; las entidades con ahorro neto negativo o deuda por encima del art. 53 «no podrán concertar operaciones de crédito a largo plazo». Todo lo que dice el aviso está en el texto. La conclusión (no cabe un préstamo a largo plazo para gasto corriente por la vía del 177.5) es la lectura del propio Ministerio de Hacienda: su nota de 2012 sobre el régimen de la DA 14.ª exige el «destino a inversiones» y deja fuera las operaciones del art. 177.5 y los préstamos del 193.2. El aviso no enseña nada falso: no dice que el 177.5 esté derogado, sino que sigue escrito y que hoy no puede usarse. Cita del 177.5 literal; el 25 % es, en efecto, el límite de la carga financiera."
+  },
+  {
+    "tema": 13,
+    "q": "Según el art. 177.5 TRLRHL, la carga financiera total de la entidad, incluida la derivada de las operaciones proyectadas, no podrá superar...",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 177.5 TRLRHL exige, entre las condiciones que deben darse conjuntamente, «Que la carga financiera total de la entidad, incluida la derivada de las operaciones proyectadas, no supere el 25 por ciento de los expresados recursos», es decir, de los recursos por operaciones corrientes del presupuesto. El 5 por ciento es el límite del importe total anual de las operaciones. Aviso: este régimen sigue escrito en el art. 177.5 TRLRHL (y en el art. 36.3 RD 500/1990), pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por tanto, hoy no cabe acudir a un préstamo a largo plazo para financiar gasto corriente por la vía del art. 177.5.",
+      "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012)"
+    },
+    "motivo": "Aviso pedido por la coordinación (24-oct) sobre la DA 14.ª del RDL 20/2011. La clave es literal del art. 177.5 y no cambia.",
+    "resumen": "La clave no cambia; la explicación avisa de que la DA 14.ª del RDL 20/2011 limita los préstamos a largo plazo a la financiación de inversiones.",
+    "cita": "Art. 177.5 TRLRHL: «Que la carga financiera total de la entidad, incluida la derivada de las operaciones proyectadas, no supere el 25 por ciento de los expresados recursos.» RDL 20/2011, DA 14.ª: «…podrán concertar nuevas operaciones de crédito a largo plazo para la financiación de inversiones, cuando el volumen total del capital vivo no exceda del 75 por ciento de los ingresos corrientes liquidados o devengados…». Ley 17/2012, DF 31.ª: «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida, la disposición adicional decimocuarta del Real Decreto-Ley 20/2011…».",
+    "revisor": "APROBADA sin cambios. Punto delicado (3), comprobado: RDL 20/2011, DA 14.ª (consolidado; redacción de la Ley 17/2012, DF 31.ª, «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida», sin cambios desde el 01/01/2013): ahorro neto positivo, capital vivo hasta el 75 % y, entre el 75 % y el límite del art. 53 TRLRHL, autorización del órgano de tutela financiera; las entidades con ahorro neto negativo o deuda por encima del art. 53 «no podrán concertar operaciones de crédito a largo plazo». Todo lo que dice el aviso está en el texto. La conclusión (no cabe un préstamo a largo plazo para gasto corriente por la vía del 177.5) es la lectura del propio Ministerio de Hacienda: su nota de 2012 sobre el régimen de la DA 14.ª exige el «destino a inversiones» y deja fuera las operaciones del art. 177.5 y los préstamos del 193.2. El aviso no enseña nada falso: no dice que el 177.5 esté derogado, sino que sigue escrito y que hoy no puede usarse. Cita del 177.5 literal; el 5 % es, en efecto, el límite del importe total anual."
+  },
+  {
+    "tema": 13,
+    "q": "Según el art. 86 del RD 500/1990, antes de autorizar gastos con imputación a ejercicios futuros, ¿quién debe certificar que no se superan los límites cuantitativos de los gastos plurianuales?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 86 del RD 500/1990 dispone: «Previamente a la autorización de gastos con imputación a ejercicios futuros, el Interventor deberá certificar que no se superan los límites cuantitativos regulados en el artículo 82, y, en su caso, 84». Esos límites son los porcentajes del 70, 60 y 50 por 100 y, en su caso, los que fije el Pleno en casos excepcionales. Aviso: el art. 82 del RD 500/1990, que desarrollaba la Ley de Haciendas Locales de 1988, aplica los porcentajes «al crédito inicial correspondiente en el año en que se adquiera el compromiso en firme» y solo a las inversiones y transferencias de capital. Hoy rige el art. 174.3 TRLRHL, que los aplica «al crédito correspondiente del año en que la operación se comprometió» y también a las transferencias corrientes derivadas de convenios (art. 174.2 e); el art. 174.5 permite al Pleno, en casos excepcionales, «ampliar el número de anualidades así como elevar los porcentajes».",
+      "fuente": "Art. 86 RD 500/1990 (presupuestos de las entidades locales); art. 174.3 y 174.5 TRLRHL (RDLeg 2/2004)"
+    },
+    "motivo": "Aviso pedido por la coordinación (24-oct): la explicación remite a los límites del art. 82 RD 500/1990, que los calcula sobre el «crédito inicial», mientras que el art. 174.3 TRLRHL vigente los calcula sobre el «crédito correspondiente del año en que la operación se comprometió» y los extiende a las transferencias corrientes de convenios. La clave (el Interventor certifica) es literal del art. 86 y no cambia. Es la única pregunta de los temas 13 y 21 que se apoya en el art. 82; las del art. 174 (13-23 y 13-315 a 13-326) ya siguen el TRLRHL.",
+    "resumen": "La clave no cambia; la explicación avisa de que los porcentajes de los gastos plurianuales se calculan hoy según el art. 174.3 TRLRHL, no sobre el «crédito inicial» del art. 82 RD 500/1990.",
+    "cita": "Art. 174.3 TRLRHL: «…no podrá exceder de la cantidad que resulte de aplicar al crédito correspondiente del año en que la operación se comprometió los siguientes porcentajes…». Art. 82.1 RD 500/1990: «…al crédito inicial correspondiente en el año en que se adquiera el compromiso en firme…».",
+    "revisor": "APROBADA sin cambios. Comprobados el art. 86 RD 500/1990 (cita literal), el art. 82.1 («al crédito inicial correspondiente en el año en que se adquiera el compromiso en firme», solo inversiones y transferencias de capital) y el art. 174.2 e), 174.3 y 174.5 TRLRHL (consolidado de 07/10/2026; citas literales). El aviso es exacto. La clave (el Interventor certifica) no está desplazada."
+  },
+  {
+    "tema": 13,
+    "q": "Según el art. 88.1 del RD 500/1990, la autorización y disposición de los gastos plurianuales corresponde:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 88.1 RD 500/1990: «Corresponde la autorización y disposición de los gastos plurianuales al Pleno de la Entidad», si bien el apartado 2 permite al Pleno delegar dicha competencia de acuerdo con la normativa vigente. Previamente, el art. 86 exige que el Interventor certifique que no se superan los límites cuantitativos de los arts. 82 y, en su caso, 84 (hoy, los del art. 174 TRLRHL). Aviso: esta atribución general al Pleno está desplazada en buena parte por normas posteriores con rango de ley. En la contratación, la disposición adicional segunda LCSP atribuye al Alcalde los contratos plurianuales de duración no superior a cuatro años cuyo importe acumulado no supere los límites de su apartado 1, y al Pleno los demás (apartado 2). En los municipios de gran población el órgano de contratación es la Junta de Gobierno Local, en Zaragoza el Gobierno de Zaragoza, «cualquiera que sea el importe del contrato o la duración del mismo» (disposición adicional segunda, apartado 4, LCSP; art. 14.1 f) de la Ley 10/2017). Fuera de la contratación, en estos municipios el Pleno autoriza gastos «en las materias de su competencia» (art. 123.1 h) LBRL), y el Gobierno de Zaragoza tiene atribuido «autorizar y disponer gastos en materia de su competencia» (art. 14.1 h) de la Ley 10/2017; art. 127.1 g) LBRL).",
+      "fuente": "Art. 88.1 RD 500/1990 (presupuestos de las entidades locales); DA 2.ª.1, 2 y 4 LCSP (Ley 9/2017); en Zaragoza, arts. 123.1 h) y 127.1 g) LBRL y art. 14.1 f) y h) Ley 10/2017"
+    },
+    "motivo": "Hallada al revisar los gastos plurianuales por el aviso del art. 82 RD 500/1990 (regla 9). La clave es literal del art. 88.1 y el enunciado se ciñe a él, pero la explicación no avisaba de que en Zaragoza la autorización y disposición de gastos corresponde al órgano competente por razón de la materia (Gobierno de Zaragoza en su ámbito y en contratación, art. 14.1 f) y h) Ley 10/2017; DA 2.ª.4 LCSP). Se añade el aviso, con el mismo criterio que la 10-44 (ronda 3); el revisor lo extiende a la DA 2.ª.1 y 2 LCSP, que también desplaza la atribución general al Pleno fuera de los municipios de gran población. Alternativa, si el revisor lo prefiere: retirarla.",
+    "resumen": "La clave (literal del art. 88.1 RD 500/1990) no cambia; la explicación avisa de que la DA 2.ª LCSP reparte hoy los contratos plurianuales entre Alcalde y Pleno y de lo que rige en Zaragoza.",
+    "cita": "Ley 10/2017, art. 14.1 h): «El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno y la gestión del personal.» LCSP, DA 2.ª.4: «…se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo…».",
+    "revisor": "APROBADA CON CAMBIOS. La clave es literal del art. 88.1 RD 500/1990 y el enunciado se ciñe a él. Pero el aviso propuesto («esta atribución general al Pleno no es la regla en Zaragoza») daba a entender que sí lo es en los demás municipios. Tampoco lo es: la DA 2.ª.1 LCSP atribuye al Alcalde, en cualquier municipio, los contratos plurianuales de duración no superior a cuatro años cuyo importe acumulado no supere sus límites de cuantía, y el apartado 2 deja al Pleno los demás. Para cumplir la regla 10, el aviso dice ahora que la atribución general está desplazada en buena parte por esas normas con rango de ley, y después da lo que rige en Zaragoza: DA 2.ª.4 LCSP, art. 14.1 f) y h) Ley 10/2017, arts. 123.1 h) y 127.1 g) LBRL, todos comprobados y con citas literales. También se añade que los límites que certifica el Interventor (arts. 82 y 84) son hoy los del art. 174 TRLRHL, para que no contradiga el aviso de la 13-415. Distractores falsos según el 88.1. Se mantiene en lugar de retirarla porque la literalidad del RD 500/1990 es preguntable y el aviso deja claro qué rige."
+  }
+]
