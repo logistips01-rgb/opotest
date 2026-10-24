@@ -1,55 +1,167 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 11,
-  "fecha": "2026-10-23",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el art. 206.3 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de las siguientes es una forma de gestión indirecta de los servicios públicos locales?",
+      "q": "Según el art. 194.3, regla 4.ª, de la Ley 7/1999, de Administración Local de Aragón, en un procedimiento de licencia que resuelve la entidad local y en el que debe informar la Administración de la Comunidad Autónoma, si no hay otro plazo establecido, ¿de cuánto tiempo dispone esta para informar y qué ocurre si no lo hace?",
       "options": [
-        "El concierto",
-        "El organismo autónomo local",
-        "La gestión por la propia entidad mediante órgano especial de administración",
-        "La sociedad mercantil cuyo capital pertenezca íntegramente a la entidad local"
+        "Dos meses; si no emite el informe, se entiende que es favorable",
+        "Diez días; si no emite el informe, se entiende que es favorable",
+        "Un mes; si no emite el informe, se suspende el procedimiento",
+        "Dos meses; si no emite el informe, se entiende que es desfavorable"
       ],
       "correct": 0,
-      "exp": "El art. 206.3 de la Ley 7/1999 enumera las formas de gestión indirecta: concesión, gestión interesada, arrendamiento, concierto y sociedad mercantil o cooperativa con participación local minoritaria. El organismo autónomo, la gestión por la propia entidad (con sus órganos ordinarios o con órgano especial) y la sociedad de capital íntegramente local son formas de gestión directa (art. 206.2). Es la enumeración de la ley aragonesa, que el tribunal ha preguntado de forma literal. Con la legislación de contratos vigente, sin embargo, el concierto ya no existe como modalidad contractual: las referencias al antiguo contrato de gestión de servicios públicos se entienden hechas al contrato de concesión de servicios (disposición adicional trigésima cuarta de la Ley 9/2017, de Contratos del Sector Público), y a esa legislación remite el art. 85.2.B) LBRL para la gestión indirecta.",
-      "fuente": "Art. 206.3.d) Ley de Administración Local de Aragón (Ley 7/1999)",
+      "exp": "La regla 4.ª del art. 194.3 de la Ley 7/1999 dispone: «Cuando el informe deba ser emitido por la Administración de la Comunidad Autónoma, el plazo para su emisión, salvo que hubiera otro establecido, será de dos meses. Si no se emitiese, se entenderá que es favorable». La regla 6.ª del art. 143 del Decreto 347/2002 recoge el mismo plazo de dos meses y el mismo efecto favorable.",
+      "fuente": "Art. 194.3, regla 4.ª, Ley de Administración Local de Aragón (Ley 7/1999)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 206.3 Ley 7/1999, literal, que coincide con el art. 231.3 del Decreto 347/2002. Los tres distractores son formas de gestión directa según el art. 206.2 y el art. 85.2.A LBRL. La de la sociedad mercantil se refiere a la de capital íntegramente local, así que es directa con cualquier norma. Sobre la regla 10: el enunciado se ciñe a la ley aragonesa, que el tribunal pregunta de forma literal, y la explicación advierte de que el concierto ya no es una modalidad contractual (DA 34.ª LCSP, comprobada). No es la pregunta del tema 21 (P49, sobre la sociedad mercantil). | Revisor 2 (DUDOSA): La respuesta es literal del art. 206.3.d) Ley 7/1999, comprobado. Pero la pregunta presenta el concierto como forma vigente de gestión indirecta, y la propia explicación reconoce que ya no existe como modalidad contractual (DA 34.ª LCSP). La regla 10 prohíbe presentar como vigente una regla desplazada aunque siga escrita. Además, el art. 85.2.B) LBRL todavía remite a las formas del TRLCSP de 2011, así que el desplazamiento es discutible y conviene que lo decida la sesión principal. Arreglo posible: preguntar por una forma de gestión indirecta no desplazada, como la concesión o la sociedad con participación local minoritaria, o que la sesión principal admita expresamente esta excepción porque el tribunal pregunta el art. 206 literalmente (examen 31-5-2026, P49, sobre la sociedad mercantil). Revisar también la frase «a esa legislación remite el art. 85.2.B) LBRL»: ese precepto remite literalmente al TRLCSP 2011.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 194.3, regla 4.ª, Ley 7/1999: dos meses y efecto favorable, literal. La regla 6.ª del art. 143 del Decreto 347/2002 lo repite (añade el matiz de los informes preceptivos y determinantes, suspensión máxima de tres meses). Regla 10: no lo considero desplazado por el art. 80 LPAC, que admite plazo distinto por disposición y solo dice que se pueden proseguir las actuaciones; aquí es una ley autonómica que fija el efecto del silencio del informe de la propia Comunidad. Ley 10/2017 no regula esto (DA 1.ª.3: supletoriedad de la Ley 7/1999). Distractores falsos (diez días es el plazo general del art. 80.2 LPAC). Sin repetición. | Revisor 2 (DUDOSA): La regla 4.ª del art. 194.3 Ley 7/1999 dice, en efecto, dos meses y efecto favorable (y el art. 143.6.ª Decreto 347/2002 lo repite). Pero el efecto «se entenderá favorable» de un informe de otra Administración choca con la LPAC 2015, posterior y básica: art. 80.3 (si no se emite, se pueden proseguir las actuaciones o, si es preceptivo, suspender el plazo) y art. 80.4 (informe de otra Administración: se pueden proseguir las actuaciones). Es justo la materia de procedimiento y silencio sobre la que había que extremar el cuidado: no está claro que se pueda presentar como vigente. Además, el distractor «un mes; se suspende el procedimiento» recuerda a la suspensión del art. 80.3/22.1.d LPAC. Arreglo posible: preguntar solo el plazo de dos meses y avisar en la explicación del régimen del art. 80 LPAC; si no, retirarla.",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 212.1 de la Ley 7/1999, de Administración Local de Aragón, ¿qué caracteriza a la gestión interesada de un servicio público local?",
+      "q": "Según el art. 194.3, regla 3.ª, de la Ley 7/1999, cuando una actividad de un particular requiere a la vez licencia municipal y autorización de la Comunidad Autónoma, el procedimiento de gestión coordinada que debe establecerse comportará:",
       "options": [
-        "La entidad local paga un precio alzado predeterminado e inalterable por la totalidad del servicio o por unidades o actos",
-        "La entidad local arrienda instalaciones de su pertenencia para que el arrendatario preste con ellas el servicio",
-        "La entidad local participa de forma minoritaria en el capital de una sociedad que presta el servicio",
-        "La entidad local y el empresario participan en los resultados de la explotación en la proporción que establezca el contrato"
+        "Una sola autorización de una de las dos Administraciones, previo informe de la otra",
+        "Una autorización conjunta firmada por el Alcalde y por el consejero competente",
+        "Dos autorizaciones separadas, que cada Administración tramita y resuelve de forma sucesiva",
+        "La sustitución de las dos autorizaciones por una única declaración responsable"
+      ],
+      "correct": 0,
+      "exp": "La regla 3.ª del art. 194.3 de la Ley 7/1999 establece que en ese caso «deberá establecerse un procedimiento de gestión coordinada que comportará una sola autorización de una de las dos administraciones», y que «La Administración que no adopte la autorización final deberá informar con carácter previo en relación con el ejercicio de sus competencias propias». No hay autorizaciones sucesivas, ni firma conjunta, ni sustitución por declaración responsable.",
+      "fuente": "Art. 194.3, regla 3.ª, Ley de Administración Local de Aragón (Ley 7/1999)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 194.3, regla 3.ª, Ley 7/1999: «comportará una sola autorización de una de las dos administraciones» y la otra informa con carácter previo; literal. Los tres distractores son falsos. Sin repetición en temas 9-21 ni en rescate-t11. | Revisor 2 (DUDOSA): La regla 3.ª del art. 194.3 Ley 7/1999 dice literalmente «una sola autorización de una de las dos administraciones», previo informe de la otra. Pero el art. 84.3 LBRL (básico, añadido por la Ley 11/1999, posterior a la Ley 7/1999) dispone que las licencias de otras Administraciones no eximen de obtener las licencias locales, salvo lo que digan las leyes sectoriales. Y el art. 144 del Decreto 347/2002 rebaja la regla a algo potestativo: «mediante convenio, podrá establecerse». El distractor «dos autorizaciones separadas…» se acerca a la regla general del art. 84.3 LBRL. Hay duda de desplazamiento y de ambigüedad. Arreglo: avisar en la explicación del art. 84.3 LBRL y del carácter potestativo del art. 144 del Decreto, y cambiar el distractor de las dos autorizaciones por uno claramente ajeno. Si no, retirarla.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 169.6 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), la autorización otorgada a un particular para ejercer una actividad o prestar un servicio de interés público cuya tutela corresponde a la entidad local:",
+      "options": [
+        "Convierte al autorizado en gestor indirecto del servicio público",
+        "Equivale a un contrato de concesión de servicios con la entidad",
+        "No crea relación contractual alguna con la entidad local",
+        "Atribuye a la entidad local la titularidad de la actividad privada"
+      ],
+      "correct": 2,
+      "exp": "El art. 169.6 del Decreto 347/2002 dispone: «El otorgamiento de la autorización no crea relación contractual alguna con la Entidad local». El art. 168 añade que la entidad local no asumirá la titularidad de la actividad privada que se preste.",
+      "fuente": "Art. 169.6 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): El dato es correcto (art. 169.6 Decreto 347/2002: «no crea relación contractual alguna con la Entidad local»), pero repite casi palabra por palabra el planteamiento de la pregunta existente del art. 168 («cuando un particular autorizado ejerce una actividad o presta un servicio de interés público cuya tutela corresponde a la entidad local») y la misma idea de fondo (la autorización no convierte la actividad privada en pública ni en contractual); uno de los distractores es precisamente el contenido del art. 168. Es preguntar lo mismo con otras palabras (regla 6). Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 169.6 Decreto 347/2002: «El otorgamiento de la autorización no crea relación contractual alguna con la Entidad local». Comprobado. La explicación sobre el art. 168 es exacta. Distractores falsos. No repite la pregunta del banco sobre el art. 168 (otro contenido).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 179.1 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), ¿qué consecuencia tienen los acuerdos que otorgan subvenciones por criterios de mera liberalidad?",
+      "options": [
+        "Son válidos si el importe no supera el coste de la actividad subvencionada",
+        "Son anulables, y pueden convalidarse si el Pleno los ratifica después",
+        "Son nulos, porque las subvenciones nunca pueden responder a esos criterios",
+        "Son válidos si se publican en el tablón de anuncios de la entidad local"
+      ],
+      "correct": 2,
+      "exp": "El art. 179.1 del Decreto 347/2002 dispone: «En ningún caso las subvenciones podrán responder a criterios de mera liberalidad, siendo nulos los acuerdos que las otorguen». Por su parte, el art. 2.1 de la Ley 38/2003 exige que la entrega esté sujeta al cumplimiento de un objetivo, proyecto, actividad, comportamiento o situación y tenga por objeto el fomento de una actividad de utilidad pública o interés social o la promoción de una finalidad pública.",
+      "fuente": "Art. 179.1 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Regla 10. El texto del art. 179.1 Decreto 347/2002 dice lo que se afirma, pero la pregunta presenta como vigente la «nulidad» establecida por un reglamento. Las causas de nulidad de la concesión las fija hoy la ley: art. 36.1 LGS (básico según su DF 1.ª: título II, arts. 36, 37 y 40.1) y art. 46 DLeg 2/2023 (aplicable a las entidades locales aragonesas por su art. 2.3): las del art. 47.1 LPAC y la falta de crédito; las demás infracciones son anulabilidad (art. 46.2 DLeg). El art. 47.1.g LPAC exige rango de ley para crear causas de nulidad. Así, el distractor «anulables» no es claramente falso y la respuesta «nulos» es discutible. Ante la duda, rechazo. | Revisor 2 (RECHAZADA): El art. 179.1 Decreto 347/2002 dice literalmente «nulos», pero lo dice una norma reglamentaria. Las causas de nulidad de la concesión de subvenciones las fija el art. 36.1 LGS, que es básico (DF 1.ª): las del art. 47.1 LPAC y la falta de crédito. La nulidad «expresamente establecida» exige además rango de ley (art. 47.1.g LPAC, antes art. 62.1.g Ley 30/1992). Cualquier otra infracción da anulabilidad (art. 36.2 LGS), así que el distractor «anulables, convalidables» puede ser en realidad la respuesta correcta según la ley básica. Ni el DLeg 2/2023 ni la Ley 7/1999 recogen esa nulidad. Presenta como vigente una regla desplazada.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 26 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), en concurrencia competitiva, ¿cuál es el plazo máximo para resolver desde la publicación de la convocatoria o desde el fin del plazo de solicitudes, y qué efecto tiene que venza sin resolución notificada?",
+      "options": [
+        "Seis meses; la solicitud se entenderá estimada",
+        "Tres meses; la solicitud se entenderá estimada",
+        "Tres meses; la solicitud se podrá entender desestimada",
+        "Seis meses; la solicitud se podrá entender desestimada"
+      ],
+      "correct": 2,
+      "exp": "El art. 26.1 del DLeg 2/2023 fija el plazo máximo de tres meses «desde la fecha de publicación de la convocatoria o desde la fecha de finalización del plazo para presentar las solicitudes, según determinen las bases reguladoras», y el art. 26.4 añade que, transcurrido ese plazo sin resolución expresa notificada, «se podrá entender como desestimada la solicitud». El plazo de seis meses es el del art. 25.4 de la Ley 38/2003, que no es básico (su disposición final primera solo declara básicos, en el título I, los capítulos I y IV); el DLeg 2/2023 se aplica a las entidades locales aragonesas (art. 2.3).",
+      "fuente": "Art. 26.1 y 26.4 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 26.1 y 26.4 DLeg 2/2023 literal: tres meses y «se podrá entender como desestimada». Explicación exacta: el art. 25.4 LGS (seis meses) está en el capítulo II del título I, no básico (DF 1.ª.1 solo declara básicos del título I los capítulos I y IV, salvo arts. 32 y 33), y por la DF 1.ª.2 no se aplica a las entidades locales de una comunidad con competencias en régimen local. Coincide además con el art. 185.1.g Decreto 347/2002. Sin repetición. | Revisor 2 (DUDOSA): La correcta (tres meses y desestimación, art. 26.1 y 26.4 DLeg 2/2023) está comprobada, y la explicación sobre el carácter no básico del art. 25.4 LGS es exacta (DF 1.ª LGS: en el título I solo los capítulos I y IV). Pero el distractor «Seis meses; la solicitud se podrá entender desestimada» es la regla de otra de las normas del tema (art. 25.4 y 25.5 LGS), justo lo que el encargo pide evitar en subvenciones. Arreglo: sustituirlo por una combinación que no sea regla de ninguna norma (por ejemplo, «Un mes; la solicitud se entenderá estimada»).",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 39 de la Ley 38/2003, General de Subvenciones, ¿en qué plazo prescribe el derecho de la Administración a reconocer o liquidar el reintegro y desde cuándo se cuenta, como regla general?",
+      "options": [
+        "Cuatro años, desde la fecha en que se pagó la subvención al beneficiario",
+        "Cinco años, desde la fecha en que se pagó la subvención al beneficiario",
+        "Cinco años, desde que vence el plazo para presentar la justificación",
+        "Cuatro años, desde que vence el plazo para presentar la justificación"
       ],
       "correct": 3,
-      "exp": "En la gestión interesada (art. 212.1 de la Ley 7/1999) el servicio lo presta una empresa gestora, y la entidad local y el empresario participan en los resultados de la explotación en la proporción del contrato. El precio alzado e inalterable es propio del concierto (art. 213); el uso de instalaciones locales, del arrendamiento (art. 214), y la participación minoritaria en el capital, de la sociedad de gestión indirecta (art. 215). Es la definición de la ley aragonesa (y del art. 231.3 del Decreto 347/2002). La Ley 9/2017, de Contratos del Sector Público, ya no regula la gestión interesada como modalidad contractual: las referencias al antiguo contrato de gestión de servicios públicos se entienden hechas al contrato de concesión de servicios (disposición adicional trigésima cuarta), y a esa legislación remite el art. 85.2.B) LBRL para la gestión indirecta.",
-      "fuente": "Art. 212.1 Ley de Administración Local de Aragón (Ley 7/1999)",
+      "exp": "El art. 39.1 de la Ley 38/2003 (básico) dispone: «Prescribirá a los cuatro años el derecho de la Administración a reconocer o liquidar el reintegro». Según el art. 39.2.a), el plazo se cuenta «Desde el momento en que venció el plazo para presentar la justificación por parte del beneficiario o entidad colaboradora», con las salvedades de las letras b) y c). El art. 50 del DLeg 2/2023 de Aragón establece lo mismo.",
+      "fuente": "Art. 39.1 y 39.2.a) Ley 38/2003, General de Subvenciones",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): El contenido es correcto: art. 212.1 Ley 7/1999, literal, y los distractores reproducen los arts. 213, 214 y 215, todos comprobados. El aviso sobre la LCSP también es correcto. Pero la explicación no es exacta: dice «Es la definición de la ley aragonesa (y del art. 231.3 del Decreto 347/2002)», y el art. 231.3 solo enumera las formas de gestión indirecta, sin definirlas. En el Decreto, la gestión interesada se define en el art. 290.1 («se contrata la explotación del servicio participando la Entidad Local y el empresario en sus resultados, en la proporción fijada en el contrato»). Arreglo: cambiar «art. 231.3» por «art. 290.1» (o poner «arts. 231.3.b) y 290.1»). | Revisor 2 (DUDOSA): Definición literal del art. 212.1 Ley 7/1999, comprobada. Los distractores corresponden a los arts. 213, 214 y 215, también comprobados. El problema es el mismo que en la pregunta del concierto: se pregunta por la gestión interesada «de un servicio público local» como figura vigente cuando la LCSP ya no la regula (DA 34.ª), y la explicación lo reconoce. Eso choca con la regla 10. Arreglo: lo decide la sesión principal, que puede admitir la excepción por tratarse de materia literal de la ley aragonesa o sustituirla por una pregunta sobre una forma no desplazada.",
+      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta (art. 39.1 y 39.2.a LGS: cuatro años desde que vence el plazo de justificación) y el art. 50 DLeg 2/2023 dice lo mismo. Pero la explicación es inexacta: llama «básico» al art. 39, y no lo es. La DF 1.ª.1 LGS solo declara básicos del título II los arts. 36, 37 y 40.1, y por la DF 1.ª.2 el art. 39 no se aplica a las entidades locales aragonesas: para ellas rige el art. 50 DLeg 2/2023. Arreglo: suprimir «(básico)», decir que el art. 39 no es básico y que en Aragón (también en Zaragoza) se aplica el art. 50.1 y 50.2.a DLeg 2/2023, de idéntico contenido. Mejor aún, preguntar directamente por el art. 50 DLeg. | Revisor 2 (DUDOSA): El contenido es correcto: cuatro años desde el vencimiento del plazo de justificación. Pero la explicación califica de «básico» el art. 39 LGS, y es falso: la DF 1.ª LGS solo declara básicos, en el título II, los arts. 36, 37 y 40.1. Así que el art. 39 no se aplica a las entidades locales aragonesas (DF 1.ª.2, párrafo segundo). La regla aplicable en Zaragoza es la del art. 50.1 y 50.2.a) del DLeg 2/2023, de igual contenido. Arreglo: preguntar por el art. 50 DLeg 2/2023, citar el art. 39 LGS solo como coincidente y quitar «(básico)».",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 11.2 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), las bases reguladoras de las subvenciones de las entidades locales se aprueban:",
+      "q": "En el Ayuntamiento de Zaragoza, según el art. 14.1.o) de la Ley 10/2017, de régimen especial del municipio de Zaragoza, ¿qué órgano aprueba las bases reguladoras de las subvenciones que han de otorgarse en régimen de concurrencia competitiva?",
       "options": [
-        "Por orden del titular del departamento competente del Gobierno de Aragón",
-        "Mediante una ordenanza general de subvenciones o una ordenanza específica",
-        "Exclusivamente mediante decreto de la Alcaldía-Presidencia",
-        "Mediante convenio con la Diputación Provincial correspondiente"
+        "El Gobierno de Zaragoza",
+        "La Comisión plenaria competente",
+        "El Pleno del Ayuntamiento",
+        "El Alcalde, por decreto"
       ],
-      "correct": 1,
-      "exp": "El art. 11.2 del texto refundido dispone que las bases reguladoras de las subvenciones de las entidades locales «se deberán aprobar en el marco de las bases de ejecución del presupuesto, a través de una ordenanza general de subvenciones o mediante una ordenanza específica para las distintas modalidades de subvenciones», igual que el art. 17.2 de la Ley 38/2003, General de Subvenciones, que es básico. La orden del consejero es el cauce de las subvenciones de los departamentos autonómicos, no de las locales. En Zaragoza, la aprobación de las ordenanzas corresponde al Pleno (art. 11.1.d de la Ley 10/2017), y la de las bases reguladoras de las subvenciones en régimen de concurrencia competitiva, al Gobierno de Zaragoza (art. 14.1.o).",
-      "fuente": "Art. 11.2 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+      "correct": 0,
+      "exp": "El art. 14.1.o) de la Ley 10/2017 atribuye al Gobierno de Zaragoza «La aprobación de las bases reguladoras de las subvenciones que hayan de otorgarse en régimen de concurrencia competitiva», y el art. 14.2 permite delegarla. Con carácter general, el art. 11.2 del DLeg 2/2023 (como el art. 17.2 de la Ley 38/2003, que no es básico) dispone que las bases locales se aprueben en el marco de las bases de ejecución del presupuesto, mediante una ordenanza general o específica; la aprobación de ordenanzas corresponde al Pleno (art. 11.1.d de la Ley 10/2017).",
+      "fuente": "Art. 14.1.o) Ley 10/2017, de régimen especial del municipio de Zaragoza",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La respuesta y los distractores son correctos: art. 11.2, párrafo cuarto, del DLeg 2/2023 (BOE-A-2023-12919), literal. La salvedad de Zaragoza también está bien: arts. 11.1.d) y 14.1.o) Ley 10/2017. Pero la explicación tiene un error de hecho: dice que el art. 17.2 de la Ley 38/2003 «es básico», y la DF 1.ª.1 LGS (comprobada en BOE-A-2003-20977) excluye expresamente del carácter básico «los apartados 1, 2 […] del artículo 17». El error importa, porque el carácter básico sería el argumento para que la regla prevaleciera frente al art. 14.1.o) de la Ley 10/2017. Arreglo: suprimir «que es básico» (o decir que el art. 17.2 LGS no es básico según su DF 1.ª.1). | Revisor 2 (DUDOSA): La respuesta es correcta: art. 11.2, párrafo 4.º, DLeg 2/2023 (BOE-A-2023-12919), comprobado. La explicación tiene un error: dice que el art. 17.2 de la Ley 38/2003 «es básico», pero la DF 1.ª.1 LGS, comprobada, exceptúa expresamente «los apartados 1, 2 […] del artículo 17» del carácter básico. Y eso importa en Zaragoza: al no ser básico el 17.2, prevalece el art. 14.1.o) Ley 10/2017 (bases de concurrencia competitiva aprobadas por el Gobierno de Zaragoza, DA 1.ª.1). La pregunta cumple la regla 9 porque el enunciado se ciñe a la norma y avisa. Arreglo: quitar «que es básico» o decir que el art. 17.2 LGS no es básico (DF 1.ª.1). Sin ese cambio no debe entrar.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 14.1.o Ley 10/2017 (BOE-A-2018-1683) literal; delegable según el art. 14.2. Regla 9 cumplida. Frente al art. 11.2 DLeg 2/2023 (bases locales mediante ordenanza), prevalece la Ley 10/2017 por su DA 1.ª.1 y 1.2 (prevalencia sobre las leyes sectoriales autonómicas y desplazamiento de sus competencias solo con declaración expresa). La explicación es correcta. Sugerencia no bloqueante: citar esa DA 1.ª para que no parezca que hay dos reglas opuestas. Sin repetición en los temas 14 ni 21. | Revisor 2 (DUDOSA): Art. 14.1.o) Ley 10/2017 comprobado: las bases reguladoras en concurrencia competitiva las aprueba el Gobierno de Zaragoza, y prevalece sobre la ley sectorial autonómica (DA 1.ª.1, .2 y .4 Ley 10/2017). Pero el distractor «El Pleno del Ayuntamiento» es la regla de otra de las normas del tema (art. 185.2 Decreto 347/2002, y, por la vía de la ordenanza, el art. 11.2 DLeg 2/2023), y la explicación deja abierta esa tensión con el DLeg sin explicar por qué prevalece el art. 14.1.o). Arreglo: cambiar ese distractor por un órgano que no tenga esa competencia en ninguna norma (por ejemplo, la Junta de Portavoces o el Consejo Social de la ciudad) y añadir en la explicación la DA 1.ª de la Ley 10/2017.",
       "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 201 de la Ley 7/1999, de Administración Local de Aragón, la reglamentación de un servicio público local podrá establecer:",
+      "options": [
+        "La exclusión de quienes no lleven más de un año empadronados en el municipio en la fecha de la solicitud",
+        "Ventajas económicas para los grupos sociales de menor capacidad económica o precisados de especial protección",
+        "Diferencias en la prestación basadas en el lugar de nacimiento o en la nacionalidad de los usuarios",
+        "La reserva del servicio a los vecinos que estén al corriente en el pago de todos sus tributos locales"
+      ],
+      "correct": 1,
+      "exp": "El art. 201 de la Ley 7/1999 reconoce a todos los ciudadanos que reúnan los requisitos de cada servicio igual derecho a utilizarlo, sin otras diferencias que las derivadas de la capacidad del propio servicio, y añade: «La reglamentación del servicio podrá establecer ventajas económicas en beneficio de los grupos sociales de menor capacidad económica o precisados de especial protección». El art. 207.3 del Decreto 347/2002 permite igualmente diferencias económicas o de prestación en favor de esos grupos.",
+      "fuente": "Art. 201 Ley de Administración Local de Aragón (Ley 7/1999)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 201 Ley 7/1999 literal; art. 207.3 Decreto 347/2002 en el mismo sentido. Las otras tres serían discriminaciones no amparadas. Sin repetición. | Revisor 2 (DUDOSA): La correcta reproduce el art. 201 Ley 7/1999 (y el art. 207.3 Decreto 347/2002). Pero el mismo artículo admite «los requisitos establecidos en cada caso», y el distractor de exigir un tiempo mínimo de empadronamiento (y quizá el de estar al corriente de los tributos) puede ser un requisito de acceso legítimo en algunos servicios municipales. No es claramente falso, así que la pregunta es ambigua. Arreglo: preguntar qué permite «expresamente» el art. 201 y cambiar esos dos distractores por diferencias claramente prohibidas o ajenas al precepto.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 267 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), en los contratos de gestión indirecta de servicios públicos locales es nula la cláusula que:",
+      "options": [
+        "Disponga la reversión a la entidad local de los bienes afectos al servicio al terminar el contrato",
+        "Confiera al gestor el derecho de preferencia para volver a prestar el servicio tras la extinción del contrato",
+        "Obligue al gestor a satisfacer a la Administración un canon o una participación en los resultados",
+        "Prevea la revisión de las tarifas que pagan los usuarios durante la vigencia del contrato"
+      ],
+      "correct": 1,
+      "exp": "El art. 267 del Decreto 347/2002 declara nulas, entre otras, la cláusula que confiera al gestor «el derecho de preferencia para volver a prestar el servicio después de la extinción del contrato» (letra a), la que establezca la no revisión de tarifas cuando el contratista se retribuye con ellas (b), la que suponga renunciar a fiscalizar, modificar, resolver, rescatar o intervenir (c) y la que disponga la no reversión de los bienes amortizados afectos al servicio (d). El canon, la revisión de tarifas y la reversión son, por tanto, cláusulas válidas. Desde la Ley 9/2017, las referencias al contrato de gestión de servicios públicos se entienden hechas al contrato de concesión de servicios en la medida en que se adecuen a él (disposición adicional trigésima cuarta).",
+      "fuente": "Art. 267.a) Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta (art. 267.a Decreto 347/2002: nula la cláusula del derecho de preferencia; la regla sigue siendo coherente con la LCSP). Problema de regla 10 en la explicación: presenta como vigente la nulidad del art. 267.b (cláusula de no revisión de tarifas) y afirma en general que la cláusula de revisión de tarifas es válida. Tras la Ley 2/2015 de desindexación y el art. 103 LCSP (básico), la revisión periódica de precios es excepcional y solo cabe si el pliego la prevé y se cumplen sus requisitos (p. ej., período de recuperación de la inversión de cinco años o más). Por tanto, la cláusula de no revisión no puede ser nula y la de revisión no es válida sin más. Arreglo: quitar de la explicación la letra b), o advertir que está desplazada por el art. 103 LCSP. Sustituir además el distractor de revisión de tarifas por otro sin esa carga (p. ej., «Prevea penalidades por incumplimiento del concesionario»). Lo demás está bien comprobado, incluida la DA 34.ª LCSP. | Revisor 2 (DUDOSA): La correcta (art. 267.a Decreto 347/2002, derecho de preferencia) está comprobada. Pero el distractor «Prevea la revisión de las tarifas que pagan los usuarios» y la explicación («la revisión de tarifas… son cláusulas válidas») chocan con el art. 103.1 y 103.2 LCSP (básico). Ese artículo incluye en el «precio» lo que pagan los usuarios y solo admite la revisión periódica y predeterminada en ciertos contratos, conforme a la Ley 2/2015 de desindexación. Por eso la letra b) del art. 267 está al menos en tensión con la LCSP. Es materia de concesiones desplazada por la LCSP. Arreglo: cambiar ese distractor por otra cláusula claramente válida y corregir la explicación.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 14.1.p) de la Ley 10/2017, de régimen especial del municipio de Zaragoza, ¿qué órgano aprueba los precios o tarifas de los servicios municipales de transporte urbano de viajeros y autotaxis?",
+      "options": [
+        "El Alcalde de Zaragoza",
+        "La Comisión de Precios de Aragón",
+        "El Pleno del Ayuntamiento",
+        "El Gobierno de Zaragoza"
+      ],
+      "correct": 3,
+      "exp": "El art. 14.1.p) de la Ley 10/2017 atribuye al Gobierno de Zaragoza «La aprobación de los precios o tarifas de los servicios municipales de transporte urbano de viajeros y autotaxis, informando, en su caso, a la Comisión de Precios de la Comunidad Autónoma de Aragón». La Comisión de Precios recibe información, pero no aprueba las tarifas.",
+      "fuente": "Art. 14.1.p) Ley 10/2017, de régimen especial del municipio de Zaragoza",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 14.1.p Ley 10/2017 literal: aprueba el Gobierno de Zaragoza, informando en su caso a la Comisión de Precios. Regla 9 cumplida. Distractores falsos según el precepto (la Ley 10/2017 prevalece sobre la normativa autonómica sectorial, DA 1.ª). Sin repetición en los temas 11, 14 ni 21. | Revisor 2 (RECHAZADA): El art. 14.1.p) Ley 10/2017 dice eso, pero desde el 9-3-2018 el art. 20.6 TRLRHL (añadido por la DF 12.ª LCSP, posterior a la Ley 10/2017) obliga a regular «mediante ordenanza» las tarifas del transporte urbano gestionado en concesión, por sociedad o por otra forma de Derecho privado, porque son prestaciones patrimoniales de carácter público no tributario. En Zaragoza las ordenanzas las aprueba el Pleno (art. 11.1.d Ley 10/2017). Así que, al menos para el autobús y el tranvía, el distractor «El Pleno» puede ser lo correcto y la pregunta presenta como plenamente vigente una regla desplazada en parte. Solo para los autotaxis seguiría siendo limpia.",
+      "_motivo": "veredicto RECHAZADA"
     }
   ]
 }

@@ -65100,3 +65100,397 @@ window.addQuestions('aux-admin-zaragoza', 16, [
     "confianza": "media"
   }
 ]);
+
+/* tema 11 · lote 2026-10-24 · 30 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 11, [
+  {
+    "q": "Según el art. 194.3, regla 5.ª, de la Ley 7/1999, de Administración Local de Aragón, ¿qué facultades no pueden entenderse otorgadas en ningún caso por falta de resolución expresa de la entidad local?",
+    "options": [
+      "Las relativas a la utilización u ocupación del dominio público local",
+      "Las relativas a la apertura de establecimientos comerciales no clasificados",
+      "Las relativas al ejercicio de actividades de servicios por los particulares",
+      "Las relativas a la transmisión a otro titular de licencias ya otorgadas"
+    ],
+    "correct": 0,
+    "exp": "La regla 5.ª del art. 194.3 de la Ley 7/1999 establece que las autorizaciones o licencias se entienden concedidas si, transcurridos tres meses desde la solicitud, no hay resolución expresa (salvo los supuestos de la normativa de régimen jurídico de las Administraciones Públicas), y añade: «En ningún caso se podrán entender otorgadas por falta de resolución expresa facultades relativas a la utilización u ocupación del dominio público local». En la misma línea, el art. 147.2 del Decreto 347/2002 dispone que se entienden desestimadas las solicitudes por las que se transfieran facultades relativas al dominio público. La apertura de establecimientos, las actividades de servicios y la transmisión de licencias no aparecen en esa excepción.",
+    "fuente": "Art. 194.3, regla 5.ª, Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 195 de la Ley 7/1999, las licencias, autorizaciones y demás actos de control producen efectos entre la entidad local y el solicitante, y se entienden otorgados:",
+    "options": [
+      "Previa acreditación por el solicitante de la propiedad del bien",
+      "Con carácter indefinido e irrevocable para su titular",
+      "Salvo el derecho de propiedad y sin perjuicio de tercero",
+      "Con plena eficacia frente a terceros desde su notificación"
+    ],
+    "correct": 2,
+    "exp": "El art. 195 de la Ley 7/1999 dispone que estos actos «producirán efectos entre la entidad local y el solicitante, y se entenderán otorgadas salvo el derecho de propiedad y sin perjuicio de tercero». No son irrevocables (el art. 196 regula su revocación y anulación) y, según el art. 140.1 del Decreto 347/2002, no es preciso acreditar ante la Administración la titularidad del derecho en que se basa la solicitud, salvo que pueda afectar a bienes públicos.",
+    "fuente": "Art. 195 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 196.2 de la Ley 7/1999, de Administración Local de Aragón, ¿en qué caso no procede indemnización alguna cuando se anula una licencia o autorización?",
+    "options": [
+      "Cuando la anulación se debe a un error de los servicios técnicos municipales",
+      "Cuando la anulación se acuerda dentro del año siguiente a su otorgamiento",
+      "Cuando el titular todavía no había iniciado la actividad que se le autorizó",
+      "Cuando se otorgó por dolo, culpa o negligencia grave imputable al interesado"
+    ],
+    "correct": 3,
+    "exp": "El art. 196.2 de la Ley 7/1999 remite la anulabilidad de las licencias a la legislación de procedimiento común y añade: «No procederá en ningún caso indemnización cuando el otorgamiento de la licencia o autorización fuera debido a dolo, culpa o negligencia grave imputable al interesado». El art. 153.1 del Decreto 347/2002 repite la misma regla. Ninguno de los dos preceptos excluye la indemnización por el plazo transcurrido, por un error municipal o porque la actividad no se hubiera iniciado.",
+    "fuente": "Art. 196.2 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 151.2 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), una vez comunicada por escrito a la entidad local la transmisión de una licencia, ¿cuándo se considera plenamente eficaz esa transmisión?",
+    "options": [
+      "Al pasar tres meses desde la comunicación sin que se haya notificado su no procedencia",
+      "Al pasar un mes desde la comunicación sin que se haya notificado su no procedencia",
+      "Cuando la entidad local dicte resolución expresa que autorice el cambio de titular",
+      "Desde el mismo día de la comunicación, sin que la entidad local pueda oponerse"
+    ],
+    "correct": 1,
+    "exp": "El art. 151.2 del Decreto 347/2002 obliga a quienes intervienen en la transmisión a comunicarla por escrito; la entidad local comprueba que no es uno de los casos intransmisibles del apartado 1 (licencias otorgadas por las cualidades personales del solicitante o de número limitado). «Transcurrido el plazo de un mes desde la comunicación sin haberse notificado la no procedencia de la transmisión, ésta se considerará plenamente eficaz». No hace falta resolución expresa, y la entidad sí puede oponerse dentro de ese mes.",
+    "fuente": "Art. 151.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), el cumplimiento de las órdenes individuales de ejecución dictadas por la entidad local:",
+    "options": [
+      "Exige obtener siempre antes la licencia de obras o de actividad que corresponda",
+      "No puede condicionarse a licencia previa, salvo en obras que requieran proyecto técnico",
+      "Solo es exigible cuando ha pasado el plazo para recurrir la orden en vía administrativa",
+      "Queda en suspenso mientras el destinatario no obtiene la licencia correspondiente"
+    ],
+    "correct": 1,
+    "exp": "El art. 165 del Decreto 347/2002 dispone: «El cumplimiento de las órdenes individuales de ejecución no podrá condicionarse a la obtención de licencia previa respecto de las obras o actividades que constituyan su objeto, salvo que así se establezca para las que requieran proyecto técnico». Añade que las actuaciones que por urgencia o necesidad no admitan demora deben ejecutarse de modo inmediato y bajo la correspondiente dirección técnica.",
+    "fuente": "Art. 165 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 141.2 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), cuando la entidad local exige adaptar una licencia de actividad a una modificación de la normativa aplicable, esas modificaciones:",
+    "options": [
+      "Obligarán a cesar la actividad hasta obtener una nueva licencia",
+      "Solo podrán exigirse si el titular presta su conformidad por escrito",
+      "Darán siempre derecho a indemnización por los daños y perjuicios",
+      "No serán indemnizables, salvo disposición legal que así lo prevea"
+    ],
+    "correct": 3,
+    "exp": "El art. 141.2 del Decreto 347/2002 permite exigir la adaptación de las licencias de actividad o funcionamiento a los cambios de la normativa aplicable, con adaptaciones proporcionadas y congruentes con el interés público; el titular debe adaptar la actividad y puede concederse un plazo para la adecuación progresiva. Termina: «Estas modificaciones no serán indemnizables salvo disposición legal que así lo prevea». Es distinto de la revocación por la adopción de nuevos criterios de apreciación, que sí comporta resarcimiento (art. 153.3).",
+    "fuente": "Art. 141.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 225.1 de la Ley 7/1999, de Administración Local de Aragón, la actividad de fomento de las entidades locales se realizará de acuerdo con los principios de:",
+    "options": [
+      "Suficiencia financiera, solidaridad interterritorial, equilibrio presupuestario y autonomía en el gasto local",
+      "Necesidad, proporcionalidad, seguridad jurídica, transparencia y eficiencia en la regulación de las ayudas",
+      "Publicidad, objetividad, libre concurrencia e igualdad, respeto de la libre competencia y legalidad presupuestaria",
+      "Jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho"
+    ],
+    "correct": 2,
+    "exp": "El art. 225.1 de la Ley 7/1999 dispone: «La actividad de fomento se realizará de acuerdo con los principios de publicidad, objetividad, libre concurrencia e igualdad, respeto de las reglas de libre competencia y con adecuación a la legalidad presupuestaria». Las demás opciones mezclan principios de organización administrativa, principios de buena regulación y principios de las haciendas locales.",
+    "fuente": "Art. 225.1 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 226 de la Ley 7/1999, de Administración Local de Aragón, no podrán concederse ayudas económicas a los particulares o entidades que:",
+    "options": [
+      "Estén incursos en procedimientos de cobro por vía de apremio por deudas con la entidad local",
+      "Hayan recibido otra subvención de la misma entidad local en los dos ejercicios anteriores",
+      "No estén empadronados en el municipio en la fecha de publicación de la convocatoria de ayudas",
+      "Hayan renunciado a una subvención anterior después de iniciar la actividad subvencionada"
+    ],
+    "correct": 0,
+    "exp": "El art. 226 de la Ley 7/1999 prohíbe otorgar exenciones fiscales no previstas en la ley, compensaciones o minoraciones de deudas, y añade: «Tampoco podrán concederse ayudas económicas a los particulares o entidades que se hallen incursos en procedimientos de cobro por vía de apremio por deudas contraídas con la entidad local». El art. 179.2 del Decreto 347/2002 recoge la misma prohibición. Las demás circunstancias no figuran en el precepto.",
+    "fuente": "Art. 226 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 191.2 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), el ámbito de la acción concertada de las entidades locales es el fomento de actividades sociales y económicas de interés público, principalmente en los sectores relacionados con:",
+    "options": [
+      "La cultura, el deporte, el turismo y la organización de las fiestas populares de la localidad",
+      "La sanidad, la educación y los servicios sociales de atención primaria y especializada del municipio",
+      "La construcción de viviendas, la localización y promoción industrial y la mejora del medio ambiente",
+      "El transporte público de viajeros, el abastecimiento de agua y la recogida de residuos"
+    ],
+    "correct": 2,
+    "exp": "El art. 191.2 del Decreto 347/2002 dispone que «El ámbito de la acción concertada será el fomento y promoción de actividades sociales y económicas de interés público, principalmente en los sectores relacionados con la construcción de viviendas, la localización y promoción industrial y la mejora del medio ambiente». La acción concertada está prevista en el art. 227 de la Ley 7/1999 como forma de ejercer el fomento.",
+    "fuente": "Art. 191.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.4 de la Ley 38/2003, General de Subvenciones, en la redacción vigente desde el 23 de octubre de 2026, ¿cuál de las siguientes entregas no tiene carácter de subvención?",
+    "options": [
+      "La aportación nominativa del presupuesto municipal a una fundación privada para un programa de empleo",
+      "Las ayudas a asociaciones vecinales para actividades culturales, otorgadas en concurrencia competitiva",
+      "Las ayudas directas a organizaciones humanitarias para paliar los efectos de una catástrofe natural en el extranjero",
+      "Las ayudas de emergencia o urgencia social para necesidades básicas gestionadas por los servicios sociales"
+    ],
+    "correct": 3,
+    "exp": "La letra j) del art. 2.4 de la Ley 38/2003, añadida por la disposición final 7.ª de la Ley 4/2026, de 1 de octubre (en vigor desde el 23 de octubre de 2026, según el texto consolidado del BOE), excluye del concepto de subvención «Las ayudas económicas de emergencia o urgencia social gestionadas por las administraciones competentes a través de los servicios sociales, destinadas a cubrir necesidades básicas de la ciudadanía». El art. 2 forma parte del capítulo I del título preliminar, que es legislación básica (disposición final primera). Las otras tres son entregas sin contraprestación para fomentar actividades de interés público, es decir, subvenciones: la nominativa y la humanitaria pueden concederse de forma directa (art. 22.2.a y c).",
+    "fuente": "Art. 2.4.j) Ley 38/2003, General de Subvenciones",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.1 de la Ley 38/2003, General de Subvenciones, los órganos que propongan el establecimiento de subvenciones deben concretar con carácter previo los objetivos y efectos que se pretenden, el plazo, los costes previsibles y sus fuentes de financiación:",
+    "options": [
+      "En un plan estratégico de subvenciones",
+      "En un programa anual de actuación e inversiones",
+      "En un estudio de viabilidad económico-financiera",
+      "En una memoria de análisis de impacto normativo"
+    ],
+    "correct": 0,
+    "exp": "El art. 8.1 de la Ley 38/2003 (precepto básico, según su disposición final primera) dispone que esos órganos «deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación, supeditándose en todo caso al cumplimiento de los objetivos de estabilidad presupuestaria». Las bases reguladoras deben referirse al plan en que se integran o motivar por qué se establece la nueva subvención fuera de él.",
+    "fuente": "Art. 8.1 Ley 38/2003, General de Subvenciones",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.3 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), ¿quiénes no pueden formar parte de la comisión de valoración que evalúa las solicitudes en concurrencia competitiva?",
+    "options": [
+      "Los técnicos que redactaron las bases reguladoras",
+      "Los cargos electos y el personal eventual",
+      "El personal laboral fijo de la entidad concedente",
+      "Los funcionarios del servicio gestor de la ayuda"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.3 del DLeg 2/2023 configura la comisión de valoración como órgano colegiado de carácter técnico, «formada por al menos tres miembros», y dispone: «No podrán formar parte de la comisión de valoración los cargos electos y el personal eventual, sin perjuicio de la composición que se derive de la normativa comunitaria aplicable». Según su art. 2.3, la ley se aplica a las entidades locales de Aragón. El art. 185.1.d) del Decreto 347/2002, anterior y de rango reglamentario, preveía en cambio que todos los grupos políticos municipales tuvieran representación en la comisión.",
+    "fuente": "Art. 24.3 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 34.3 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), coincidente con el art. 29.3 de la Ley 38/2003, la subcontratación de la actividad subvencionada exige contrato escrito y autorización previa de la entidad concedente cuando la actividad concertada con terceros:",
+    "options": [
+      "Supere el 20 % del importe de la subvención y ese importe sea superior a 60.000 euros",
+      "Supere el 20 % del importe de la subvención o ese importe sea superior a 40.000 euros",
+      "Supere el 10 % del importe de la subvención y ese importe sea superior a 15.000 euros",
+      "Supere el 50 % del importe de la subvención o ese importe sea superior a 30.000 euros"
+    ],
+    "correct": 0,
+    "exp": "El art. 34.3 del DLeg 2/2023 dispone: «Cuando la actividad concertada con terceras personas sobrepase el 20 por 100 del importe de la subvención y dicho importe sea superior a 60.000 euros, la subcontratación estará sometida al cumplimiento de los siguientes requisitos: a) Que el contrato se celebre por escrito. b) Que la celebración del mismo se autorice previamente por la entidad concedente». Los dos requisitos son cumulativos (20 % y más de 60.000 euros). El art. 29.3 de la Ley 38/2003, básico, dice lo mismo.",
+    "fuente": "Art. 34.3 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023); art. 29.3 Ley 38/2003, General de Subvenciones",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.4 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), si transcurre el plazo de justificación, incluida en su caso la prórroga, sin que el beneficiario la haya presentado:",
+    "options": [
+      "Se iniciará el procedimiento de reintegro sin necesidad de requerimiento previo",
+      "Se le requerirá para que la presente en el plazo improrrogable de diez días",
+      "Se le concederá de oficio una prórroga igual a la mitad del plazo inicial",
+      "Se le requerirá para que la presente en el plazo improrrogable de quince días"
+    ],
+    "correct": 3,
+    "exp": "El art. 36.4 del DLeg 2/2023 dispone que, transcurrido el plazo de justificación sin que se haya presentado, «se requerirá a la persona beneficiaria para que sea presentada en el plazo improrrogable de quince días. La falta de presentación en este plazo llevará consigo la exigencia de reintegro». El plazo de diez días es el de subsanación de defectos de la justificación presentada (art. 36.5), y la prórroga de hasta la mitad del plazo (art. 36.3) ha de acordarse antes de que este termine.",
+    "fuente": "Art. 36.4 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.3 de la Ley 38/2003, General de Subvenciones (y el art. 37.3 del Decreto Legislativo 2/2023 de Aragón), cuando el importe de un gasto subvencionable supera las cuantías del contrato menor, el beneficiario debe, con carácter general:",
+    "options": [
+      "Aportar el certificado de un tasador independiente inscrito en un registro oficial",
+      "Obtener la autorización previa del órgano concedente para contratar con el proveedor",
+      "Solicitar como mínimo tres ofertas de diferentes proveedores antes de contraer el compromiso",
+      "Tramitar un procedimiento abierto conforme a la Ley de Contratos del Sector Público antes de adjudicar"
+    ],
+    "correct": 2,
+    "exp": "El art. 31.3 de la Ley 38/2003 (básico) dispone que en ese caso «el beneficiario deberá solicitar como mínimo tres ofertas de diferentes proveedores, con carácter previo a la contracción del compromiso para la obra, la prestación del servicio o la entrega del bien», salvo que no exista en el mercado suficiente número de entidades o que el gasto se hubiera realizado antes de la subvención; si no elige la oferta económica más ventajosa debe justificarlo. El art. 37.3 del DLeg 2/2023 lo reproduce. El certificado de tasador se exige para justificar la adquisición de inmuebles (art. 35.8 del DLeg 2/2023).",
+    "fuente": "Art. 31.3 Ley 38/2003, General de Subvenciones; art. 37.3 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.4.a) de la Ley 38/2003, General de Subvenciones, en las subvenciones para adquirir, construir, rehabilitar o mejorar bienes inventariables, el período durante el cual el beneficiario debe destinar los bienes al fin subvencionado no puede ser inferior a:",
+    "options": [
+      "Cinco años para los bienes inscribibles en un registro público y dos años para el resto",
+      "Diez años para los bienes inscribibles en un registro público y cinco años para el resto",
+      "Cinco años para todos los bienes, sean o no inscribibles en un registro público",
+      "Cuatro años para todos los bienes, sean o no inscribibles en un registro público"
+    ],
+    "correct": 0,
+    "exp": "El art. 31.4.a) de la Ley 38/2003 (básico) dispone que las bases reguladoras fijarán ese período, «que no podrá ser inferior a cinco años en caso de bienes inscribibles en un registro público, ni a dos años para el resto de bienes». El art. 37.4.a) del DLeg 2/2023 de Aragón recoge los mismos mínimos. Incumplir la obligación de destino, lo que ocurre en todo caso con la enajenación o el gravamen del bien, es causa de reintegro (art. 31.4.b).",
+    "fuente": "Art. 31.4.a) Ley 38/2003, General de Subvenciones",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 203 de la Ley 7/1999, de Administración Local de Aragón, cuando lo requieran la seguridad, la salubridad y otras circunstancias de orden público económico, ¿qué servicios pueden declararse de recepción y uso obligatorios mediante disposición reglamentaria o acuerdo?",
+    "options": [
+      "Los servicios reservados a las entidades locales",
+      "Solo los servicios prestados mediante concesión",
+      "Solo los servicios prestados por gestión directa",
+      "Todos los servicios públicos locales sin excepción"
+    ],
+    "correct": 0,
+    "exp": "El art. 203 de la Ley 7/1999 dispone: «La recepción y uso de los servicios reservados a las entidades locales podrá ser declarado obligatorio para los ciudadanos mediante disposición reglamentaria o acuerdo, cuando la seguridad, salubridad y otras circunstancias de orden público económico lo requieran». El art. 209.2 del Decreto 347/2002 cita en especial la conexión a los sistemas de abastecimiento de agua y saneamiento y la utilización del servicio de recogida de residuos. La forma de gestión del servicio no es el criterio.",
+    "fuente": "Art. 203 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 207.2 de la Ley 7/1999, de Administración Local de Aragón, cuando la entidad local gestiona directamente un servicio por medio de una organización especial, esa organización:",
+    "options": [
+      "Tiene personalidad jurídica y patrimonio propios y actúa sometida plenamente al Derecho público",
+      "Tiene personalidad jurídica propia y su presupuesto se incorpora como anexo al general de la entidad",
+      "Adopta la forma de sociedad de responsabilidad limitada y actúa sujeta al Derecho mercantil",
+      "No tiene personalidad jurídica y cuenta con sección propia en el presupuesto y contabilidad diferenciada"
+    ],
+    "correct": 3,
+    "exp": "El art. 207.2 de la Ley 7/1999 dispone que la gestión directa «se podrá realizar por medio de una organización especial, sin personalidad jurídica»; el acuerdo que la establezca regulará sus aspectos orgánicos y de funcionamiento, y «Contará con una sección propia en el presupuesto y con una contabilidad diferenciada». La personalidad jurídica propia, el sometimiento pleno al Derecho público y el presupuesto anexo son rasgos del organismo autónomo (art. 208); la forma de sociedad mercantil corresponde al art. 209.",
+    "fuente": "Art. 207.2 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 234 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), en la gestión directa sin órgano especial puede designarse administrador del servicio a un funcionario de plantilla de la entidad local, con funciones:",
+    "options": [
+      "De fe pública y asesoramiento legal de los órganos de gobierno del servicio",
+      "De mera gestión, sin facultades resolutorias ni de disposición de caudales",
+      "De ordenación de pagos y disposición de caudales hasta el límite del contrato menor",
+      "De dirección superior del servicio, con facultades resolutorias delegadas"
+    ],
+    "correct": 1,
+    "exp": "El art. 234 del Decreto 347/2002 dispone: «Podrá designarse como administrador del servicio a un funcionario de plantilla de la Entidad local, con funciones de mera gestión, aunque sin facultades resolutorias ni de disposición de caudales». En esta forma de gestión la entidad ejerce todos los poderes de dirección y gestión a través de sus órganos ordinarios (art. 233.1).",
+    "fuente": "Art. 234 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 253.2 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), cuando el Pleno de la Corporación actúa como Junta General de una sociedad mercantil local de capital íntegramente público, de sus reuniones:",
+    "options": [
+      "Solo se levanta acta cuando se aprueban las cuentas anuales o se acuerda modificar el capital social",
+      "Se levantan actas diferenciadas de las del Pleno, transcritas a los libros que exige la legislación mercantil",
+      "Se levanta una única acta del Pleno, en la que los acuerdos societarios figuran como un punto más del orden del día",
+      "No se levanta acta, porque basta la certificación que expida el secretario del Consejo de Administración"
+    ],
+    "correct": 1,
+    "exp": "El art. 253.2 del Decreto 347/2002 dispone que el Pleno, cuando actúa como Junta General, se rige en cuanto a reuniones y adopción de acuerdos por la Ley de Administración Local de Aragón y en lo demás por los estatutos y la legislación mercantil, y añade: «De sus reuniones se levantarán actas diferenciadas de las del Pleno de la Corporación, que serán transcritas a los libros correspondientes según la legislación mercantil». Que el Pleno asume las funciones de Junta General en estas sociedades lo dicen los arts. 209.2 de la Ley 7/1999 y 249.2 del Decreto.",
+    "fuente": "Art. 253.2 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 294.c) de la Ley 9/2017, de Contratos del Sector Público, el rescate de una concesión de servicios por razones de interés público para su gestión directa requiere, además:",
+    "options": [
+      "La autorización previa del órgano competente de la Comunidad Autónoma",
+      "La conformidad expresa del concesionario con la indemnización que se le ofrece",
+      "Acreditar que la gestión directa es más eficaz y eficiente que la concesional",
+      "Que haya transcurrido al menos la mitad del plazo de duración de la concesión"
+    ],
+    "correct": 2,
+    "exp": "El art. 294.c) de la LCSP incluye entre las causas de resolución de la concesión de servicios «El rescate del servicio por la Administración para su gestión directa por razones de interés público», y añade: «El rescate de la concesión requerirá además la acreditación de que dicha gestión directa es más eficaz y eficiente que la concesional». La letra c) es legislación básica (la disposición final primera.3 solo excluye la letra b del art. 294). En caso de rescate, la Administración indemniza al contratista en los términos del art. 295.4.",
+    "fuente": "Art. 294.c) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 287.3 de la Ley 9/2017, de Contratos del Sector Público, ¿cuándo puede ser objeto de hipoteca una concesión de servicios?",
+    "options": [
+      "En cualquier caso, siempre que lo autorice el órgano de contratación y garantice deudas del concesionario",
+      "Solo si la concesión dura más de cinco años y la hipoteca garantiza deudas con la entidad concedente",
+      "Nunca, porque la concesión de servicios no puede ser objeto de gravamen alguno durante su vigencia",
+      "Solo si conlleva obras o instalaciones fijas para el servicio y en garantía de deudas de la concesión"
+    ],
+    "correct": 3,
+    "exp": "El art. 287.3 de la LCSP dispone: «Las concesiones de servicios únicamente podrán ser objeto de hipoteca en los casos en que conlleven la realización de obras o instalaciones fijas necesarias para la prestación del servicio, y exclusivamente en garantía de deudas que guarden relación con la concesión». No se exige una duración mínima ni que el acreedor sea la entidad concedente.",
+    "fuente": "Art. 287.3 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 288.a) de la Ley 9/2017, de Contratos del Sector Público, cuando un contrato de concesión de servicios se extingue por cumplimiento, el concesionario:",
+    "options": [
+      "Debe seguir prestándolo durante un año, prorrogable por acuerdo tácito",
+      "Debe dejar de prestar el servicio el mismo día en que vence el plazo pactado",
+      "Puede seguir prestando el servicio, si lo desea, un máximo de nueve meses",
+      "Debe seguir prestando el servicio hasta que se formalice el nuevo contrato"
+    ],
+    "correct": 3,
+    "exp": "El art. 288.a) de la LCSP obliga al concesionario a prestar el servicio con la continuidad convenida y añade: «En caso de extinción del contrato por cumplimiento del mismo, el contratista deberá seguir prestando el servicio hasta que se formalice el nuevo contrato». Es un deber, no una facultad, y no tiene un plazo fijo. El art. 29.2 LCSP prohíbe además la prórroga por consentimiento tácito de las partes.",
+    "fuente": "Art. 288.a) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 290.4 de la Ley 9/2017, de Contratos del Sector Público, ¿en cuál de estos casos no existe derecho al restablecimiento del equilibrio económico de una concesión de servicios?",
+    "options": [
+      "Cuando actuaciones obligatorias de la Administración concedente rompan sustancialmente la economía del contrato",
+      "Cuando no se cumplan las previsiones de demanda del estudio de la Administración o del concesionario",
+      "Cuando causas de fuerza mayor determinen de forma directa la ruptura sustancial de la economía del contrato",
+      "Cuando la Administración modifique por razones de interés público las características del servicio"
+    ],
+    "correct": 1,
+    "exp": "El art. 290.4 de la LCSP obliga a restablecer el equilibrio cuando la Administración modifica el servicio en los términos del apartado 1 (letra a), cuando actuaciones de la Administración concedente obligatorias para el concesionario rompen sustancialmente la economía del contrato (letra b) y, fuera de esos casos, por fuerza mayor. Y concluye: «En todo caso, no existirá derecho al restablecimiento del equilibrio económico financiero por incumplimiento de las previsiones de la demanda recogidas en el estudio de la Administración o en el estudio que haya podido realizar el concesionario».",
+    "fuente": "Art. 290.4 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 290.6 de la Ley 9/2017, de Contratos del Sector Público, el concesionario de servicios puede desistir del contrato cuando le resulte extraordinariamente oneroso, lo que ocurre cuando las nuevas disposiciones o mejoras técnicas suponen un incremento neto anualizado de los costes de, al menos:",
+    "options": [
+      "El 15 % del importe neto de la cifra de negocios de la concesión",
+      "El 5 % del importe neto de la cifra de negocios de la concesión",
+      "El 20 % del importe neto de la cifra de negocios de la concesión",
+      "El 10 % del importe neto de la cifra de negocios de la concesión"
+    ],
+    "correct": 1,
+    "exp": "El art. 290.6 de la LCSP permite al contratista desistir cuando el contrato resulte extraordinariamente oneroso por una disposición general de una Administración distinta de la concedente aprobada tras la formalización, o por tener que incorporar avances técnicos posteriores. Se entiende extraordinariamente oneroso cuando suponga «un incremento neto anualizado de los costes de, al menos, el 5 por ciento del importe neto de la cifra de negocios de la concesión por el período que reste hasta la conclusión de la misma». El 15 % es otro dato: el límite de la ampliación del plazo para reequilibrar (art. 290.5).",
+    "fuente": "Art. 290.6 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 296 de la Ley 9/2017, de Contratos del Sector Público, en el contrato de concesión de servicios la subcontratación:",
+    "options": [
+      "Está prohibida en todo caso y sin excepción alguna",
+      "Solo puede recaer sobre prestaciones accesorias",
+      "Puede alcanzar hasta el 50 % del importe del contrato",
+      "Puede abarcar todo el servicio si lo autoriza el Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 296 de la LCSP dispone: «En el contrato de concesión de servicios, la subcontratación solo podrá recaer sobre prestaciones accesorias, resultándole de aplicación la regulación establecida en los artículos 215, 216 y 217 de la presente Ley». No fija un porcentaje ni la prohíbe por completo.",
+    "fuente": "Art. 296 LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29.6 de la Ley 9/2017, de Contratos del Sector Público, ¿cuál es la duración máxima, incluidas las prórrogas, de una concesión de servicios que no comprenda la ejecución de obras y cuyo objeto no sea la prestación de servicios sanitarios?",
+    "options": [
+      "Cuarenta años",
+      "Cincuenta años",
+      "Setenta y cinco años",
+      "Veinticinco años"
+    ],
+    "correct": 3,
+    "exp": "El art. 29.6.b) de la LCSP fija un máximo de «Veinticinco años en los contratos de concesión de servicios que comprendan la explotación de un servicio no relacionado con la prestación de servicios sanitarios». Cuarenta años es el máximo de la concesión de obras y de la concesión de servicios que comprende obras y explotación (letra a), y diez años el de los servicios sanitarios (letra c). El tope de setenta y cinco años que todavía figura en el art. 210.3 de la Ley 7/1999 para la gestión indirecta no rige para este contrato: el art. 29 LCSP es legislación básica (no está entre las excepciones de la disposición final primera.3).",
+    "fuente": "Art. 29.6.b) LCSP (Ley 9/2017)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 51.1 de la Ley 10/2017, de régimen especial del municipio de Zaragoza, en el procedimiento para determinar la forma de gestión de un servicio público municipal, la información pública dura como mínimo:",
+    "options": [
+      "Quince días hábiles",
+      "Veinte días hábiles",
+      "Treinta días naturales",
+      "Cuarenta y cinco días naturales"
+    ],
+    "correct": 2,
+    "exp": "El art. 51.1.d) de la Ley 10/2017 prevé «Información pública por un plazo mínimo de treinta días naturales, para la presentación de reclamaciones y alegaciones, mediante anuncio en el boletín oficial correspondiente». Antes van la memoria de la comisión especial designada por el Alcalde, el informe del Interventor y la aprobación del proyecto por el Gobierno de Zaragoza; después, el dictamen de la Comisión plenaria y la aprobación por el Pleno en acto único. La Ley 7/1999 (art. 205.2.b, exposición pública no inferior a un mes) solo se aplica en Zaragoza con carácter supletorio (disposición adicional primera.3 de la Ley 10/2017).",
+    "fuente": "Art. 51.1.d) Ley 10/2017, de régimen especial del municipio de Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 200 del Decreto 347/2002 (Reglamento aragonés de Bienes, Actividades, Servicios y Obras), ¿pueden las entidades creadas por una entidad local para ejercer actividades económicas en libre concurrencia recibir compensaciones con cargo al presupuesto local?",
+    "options": [
+      "Solo contraprestaciones por obligaciones de servicio público que las sitúen en desventaja",
+      "Sí, todas las que necesiten para equilibrar sus pérdidas de explotación en cada ejercicio",
+      "Sí, siempre que no superen el 20 % de la cifra anual de negocios de la entidad",
+      "No, en ningún caso, ni siquiera por las obligaciones de servicio público que se les impongan"
+    ],
+    "correct": 0,
+    "exp": "El art. 200.1 del Decreto 347/2002 somete a estas entidades a las mismas reglas que las demás empresas del mercado: no pueden percibir compensaciones con cargo al presupuesto que les den ventaja competitiva ni utilizar prerrogativas públicas. El apartado 2 admite una excepción: «las Entidades locales podrán conceder a las entidades de ellas dependientes contraprestaciones económicas por la imposición a las mismas de obligaciones de servicio público por las que vean reducidos sus ingresos de explotación o aumentados sus costes de producción, con desventaja respecto de las demás empresas del sector». En la misma línea, el art. 221.2 de la Ley 7/1999 sujeta estas sociedades a las reglas de libre concurrencia.",
+    "fuente": "Art. 200 Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón (Decreto 347/2002)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 223 de la Ley 7/1999, de Administración Local de Aragón, ¿con qué fin pueden las entidades locales establecer agencias de desarrollo?",
+    "options": [
+      "Coordinar la cooperación económica de la Diputación Provincial con los municipios",
+      "Gestionar directamente los servicios mínimos obligatorios de los municipios más pequeños de la comarca",
+      "Potenciar la creación y desarrollo de iniciativas locales de empleo y de promoción económica",
+      "Recaudar los tributos locales y los demás ingresos de derecho público de la entidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 223 de la Ley 7/1999, dentro del capítulo sobre la iniciativa socioeconómica, dispone: «Con el fin de potenciar la creación y desarrollo de iniciativas locales de empleo y promoción económica del municipio, las entidades locales podrán establecer agencias de desarrollo y aprobar reglamentos que contemplen el otorgamiento a dichas iniciativas de subvenciones, avales y cualesquiera otras ayudas», que han de ser compatibles con las reglas de libre competencia de la Unión Europea.",
+    "fuente": "Art. 223 Ley de Administración Local de Aragón (Ley 7/1999)",
+    "confianza": "alta"
+  }
+]);
