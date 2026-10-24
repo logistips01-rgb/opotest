@@ -5970,19 +5970,6 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 4.k) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario...",
-    "options": [
-      "Cumpla el servicio militar o prestación social sustitutoria equivalente",
-      "Presten servicio de voluntariado obligatorio en la Cruz Roja Española",
-      "Solicite la excedencia voluntaria por interés particular",
-      "Obtenga un puesto de trabajo en la misma provincia"
-    ],
-    "correct": 0,
-    "exp": "El art. 4.k) declara servicios especiales cuando el funcionario cumple el servicio militar o la prestación social sustitutoria equivalente.",
-    "fuente": "Art. 4.k) RD 365/1995 (Reglamento de Situaciones Administrativas)",
-    "confianza": "alta"
-  },
-  {
     "q": "Conforme al art. 4.l) del RD 365/1995, quedan en servicios especiales los funcionarios que sean...",
     "options": [
       "Sean elegidos Presidente de una Diputación Provincial",
@@ -6017,8 +6004,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
       "El Ministerio para las Administraciones Públicas"
     ],
     "correct": 3,
-    "exp": "Conforme al art. 5, dichos criterios los establece el Ministerio para las Administraciones Públicas.",
-    "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "Art. 5 RD 365/1995: es cargo de carácter político el cargo de confianza «que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que, conforme a los criterios que establezca el Ministerio para las Administraciones Públicas, conlleve responsabilidades directivas o asesoramiento a nivel político». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Ese ministerio ya no existe con ese nombre: hoy la política del Gobierno «en materia de administración pública, función pública, y gobernanza pública» corresponde al Ministerio para la Transformación Digital y de la Función Pública (art. 22.2 del Real Decreto 829/2023). La pregunta se ciñe a la letra del Reglamento.",
+    "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.2 RD 829/2023",
     "confianza": "alta"
   },
   {
@@ -6043,8 +6030,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
       "La Secretaría de Estado para la Administración Pública"
     ],
     "correct": 1,
-    "exp": "El art. 6.2 exige que el interés de la Administración conste conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.",
-    "fuente": "Art. 6.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "Art. 6.2 RD 365/1995: en el supuesto del art. 4 a), «la autorización para realizar la misión de carácter internacional requerirá que conste el interés de la Administración, conforme a los criterios que establezca el Ministerio de Asuntos Exteriores». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Ese departamento se denomina hoy Ministerio de Asuntos Exteriores, Unión Europea y Cooperación (art. 2 del Real Decreto 829/2023). El Ministerio para las Administraciones Públicas y la Secretaría de Estado para la Administración Pública, que aparecen como distractores, tampoco existen hoy con ese nombre. La pregunta se ciñe a la letra del Reglamento.",
+    "fuente": "Art. 6.2 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 2 RD 829/2023",
     "confianza": "alta"
   },
   {
@@ -6206,14 +6193,14 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
   {
     "q": "Según el art. 12.1 del RD 365/1995, pasan a la situación de expectativa de destino los funcionarios afectados por un procedimiento de reasignación de efectivos que...",
     "options": [
-      "Hayan sido sancionados con suspensión firme de funciones",
-      "Hayan superado el período máximo de expectativa de destino sin obtener puesto",
-      "No hayan obtenido puesto en las dos primeras fases de reasignación, adscribiéndose al Ministerio para las Administraciones Públicas",
-      "Hayan solicitado voluntariamente la excedencia"
+      "Hayan sido sancionados con suspensión firme de funciones por una falta disciplinaria grave",
+      "Hayan agotado el plazo máximo de un año sin obtener un nuevo puesto de trabajo",
+      "No hayan obtenido puesto en las dos primeras fases del procedimiento de reasignación",
+      "Hayan pedido la excedencia voluntaria incentivada en la primera fase de reasignación"
     ],
     "correct": 2,
-    "exp": "El art. 12.1 declara en expectativa de destino a quienes no obtuvieron puesto en las dos primeras fases de reasignación, adscribiéndolos al Ministerio para las Administraciones Públicas.",
-    "fuente": "Art. 12.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "Art. 12.1 RD 365/1995: los funcionarios afectados por un procedimiento de reasignación de efectivos «que no hayan obtenido puesto en las dos primeras fases previstas en el apartado g) del artículo 20.1 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, pasarán a la situación de expectativa de destino», y se adscriben «al Ministerio para las Administraciones Públicas, a través de relaciones específicas de puestos en reasignación». Quien agota en esa situación el periodo máximo de un año pasa a excedencia forzosa (art. 12.2); quien está en las dos primeras fases puede pedir la excedencia voluntaria incentivada (art. 18.1), que es otra situación, y la suspensión firme lleva a la situación de suspensión de funciones (art. 90 TREBEP). Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. El Ministerio para las Administraciones Públicas ya no existe con ese nombre: hoy la política del Gobierno en materia de administración pública y función pública corresponde al Ministerio para la Transformación Digital y de la Función Pública (art. 22.2 del Real Decreto 829/2023).",
+    "fuente": "Art. 12.1 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.2 RD 829/2023",
     "confianza": "alta"
   },
   {
@@ -6238,8 +6225,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
       "El Consejo de Ministros"
     ],
     "correct": 0,
-    "exp": "El art. 12.4 atribuye la declaración y cese a la Secretaría de Estado para la Administración Pública.",
-    "fuente": "Art. 12.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "Art. 12.4 RD 365/1995: «Corresponde a la Secretaría de Estado para la Administración Pública efectuar la declaración y cese en esta situación administrativa y la gestión del personal afectado por la misma». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Esa Secretaría de Estado ya no existe con ese nombre: hoy uno de los órganos superiores del Ministerio para la Transformación Digital y de la Función Pública es la Secretaría de Estado de Función Pública (art. 22.3 c) del Real Decreto 829/2023). La pregunta se ciñe a la letra del Reglamento.",
+    "fuente": "Art. 12.4 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.3 c) RD 829/2023",
     "confianza": "alta"
   },
   {
@@ -6553,8 +6540,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
       "La Comisión Superior de Personal"
     ],
     "correct": 2,
-    "exp": "El art. 18.3 atribuye esta competencia a la Secretaría de Estado para la Administración Pública.",
-    "fuente": "Art. 18.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "Art. 18.3 RD 365/1995: «Corresponde a la Secretaría de Estado para la Administración Pública acordar la declaración de esta situación». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Esa Secretaría de Estado ya no existe con ese nombre: hoy uno de los órganos superiores del Ministerio para la Transformación Digital y de la Función Pública es la Secretaría de Estado de Función Pública (art. 22.3 c) del Real Decreto 829/2023). La pregunta se ciñe a la letra del Reglamento.",
+    "fuente": "Art. 18.3 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.3 c) RD 829/2023",
     "confianza": "alta"
   },
   {
@@ -6787,8 +6774,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [  {
       "El Consejo de Coordinación Universitaria"
     ],
     "correct": 1,
-    "exp": "La disposición adicional cuarta atribuye esta competencia al Rector, conforme a la Ley Orgánica de Reforma Universitaria citada.",
-    "fuente": "Disposición adicional cuarta RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "exp": "La disposición adicional cuarta del RD 365/1995 dice: «De acuerdo con lo previsto en los artículos 44.2 y 49.4 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, la competencia en materia de situaciones administrativas de los funcionarios docentes que desempeñen sus funciones en las Universidades y de los pertenecientes a Escalas de Administración y Servicios propias de las mismas, corresponden al Rector». Aviso: la Ley de Reforma Universitaria que cita está derogada (disposición derogatoria única de la Ley Orgánica 6/2001, de Universidades, a su vez derogada por la Ley Orgánica 2/2023, del Sistema Universitario). Hoy el art. 50.1 de la Ley Orgánica 2/2023 atribuye al Rector o Rectora «las funciones de dirección, gobierno y gestión de la universidad» y «cuantas competencias no sean expresamente atribuidas a otros órganos de la universidad». La pregunta se ciñe a la letra del Reglamento.",
+    "fuente": "Disposición adicional cuarta RD 365/1995 (Reglamento de Situaciones Administrativas); art. 50.1 LO 2/2023",
     "confianza": "alta"
   },
   {
@@ -14537,19 +14524,6 @@ window.addQuestions('aux-admin-zaragoza', 14, [  {
     "fuente": "Art. 54 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
     "confianza": "alta"
   },
-  {
-    "q": "Según la Disposición transitoria tercera.1 de la Ley 10/2017, hasta la aprobación de la regulación de la participación de los entes locales en los ingresos de la Comunidad Autónoma de Aragón, el Ayuntamiento de Zaragoza recibirá anualmente:",
-    "options": [
-      "Cinco millones de euros",
-      "Trece millones y medio de euros",
-      "Ocho millones de euros",
-      "Veinte millones de euros"
-    ],
-    "correct": 2,
-    "exp": "La Disposición transitoria tercera.1 fija en ocho millones de euros anuales la cantidad que percibirá el Ayuntamiento de Zaragoza hasta que se apruebe la regulación definitiva de la participación en ingresos de la Comunidad Autónoma.",
-    "fuente": "Art. Disposición transitoria tercera.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
-    "confianza": "alta"
-  },
 ]);
 
 /* tema 14 · lote 2026-08-11 · 39 preguntas revisadas */
@@ -14731,8 +14705,8 @@ window.addQuestions('aux-admin-zaragoza', 14, [  {
       "El Ministro de Economía y Hacienda"
     ],
     "correct": 0,
-    "exp": "Art. 17.4: «Adscrito al Ministerio de Economía y Hacienda se crea el Consejo de Empadronamiento... El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales.»",
-    "fuente": "Art. 17.4 LBRL (Ley 7/1985)",
+    "exp": "Art. 17.4 LBRL: «Adscrito al Ministerio de Economía y Hacienda se crea el Consejo de Empadronamiento como órgano colegiado de colaboración entre la Administración General del Estado y los Entes Locales en materia padronal…», y «El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales». No lo preside el Ministro, el Presidente de la FEMP ni un alcalde. Aviso: la LBRL conserva el nombre de un ministerio que ya no existe. El Reglamento de Población y Demarcación Territorial, en la redacción del Real Decreto 141/2024, dice hoy: «El Consejo de Empadronamiento, adscrito al Ministerio de Economía, Comercio y Empresa, es un órgano colegiado de colaboración entre la Administración General del Estado y los Entes locales en materia padronal» (art. 84). Su presidente sigue siendo el del Instituto Nacional de Estadística (art. 86.2).",
+    "fuente": "Art. 17.4 LBRL (Ley 7/1985); arts. 84 y 86.2 RPDT (RD 1690/1986, redacción del RD 141/2024)",
     "confianza": "alta"
   },
   {
@@ -16792,14 +16766,14 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
   {
     "q": "Si la reducción de gastos por remanente de tesorería negativo no resulta posible, el art. 193.2 TRLRHL permite acudir a...",
     "options": [
-      "Una subida de tipos impositivos en el ejercicio corriente",
-      "La venta anticipada de patrimonio municipal del suelo",
-      "Una subvención finalista solicitada al Estado",
-      "El concierto de una operación de crédito por su importe, en las condiciones del art. 177.5 TRLRHL"
+      "Una operación de crédito por su importe, si se dan las condiciones del art. 177.5 TRLRHL",
+      "Una subida extraordinaria de los tipos impositivos aplicable ya en el ejercicio corriente",
+      "La enajenación de terrenos del patrimonio municipal del suelo por el importe del déficit",
+      "Una subvención extraordinaria del Estado o de la Comunidad Autónoma por el importe del déficit"
     ],
-    "correct": 3,
-    "exp": "El art. 193.2 TRLRHL prevé, si no resulta posible la reducción de gastos, acudir al concierto de una operación de crédito por su importe, siempre que se den las condiciones del art. 177.5 TRLRHL.",
-    "fuente": "Art. 193.2 TRLRHL (RDLeg 2/2004)",
+    "correct": 0,
+    "exp": "El art. 193.2 TRLRHL dispone: «Si la reducción de gastos no resultase posible, se podrá acudir al concierto de operación de crédito por su importe, siempre que se den las condiciones señaladas en el artículo 177.5 de esta ley». Si no se adopta ninguna de las dos medidas, «el presupuesto del ejercicio siguiente habrá de aprobarse con un superávit inicial de cuantía no inferior al repetido déficit» (art. 193.3). El precepto no prevé subir los tipos impositivos, enajenar patrimonio municipal del suelo ni pedir una subvención extraordinaria. Aviso: este régimen sigue escrito en el art. 193.2 TRLRHL, pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por eso hoy no cabe sanear el remanente negativo con un préstamo a largo plazo por esta vía.",
+    "fuente": "Art. 193.2 y 193.3 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012)",
     "confianza": "alta"
   },
   {
@@ -27031,32 +27005,6 @@ window.addQuestions('aux-admin-zaragoza', 8, [  {
     "confianza": "alta"
   },
   {
-    "q": "¿Qué tres pronunciamientos puede contener la resolución de un recurso según el art. 119.1 LPAC?",
-    "options": [
-      "Nulidad, anulabilidad o revocación",
-      "Estimación total o parcial, desestimación, o declaración de inadmisión",
-      "Solo estimación o desestimación, sin posibilidad de inadmisión",
-      "Archivo, caducidad o suspensión"
-    ],
-    "correct": 1,
-    "exp": "El art. 119.1 LPAC prevé que la resolución estime en todo o en parte, desestime, o declare la inadmisión del recurso.",
-    "fuente": "Art. 119.1 LPAC",
-    "confianza": "alta"
-  },
-  {
-    "q": "Cuando exista un vicio de forma y no se estime procedente resolver sobre el fondo, ¿qué ordena el art. 119.2 LPAC?",
-    "options": [
-      "El traslado inmediato al orden jurisdiccional contencioso-administrativo",
-      "La suspensión indefinida de la resolución",
-      "La retroacción del procedimiento al momento en que se cometió el vicio, sin perjuicio de la convalidación de actuaciones conforme al art. 52 LPAC",
-      "La anulación total del procedimiento y su archivo definitivo"
-    ],
-    "correct": 2,
-    "exp": "El art. 119.2 LPAC ordena la retroacción al momento del vicio, salvo que se acuerde la convalidación de actuaciones conforme al art. 52 LPAC.",
-    "fuente": "Art. 119.2 LPAC",
-    "confianza": "alta"
-  },
-  {
     "q": "Conforme al art. 119.3 LPAC, el principio de congruencia en la resolución del recurso implica que...",
     "options": [
       "el órgano puede empeorar la situación del recurrente si aprecia motivos de interés público",
@@ -34936,14 +34884,14 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
   {
     "q": "¿Qué sistema de identificación electrónica regula la letra a) del art. 9.2 de la LPAC?",
     "options": [
-      "Sistemas de identificación mediante código enviado por SMS",
-      "Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación",
-      "Sistemas de usuario y contraseña con clave concertada",
+      "Sistemas basados en códigos de un solo uso enviados por SMS al teléfono del interesado",
+      "Sistemas basados en certificados electrónicos cualificados de firma electrónica",
+      "Sistemas de usuario y contraseña concertados previamente con la Administración",
       "Sistemas basados en certificados electrónicos cualificados de sello electrónico"
     ],
     "correct": 1,
-    "exp": "El art. 9.2.a) LPAC recoge los \"sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
-    "fuente": "Art. 9.2.a LPAC",
+    "exp": "El art. 9.2 a) LPAC recoge los «Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’». Los basados en certificados cualificados de sello electrónico son los de la letra b). Los sistemas de usuario y contraseña o de códigos enviados al teléfono no figuran en las letras a) ni b): solo podrían admitirse como «Cualquier otro sistema que las Administraciones públicas consideren válido» de la letra c), con sus requisitos.",
+    "fuente": "Art. 9.2 a) LPAC (Ley 39/2015)",
     "confianza": "alta"
   },
   {
@@ -34957,19 +34905,6 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
     "correct": 2,
     "exp": "El art. 9.2.a) LPAC condiciona la validez de estos certificados a que estén expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación».",
     "fuente": "Art. 9.2.a LPAC",
-    "confianza": "alta"
-  },
-  {
-    "q": "¿Qué regula específicamente la letra b) del art. 9.2 de la LPAC?",
-    "options": [
-      "Los sistemas de firma electrónica avanzada no cualificada",
-      "El uso de la Cl@ve permanente como sistema único",
-      "La comparecencia personal ante funcionario habilitado",
-      "Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación"
-    ],
-    "correct": 3,
-    "exp": "El art. 9.2.b) LPAC contempla los \"sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
-    "fuente": "Art. 9.2.b LPAC",
     "confianza": "alta"
   },
   {
@@ -35073,19 +35008,6 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
     ],
     "correct": 3,
     "exp": "El último párrafo del art. 9.2 LPAC dice que las Administraciones \"deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c)\".",
-    "fuente": "Art. 9.2 LPAC",
-    "confianza": "alta"
-  },
-  {
-    "q": "Si una Administración admite para un procedimiento el sistema de identificación de la letra c) del art. 9.2 de la LPAC, ¿queda liberada de ofrecer los sistemas de las letras a) y b) para ese mismo procedimiento?",
-    "options": [
-      "No, debe garantizar que también sea posible usar alguno de los sistemas de las letras a) y b)",
-      "Solo si así lo decide el órgano competente en cada caso",
-      "Sí, salvo que el interesado lo solicite expresamente por escrito",
-      "Sí, la letra c) sustituye siempre a las letras a) y b)"
-    ],
-    "correct": 0,
-    "exp": "El último párrafo del art. 9.2 LPAC exige garantizar la posibilidad de usar los sistemas de las letras a) y b) para todo procedimiento, aun cuando se admita también alguno de la letra c); esta última no sustituye a las anteriores.",
     "fuente": "Art. 9.2 LPAC",
     "confianza": "alta"
   },

@@ -3925,42 +3925,6 @@ const QUESTIONS = {
     "fuente": "Art. 9.1 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 9.2 a), uno de los sistemas de identificación electrónica de los interesados son los sistemas basados en:",
-    "options": [
-      "Huellas dactilares exclusivamente",
-      "Contraseñas de redes sociales",
-      "Certificados electrónicos cualificados de firma electrónica de la Lista de confianza de prestadores",
-      "Reconocimiento facial obligatorio"
-    ],
-    "correct": 2,
-    "exp": "Art. 9.2 a): 'Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación.'",
-    "fuente": "Art. 9.2 a) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 9.2 b), otro sistema de identificación electrónica admitido son los sistemas basados en:",
-    "options": [
-      "Grabaciones de voz",
-      "Firmas manuscritas escaneadas",
-      "Códigos QR generados por el interesado",
-      "Certificados electrónicos cualificados de sello electrónico"
-    ],
-    "correct": 3,
-    "exp": "Art. 9.2 b): 'Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la Lista de confianza...'",
-    "fuente": "Art. 9.2 b) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 9.2, las Administraciones deben garantizar que la utilización de los sistemas de las letras a) y b) sea posible:",
-    "options": [
-      "Únicamente en procedimientos tributarios",
-      "Para todo procedimiento, aunque también se admita algún sistema de la letra c)",
-      "Solo si el interesado lo solicita expresamente por escrito",
-      "Solo para personas jurídicas, no físicas"
-    ],
-    "correct": 1,
-    "exp": "Art. 9.2 in fine: 'Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c).'",
-    "fuente": "Art. 9.2 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 9.3, los recursos técnicos para los sistemas de identificación de la letra c) del art. 9.2 deben situarse en:",
     "options": [
       "Cualquier país del mundo sin restricción",
@@ -4247,18 +4211,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "Art. 6.2: 'permitirán comprobar válidamente la representación... mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales.'",
     "fuente": "Art. 6.2 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 9.2 c), durante el plazo de dos meses tras la comunicación de un nuevo sistema de identificación, ¿qué puede hacer el órgano estatal competente por motivos de seguridad pública?",
-    "options": [
-      "Prohibir el sistema directamente sin motivación",
-      "Imponer una multa a la Administración que lo propone",
-      "Nada, el plazo es meramente informativo",
-      "Acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad"
-    ],
-    "correct": 3,
-    "exp": "Art. 9.2 c): '...el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.'",
-    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 6.1, además del registro general, ¿pueden existir registros particulares de apoderamientos en cada Organismo?",
@@ -6365,18 +6317,6 @@ const QUESTIONS = {
     "fuente": "Art. 48.1 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 48.3, la realización de actuaciones administrativas fuera del tiempo establecido para ellas solo implica la anulabilidad del acto cuando:",
-    "options": [
-      "Se trate de un procedimiento sancionador",
-      "El interesado lo solicite expresamente",
-      "Así lo imponga la naturaleza del término o plazo",
-      "Se produzca cualquier retraso, sin excepción"
-    ],
-    "correct": 2,
-    "exp": "Art. 48.3: 'La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.'",
-    "fuente": "Art. 48.3 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "¿Cuál es la diferencia fundamental entre nulidad de pleno derecho y anulabilidad según los arts. 47 y 48 de la Ley 39/2015?",
     "options": [
       "La anulabilidad es siempre más grave que la nulidad",
@@ -6410,18 +6350,6 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El art. 49 lleva por título 'Límites a la extensión de la nulidad o anulabilidad de los actos'.",
-    "fuente": "Art. 49 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el principio recogido en el art. 49, la anulación de unos actos administrativos NO implicará necesariamente la anulación de:",
-    "options": [
-      "Los actos sucesivos e independientes en el mismo procedimiento",
-      "La resolución final del procedimiento en todo caso",
-      "La totalidad del expediente sin excepción",
-      "Ningún otro acto, aunque dependa directamente del anulado"
-    ],
-    "correct": 0,
-    "exp": "El art. 49 limita el efecto expansivo de la nulidad o anulabilidad a los actos que sean realmente independientes del acto viciado.",
     "fuente": "Art. 49 LPAC (Ley 39/2015)"
   },
   {
@@ -6497,18 +6425,6 @@ const QUESTIONS = {
     "fuente": "Art. 51 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 52, la Administración podrá convalidar los actos anulables:",
-    "options": [
-      "Subsanando los vicios de que adolezcan",
-      "Únicamente dentro de las primeras 48 horas",
-      "Solo si lo autoriza un juez",
-      "Nunca, la convalidación no existe en Derecho Administrativo"
-    ],
-    "correct": 0,
-    "exp": "Art. 52.1: 'La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.'",
-    "fuente": "Art. 52.1 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "El art. 52 de la Ley 39/2015 se titula:",
     "options": [
       "Conservación de actos y trámites",
@@ -6519,18 +6435,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "El art. 52 lleva por título 'Convalidación' y cierra el Título III de la Ley 39/2015.",
     "fuente": "Título III LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "¿Puede la Administración convalidar un acto nulo de pleno derecho conforme al art. 52 de la Ley 39/2015?",
-    "options": [
-      "No, ningún acto administrativo puede convalidarse nunca",
-      "Sí, cualquier acto puede convalidarse sin distinción",
-      "Sí, pero solo si lo pide el interesado por escrito",
-      "No, la convalidación del art. 52 se refiere exclusivamente a los actos anulables, no a los nulos de pleno derecho"
-    ],
-    "correct": 3,
-    "exp": "El art. 52 habla expresamente de convalidar 'los actos anulables'; los actos nulos de pleno derecho no admiten convalidación, sino en su caso revisión de oficio.",
-    "fuente": "Art. 52 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué artículos comprenden, en conjunto, el Título III de la Ley 39/2015, 'De los actos administrativos'?",
@@ -6627,18 +6531,6 @@ const QUESTIONS = {
     "correct": 3,
     "exp": "Art. 48.2 limita la anulabilidad por defecto de forma a los casos en que el acto carezca de requisitos formales indispensables para su fin o cause indefensión; fuera de eso, el defecto formal no vicia el acto.",
     "fuente": "Art. 48.2 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 49, el efecto de la nulidad o anulabilidad sobre actos posteriores del procedimiento depende fundamentalmente de:",
-    "options": [
-      "Si esos actos posteriores son o no independientes del acto viciado",
-      "El número de páginas del expediente",
-      "El rango del funcionario que lo dictó",
-      "La fecha exacta en que se dictó el acto viciado"
-    ],
-    "correct": 0,
-    "exp": "El art. 49 hace depender la extensión de la nulidad o anulabilidad de si los actos posteriores son independientes o no del acto afectado por el vicio.",
-    "fuente": "Art. 49 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 35.1 a), uno de los supuestos que exige motivación es cuando el acto:",
@@ -6867,18 +6759,6 @@ const QUESTIONS = {
     "correct": 3,
     "exp": "El art. 47.1 b) LPAC declara nulos de pleno derecho «Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio». La incompetencia tiene que ser manifiesta: si no lo es, el acto es anulable (art. 48.1) y puede convalidarse; si el vicio es de «incompetencia no determinante de nulidad», la convalidación puede hacerla el órgano competente cuando sea superior jerárquico del que dictó el acto (art. 52.3). Un defecto de forma que no cause indefensión ni impida al acto alcanzar su fin ni siquiera lo hace anulable: el defecto de forma «sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados» (art. 48.2). Lo que causa nulidad es el contenido imposible (art. 47.1 c), no el posible aunque sea desfavorable. Y limitar intereses legítimos solo obliga a motivar el acto (art. 35.1 a).",
     "fuente": "Art. 47.1 b) LPAC (Ley 39/2015); arts. 48 y 52.3 LPAC"
-  },
-  {
-    "q": "Las actuaciones administrativas realizadas fuera de plazo ¿invalidan el acto que se dicte?",
-    "options": [
-      "Sí, en cualquier caso.",
-      "Sólo si provocan indefensión.",
-      "Sólo si el término es esencial.",
-      "No, en ningún caso."
-    ],
-    "correct": 2,
-    "exp": "Art. 48.3 LPAC, literal: 'La realización de actuaciones administrativas fuera del tiempo establecido para ellas solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo'.",
-    "fuente": "Art. 48.3 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Cuál de las siguientes características no debe reunir el contenido de un acto?",
@@ -9189,18 +9069,6 @@ const QUESTIONS = {
     "fuente": "Art. 118.1 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 119.3, el órgano que resuelve el recurso puede decidir cuestiones no alegadas por los interesados cuando:",
-    "options": [
-      "El recurso sea el extraordinario de revisión exclusivamente",
-      "El interesado lo autorice expresamente por escrito",
-      "La Administración lo decida sin más trámite y sin audiencia alguna",
-      "Se trate de cuestiones, tanto de forma como de fondo, que plantee el procedimiento, hayan sido o no alegadas, debiendo en tal caso oírse previamente a los interesados"
-    ],
-    "correct": 3,
-    "exp": "Art. 119.3: «El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente». El precepto no fija plazo concreto para esa audiencia, y la resolución debe ser congruente con las peticiones del recurrente sin agravar su situación inicial.",
-    "fuente": "Art. 119.3 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 121.1, ¿ante qué tipo de órgano se dirige el recurso de alzada?",
     "options": [
       "El propio interesado que lo interpone",
@@ -10955,18 +10823,6 @@ const QUESTIONS = {
     "correct": 2,
     "exp": "Cada Entidad Local tiene la obligación de formar, mantener actualizado y custodiar su propio inventario de bienes, derechos y acciones, bajo la responsabilidad de sus órganos competentes.",
     "fuente": "Arts. 17.1, 32.1 y 34 RBEL (RD 1372/1986); art. 86 TRRL (RDLeg 781/1986)"
-  },
-  {
-    "q": "¿Qué relación guarda el Secretario de la Corporación con la conservación y tutela de los bienes de la Entidad Local, según la práctica administrativa?",
-    "options": [
-      "Sustituye al Pleno en la toma de decisiones sobre bienes",
-      "No tiene ninguna función relacionada con los bienes municipales",
-      "Es el único que puede vender un bien patrimonial sin intervención de ningún otro órgano",
-      "Desempeña funciones de custodia documental, autorización del inventario y asesoramiento jurídico en los expedientes relativos a bienes, como funcionario de administración local con habilitación de carácter nacional"
-    ],
-    "correct": 3,
-    "exp": "El RBEL atribuye expresamente al Secretario el dictamen previo para el ejercicio de acciones en defensa de los bienes (art. 9.3), el archivo separado de los títulos y documentos patrimoniales (art. 30), la autorización del inventario con el visto bueno del Presidente (art. 32.1), el informe previo a la resolución del expediente de investigación (art. 53) y la redacción del acta de apeo en el deslinde (art. 64.4). Ejerce estas funciones como funcionario de administración local con habilitación de carácter nacional (art. 92 bis LBRL).",
-    "fuente": "Arts. 9.3, 30, 32.1, 53 y 64.4 RBEL (RD 1372/1986); art. 92 bis LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué tipo de responsabilidad puede derivarse para los miembros de una Corporación Local que dispongan irregularmente de un bien de dominio público sin la debida desafectación previa?",
@@ -15621,16 +15477,16 @@ const QUESTIONS = {
     "fuente": "Art. 129 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 130 de la LBRL, la Administración municipal ejecutiva de los municipios de gran población se organiza en:",
+    "q": "Según el art. 123.1 c) de la LBRL, entre los niveles esenciales de la organización municipal, cuya determinación tiene en todo caso naturaleza orgánica, figuran los coordinadores generales, que dependen directamente de:",
     "options": [
-      "Exclusivamente organismos autónomos sin ninguna dirección política",
-      "Únicamente concejalías sin ninguna estructura interna adicional",
-      "Solo departamentos gestionados directamente por el Secretario",
-      "Áreas, dirigidas por un miembro de la Junta de Gobierno Local, y órganos directivos, dependientes de aquellas"
+      "Los directores generales de su misma área",
+      "El secretario general del Pleno municipal",
+      "Los miembros de la Junta de Gobierno Local",
+      "El titular de la asesoría jurídica municipal"
     ],
-    "correct": 3,
-    "exp": "Art. 130.1: la Administración municipal ejecutiva se organiza en 'Áreas... dirigidas por un miembro de la Junta de Gobierno Local' y 'Órganos directivos', que dependen de los anteriores.",
-    "fuente": "Art. 130.1 LBRL (Ley 7/1985)"
+    "correct": 2,
+    "exp": "El art. 123.1 c) LBRL atribuye al Pleno la aprobación y modificación de los reglamentos de naturaleza orgánica y da en todo caso esa naturaleza a «La determinación de los niveles esenciales de la organización municipal, entendiendo por tales las grandes áreas de gobierno, los coordinadores generales, dependientes directamente de los miembros de la Junta de Gobierno Local, con funciones de coordinación de las distintas Direcciones Generales u órganos similares integradas en la misma área de gobierno…». Los coordinadores coordinan a los directores generales; no dependen de ellos. El secretario general del Pleno y el titular de la asesoría jurídica son, como los coordinadores, órganos directivos (art. 130.1 B). El art. 130 LBRL enumera los órganos superiores y directivos, pero no dice de quién dependen los coordinadores generales. En Zaragoza, el art. 11.1 c) 6.ª de la Ley 10/2017 recoge la misma regla: los coordinadores generales son «dependientes directamente de los miembros del Gobierno de Zaragoza».",
+    "fuente": "Art. 123.1 c) LBRL (Ley 7/1985); en Zaragoza, art. 11.1 c) 6.ª Ley 10/2017"
   },
   {
     "q": "Según el art. 131.1 de la LBRL, en los municipios de gran población existirá:",
@@ -15969,18 +15825,6 @@ const QUESTIONS = {
     "fuente": "Art. 13.2 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 17 de la LBRL, la formación, mantenimiento, revisión y custodia del padrón municipal corresponde:",
-    "options": [
-      "Al Instituto Nacional de Estadística exclusivamente",
-      "Al Ayuntamiento respectivo, de acuerdo con lo dispuesto en la propia ley y en las normas que dicte el Estado",
-      "A la Diputación Provincial en todos los casos",
-      "Al Ministerio del Interior sin intervención municipal"
-    ],
-    "correct": 1,
-    "exp": "Art. 17 LBRL: la formación, mantenimiento, revisión y custodia del padrón municipal corresponde al respectivo Ayuntamiento, conforme a las normas aprobadas conjuntamente por el Ministerio de Economía y Hacienda y el de Administraciones Públicas.",
-    "fuente": "Art. 17 LBRL (Ley 7/1985)"
-  },
-  {
     "q": "Según el art. 18.1 de la LBRL, son derechos y deberes de los vecinos, entre otros:",
     "options": [
       "Percibir un salario mínimo garantizado por el Ayuntamiento",
@@ -16185,52 +16029,28 @@ const QUESTIONS = {
     "fuente": "Art. 123.1 o) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 130.2 de la LBRL, se consideran órganos directivos municipales, entre otros:",
+    "q": "Según el art. 130.1 B) de la LBRL, son órganos directivos los directores generales u órganos similares que culminen la organización administrativa dentro de cada una de:",
     "options": [
-      "Los coordinadores generales de cada área o concejalía y los directores generales u órganos similares que culminen la organización administrativa",
-      "Exclusivamente los presidentes de las asociaciones de vecinos",
-      "Únicamente el Alcalde y los Tenientes de Alcalde",
-      "Solo los concejales de la oposición"
-    ],
-    "correct": 0,
-    "exp": "Art. 130.2 LBRL: tienen la consideración de órganos directivos, entre otros, los coordinadores generales de cada área o concejalía y los directores generales u órganos similares que culminen la organización administrativa dentro de cada gran área o concejalía.",
-    "fuente": "Art. 130.2 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 130.3 de la LBRL, el nombramiento de los coordinadores generales y directores generales debe efectuarse entre:",
-    "options": [
-      "Cualquier ciudadano sin requisito de titulación",
-      "Funcionarios de carrera del Estado, las Comunidades Autónomas, las Entidades Locales o funcionarios de administración local con habilitación de carácter nacional, salvo que el reglamento orgánico permita otra cosa en atención a las características específicas del puesto",
-      "Familiares directos del Alcalde en ejercicio",
-      "Únicamente personal laboral eventual, sin excepción"
-    ],
-    "correct": 1,
-    "exp": "Art. 130.3 LBRL: el nombramiento de coordinadores y directores generales se realiza entre funcionarios de carrera pertenecientes a cuerpos o escalas que exijan titulación superior, salvo que el reglamento orgánico permita designar personal directivo profesional que no reúna dicha condición.",
-    "fuente": "Art. 130.3 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 133 de la LBRL, la gestión económico-financiera de los municipios de gran población se rige, entre otros, por el principio de:",
-    "options": [
-      "Confidencialidad total frente al Pleno y a los ciudadanos",
-      "Gratuidad de todos los servicios prestados, sin excepción",
-      "Programación, con proyección plurianual, y control de eficacia y de eficiencia en la gestión",
-      "Discrecionalidad absoluta sin ningún tipo de control"
-    ],
-    "correct": 2,
-    "exp": "Art. 133 LBRL: la gestión económico-financiera de los municipios de gran población debe orientarse a la realización de los principios de eficacia, eficiencia, economía y celeridad, con proyección plurianual de la programación.",
-    "fuente": "Art. 133 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 134 de la LBRL, la gestión económico-financiera y presupuestaria de los municipios de gran población corresponde a órganos que dependan directamente de:",
-    "options": [
-      "El Pleno en exclusiva, sin intervención de la Junta de Gobierno",
-      "El Tribunal de Cuentas directamente",
-      "El Estado central, mediante delegación forzosa",
-      "La Junta de Gobierno Local, sin perjuicio de las funciones que corresponden a la Intervención General"
+      "Las juntas municipales de distrito",
+      "Las comisiones permanentes del Pleno",
+      "Las sociedades mercantiles locales",
+      "Las grandes áreas o concejalías"
     ],
     "correct": 3,
-    "exp": "Art. 134 LBRL: los órganos de gestión económico-financiera y presupuestaria de los municipios de gran población dependen de la Junta de Gobierno Local, sin perjuicio de las funciones propias de la Intervención General.",
-    "fuente": "Art. 134 LBRL (Ley 7/1985)"
+    "exp": "El art. 130.1 B) LBRL enumera los órganos directivos. Su letra b) incluye «Los directores generales u órganos similares que culminen la organización administrativa dentro de cada una de las grandes áreas o concejalías», y su letra a), «Los coordinadores generales de cada área o concejalía». El precepto no se refiere a los distritos, a las comisiones del Pleno ni a las sociedades mercantiles. El apartado 2 del mismo artículo añade como órganos directivos a los titulares de los máximos órganos de dirección de los organismos autónomos y de las entidades públicas empresariales locales.",
+    "fuente": "Art. 130.1 B) b) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "Según el art. 133 de la LBRL, entre los criterios a los que se ajusta la gestión económico-financiera de los municipios de gran población figura la introducción de la exigencia de:",
+    "options": [
+      "La publicación mensual del estado de ejecución del gasto",
+      "El seguimiento de los costes de los servicios",
+      "La aprobación trimestral del presupuesto por el Pleno",
+      "La gestión directa de todos los servicios municipales"
+    ],
+    "correct": 1,
+    "exp": "El art. 133 LBRL enumera los criterios a los que «se ajustará» la gestión económico-financiera de los municipios de gran población. Su letra e) es la «Introducción de la exigencia del seguimiento de los costes de los servicios». Entre los demás figuran el cumplimiento del objetivo de estabilidad presupuestaria (letra a), la separación de las funciones de contabilidad y de fiscalización (letra b) y la asignación de recursos «en función de la definición y el cumplimiento de objetivos» (letra f). El precepto no exige publicar cada mes la ejecución del gasto ni gestionar directamente todos los servicios, y el presupuesto no se aprueba por trimestres.",
+    "fuente": "Art. 133 e) LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el Título X de la LBRL, ¿existe un órgano de Intervención General en los municipios de gran población, con funciones diferenciadas de fiscalización?",
@@ -16269,16 +16089,16 @@ const QUESTIONS = {
     "fuente": "Art. 128 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 122.4 de la LBRL, el Pleno cuenta con el apoyo de una serie de comisiones con funciones de estudio, informe o consulta de los asuntos que hayan de someterse a su decisión, así como:",
+    "q": "Según el art. 122.4 de la LBRL, además del estudio, informe o consulta de los asuntos que hayan de ser sometidos a la decisión del Pleno, corresponde a las comisiones del Pleno:",
     "options": [
-      "Exclusivamente la redacción de las actas de las sesiones",
-      "Solo la gestión del padrón de habitantes",
-      "Únicamente la organización de eventos festivos municipales",
-      "El seguimiento de la gestión del Alcalde, la Junta de Gobierno Local y los concejales que ostenten delegaciones"
+      "El seguimiento de la gestión del Alcalde y de su equipo de gobierno",
+      "La fiscalización previa de los gastos de la Junta de Gobierno Local",
+      "La propuesta al Alcalde de los miembros de la Junta de Gobierno Local",
+      "La coordinación de los órganos directivos de cada área de gobierno"
     ],
-    "correct": 3,
-    "exp": "Art. 122.4 LBRL: las comisiones del Pleno tienen funciones de estudio, informe o consulta de los asuntos a decidir por el Pleno, además de funciones de seguimiento de la gestión del Alcalde, la Junta de Gobierno Local y los concejales con delegaciones.",
-    "fuente": "Art. 122.4 LBRL (Ley 7/1985)"
+    "correct": 0,
+    "exp": "El art. 122.4 LBRL atribuye a las comisiones del Pleno «El estudio, informe o consulta de los asuntos que hayan de ser sometidos a la decisión del Pleno» (letra a), «El seguimiento de la gestión del Alcalde y de su equipo de gobierno, sin perjuicio del superior control y fiscalización que, con carácter general, le corresponde al Pleno» (letra b) y las funciones que el Pleno les delegue (letra c). La función interventora corresponde a la Intervención general municipal (art. 136.1); al Alcalde le corresponde «nombrar y separar libremente a los miembros de la Junta de Gobierno Local» (art. 126.2), sin propuesta de nadie, y la coordinación de las Direcciones Generales de cada área es la función de los coordinadores generales (art. 123.1 c). La fórmula «la gestión del Alcalde, la Junta de Gobierno Local y los concejales que ostenten delegaciones» es la del art. 20.1 c), que regula estos órganos en los municipios de régimen común. En Zaragoza, el art. 10.4 c) de la Ley 10/2017 recoge el mismo seguimiento.",
+    "fuente": "Art. 122.4 b) LBRL (Ley 7/1985); en Zaragoza, art. 10.4 c) Ley 10/2017"
   },
   {
     "q": "Según el art. 122.5 de la LBRL, las funciones del secretario general del Pleno de un municipio de gran población quedan reservadas a:",
@@ -16638,54 +16458,6 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Art. 17.1 LBRL: 'La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado'.",
-    "fuente": "Art. 17.1 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿A quién le corresponde el mantenimiento del Padrón Municipal?",
-    "options": [
-      "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo.",
-      "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento.",
-      "Al Ministerio del Interior.",
-      "Al Ayuntamiento respectivo."
-    ],
-    "correct": 3,
-    "exp": "Art. 17.1: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado»; opción marcada correcta.",
-    "fuente": "Art. 17.1 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿A quién le corresponde realizar la revisión del Padrón Municipal?",
-    "options": [
-      "Al Ayuntamiento respectivo.",
-      "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo.",
-      "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento.",
-      "Al Ministerio del Interior."
-    ],
-    "correct": 0,
-    "exp": "Verificado art. 17.1 LBRL: 'La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento'; concuerda con el art. 81 RPDT en su redacción vigente (RD 141/2024). Opción marcada correcta.",
-    "fuente": "Art. 17.1 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿A quién le corresponde custodiar el Padrón Municipal?",
-    "options": [
-      "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo.",
-      "Al Ayuntamiento respectivo.",
-      "Al Ministerio del Interior.",
-      "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento."
-    ],
-    "correct": 1,
-    "exp": "Art. 17.1 LBRL: 'La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado'.",
-    "fuente": "Art. 17.1 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿A quién le corresponde gestionar el Padrón Municipal?",
-    "options": [
-      "Al Ministerio del Interior.",
-      "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento.",
-      "Al Ayuntamiento respectivo.",
-      "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo."
-    ],
-    "correct": 2,
-    "exp": "Art. 17.1, párrafo tercero: «La gestión del Padrón municipal se llevará por los Ayuntamientos con medios informáticos» (las Diputaciones solo asumen la gestión informatizada de los municipios sin capacidad); opción marcada correcta.",
     "fuente": "Art. 17.1 LBRL (Ley 7/1985)"
   },
   {

@@ -211,5 +211,386 @@
   "tema": 10,
   "_retirada": "2026-10-24",
   "_motivo": "Retirada: la clave «El Secretario» omitía la Asesoría Jurídica y el Letrado del art. 9.3 RBEL (y del art. 43.2 del Decreto 347/2002); corregida repetiría la 10-229."
+ },
+ {
+  "q": "Según el art. 134 de la LBRL, la gestión económico-financiera y presupuestaria de los municipios de gran población corresponde a órganos que dependan directamente de:",
+  "options": [
+   "El Pleno en exclusiva, sin intervención de la Junta de Gobierno",
+   "El Tribunal de Cuentas directamente",
+   "El Estado central, mediante delegación forzosa",
+   "La Junta de Gobierno Local, sin perjuicio de las funciones que corresponden a la Intervención General"
+  ],
+  "correct": 3,
+  "exp": "Art. 134 LBRL: los órganos de gestión económico-financiera y presupuestaria de los municipios de gran población dependen de la Junta de Gobierno Local, sin perjuicio de las funciones propias de la Intervención General.",
+  "fuente": "Art. 134 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: el art. 134 LBRL no hace depender esos órganos de la Junta de Gobierno Local (remite al Reglamento orgánico); corregida repetiría la pregunta del art. 134.1 que ya está en el banco."
+ },
+ {
+  "q": "Según el art. 130.3 de la LBRL, el nombramiento de los coordinadores generales y directores generales debe efectuarse entre:",
+  "options": [
+   "Cualquier ciudadano sin requisito de titulación",
+   "Funcionarios de carrera del Estado, las Comunidades Autónomas, las Entidades Locales o funcionarios de administración local con habilitación de carácter nacional, salvo que el reglamento orgánico permita otra cosa en atención a las características específicas del puesto",
+   "Familiares directos del Alcalde en ejercicio",
+   "Únicamente personal laboral eventual, sin excepción"
+  ],
+  "correct": 1,
+  "exp": "Art. 130.3 LBRL: el nombramiento de coordinadores y directores generales se realiza entre funcionarios de carrera pertenecientes a cuerpos o escalas que exijan titulación superior, salvo que el reglamento orgánico permita designar personal directivo profesional que no reúna dicha condición.",
+  "fuente": "Art. 130.3 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: repite la pregunta del art. 130.3 LBRL que ya está en el banco, y su clave y explicación usaban la redacción anterior a la Ley 27/2013 (sin el subgrupo A1)."
+ },
+ {
+  "q": "Según el art. 17 de la LBRL, la formación, mantenimiento, revisión y custodia del padrón municipal corresponde:",
+  "options": [
+   "Al Instituto Nacional de Estadística exclusivamente",
+   "Al Ayuntamiento respectivo, de acuerdo con lo dispuesto en la propia ley y en las normas que dicte el Estado",
+   "A la Diputación Provincial en todos los casos",
+   "Al Ministerio del Interior sin intervención municipal"
+  ],
+  "correct": 1,
+  "exp": "Art. 17 LBRL: la formación, mantenimiento, revisión y custodia del padrón municipal corresponde al respectivo Ayuntamiento, conforme a las normas aprobadas conjuntamente por el Ministerio de Economía y Hacienda y el de Administraciones Públicas.",
+  "fuente": "Art. 17 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: explicación con la redacción del art. 17.1 LBRL anterior al RDL 6/2023 y clave no literal; corregida repetiría otra pregunta del banco."
+ },
+ {
+  "q": "¿A quién le corresponde el mantenimiento del Padrón Municipal?",
+  "options": [
+   "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo.",
+   "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento.",
+   "Al Ministerio del Interior.",
+   "Al Ayuntamiento respectivo."
+  ],
+  "correct": 3,
+  "exp": "Art. 17.1: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado»; opción marcada correcta.",
+  "fuente": "Art. 17.1 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores."
+ },
+ {
+  "q": "¿A quién le corresponde realizar la revisión del Padrón Municipal?",
+  "options": [
+   "Al Ayuntamiento respectivo.",
+   "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo.",
+   "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento.",
+   "Al Ministerio del Interior."
+  ],
+  "correct": 0,
+  "exp": "Verificado art. 17.1 LBRL: 'La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento'; concuerda con el art. 81 RPDT en su redacción vigente (RD 141/2024). Opción marcada correcta.",
+  "fuente": "Art. 17.1 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores."
+ },
+ {
+  "q": "¿A quién le corresponde custodiar el Padrón Municipal?",
+  "options": [
+   "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo.",
+   "Al Ayuntamiento respectivo.",
+   "Al Ministerio del Interior.",
+   "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento."
+  ],
+  "correct": 1,
+  "exp": "Art. 17.1 LBRL: 'La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado'.",
+  "fuente": "Art. 17.1 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores."
+ },
+ {
+  "q": "¿A quién le corresponde gestionar el Padrón Municipal?",
+  "options": [
+   "Al Ministerio del Interior.",
+   "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento.",
+   "Al Ayuntamiento respectivo.",
+   "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo."
+  ],
+  "correct": 2,
+  "exp": "Art. 17.1, párrafo tercero: «La gestión del Padrón municipal se llevará por los Ayuntamientos con medios informáticos» (las Diputaciones solo asumen la gestión informatizada de los municipios sin capacidad); opción marcada correcta.",
+  "fuente": "Art. 17.1 LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores."
+ },
+ {
+  "q": "Según la Disposición transitoria tercera.1 de la Ley 10/2017, hasta la aprobación de la regulación de la participación de los entes locales en los ingresos de la Comunidad Autónoma de Aragón, el Ayuntamiento de Zaragoza recibirá anualmente:",
+  "options": [
+   "Cinco millones de euros",
+   "Trece millones y medio de euros",
+   "Ocho millones de euros",
+   "Veinte millones de euros"
+  ],
+  "correct": 2,
+  "exp": "La Disposición transitoria tercera.1 fija en ocho millones de euros anuales la cantidad que percibirá el Ayuntamiento de Zaragoza hasta que se apruebe la regulación definitiva de la participación en ingresos de la Comunidad Autónoma.",
+  "fuente": "Art. Disposición transitoria tercera.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+  "confianza": "alta",
+  "tema": 14,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: dato transitorio de financiación de la Ley 10/2017 (DT 3.ª), fuera del epígrafe del tema 14 (organización); el texto es correcto."
+ },
+ {
+  "q": "Según el art. 4.k) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario...",
+  "options": [
+   "Cumpla el servicio militar o prestación social sustitutoria equivalente",
+   "Presten servicio de voluntariado obligatorio en la Cruz Roja Española",
+   "Solicite la excedencia voluntaria por interés particular",
+   "Obtenga un puesto de trabajo en la misma provincia"
+  ],
+  "correct": 0,
+  "exp": "El art. 4.k) declara servicios especiales cuando el funcionario cumple el servicio militar o la prestación social sustitutoria equivalente.",
+  "fuente": "Art. 4.k) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+  "confianza": "alta",
+  "tema": 18,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: el servicio militar obligatorio está suspendido y el art. 87.1 TREBEP no recoge ese supuesto de servicios especiales."
+ },
+ {
+  "q": "¿Qué relación guarda el Secretario de la Corporación con la conservación y tutela de los bienes de la Entidad Local, según la práctica administrativa?",
+  "options": [
+   "Sustituye al Pleno en la toma de decisiones sobre bienes",
+   "No tiene ninguna función relacionada con los bienes municipales",
+   "Es el único que puede vender un bien patrimonial sin intervención de ningún otro órgano",
+   "Desempeña funciones de custodia documental, autorización del inventario y asesoramiento jurídico en los expedientes relativos a bienes, como funcionario de administración local con habilitación de carácter nacional"
+  ],
+  "correct": 3,
+  "exp": "El RBEL atribuye expresamente al Secretario el dictamen previo para el ejercicio de acciones en defensa de los bienes (art. 9.3), el archivo separado de los títulos y documentos patrimoniales (art. 30), la autorización del inventario con el visto bueno del Presidente (art. 32.1), el informe previo a la resolución del expediente de investigación (art. 53) y la redacción del acta de apeo en el deslinde (art. 64.4). Ejerce estas funciones como funcionario de administración local con habilitación de carácter nacional (art. 92 bis LBRL).",
+  "fuente": "Arts. 9.3, 30, 32.1, 53 y 64.4 RBEL (RD 1372/1986); art. 92 bis LBRL (Ley 7/1985)",
+  "tema": 10,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: pregunta doctrinal (“según la práctica administrativa”) con la clave delatada por la longitud; sus funciones literales ya están en otras preguntas del tema."
+ },
+ {
+  "q": "Según el art. 9.2 c), durante el plazo de dos meses tras la comunicación de un nuevo sistema de identificación, ¿qué puede hacer el órgano estatal competente por motivos de seguridad pública?",
+  "options": [
+   "Prohibir el sistema directamente sin motivación",
+   "Imponer una multa a la Administración que lo propone",
+   "Nada, el plazo es meramente informativo",
+   "Acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad"
+  ],
+  "correct": 3,
+  "exp": "Art. 9.2 c): '...el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.'",
+  "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: lo que pregunta del art. 9.2 c) LPAC ya está en otras dos preguntas del banco."
+ },
+ {
+  "q": "Según el art. 9.2, las Administraciones deben garantizar que la utilización de los sistemas de las letras a) y b) sea posible:",
+  "options": [
+   "Únicamente en procedimientos tributarios",
+   "Para todo procedimiento, aunque también se admita algún sistema de la letra c)",
+   "Solo si el interesado lo solicita expresamente por escrito",
+   "Solo para personas jurídicas, no físicas"
+  ],
+  "correct": 1,
+  "exp": "Art. 9.2 in fine: 'Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c).'",
+  "fuente": "Art. 9.2 LPAC (Ley 39/2015)",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el último párrafo del art. 9.2 LPAC ya se pregunta con un enunciado casi idéntico y la misma respuesta."
+ },
+ {
+  "q": "Si una Administración admite para un procedimiento el sistema de identificación de la letra c) del art. 9.2 de la LPAC, ¿queda liberada de ofrecer los sistemas de las letras a) y b) para ese mismo procedimiento?",
+  "options": [
+   "No, debe garantizar que también sea posible usar alguno de los sistemas de las letras a) y b)",
+   "Solo si así lo decide el órgano competente en cada caso",
+   "Sí, salvo que el interesado lo solicite expresamente por escrito",
+   "Sí, la letra c) sustituye siempre a las letras a) y b)"
+  ],
+  "correct": 0,
+  "exp": "El último párrafo del art. 9.2 LPAC exige garantizar la posibilidad de usar los sistemas de las letras a) y b) para todo procedimiento, aun cuando se admita también alguno de la letra c); esta última no sustituye a las anteriores.",
+  "fuente": "Art. 9.2 LPAC",
+  "confianza": "alta",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: pregunta la misma regla del último párrafo del art. 9.2 LPAC que otra del banco."
+ },
+ {
+  "q": "Según el art. 9.2 a), uno de los sistemas de identificación electrónica de los interesados son los sistemas basados en:",
+  "options": [
+   "Huellas dactilares exclusivamente",
+   "Contraseñas de redes sociales",
+   "Certificados electrónicos cualificados de firma electrónica de la Lista de confianza de prestadores",
+   "Reconocimiento facial obligatorio"
+  ],
+  "correct": 2,
+  "exp": "Art. 9.2 a): 'Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación.'",
+  "fuente": "Art. 9.2 a) LPAC (Ley 39/2015)",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: la letra a) del art. 9.2 LPAC ya se pregunta en otra pregunta del banco, corregida en esta tanda."
+ },
+ {
+  "q": "Según el art. 9.2 b), otro sistema de identificación electrónica admitido son los sistemas basados en:",
+  "options": [
+   "Grabaciones de voz",
+   "Firmas manuscritas escaneadas",
+   "Códigos QR generados por el interesado",
+   "Certificados electrónicos cualificados de sello electrónico"
+  ],
+  "correct": 3,
+  "exp": "Art. 9.2 b): 'Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la Lista de confianza...'",
+  "fuente": "Art. 9.2 b) LPAC (Ley 39/2015)",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: la letra b) del art. 9.2 LPAC ya se pregunta en otra pregunta del banco."
+ },
+ {
+  "q": "¿Qué regula específicamente la letra b) del art. 9.2 de la LPAC?",
+  "options": [
+   "Los sistemas de firma electrónica avanzada no cualificada",
+   "El uso de la Cl@ve permanente como sistema único",
+   "La comparecencia personal ante funcionario habilitado",
+   "Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación"
+  ],
+  "correct": 3,
+  "exp": "El art. 9.2.b) LPAC contempla los \"sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
+  "fuente": "Art. 9.2.b LPAC",
+  "confianza": "alta",
+  "tema": 4,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: la letra b) del art. 9.2 LPAC ya se pregunta en otra pregunta del banco."
+ },
+ {
+  "q": "Según el principio recogido en el art. 49, la anulación de unos actos administrativos NO implicará necesariamente la anulación de:",
+  "options": [
+   "Los actos sucesivos e independientes en el mismo procedimiento",
+   "La resolución final del procedimiento en todo caso",
+   "La totalidad del expediente sin excepción",
+   "Ningún otro acto, aunque dependa directamente del anulado"
+  ],
+  "correct": 0,
+  "exp": "El art. 49 limita el efecto expansivo de la nulidad o anulabilidad a los actos que sean realmente independientes del acto viciado.",
+  "fuente": "Art. 49 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el art. 49.1 LPAC ya se pregunta con la clave literal."
+ },
+ {
+  "q": "Según el art. 49, el efecto de la nulidad o anulabilidad sobre actos posteriores del procedimiento depende fundamentalmente de:",
+  "options": [
+   "Si esos actos posteriores son o no independientes del acto viciado",
+   "El número de páginas del expediente",
+   "El rango del funcionario que lo dictó",
+   "La fecha exacta en que se dictó el acto viciado"
+  ],
+  "correct": 0,
+  "exp": "El art. 49 hace depender la extensión de la nulidad o anulabilidad de si los actos posteriores son independientes o no del acto afectado por el vicio.",
+  "fuente": "Art. 49 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el art. 49.1 LPAC ya se pregunta con la clave literal."
+ },
+ {
+  "q": "Según el art. 48.3, la realización de actuaciones administrativas fuera del tiempo establecido para ellas solo implica la anulabilidad del acto cuando:",
+  "options": [
+   "Se trate de un procedimiento sancionador",
+   "El interesado lo solicite expresamente",
+   "Así lo imponga la naturaleza del término o plazo",
+   "Se produzca cualquier retraso, sin excepción"
+  ],
+  "correct": 2,
+  "exp": "Art. 48.3: 'La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.'",
+  "fuente": "Art. 48.3 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el art. 48.3 LPAC ya se pregunta con un enunciado casi idéntico y la misma respuesta."
+ },
+ {
+  "q": "Las actuaciones administrativas realizadas fuera de plazo ¿invalidan el acto que se dicte?",
+  "options": [
+   "Sí, en cualquier caso.",
+   "Sólo si provocan indefensión.",
+   "Sólo si el término es esencial.",
+   "No, en ningún caso."
+  ],
+  "correct": 2,
+  "exp": "Art. 48.3 LPAC, literal: 'La realización de actuaciones administrativas fuera del tiempo establecido para ellas solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo'.",
+  "fuente": "Art. 48.3 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: paráfrasis del art. 48.3 LPAC, que ya se pregunta con la clave literal."
+ },
+ {
+  "q": "Según el art. 52, la Administración podrá convalidar los actos anulables:",
+  "options": [
+   "Subsanando los vicios de que adolezcan",
+   "Únicamente dentro de las primeras 48 horas",
+   "Solo si lo autoriza un juez",
+   "Nunca, la convalidación no existe en Derecho Administrativo"
+  ],
+  "correct": 0,
+  "exp": "Art. 52.1: 'La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.'",
+  "fuente": "Art. 52.1 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el art. 52.1 LPAC ya se pregunta con la misma respuesta."
+ },
+ {
+  "q": "¿Puede la Administración convalidar un acto nulo de pleno derecho conforme al art. 52 de la Ley 39/2015?",
+  "options": [
+   "No, ningún acto administrativo puede convalidarse nunca",
+   "Sí, cualquier acto puede convalidarse sin distinción",
+   "Sí, pero solo si lo pide el interesado por escrito",
+   "No, la convalidación del art. 52 se refiere exclusivamente a los actos anulables, no a los nulos de pleno derecho"
+  ],
+  "correct": 3,
+  "exp": "El art. 52 habla expresamente de convalidar 'los actos anulables'; los actos nulos de pleno derecho no admiten convalidación, sino en su caso revisión de oficio.",
+  "fuente": "Art. 52 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: la imposibilidad de convalidar actos nulos (art. 52.1 LPAC) ya se pregunta en otra pregunta del banco."
+ },
+ {
+  "q": "¿Qué tres pronunciamientos puede contener la resolución de un recurso según el art. 119.1 LPAC?",
+  "options": [
+   "Nulidad, anulabilidad o revocación",
+   "Estimación total o parcial, desestimación, o declaración de inadmisión",
+   "Solo estimación o desestimación, sin posibilidad de inadmisión",
+   "Archivo, caducidad o suspensión"
+  ],
+  "correct": 1,
+  "exp": "El art. 119.1 LPAC prevé que la resolución estime en todo o en parte, desestime, o declare la inadmisión del recurso.",
+  "fuente": "Art. 119.1 LPAC",
+  "confianza": "alta",
+  "tema": 8,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el art. 119.1 LPAC ya se pregunta en otra pregunta del banco."
+ },
+ {
+  "q": "Cuando exista un vicio de forma y no se estime procedente resolver sobre el fondo, ¿qué ordena el art. 119.2 LPAC?",
+  "options": [
+   "El traslado inmediato al orden jurisdiccional contencioso-administrativo",
+   "La suspensión indefinida de la resolución",
+   "La retroacción del procedimiento al momento en que se cometió el vicio, sin perjuicio de la convalidación de actuaciones conforme al art. 52 LPAC",
+   "La anulación total del procedimiento y su archivo definitivo"
+  ],
+  "correct": 2,
+  "exp": "El art. 119.2 LPAC ordena la retroacción al momento del vicio, salvo que se acuerde la convalidación de actuaciones conforme al art. 52 LPAC.",
+  "fuente": "Art. 119.2 LPAC",
+  "confianza": "alta",
+  "tema": 8,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el art. 119.2 LPAC ya se pregunta en otra pregunta del banco."
+ },
+ {
+  "q": "Según el art. 119.3, el órgano que resuelve el recurso puede decidir cuestiones no alegadas por los interesados cuando:",
+  "options": [
+   "El recurso sea el extraordinario de revisión exclusivamente",
+   "El interesado lo autorice expresamente por escrito",
+   "La Administración lo decida sin más trámite y sin audiencia alguna",
+   "Se trate de cuestiones, tanto de forma como de fondo, que plantee el procedimiento, hayan sido o no alegadas, debiendo en tal caso oírse previamente a los interesados"
+  ],
+  "correct": 3,
+  "exp": "Art. 119.3: «El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente». El precepto no fija plazo concreto para esa audiencia, y la resolución debe ser congruente con las peticiones del recurrente sin agravar su situación inicial.",
+  "fuente": "Art. 119.3 LPAC (Ley 39/2015)",
+  "tema": 8,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada por repetida: el art. 119.3 LPAC (audiencia sobre cuestiones no alegadas) ya se pregunta en otra pregunta del banco."
  }
 ]
