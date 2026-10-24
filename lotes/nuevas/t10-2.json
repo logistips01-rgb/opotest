@@ -1,0 +1,539 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 10,
+  "lote": "t10-2",
+  "preguntas": [
+    {
+      "q": "Según el art. 179.2 de la Ley 7/1999, de Administración Local de Aragón, cuando unos bienes comunales se desafectan por no haber sido objeto de disfrute comunal y son susceptibles de aprovechamiento agrícola, de pastos o de otro tipo, su destino preferente será:",
+      "options": [
+        "Su enajenación en pública subasta, dando preferencia a los postores vecinos en igualdad de condiciones",
+        "Su cesión gratuita a otra Administración pública para una finalidad de interés general del municipio",
+        "Su incorporación al patrimonio municipal del suelo para destinarlos a la construcción de vivienda protegida",
+        "Su arrendamiento a los vecinos del municipio, individualmente o agrupados en cooperativas o sociedades"
+      ],
+      "correct": 3,
+      "exp": "El art. 179.2 de la Ley 7/1999 dispone que, en estos casos, «si fueran susceptibles de aprovechamiento agrícola, de pastos o de otro tipo, su destino preferente será su arrendamiento a los vecinos del municipio, bien individualmente, bien agrupados en cooperativas o sociedades que permitan la rentabilidad de su explotación». El art. 12.3 del Decreto 347/2002 repite la regla. La subasta con preferencia de los postores vecinos es la del art. 183.4, para el aprovechamiento de bienes que siguen siendo comunales; la cesión de uso a otra Administración exige los requisitos del art. 180.2, y el patrimonio municipal del suelo no aparece en el precepto.",
+      "fuente": "Art. 179.2 LALA (Ley 7/1999 de Aragón); art. 12.3 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "su destino preferente será su arrendamiento a los vecinos del municipio, bien individualmente, bien agrupados en cooperativas o sociedades que permitan la rentabilidad de su explotación"
+    },
+    {
+      "q": "Según el art. 180.2 de la Ley 7/1999, de Administración Local de Aragón, los requisitos exigidos para desafectar bienes comunales con el fin de transmitir su dominio o permutarlos se exigen también cuando la desafectación se hace con motivo de:",
+      "options": [
+        "Su arrendamiento a los vecinos del municipio, individualmente o agrupados en cooperativas o sociedades",
+        "Su inclusión en un régimen específico de aprovechamientos micológicos, de caza o de pastos acotados",
+        "Su cesión de uso a otra Administración pública o entidad privada sin ánimo de lucro, con un fin de interés general",
+        "Su adscripción directa a un organismo autónomo local que los necesite para el cumplimiento de sus fines propios"
+      ],
+      "correct": 2,
+      "exp": "El art. 180.2 dice: «Los mismos requisitos serán necesarios para la desafectación de bienes comunales con motivo de la cesión de uso de los mismos para una finalidad de interés general del municipio a otra Administración pública o entidad privada sin ánimo de lucro». Esos requisitos son los del art. 180.1: acuerdo inicial motivado, información pública por plazo de un mes, resolución de reclamaciones y aprobación provisional, y aprobación del Gobierno de Aragón. El arrendamiento a los vecinos es el destino preferente del art. 179.2; los aprovechamientos micológicos, de caza o de pastos son los regímenes específicos del art. 185, y la adscripción a organismos autónomos es la del art. 181.1. En el Ayuntamiento de Zaragoza, los acuerdos relativos a la desafectación de bienes comunales corresponden al Gobierno de Zaragoza (art. 14.1.g Ley 10/2017).",
+      "fuente": "Art. 180.2 LALA (Ley 7/1999 de Aragón); art. 13.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "Los mismos requisitos serán necesarios para la desafectación de bienes comunales con motivo de la cesión de uso de los mismos para una finalidad de interés general del municipio a otra Administración pública o entidad privada sin ánimo de lucro."
+    },
+    {
+      "q": "Según el art. 177.3 de la Ley 7/1999, de Administración Local de Aragón, las mutaciones demaniales consisten en:",
+      "options": [
+        "El paso de un bien de dominio público a patrimonial por haber dejado de estar afectado a un uso o servicio",
+        "Un cambio del sujeto o del destino de bienes de dominio público sin que pierdan su naturaleza jurídica",
+        "La afectación automática de un bien patrimonial adscrito más de veinticinco años a un uso o servicio público",
+        "La conversión en patrimonial de un bien comunal que no ha sido objeto de disfrute comunal durante años"
+      ],
+      "correct": 1,
+      "exp": "El art. 177.3 se refiere a «Las mutaciones demaniales consistentes en un cambio del sujeto o del destino de los bienes de dominio público sin que pierdan su naturaleza jurídica», que requieren acuerdo de la Corporación en que se acredite la utilidad pública de la alteración. Las demás opciones describen otras figuras: la alteración de la calificación jurídica (art. 177.1 y 2), la alteración tácita por adscripción durante más de veinticinco años (art. 178.1.b) y la desafectación de comunales (art. 179). En el Ayuntamiento de Zaragoza, los acuerdos relativos a mutaciones demaniales corresponden al Gobierno de Zaragoza (art. 14.1.g Ley 10/2017).",
+      "fuente": "Art. 177.3 LALA (Ley 7/1999 de Aragón)",
+      "confianza": "alta",
+      "cita": "Las mutaciones demaniales consistentes en un cambio del sujeto o del destino de los bienes de dominio público sin que pierdan su naturaleza jurídica"
+    },
+    {
+      "q": "Según el art. 182.3 de la Ley 7/1999, de Administración Local de Aragón, las licencias a las que puede sujetarse el uso común especial de los bienes de uso público:",
+      "options": [
+        "Son indefinidas y solo revocables si su titular incumple las condiciones",
+        "Son temporales y solo revocables con indemnización al titular afectado",
+        "Se otorgan por un plazo mínimo de cinco años y no pueden revocarse",
+        "Son temporales y revocables, en todo caso, por razones de interés público"
+      ],
+      "correct": 3,
+      "exp": "El art. 182.3 define el uso común especial como «aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares», permite sujetarlo a licencia y añade: «Estas licencias serán de carácter temporal, siendo revocables, en todo caso, por razones de interés público». No son indefinidas ni tienen plazo mínimo, y la ley no condiciona la revocación al incumplimiento del titular ni a indemnización. El art. 92.4 LPAP, básico, prevé también la revocación de las autorizaciones demaniales por razones de interés público «sin generar derecho a indemnización» en los casos que enumera.",
+      "fuente": "Art. 182.3 LALA (Ley 7/1999 de Aragón)",
+      "confianza": "alta",
+      "cita": "Estas licencias serán de carácter temporal, siendo revocables, en todo caso, por razones de interés público."
+    },
+    {
+      "q": "Según el art. 188.4 de la Ley 7/1999, de Administración Local de Aragón, la ordenanza o el pliego que regula la enajenación de parcelas de un polígono promovido por la entidad local puede tener una vigencia superior al año. En ese caso:",
+      "options": [
+        "Deben establecerse previsiones automáticas de actualización del precio y de otros aspectos convenientes",
+        "Debe someterse cada año a nueva aprobación e información pública antes de seguir enajenando parcelas",
+        "Necesita la aprobación previa del Gobierno de Aragón, con declaración de utilidad pública de la operación",
+        "Debe fijar un precio único para toda su vigencia, sin posibilidad de revisión durante ese periodo"
+      ],
+      "correct": 0,
+      "exp": "El art. 188.4 permite aprobar, para los terrenos o parcelas de polígonos industriales, residenciales, agrícolas o ganaderos promovidos por la entidad local, «una ordenanza o pliego de condiciones que fije las cláusulas generales a que se sujete su enajenación, convocando subasta para la misma», y añade: «En caso de que se pretenda una vigencia de dichas condiciones superior al año, deberán establecerse las previsiones automáticas de actualización en cuanto a precio y otros aspectos en que sea conveniente». Lo mismo dice el art. 113.3 del Decreto 347/2002. El precepto no exige aprobación anual ni autorización autonómica, y lo que impone es lo contrario de un precio invariable.",
+      "fuente": "Art. 188.4 LALA (Ley 7/1999 de Aragón); art. 113.3 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "En caso de que se pretenda una vigencia de dichas condiciones superior al año, deberán establecerse las previsiones automáticas de actualización en cuanto a precio y otros aspectos en que sea conveniente."
+    },
+    {
+      "q": "Según el art. 189.2 de la Ley 7/1999, de Administración Local de Aragón, puede permutarse un bien presente por otro futuro, fijando un término para la consumación del contrato. Si el bien futuro no llega a ser realidad, el contrato:",
+      "options": [
+        "Se convierte en una compraventa y el adquirente abona en metálico el valor del bien recibido",
+        "Se prorroga de forma automática por un plazo igual a la mitad del inicialmente pactado",
+        "Se entiende no perfeccionado, sin perjuicio de las cláusulas resolutorias o penales pactadas",
+        "Se resuelve con pérdida de la garantía, sin que puedan pactarse otras cláusulas penales"
+      ],
+      "correct": 2,
+      "exp": "El art. 189.2 exige establecer «los requisitos y garantías adicionales que aseguren el buen fin de la operación convenida, entre ellos el término para la consumación del contrato, el cual se entenderá no perfeccionado si no llega a ser realidad el bien objeto del mismo, sin perjuicio de otras cláusulas resolutorias o penales que puedan pactarse». El art. 116.2 del Decreto 347/2002 lo reproduce. La ley no prevé la conversión en compraventa ni una prórroga automática, y admite expresamente pactar otras cláusulas penales.",
+      "fuente": "Art. 189.2 LALA (Ley 7/1999 de Aragón); art. 116.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "el cual se entenderá no perfeccionado si no llega a ser realidad el bien objeto del mismo, sin perjuicio de otras cláusulas resolutorias o penales que puedan pactarse"
+    },
+    {
+      "q": "Según el art. 113.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si queda desierta la subasta de algunas parcelas de un polígono promovido por la entidad local, la ordenanza o el pliego pueden prever, para no repetir subastas sin ofertas:",
+      "options": [
+        "La enajenación directa, por orden de petición, a cualquier interesado que cumpla las condiciones",
+        "Su adjudicación por sorteo entre los inscritos en un registro municipal de demandantes de suelo",
+        "Una nueva subasta con una rebaja del precio de licitación que puede llegar al veinticinco por ciento",
+        "Su cesión gratuita a las empresas que se comprometan a crear empleo estable en el municipio"
+      ],
+      "correct": 0,
+      "exp": "El art. 113.2 permite establecer en la ordenanza o el pliego, «al objeto de evitar la repetición de subastas sin ofertas de adquisición, que quede abierta la posibilidad de enajenación directa, por orden de petición, a cualquier interesado que cumpla las condiciones establecidas». En el mismo sentido, el art. 188.4 de la Ley 7/1999. El precepto no prevé sorteos, rebajas del precio ni cesiones gratuitas.",
+      "fuente": "Art. 113.2 RBASO (Decreto 347/2002 de Aragón); art. 188.4 LALA (Ley 7/1999 de Aragón)",
+      "confianza": "alta",
+      "cita": "que quede abierta la posibilidad de enajenación directa, por orden de petición, a cualquier interesado que cumpla las condiciones establecidas"
+    },
+    {
+      "q": "Según el art. 114 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las viviendas de promoción pública municipal se adjudicarán con arreglo a su normativa específica y:",
+      "options": [
+        "Por subasta pública, como el resto de bienes patrimoniales",
+        "Por sorteo entre los vecinos empadronados en el municipio",
+        "Al mejor precio, según criterios de rentabilidad económica",
+        "Primando en todo caso criterios de carácter social"
+      ],
+      "correct": 3,
+      "exp": "El art. 114 dispone: «Las viviendas de promoción pública municipal se adjudicarán con arreglo a su normativa específica, primando criterios de carácter social en todo caso». El art. 188.5 de la Ley 7/1999 dice lo mismo («atendiendo a criterios de carácter social»). La subasta pública es la regla general para enajenar bienes patrimoniales (art. 109.1), pero no rige para estas viviendas; el sorteo y el mejor precio no aparecen en el precepto.",
+      "fuente": "Art. 114 RBASO (Decreto 347/2002 de Aragón); art. 188.5 LALA (Ley 7/1999 de Aragón)",
+      "confianza": "alta",
+      "cita": "Las viviendas de promoción pública municipal se adjudicarán con arreglo a su normativa específica, primando criterios de carácter social en todo caso."
+    },
+    {
+      "q": "Según el art. 115.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), en la redacción dada por su corrección de errores (BOA nº 9, de 24-1-2003), el procedimiento de permuta de bienes patrimoniales debe incluir los extremos del art. 108, salvo los relativos a:",
+      "options": [
+        "La valoración técnica de los bienes y la certificación del Inventario",
+        "La forma de adjudicación y el pliego de cláusulas administrativas",
+        "La alienabilidad del bien y la oportunidad de la operación",
+        "El montante de los recursos ordinarios del presupuesto local"
+      ],
+      "correct": 1,
+      "exp": "La corrección de errores publicada en el BOA nº 9, de 24-1-2003, dio al art. 115.1 esta redacción: «La permuta de bienes patrimoniales requerirá procedimiento en que, además de los extremos señalados en el artículo 108, salvo los relativos a la forma de adjudicación y al pliego de cláusulas administrativas, se acredite la necesidad o conveniencia de efectuarla y la equivalencia de valores entre los bienes objeto de la misma». Sí deben constar, por tanto, la alienabilidad y la oportunidad o conveniencia (art. 108.1) y la certificación del Inventario, la valoración técnica y el montante de los recursos ordinarios del presupuesto (art. 108.2).",
+      "fuente": "Art. 115.1 RBASO (Decreto 347/2002 de Aragón), en la redacción de su corrección de errores (BOA nº 9, de 24-1-2003)",
+      "confianza": "alta",
+      "cita": "salvo los relativos a la forma de adjudicación y al pliego de cláusulas administrativas"
+    },
+    {
+      "q": "Según el art. 118.4 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si un inmueble cedido gratuitamente revierte porque no se destina al uso previsto, la entidad local puede cobrar al beneficiario, previa tasación pericial, el valor de los detrimentos sufridos por el bien, salvo los debidos:",
+      "options": [
+        "A las obras realizadas por el beneficiario, aunque no contaran con autorización de la entidad",
+        "A cualquier causa, cuando el beneficiario sea otra Administración o entidad pública",
+        "Al deterioro por el mero transcurso del tiempo o los inherentes al uso adecuado del bien",
+        "A la falta de uso del bien durante los cinco primeros años de vigencia de la cesión"
+      ],
+      "correct": 2,
+      "exp": "El art. 118.4 reconoce a la entidad local el derecho a percibir del beneficiario de la cesión, previa tasación pericial, «el valor de los detrimentos sufridos por los bienes objeto de la misma, salvo los debidos al deterioro por el mero transcurso del tiempo o los inherentes al uso adecuado del bien». Esa salvedad no figura en el art. 111.1 del Reglamento estatal (RBEL), que habla solo del «valor de los detrimentos experimentados por los bienes cedidos». El precepto aragonés no excluye los daños por obras no autorizadas ni distingue según quién sea el cesionario.",
+      "fuente": "Art. 118.4 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "salvo los debidos al deterioro por el mero transcurso del tiempo o los inherentes al uso adecuado del bien"
+    },
+    {
+      "q": "Según el art. 119.1.d) del Decreto 347/2002 del Gobierno de Aragón (RBASO), en el procedimiento de cesión gratuita de bienes, el dictamen suscrito por técnico debe aseverar que los bienes no son precisos para la ejecución de planes o proyectos aprobados o en trámite y, además:",
+      "options": [
+        "Que no serán necesarios para la entidad local en los diez años inmediatos",
+        "Que no han estado afectados a un servicio público en los últimos cinco años",
+        "Que no es previsible que sean necesarios para la entidad local",
+        "Que su valor no excede del veinticinco por ciento de los recursos ordinarios"
+      ],
+      "correct": 2,
+      "exp": "El art. 119.1.d) exige un «Dictamen suscrito por técnico que asevere que los bienes no son precisos para la ejecución de planes o proyectos aprobados o en trámite ni es previsible que sean necesarios para la Entidad local». No fija ningún plazo: los «diez años inmediatos» son la fórmula del art. 110.1.e) del Reglamento estatal (RBEL), que en Aragón queda desplazado por el Decreto 347/2002, según su preámbulo. El umbral del 25 % de los recursos ordinarios es el de la tutela autonómica del art. 121, no un contenido del dictamen.",
+      "fuente": "Art. 119.1.d) RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "ni es previsible que sean necesarios para la Entidad local"
+    },
+    {
+      "q": "Según el art. 112.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), en el procedimiento para aportar un bien patrimonial al capital de una sociedad creada por la entidad local debe constar:",
+      "options": [
+        "Un informe del Interventor y el dictamen previo del órgano consultivo de la Comunidad Autónoma",
+        "Un informe jurídico y un estudio económico financiero, con tasación pericial del bien",
+        "Un informe del Secretario y la conformidad previa de la junta general de la sociedad receptora",
+        "Una memoria justificativa y la información pública del expediente por plazo de un mes"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.2 dispone que en ese procedimiento «deberá constar un informe jurídico y un estudio económico financiero sobre la oportunidad y utilidad pública de la aportación, al que se acompañará tasación pericial que valore el bien o la concesión aportada». El art. 112.1 permite la aportación directa «previa su valoración pericial», y el art. 181.2 de la Ley 7/1999 la prevé «previa su valoración técnica». Ninguno de esos preceptos exige dictamen consultivo, conformidad de la sociedad ni información pública. En el Ayuntamiento de Zaragoza, los acuerdos de aportación de bienes a sociedades mercantiles municipales corresponden al Gobierno de Zaragoza (art. 14.1.g Ley 10/2017).",
+      "fuente": "Art. 112.2 RBASO (Decreto 347/2002 de Aragón); art. 181.2 LALA (Ley 7/1999 de Aragón)",
+      "confianza": "alta",
+      "cita": "deberá constar un informe jurídico y un estudio económico financiero sobre la oportunidad y utilidad pública de la aportación, al que se acompañará tasación pericial que valore el bien o la concesión aportada"
+    },
+    {
+      "q": "Según el art. 8.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), al mismo tiempo que se desafecta un bien expropiado del fin que motivó la expropiación:",
+      "options": [
+        "Debe ofrecerse siempre el bien a su antiguo propietario, y no puede destinarse a ningún otro fin público",
+        "El bien se integra de forma automática en el patrimonio municipal del suelo, sea cual sea su origen",
+        "Puede acordarse justificadamente su afectación a otro fin declarado de utilidad pública o interés social",
+        "Solo puede afectarse a otro fin si lo autoriza el Jurado de Expropiación, previa nueva tasación"
+      ],
+      "correct": 2,
+      "exp": "El art. 8.2 dice: «Con carácter simultaneo a la desafectación del fin que motivó la expropiación, podrá acordarse justificadamente una nueva afectación a otro fin que haya sido declarado de utilidad pública o interés social». Concluida la afectación, los bienes pasan a ser patrimoniales, «sin perjuicio, en su caso, del derecho de reversión en los términos de la legislación de expropiación forzosa» (art. 8.3). El Decreto no obliga a ofrecer siempre el bien al expropiado, no lo integra automáticamente en el patrimonio municipal del suelo y no pide autorización del Jurado.",
+      "fuente": "Art. 8.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "podrá acordarse justificadamente una nueva afectación a otro fin que haya sido declarado de utilidad pública o interés social"
+    },
+    {
+      "q": "Según el art. 24 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la alteración de términos municipales lleva aparejada la sucesión administrativa en la titularidad de los bienes afectados. Esa sucesión se entiende producida:",
+      "options": [
+        "De derecho y con plenos efectos desde la resolución definitiva sobre la alteración de términos",
+        "Desde que los bienes se inscriben en el Registro de la Propiedad a nombre del nuevo titular",
+        "Desde que el municipio receptor los incluye en su inventario y aprueba la rectificación anual de este",
+        "Desde que ambos municipios firman el acta de entrega de los bienes, con su valoración pericial"
+      ],
+      "correct": 0,
+      "exp": "El art. 24.2 dispone: «La sucesión se entenderá producida de derecho con plenos efectos desde que se produzca la resolución definitiva sobre la alteración de términos o la rectificación de límites o se apruebe el traspaso de medios que lleve aparejada la redistribución de competencias». Según el art. 24.1, la sucesión alcanza a los bienes de dominio público y a los patrimoniales «sin cambio de su calificación jurídica». No depende de la inscripción registral, del inventario ni de un acta de entrega.",
+      "fuente": "Art. 24.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "La sucesión se entenderá producida de derecho con plenos efectos desde que se produzca la resolución definitiva sobre la alteración de términos"
+    },
+    {
+      "q": "Una entidad local adquirió un bien con la condición de afectarlo permanentemente a un destino. Según el art. 20.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si dentro del plazo de treinta años, y después de servir al destino inicial, el bien se aplica por razones de interés público a una finalidad análoga a la del título de adquisición, la condición:",
+      "options": [
+        "Se entiende cumplida, aunque el destino inicial no haya durado treinta años",
+        "Se entiende incumplida, y el bien debe revertir al transmitente o a sus herederos",
+        "Solo se entiende cumplida si el transmitente o sus herederos lo consienten por escrito",
+        "Queda en suspenso hasta que el bien complete treinta años al servicio del nuevo destino"
+      ],
+      "correct": 0,
+      "exp": "El art. 20.1 da por cumplida la condición cuando los bienes han servido treinta años al destino, aunque luego dejen de hacerlo por circunstancias sobrevenidas de interés público, y el art. 20.2 añade: «También se entenderá que las condiciones y modalidades están cumplidas si dentro del mismo plazo de treinta años, los bienes se aplican con posterioridad al destino inicial, por razones de interés público, a finalidades análogas a las establecidas en el título de adquisición». No hay reversión ni se exige el consentimiento del transmitente.",
+      "fuente": "Art. 20.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "También se entenderá que las condiciones y modalidades están cumplidas si dentro del mismo plazo de treinta años, los bienes se aplican con posterioridad al destino inicial, por razones de interés público, a finalidades análogas a las establecidas en el título de adquisición."
+    },
+    {
+      "q": "Según el art. 17.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el concurso es la forma ordinaria de adquirir bienes a título oneroso. ¿En cuál de estos supuestos admite el precepto el procedimiento negociado?",
+      "options": [
+        "Cuando el vendedor sea otra Administración pública o una entidad de su sector público",
+        "Cuando sea determinante de la adquisición el emplazamiento o situación concreta del inmueble",
+        "Cuando el inmueble esté inscrito en el Registro de la Propiedad libre de cargas y gravámenes",
+        "Cuando la adquisición se financie íntegramente con subvenciones concedidas por otras Administraciones"
+      ],
+      "correct": 1,
+      "exp": "El art. 17.3 admite el procedimiento negociado cuando lo requieran las características de singularidad y especificidad histórica, cultural, artística, técnica o social de los bienes; «Cuando sea determinante de la adquisición el emplazamiento o situación concreta del inmueble que se precise adquirir»; cuando circunstancias imprevisibles hagan inaplazable la adquisición, y, por razón del precio, en el supuesto de su letra d). En los dos primeros casos debe figurar en el expediente una memoria justificativa (art. 17.4). La condición pública del vendedor, la inscripción libre de cargas y la financiación con subvenciones no figuran entre esos supuestos.",
+      "fuente": "Art. 17.3.b) RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "Cuando sea determinante de la adquisición el emplazamiento o situación concreta del inmueble que se precise adquirir."
+    },
+    {
+      "q": "Según el art. 25.4 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las entidades locales que no cuenten con medios adecuados para formar su Inventario podrán solicitar la colaboración de:",
+      "options": [
+        "El Registro de la Propiedad y el Catastro",
+        "Las mancomunidades y los consorcios",
+        "La Cámara de Cuentas de Aragón",
+        "Las provincias y las comarcas"
+      ],
+      "correct": 3,
+      "exp": "El art. 25.4 dispone: «Cuando las Entidades locales no cuenten con medios adecuados para la formación del Inventario podrán solicitar la colaboración de las provincias y de las comarcas con dicho fin». Las demás instituciones no aparecen en el precepto. El inventario valorado es obligatorio para todas las entidades locales (art. 25.1).",
+      "fuente": "Art. 25.4 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "podrán solicitar la colaboración de las provincias y de las comarcas con dicho fin"
+    },
+    {
+      "q": "Un vecino ejercita, en nombre e interés de su Ayuntamiento, una acción en defensa de un bien municipal que la entidad no acordó ejercitar. Según el art. 44.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si la acción prospera, el vecino:",
+      "options": [
+        "Tiene derecho al reembolso de las costas procesales y a la indemnización de los daños y perjuicios sufridos",
+        "Tiene derecho a un premio del diez por ciento del valor de los bienes que la entidad haya recuperado",
+        "Solo puede cobrar las costas procesales si la sentencia condena expresamente a la parte contraria",
+        "No tiene derecho a reembolso, porque ejercitó la acción por propia iniciativa y bajo su riesgo"
+      ],
+      "correct": 0,
+      "exp": "El art. 44.3 dispone: «De prosperar la acción, el actor tendrá derecho a ser reembolsado por la entidad de las costas procesales y a la indemnización de cuantos daños y perjuicios se le hubiesen seguido». El art. 68.4 LBRL contiene la misma regla. El premio del diez por ciento es el de quien promueve la acción investigadora (art. 53), no el de esta acción vecinal.",
+      "fuente": "Art. 44.3 RBASO (Decreto 347/2002 de Aragón); art. 68.4 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "cita": "De prosperar la acción, el actor tendrá derecho a ser reembolsado por la entidad de las costas procesales y a la indemnización de cuantos daños y perjuicios se le hubiesen seguido."
+    },
+    {
+      "q": "Según el art. 46.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), se entiende por transacción referente a bienes de la entidad local:",
+      "options": [
+        "La aceptación por la entidad local de las pretensiones de una demanda que afecte al dominio del bien",
+        "El convenio con cualquier persona sobre esos bienes para evitar un pleito o poner fin al ya comenzado",
+        "El contrato por el que la entidad local transmite a un particular la propiedad de un bien patrimonial",
+        "El acuerdo por el que la entidad local cede el uso de un bien a otra Administración para fines públicos"
+      ],
+      "correct": 1,
+      "exp": "El art. 46.3 define la transacción referente a bienes como «el convenio que, con la finalidad de evitar un pleito o de poner fin al que hubiese comenzado, realice la Entidad local con cualesquiera personas en relación con los mismos bienes o cualquier derecho constituido sobre los mismos». Aceptar las pretensiones de la demanda es allanarse, y el art. 46.1 dispone que las entidades locales «no pueden allanarse a las demandas judiciales que afecten al dominio y demás derechos reales integrantes de su patrimonio». Las otras dos opciones describen una enajenación y una cesión de uso.",
+      "fuente": "Art. 46.3 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "se entiende por transacción referente a bienes el convenio que, con la finalidad de evitar un pleito o de poner fin al que hubiese comenzado, realice la Entidad local con cualesquiera personas en relación con los mismos bienes"
+    },
+    {
+      "q": "Según el art. 51.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), en el procedimiento de investigación de bienes, practicadas y valoradas las pruebas, el expediente se pone de manifiesto a los interesados que hubieran comparecido por plazo de:",
+      "options": [
+        "Cinco días",
+        "Quince días",
+        "Diez días",
+        "Un mes"
+      ],
+      "correct": 2,
+      "exp": "El art. 51.2 dispone que, efectuadas las pruebas declaradas pertinentes y valorado su resultado por los servicios de la Corporación, «se pondrá de manifiesto el expediente por plazo de diez días a los interesados que hubieren comparecido, para que dentro de dicho plazo aleguen lo que crean conveniente a su derecho». Los quince días son el plazo de alegaciones que se abre con la publicación del acuerdo de iniciación (art. 50.1).",
+      "fuente": "Art. 51.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "se pondrá de manifiesto el expediente por plazo de diez días a los interesados que hubieren comparecido"
+    },
+    {
+      "q": "Según el art. 53 del Decreto 347/2002 del Gobierno de Aragón (RBASO), quienes promueven una acción investigadora que resulta favorable a la entidad local reciben un premio. ¿Qué requiere la efectividad de ese premio?",
+      "options": [
+        "La venta efectiva del bien investigado, porque el premio se calcula siempre sobre el precio obtenido",
+        "Su aprobación expresa por el Gobierno de Aragón, previo informe del Secretario de la entidad local",
+        "La renuncia del promotor a recuperar los gastos que anticipó al presentar su denuncia",
+        "La firmeza de la resolución favorable a la entidad y su inscripción en el Registro de la Propiedad"
+      ],
+      "correct": 3,
+      "exp": "El art. 53 fija el premio en el diez por ciento del valor líquido que la entidad obtenga de la enajenación de los bienes investigados, «o del valor de tasación de los mismos que conste en el expediente, si no fuesen enajenados», y añade: «La efectividad del premio requerirá la previa firmeza de la resolución favorable a la titularidad de la Entidad local y su inscripción en el Registro de la Propiedad». No exige vender el bien ni aprobación autonómica, y el premio se abona «como premio e indemnización de todos sus gastos».",
+      "fuente": "Art. 53 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "La efectividad del premio requerirá la previa firmeza de la resolución favorable a la titularidad de la Entidad local y su inscripción en el Registro de la Propiedad."
+    },
+    {
+      "q": "Según el art. 56.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), cuando el deslinde de un bien de la entidad local se acuerda a instancia de parte interesada, los gastos del deslinde:",
+      "options": [
+        "Los asume la entidad local, salvo que el deslinde confirme la usurpación de sus bienes",
+        "Se reparten por partes iguales entre la entidad local y todos los propietarios de las fincas colindantes",
+        "Los anticipa la entidad local y después los repercute a todos los colindantes por igual",
+        "Son a cuenta de los particulares promotores, cuya conformidad debe constar en el expediente"
+      ],
+      "correct": 3,
+      "exp": "El art. 56.2 prevé un presupuesto de gastos de deslinde y dispone: «Si el deslinde se acuerda a instancia de parte interesada, los gastos serán a cuenta de los particulares promotores, debiendo constar expresamente en el expediente la conformidad de los mismos». El art. 54.2 permite a los dueños de terrenos colindantes o enclavados solicitar el deslinde.",
+      "fuente": "Art. 56.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "Si el deslinde se acuerda a instancia de parte interesada, los gastos serán a cuenta de los particulares promotores, debiendo constar expresamente en el expediente la conformidad de los mismos."
+    },
+    {
+      "q": "Según el art. 68.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), en el desahucio administrativo, agotado el plazo para desocupar la finca, se apercibe a los ocupantes de lanzamiento en el término de otros:",
+      "options": [
+        "Cinco días",
+        "Tres días",
+        "Diez días",
+        "Quince días"
+      ],
+      "correct": 0,
+      "exp": "El art. 68.1 dispone que, «Agotado el plazo para desocupar la finca», se «apercibirá de lanzamiento en el término de otros cinco días». El lanzamiento lo ejecuta la entidad local por sus propios medios, con autorización judicial en los casos en que legalmente sea necesaria (art. 68.2 y 3), y sus gastos son de cuenta del desahuciado (art. 69.1). Los quince días son el plazo para proponer la indemnización por avenencia (art. 67.1).",
+      "fuente": "Art. 68.1 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "apercibirá de lanzamiento en el término de otros cinco días"
+    },
+    {
+      "q": "Según el art. 71.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), toda persona que tenga a su cargo bienes o derechos de una entidad local responde ante ella de los daños y perjuicios ocasionados:",
+      "options": [
+        "Solo cuando concurra dolo",
+        "Cuando concurra dolo o negligencia",
+        "Siempre, aunque no haya culpa",
+        "Solo con condena penal firme"
+      ],
+      "correct": 1,
+      "exp": "El art. 71.1 obliga a quien tenga a su cargo bienes o derechos de las entidades locales a su custodia, conservación y racional explotación, «debiendo responder ante aquéllas de los daños y perjuicios ocasionados cuando concurra dolo o negligencia». No se exige dolo ni se responde sin culpa. Las sanciones son independientes de la obligación de reparar el daño (art. 71.3), y las responsabilidades se sustancian por vía administrativa (art. 71.4).",
+      "fuente": "Art. 71.1 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "debiendo responder ante aquéllas de los daños y perjuicios ocasionados cuando concurra dolo o negligencia"
+    },
+    {
+      "q": "Según el art. 91.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si el concesionario de dominio público debe realizar obras revertibles a la entidad local, la garantía definitiva se le devuelve cuando acredite haberlas efectuado por un valor equivalente a:",
+      "options": [
+        "La tercera parte de las comprendidas en la concesión",
+        "La mitad de las comprendidas en la concesión",
+        "La cuarta parte de las comprendidas en la concesión",
+        "La totalidad de las comprendidas en la concesión"
+      ],
+      "correct": 0,
+      "exp": "El art. 91.2 dispone: «La garantía se devolverá al concesionario, si hubiere de realizar obras revertibles a la Entidad local, cuando acreditare tenerlas efectuadas por valor equivalente a la tercera parte de las comprendidas en la concesión». La garantía definitiva consiste en el cuatro por ciento del valor del dominio público ocupado y, en su caso, del presupuesto de las obras (art. 91.1).",
+      "fuente": "Art. 91.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "cuando acreditare tenerlas efectuadas por valor equivalente a la tercera parte de las comprendidas en la concesión"
+    },
+    {
+      "q": "Según el art. 97 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si queda desierta la subasta autorizada por el Gobierno de Aragón para adjudicar mediante precio el aprovechamiento de bienes comunales:",
+      "options": [
+        "Puede acudirse a su adjudicación mediante procedimiento negociado",
+        "Debe convocarse otra subasta con rebaja del precio de licitación",
+        "Los bienes pierden su carácter comunal y pasan a ser patrimoniales",
+        "Debe volverse a la adjudicación por lotes o suertes entre vecinos"
+      ],
+      "correct": 0,
+      "exp": "El art. 97 permite al Gobierno de Aragón autorizar la adjudicación en pública subasta, mediante precio, cuando tampoco es posible el aprovechamiento por lotes o suertes, con preferencia de los postores vecinos en igualdad de condiciones, y añade: «En el caso de que la subasta quedare desierta, podrá acudirse a su adjudicación mediante procedimiento negociado». La desafectación de comunales tiene su propio procedimiento (arts. 12 y 13) y no es consecuencia de la subasta desierta.",
+      "fuente": "Art. 97 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "En el caso de que la subasta quedare desierta, podrá acudirse a su adjudicación mediante procedimiento negociado."
+    },
+    {
+      "q": "Según el art. 108.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), en el expediente de enajenación de un bien de la entidad local deben obrar:",
+      "options": [
+        "La certificación catastral, la nota simple registral y el informe de la Cámara de Cuentas de Aragón",
+        "La certificación del Inventario, la valoración técnica del bien y el montante de los recursos ordinarios",
+        "La tasación del Catastro, el dictamen del órgano consultivo autonómico y la conformidad de los colindantes",
+        "El informe del Interventor, la memoria de rentabilidad social y el anuncio de información pública"
+      ],
+      "correct": 1,
+      "exp": "El art. 108.2 dispone: «En el expediente deberán obrar certificación del Inventario que acredite la descripción del bien y su carácter patrimonial, la valoración técnica que acredite de modo fehaciente el justo precio de los bienes objeto de enajenación y el montante de los recursos ordinarios del presupuesto de la Entidad local». Antes de iniciar la enajenación de un inmueble hay que depurar su situación física y jurídica (art. 107).",
+      "fuente": "Art. 108.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "En el expediente deberán obrar certificación del Inventario que acredite la descripción del bien y su carácter patrimonial, la valoración técnica que acredite de modo fehaciente el justo precio de los bienes objeto de enajenación y el montante de los recursos ordinarios del presupuesto de la Entidad local."
+    },
+    {
+      "q": "Según el art. 32.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), para incluir en el inventario un bien con el carácter de histórico o artístico:",
+      "options": [
+        "Debe estar declarado Bien de Interés Cultural por el Gobierno de Aragón",
+        "Debe figurar previamente en el catálogo municipal de bienes de interés",
+        "No hace falta que esté declarado y catalogado formalmente como tal",
+        "Se requiere informe favorable del órgano autonómico de patrimonio"
+      ],
+      "correct": 2,
+      "exp": "El art. 32.2 dispone: «La inclusión de los bienes con el carácter de históricos o artísticos no requerirá que se hallen declarados y catalogados formalmente como tales». El art. 32.1 exige reseñar su descripción, la razón de su valor artístico, histórico o económico, y el lugar en que se encuentran y la persona bajo cuya responsabilidad se custodian; el art. 39.2 pide además fotografías debidamente autenticadas.",
+      "fuente": "Art. 32.2 RBASO (Decreto 347/2002 de Aragón)",
+      "confianza": "alta",
+      "cita": "La inclusión de los bienes con el carácter de históricos o artísticos no requerirá que se hallen declarados y catalogados formalmente como tales."
+    },
+    {
+      "q": "Según el art. 6 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, la gestión y administración de los bienes demaniales se ajustará, entre otros, al principio de:",
+      "options": [
+        "Dedicación preferente al uso privativo frente a su uso común",
+        "Dedicación preferente al uso común frente a su uso privativo",
+        "Eficacia y rentabilidad en la explotación de los bienes demaniales",
+        "Libre disponibilidad de los bienes entre Administraciones"
+      ],
+      "correct": 1,
+      "exp": "El art. 6 enumera los principios de la gestión de los bienes demaniales; su letra d) es la «Dedicación preferente al uso común frente a su uso privativo». Entre los demás están la inalienabilidad, inembargabilidad e imprescriptibilidad, la aplicación efectiva al uso general o al servicio público y la cooperación entre Administraciones. La eficacia y rentabilidad es un principio de los bienes patrimoniales (art. 8.1.b). El art. 6 es básico (DF 2.ª.5) y se aplica a las entidades locales (art. 2.2).",
+      "fuente": "Art. 6.d) LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "d) Dedicación preferente al uso común frente a su uso privativo."
+    },
+    {
+      "q": "Según el art. 32.4 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, el inventario patrimonial de las entidades locales incluirá, al menos:",
+      "options": [
+        "Los bienes muebles de considerable valor económico",
+        "Solo los bienes de dominio público afectados a un servicio",
+        "Solo los bienes inscritos en el Registro de la Propiedad",
+        "Los bienes inmuebles y los derechos reales sobre los mismos"
+      ],
+      "correct": 3,
+      "exp": "El art. 32.4, básico (DF 2.ª.5), dispone: «El inventario patrimonial de las comunidades autónomas, entidades locales y entidades de Derecho público vinculadas o dependientes de ellas incluirá, al menos, los bienes inmuebles y los derechos reales sobre los mismos». Es un mínimo: el art. 25.1 del Decreto 347/2002 obliga a inventariar los bienes y derechos que constituyan el patrimonio de la entidad, «cualquiera que sea su naturaleza o forma de adquisición».",
+      "fuente": "Art. 32.4 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "incluirá, al menos, los bienes inmuebles y los derechos reales sobre los mismos"
+    },
+    {
+      "q": "Según el art. 36.1 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, las Administraciones públicas deben inscribir en los registros los bienes y derechos de su patrimonio susceptibles de inscripción, pero la inscripción es potestativa en el caso de:",
+      "options": [
+        "Los arrendamientos inscribibles conforme a la legislación hipotecaria",
+        "Los bienes de dominio público de uso general, como las calles y plazas",
+        "Los bienes patrimoniales cuyo valor no supere los 150.000 euros",
+        "Los derechos reales adquiridos por herencia, legado o donación"
+      ],
+      "correct": 0,
+      "exp": "El art. 36.1, básico (DF 2.ª.5), obliga a inscribir los bienes y derechos, «ya sean demaniales o patrimoniales», que sean susceptibles de inscripción, y añade: «No obstante, la inscripción será potestativa para las Administraciones públicas en el caso de arrendamientos inscribibles conforme a la legislación hipotecaria». No exime a los bienes de uso público ni fija un umbral de valor. El art. 42.1 del Decreto 347/2002 impone también a las entidades locales aragonesas la inscripción de sus inmuebles y derechos reales.",
+      "fuente": "Art. 36.1 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "No obstante, la inscripción será potestativa para las Administraciones públicas en el caso de arrendamientos inscribibles conforme a la legislación hipotecaria."
+    },
+    {
+      "q": "Según el art. 55.3 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, para recuperar en vía administrativa la posesión de un bien patrimonial usurpado, antes de que transcurra un año desde el día siguiente al de la usurpación la iniciación del procedimiento debe haber sido:",
+      "options": [
+        "Notificada",
+        "Acordada",
+        "Publicada",
+        "Resuelta"
+      ],
+      "correct": 0,
+      "exp": "El art. 55.3, básico (DF 2.ª.5), dispone que, si se trata de bienes y derechos patrimoniales, «la recuperación de la posesión en vía administrativa requiere que la iniciación del procedimiento haya sido notificada antes de que transcurra el plazo de un año, contado desde el día siguiente al de la usurpación». Pasado ese plazo hay que ejercitar las acciones correspondientes ante el orden jurisdiccional civil. Para los bienes demaniales la potestad puede ejercitarse en cualquier tiempo (art. 55.2).",
+      "fuente": "Art. 55.3 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "requiere que la iniciación del procedimiento haya sido notificada antes de que transcurra el plazo de un año, contado desde el día siguiente al de la usurpación"
+    },
+    {
+      "q": "Según el art. 93.2 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, una vez otorgada una concesión demanial, cualquiera que haya sido el procedimiento de adjudicación, debe formalizarse en:",
+      "options": [
+        "Escritura pública, que es requisito imprescindible para inscribirla en el Registro de la Propiedad",
+        "Documento privado, que se eleva a escritura pública solo si el concesionario lo pide y paga los gastos",
+        "Documento administrativo, que es título suficiente para inscribirla en el Registro de la Propiedad",
+        "Acta notarial de entrega de la porción de dominio público, sin acceso al Registro de la Propiedad"
+      ],
+      "correct": 2,
+      "exp": "El art. 93.2, básico (DF 2.ª.5), dispone: «Cualquiera que haya sido el procedimiento seguido para la adjudicación, una vez otorgada la concesión deberá procederse a su formalización en documento administrativo. Este documento será título suficiente para inscribir la concesión en el Registro de la Propiedad». La escritura pública es la forma general de los negocios de adquisición o enajenación de inmuebles y derechos reales (art. 113.1 LPAP), no de las concesiones demaniales.",
+      "fuente": "Art. 93.2 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "una vez otorgada la concesión deberá procederse a su formalización en documento administrativo. Este documento será título suficiente para inscribir la concesión en el Registro de la Propiedad."
+    },
+    {
+      "q": "Según el art. 94 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, si el titular de una concesión demanial incurre, después de su otorgamiento, en alguna de las prohibiciones de contratar:",
+      "options": [
+        "Queda suspendida hasta que cese la prohibición",
+        "Se le sanciona, pero la concesión subsiste",
+        "Debe transmitirla a un tercero en un año",
+        "Se produce la extinción de la concesión"
+      ],
+      "correct": 3,
+      "exp": "El art. 94, básico (DF 2.ª.5), impide ser titular de concesiones demaniales a quien incurra en una prohibición de contratar y añade: «Cuando, posteriormente al otorgamiento de la concesión, el titular incurra en alguna de las prohibiciones de contratación se producirá la extinción de la concesión». No prevé suspensión, mera sanción ni transmisión obligatoria.",
+      "fuente": "Art. 94 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "Cuando, posteriormente al otorgamiento de la concesión, el titular incurra en alguna de las prohibiciones de contratación se producirá la extinción de la concesión."
+    },
+    {
+      "q": "Según el art. 98.2 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, los derechos del concesionario sobre las obras, construcciones e instalaciones fijas situadas en el dominio público solo pueden hipotecarse:",
+      "options": [
+        "En garantía de cualquier préstamo del concesionario, sin necesidad de autorización administrativa",
+        "En garantía de préstamos para financiar esas obras, comunicándolo a la Administración tras inscribirla",
+        "En garantía de préstamos para financiar esas obras, con autorización previa de la autoridad concedente",
+        "En ningún caso, porque las obras sobre el dominio público son inalienables, inembargables e imprescriptibles"
+      ],
+      "correct": 2,
+      "exp": "El art. 98.2, básico (DF 2.ª.5), dispone que esos derechos «sólo podrán ser hipotecados como garantía de los préstamos contraídos por el titular de la concesión para financiar la realización, modificación o ampliación de las obras, construcciones e instalaciones de carácter fijo situadas sobre la dependencia demanial ocupada», y que «para constituir la hipoteca será necesaria la previa autorización de la autoridad competente para el otorgamiento de la concesión». Las hipotecas se extinguen con la extinción del plazo de la concesión.",
+      "fuente": "Art. 98.2 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "para constituir la hipoteca será necesaria la previa autorización de la autoridad competente para el otorgamiento de la concesión"
+    },
+    {
+      "q": "Según el art. 101.1 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, al extinguirse una concesión demanial, las obras, construcciones e instalaciones fijas existentes sobre el bien:",
+      "options": [
+        "Pasan siempre a la Administración concedente, que debe indemnizar al concesionario por su valor actual",
+        "Deben demolerse a costa del concesionario, salvo que el título lo prevea o la autoridad competente lo decida",
+        "Siguen siendo del concesionario, que puede seguir usándolas mediante un contrato de arrendamiento",
+        "Debe demolerlas la Administración a su propia costa, sin cargo alguno para el antiguo concesionario"
+      ],
+      "correct": 1,
+      "exp": "El art. 101.1, básico (DF 2.ª.5), dispone que, cuando se extinga la concesión, esas obras «deberán ser demolidas por el titular de la concesión o, por ejecución subsidiaria, por la Administración a costa del concesionario, a menos que su mantenimiento hubiera sido previsto expresamente en el título concesional o que la autoridad competente para otorgar la concesión así lo decida». La indemnización al titular solo se prevé en caso de rescate anticipado (art. 101.3).",
+      "fuente": "Art. 101.1 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "deberán ser demolidas por el titular de la concesión o, por ejecución subsidiaria, por la Administración a costa del concesionario, a menos que su mantenimiento hubiera sido previsto expresamente en el título concesional o que la autoridad competente para otorgar la concesión así lo decida"
+    },
+    {
+      "q": "Según el art. 107.1 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas (LPAP), precepto básico, los contratos para la explotación de los bienes y derechos patrimoniales se adjudicarán:",
+      "options": [
+        "Por subasta, salvo que la cesión no supere cinco años ni el 5 % de los recursos ordinarios",
+        "Directamente, salvo que el canon anual supere el seis por ciento del valor en venta del bien",
+        "Por sorteo entre los solicitantes que reúnan las condiciones, si su número es limitado",
+        "Por concurso, salvo que proceda la adjudicación directa por las causas que el precepto enumera"
+      ],
+      "correct": 3,
+      "exp": "El art. 107.1, básico según la DF 2.ª.5 y aplicable a las entidades locales por el art. 2.2 LPAP, dispone que esos contratos «se adjudicarán por concurso salvo que, por las peculiaridades del bien, la limitación de la demanda, la urgencia resultante de acontecimientos imprevisibles o la singularidad de la operación, proceda la adjudicación directa». Por eso no debe estudiarse como regla vigente la subasta obligatoria para cesiones de más de cinco años o de precio superior al 5 % de los recursos ordinarios (arts. 92.1 RBEL y 101.1 del Decreto 347/2002), que choca con este precepto básico. El sorteo es propio de las licencias demaniales de número limitado (art. 80.1 del Decreto 347/2002).",
+      "fuente": "Art. 107.1 LPAP (Ley 33/2003); básico según su DF 2.ª.5",
+      "confianza": "alta",
+      "cita": "se adjudicarán por concurso salvo que, por las peculiaridades del bien, la limitación de la demanda, la urgencia resultante de acontecimientos imprevisibles o la singularidad de la operación, proceda la adjudicación directa"
+    },
+    {
+      "q": "Según la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, ¿cuál de los siguientes acuerdos corresponde al Pleno y no al Gobierno de Zaragoza?",
+      "options": [
+        "Aceptar bienes y acordar la alteración de la calificación jurídica de los bienes de dominio público municipales",
+        "Adquirir acciones de sociedades que no gestionen servicios municipales, si representan la mayoría de su capital",
+        "Adscribir o aportar bienes a organismos autónomos, entidades públicas empresariales y sociedades municipales",
+        "Desafectar bienes comunales y aprobar el inventario de bienes del municipio y sus sucesivas rectificaciones anuales"
+      ],
+      "correct": 1,
+      "exp": "El art. 11.1.l) atribuye al Pleno «la adquisición de acciones o participaciones de sociedades mercantiles que no gestionen servicios públicos de la competencia municipal y representen la mayoría de su capital social». En cambio, el art. 14.1.g) atribuye al Gobierno de Zaragoza, además de la gestión del patrimonio municipal, «los acuerdos relativos a la aceptación de bienes, alteración de la calificación jurídica de los bienes, mutaciones demaniales, desafectación de bienes comunales, aprobación del inventario y sus rectificaciones anuales, y adscripción y aportación de bienes a organismos autónomos, entidades públicas empresariales y sociedades mercantiles municipales».",
+      "fuente": "Arts. 11.1.l) y 14.1.g) Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683)",
+      "confianza": "alta",
+      "cita": "la adquisición de acciones o participaciones de sociedades mercantiles que no gestionen servicios públicos de la competencia municipal y representen la mayoría de su capital social"
+    }
+  ]
+}

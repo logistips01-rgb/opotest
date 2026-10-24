@@ -65931,3 +65931,98 @@ window.addQuestions('aux-admin-zaragoza', 12, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 8 · lote 2026-10-24 · 7 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 8, [
+  {
+    "q": "En la redacción del art. 106 LPAC, ¿qué diferencia hay entre el apartado 1 (actos nulos) y el apartado 2 (disposiciones nulas)?",
+    "options": [
+      "Para los actos se exige dictamen favorable del órgano consultivo; para las disposiciones basta un dictamen no vinculante",
+      "Para los actos rige un límite de cuatro años; para las disposiciones, la nulidad puede declararse en cualquier momento",
+      "Para los actos, las Administraciones «declararán» la nulidad; para las disposiciones, «podrán declarar» la nulidad",
+      "Para los actos solo cabe actuar de oficio; para las disposiciones, también a solicitud de cualquier interesado"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.1 dice que las Administraciones Públicas «declararán de oficio la nulidad» de los actos (fórmula imperativa), mientras que el art. 106.2 dice que «podrán declarar la nulidad de las disposiciones administrativas» (fórmula potestativa). Los dos apartados exigen el mismo dictamen favorable del Consejo de Estado u órgano consultivo autonómico y los dos permiten actuar «en cualquier momento»; el límite de cuatro años es el de la declaración de lesividad (art. 107.2). La solicitud de interesado solo aparece en el apartado 1, para los actos; el apartado 2 habla únicamente de actuación «de oficio», justo al revés de lo que dice la opción que atribuye la solicitud de interesado a las disposiciones.",
+    "fuente": "Arts. 106.1 y 106.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un reglamento aprobado por el Pleno del Ayuntamiento de Zaragoza incurre en una causa de nulidad del art. 47.2 LPAC. ¿Cómo puede declararse su nulidad en vía administrativa?",
+    "options": [
+      "Mediante la declaración de lesividad del art. 107 y su posterior impugnación ante el contencioso",
+      "Mediante la revocación del art. 109.1, mientras no haya transcurrido el plazo de prescripción",
+      "Mediante el recurso potestativo de reposición de cualquier vecino, en el plazo de un mes",
+      "Mediante la revisión de oficio del art. 106.2, previo dictamen favorable del órgano consultivo"
+    ],
+    "correct": 3,
+    "exp": "Contra las disposiciones de carácter general «no cabrá recurso en vía administrativa» (art. 112.3), así que no cabe la reposición. La vía es la revisión de oficio del art. 106.2: las Administraciones, «en cualquier momento», de oficio y previo dictamen favorable del Consejo de Estado u órgano consultivo autonómico, pueden declarar la nulidad de las disposiciones en los supuestos del art. 47.2. La declaración de lesividad (art. 107.1) sirve para impugnar ante los tribunales actos favorables anulables conforme al art. 48, no para declarar nula una disposición, y la revocación (art. 109.1) se refiere a actos de gravamen o desfavorables. En Zaragoza, corresponde al Pleno la revisión de oficio de sus propios actos y de las disposiciones de carácter general (art. 11.1.m Ley 10/2017), que no puede delegarla (art. 11.3).",
+    "fuente": "Arts. 112.3 y 106.2 LPAC (Ley 39/2015); art. 11.1.m) Ley 10/2017",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.2 LPAC, los procedimientos de impugnación, reclamación, conciliación, mediación o arbitraje que sustituyan al recurso de alzada deben seguirse:",
+    "options": [
+      "Con respeto a los principios, garantías y plazos que la LPAC reconoce a los interesados",
+      "Sin sujeción a plazo máximo de resolución, dado su carácter conciliador o arbitral",
+      "Con las garantías propias de un proceso judicial, incluida la asistencia de letrado",
+      "Conforme a las instrucciones que dicte en cada caso el superior jerárquico del órgano autor del acto"
+    ],
+    "correct": 0,
+    "exp": "El art. 112.2 permite que las leyes sustituyan la alzada por esos procedimientos «con respeto a los principios, garantías y plazos que la presente Ley reconoce a las personas y a los interesados en todo procedimiento administrativo». No quedan exentos de plazos ni se convierten en un proceso judicial. Además, se tramitan ante órganos colegiados o Comisiones específicas «no sometidas a instrucciones jerárquicas», lo contrario de la opción que los somete a las instrucciones del superior jerárquico.",
+    "fuente": "Art. 112.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 114.2.d) LPAC, en los organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, ponen fin a la vía administrativa los actos:",
+    "options": [
+      "De sus máximos órganos de dirección, unipersonales o colegiados, según sus estatutos, salvo que una ley disponga otra cosa",
+      "Solo de su máximo órgano colegiado de dirección, según lo que fijen sus estatutos, salvo que un reglamento disponga otra cosa",
+      "De cualquiera de sus órganos, sea cual sea su rango, siempre que lo prevea la orden ministerial de adscripción",
+      "De ninguno de sus órganos, porque sus actos son siempre recurribles en alzada ante el Ministerio de adscripción"
+    ],
+    "correct": 0,
+    "exp": "El art. 114.2.d) dice que, en el ámbito estatal, ponen fin a la vía administrativa en esos organismos y entidades «los emanados de los máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por ley se establezca otra cosa». Incluye por tanto los órganos unipersonales, no se extiende a cualquier órgano y la excepción tiene que hacerla una ley, no un reglamento ni una orden ministerial. Es una regla del ámbito estatal, que se suma a las del art. 114.1.",
+    "fuente": "Art. 114.2.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Fuera de los supuestos que enumeran, ¿qué norma puede disponer que otras resoluciones pongan fin a la vía administrativa, según el art. 114.1.g) LPAC y, para las entidades locales, según el art. 52.2.c) LBRL?",
+    "options": [
+      "LPAC: una disposición legal; LBRL: una disposición legal o reglamentaria",
+      "LPAC: una disposición legal o reglamentaria; LBRL: una disposición legal",
+      "En los dos casos, únicamente una disposición con rango formal de ley, nunca un reglamento",
+      "En los dos casos, una disposición legal o una reglamentaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 114.1.g) LPAC incluye entre los actos que ponen fin a la vía administrativa «las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca». El art. 52.2.c) LBRL, para las entidades locales, es más estricto: ponen fin a la vía administrativa las resoluciones de cualquier otra autoridad u órgano «cuando así lo establezca una disposición legal». Para los órganos del Ayuntamiento de Zaragoza que no son el Pleno, el Alcalde ni el Gobierno de Zaragoza, ni resuelven por delegación (art. 52.2.a y b), rige esa exigencia de disposición legal.",
+    "fuente": "Art. 114.1.g) LPAC (Ley 39/2015) y art. 52.2.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 117.3 LPAC, a la solicitud de suspensión de la ejecución del acto recurrido no se le aplica lo establecido en el art. 21.4, segundo párrafo. ¿Qué deber queda así excluido?",
+    "options": [
+      "Dictar resolución expresa sobre la solicitud de suspensión y notificarla al recurrente",
+      "Publicar en el portal web la relación de procedimientos, con sus plazos máximos y los efectos del silencio",
+      "Informar al interesado, en diez días, del plazo máximo para resolver y de los efectos del silencio",
+      "Resolver la solicitud en el plazo de tres meses cuando la norma reguladora no fije otro plazo"
+    ],
+    "correct": 2,
+    "exp": "El art. 117.3 dice que la ejecución se entenderá suspendida si pasa un mes desde que la solicitud de suspensión entró en el registro electrónico sin que se haya dictado y notificado resolución expresa, y añade: «En estos casos, no será de aplicación lo establecido en el artículo 21.4 segundo párrafo». Ese párrafo obliga a informar a los interesados del plazo máximo para resolver y de los efectos del silencio, mediante una comunicación dentro de los diez días siguientes a la recepción de la solicitud. No se excluye el deber de dictar y notificar resolución expresa (el propio art. 117.3 parte de él), ni la publicación en el portal web, que está en el primer párrafo del art. 21.4, ni el plazo supletorio de tres meses, que está en el art. 21.3.",
+    "fuente": "Art. 117.3 LPAC (Ley 39/2015), en relación con el art. 21.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Ayuntamiento de Zaragoza tramita la revisión de oficio de un acto nulo de pleno derecho. ¿Qué órgano emite el dictamen preceptivo previsto en el art. 106.1 LPAC?",
+    "options": [
+      "El Consejo Jurídico Municipal creado por el Gobierno de Zaragoza",
+      "La Comisión Jurídica Asesora del Gobierno de Aragón",
+      "El Consejo Consultivo de Aragón",
+      "El Justicia de Aragón, como comisionado de las Cortes"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.1 LPAC exige dictamen favorable «del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere». En Aragón ese órgano es el Consejo Consultivo de Aragón: el art. 15.5 de la Ley 1/2009 le atribuye con carácter preceptivo la «revisión de oficio de actos y disposiciones administrativas nulos de pleno derecho y recursos administrativos de revisión», y su art. 13.2 prevé que los entes locales le pidan dictamen a través del Consejero competente en Administración Local. El art. 136.2 de la Ley 7/1999, de Administración Local de Aragón, todavía nombra a la Comisión Jurídica Asesora, pero esa Comisión dejó de ejercer sus funciones al constituirse el Consejo Consultivo (disposición transitoria primera de la Ley 1/2009). El Consejo Jurídico Municipal que puede crear el Gobierno de Zaragoza emite informes no vinculantes (art. 17 Ley 10/2017) y no sustituye al órgano consultivo autonómico. El Justicia de Aragón no es un órgano consultivo.",
+    "fuente": "Art. 15.5 Ley 1/2009, del Consejo Consultivo de Aragón (BOE-A-2009-7196), en relación con el art. 106.1 LPAC y el art. 136.2 Ley 7/1999",
+    "confianza": "alta"
+  }
+]);
