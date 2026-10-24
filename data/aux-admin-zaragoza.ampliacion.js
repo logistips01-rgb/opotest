@@ -62381,3 +62381,410 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 2 · lote 2026-10-24 · 31 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 2, [
+  {
+    "q": "¿En cuántas partes y anexos se estructura el II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza?",
+    "options": [
+      "En 10 partes y 3 anexos",
+      "En 12 partes y 2 anexos",
+      "En 15 partes y 4 anexos",
+      "En 12 partes y 4 anexos"
+    ],
+    "correct": 3,
+    "exp": "La Introducción dice que «el Plan se estructura en 12 partes y cuatro anexos»: de la Introducción (1) al Protocolo frente al acoso (12), y los Anexos I (medidas en proceso permanente del I PIEEM), II (Protocolo), III (modelo de ficha de recogida de datos) y IV (Diagnóstico de la plantilla).",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 1 'Introducción', pág. 7 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, la OCDE define la brecha salarial como la diferencia entre las retribuciones salariales de los hombres y de las mujeres, expresada como un porcentaje:",
+    "options": [
+      "Del salario femenino",
+      "Del salario masculino",
+      "Del salario medio de la plantilla",
+      "Del salario mínimo interprofesional"
+    ],
+    "correct": 1,
+    "exp": "El Marco conceptual define la brecha salarial como «la diferencia entre las retribuciones salariales de los hombres y de las mujeres, expresada como un porcentaje del salario masculino», según la OCDE. Añade que la Comisión Europea la define como la diferencia relativa en el ingreso bruto promedio de mujeres y hombres dentro de la economía en su conjunto.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 3 'Marco conceptual', voz 'Brecha salarial', pág. 12 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, existe presencia o composición equilibrada entre mujeres y hombres cuando, en el conjunto de que se trate, las personas de cada sexo:",
+    "options": [
+      "No superan el 55 % ni son menos del 45 %",
+      "No superan el 70 % ni son menos del 30 %",
+      "No superan el 60 % ni son menos del 40 %",
+      "No superan el 65 % ni son menos del 35 %"
+    ],
+    "correct": 2,
+    "exp": "El Marco conceptual define la presencia o composición equilibrada (paridad) como la presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, «las personas de cada sexo no superen el 60 % ni sean menos del 40 %», con cita de la disposición adicional primera de la LO 3/2007.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 3 'Marco conceptual', voz 'Presencia o composición equilibrada', pág. 14 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cómo se denomina la división tradicional del trabajo entre mujeres y hombres, producida por los estereotipos de género, que ha generado ocupaciones masculinizadas o feminizadas?",
+    "options": [
+      "Segregación vertical",
+      "Techo de cristal",
+      "Discriminación indirecta",
+      "Segregación horizontal"
+    ],
+    "correct": 3,
+    "exp": "Bajo la voz «Segregación ocupacional», el Marco conceptual dice que esa división tradicional del trabajo «ha generado ocupaciones masculinizadas o feminizadas, es lo que se denomina segregación horizontal». La segregación vertical es otra cosa: el desigual reparto del poder por el que los hombres son mayoría en los puestos o categorías de los escalafones superiores. El techo de cristal y la discriminación indirecta no se refieren a la división por ocupaciones.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 3 'Marco conceptual', voz 'Segregación ocupacional', pág. 14 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, el informe de impacto de género es el análisis de un proyecto normativo, una intervención o un contrato que se realiza:",
+    "options": [
+      "Antes de su aplicación",
+      "Una vez finalizada su ejecución",
+      "Durante su primer año de aplicación",
+      "Solo cuando se presenta una queja"
+    ],
+    "correct": 0,
+    "exp": "El Marco conceptual lo define como el «análisis de un proyecto normativo, una intervención, un contrato…, previo a su aplicación», para verificar si se ha tenido en cuenta el efecto que producirá en mujeres y hombres y, si se prevén consecuencias que provoquen desventaja en uno u otro sexo, proponer su modificación (con cita del art. 19 LO 3/2007).",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 3 'Marco conceptual', voz 'Informe de impacto de género', pág. 14 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 5.1 (Ámbito personal) del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué se prevé respecto de las empresas contratadas por el Ayuntamiento?",
+    "options": [
+      "Incluirlas en el ámbito personal del Plan con todos sus efectos",
+      "Darles traslado para su conocimiento y aplicación si procede",
+      "Exigirles un plan de igualdad propio como condición para contratar",
+      "Excluirlas del Plan sin necesidad de comunicación alguna"
+    ],
+    "correct": 1,
+    "exp": "El ámbito personal alcanza a todo el personal funcionario y laboral del Ayuntamiento y a sus organismos autónomos que no tengan plan propio y se adhieran al acuerdo de condiciones de trabajo comunes, «dando traslado a las empresas contratadas por el Ayuntamiento de Zaragoza a los efectos de su conocimiento y aplicación si procede». No las incluye en su ámbito personal, no les impone un plan propio como condición para contratar ni las deja sin comunicación.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 5.1 'Ámbito personal', pág. 16 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 6 (Metodología) del II Plan de Igualdad del Ayuntamiento de Zaragoza, el Plan es «flexible y dinámico» porque:",
+    "options": [
+      "Permite a cada Área municipal decidir qué acciones aplica y en qué momento las desarrolla",
+      "Puede ser modificado por la Alcaldía sin la intervención de la Comisión de Igualdad",
+      "Se adapta a nuevas normas de igualdad y a los resultados de su evaluación continua",
+      "Sus acciones se renuevan de forma automática al comienzo de cada ejercicio presupuestario"
+    ],
+    "correct": 2,
+    "exp": "La Metodología dice: «Es un plan flexible y dinámico, que se adapta a nuevas normas y disposiciones que se puedan poner en marcha en materia de igualdad y a los resultados de la evaluación continua que se realiza sobre el mismo, para optimizar el alcance de sus acciones». Las demás opciones no figuran en el Plan.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 6 'Metodología', pág. 17 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué eje de actuación se articula en solo dos líneas de actuación?",
+    "options": [
+      "El Eje A",
+      "El Eje C",
+      "El Eje B",
+      "El Eje D"
+    ],
+    "correct": 1,
+    "exp": "El apdo. 8 dice: «EL EJE DE ACTUACIÓN C tiene dos líneas de actuación»: C.1 Conciliación y C.2 Corresponsabilidad (Eje «Conciliación y corresponsabilidad»). El Eje A (Cultura de la organización) tiene cuatro líneas y los Ejes B (Gestión de Recursos Humanos) y D (Prevención, salud laboral y protección frente al acoso) tienen tres cada uno.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 8 'Objetivos', pág. 20 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuál es la única línea de actuación que cuenta con tres objetivos específicos?",
+    "options": [
+      "B.1 Acceso",
+      "D.3 Protección frente al acoso sexual y por razón de sexo",
+      "B.2 Plantilla, RPT y promoción profesional",
+      "A.4 Estructura y órganos municipales para el seguimiento del PIEEM"
+    ],
+    "correct": 2,
+    "exp": "El apdo. 8 dice que la «Línea B.2 Plantilla, RPT y promoción profesional, con tres objetivos específicos y 3 acciones». La Línea B.1 Acceso tiene dos objetivos específicos, y las Líneas D.3 (Protección frente al acoso) y A.4 (Estructura y órganos municipales para el seguimiento del PIEEM) tienen uno cada una; ninguna otra línea llega a tres.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 8 'Objetivos', pág. 20 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuál de las siguientes es una de las líneas de actuación del Eje D?",
+    "options": [
+      "Retribuciones",
+      "Formación",
+      "Corresponsabilidad",
+      "Clima laboral"
+    ],
+    "correct": 3,
+    "exp": "El Eje D tiene tres líneas: D.1 Prevención y salud laboral, D.2 Clima laboral y D.3 Protección frente al acoso sexual, el acoso por razón de sexo y el acoso por orientación sexual. Retribuciones es la Línea B.3, Formación la A.3 y Corresponsabilidad la C.2.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 8 'Objetivos', pág. 20 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción A.2.1.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, se insta a quienes forman los órganos representativos y de negociación a que presenten una composición equilibrada entre mujeres y hombres, respetando los principios de:",
+    "options": [
+      "Especialización y profesionalidad",
+      "Antigüedad y jerarquía",
+      "Proporcionalidad y representatividad",
+      "Publicidad y transparencia"
+    ],
+    "correct": 0,
+    "exp": "La acción A.2.1.1 (objetivo A.2.1, Línea A.2 Participación y negociación) consiste en «instar a las personas que forman los órganos representativos y de negociación del Ayuntamiento de Zaragoza a que presenten una composición equilibrada entre mujeres y hombres, respetando los principios de especialización y profesionalidad».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje A, Línea A.2, acción A.2.1.1, pág. 29 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción A.2.1.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿a quién se dirigen las campañas de sensibilización para que perciban la importancia de su participación en los órganos representativos?",
+    "options": [
+      "A las jefaturas de servicio municipales",
+      "A las trabajadoras municipales",
+      "Al personal de nuevo ingreso",
+      "A los delegados de prevención"
+    ],
+    "correct": 1,
+    "exp": "La acción A.2.1.2 prevé «promover campañas de sensibilización dirigidas a trabajadoras municipales para que perciban la importancia de su participación en los órganos representativos», dentro del objetivo de promover la presencia equilibrada de mujeres y hombres en esos órganos.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje A, Línea A.2, acción A.2.1.2, pág. 29 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción A.3.1.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿para qué personal se incorporará un módulo de formación en Igualdad?",
+    "options": [
+      "Para el personal directivo",
+      "Para el personal eventual",
+      "Para el personal de nuevo acceso",
+      "Para el personal en segunda actividad"
+    ],
+    "correct": 2,
+    "exp": "La acción A.3.1.2 (objetivo A.3.1, Línea A.3 Formación) consiste en «incorporar un módulo de formación en Igualdad para el personal de nuevo acceso», con la Oficina de Recursos Humanos y el Servicio de Mujer e Igualdad como responsables.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje A, Línea A.3, acción A.3.1.2, pág. 31 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción B.1.1.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, en relación con la Oferta de Empleo Público se prevé considerar:",
+    "options": [
+      "Una puntuación adicional en la fase de concurso para las personas del sexo menos representado",
+      "La exención de las pruebas físicas a las aspirantes en todas las plazas ofertadas",
+      "Un cupo mínimo del 40 % de mujeres en todas las plazas de la oferta",
+      "La reserva de plazas para personas con dificultades de acceso al empleo por razón de género"
+    ],
+    "correct": 3,
+    "exp": "La acción B.1.1.1 consiste en «considerar la reserva de plazas para personas con dificultades de acceso al empleo por razón de género y velar por la idoneidad de las plazas asignadas». El Plan no prevé puntuaciones adicionales ni cupos del 40 %; respecto de las pruebas físicas, la acción B.1.1.3 solo prevé revisar las bases de las plazas con pruebas físicas donde la presencia de mujeres sea escasa, para introducir medidas de acción positiva si procede.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje B, Línea B.1, acción B.1.1.1, pág. 34 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción B.1.2.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, se continuará con el criterio de paridad en la composición de los órganos de selección de personal y, cuando se produzca desigualdad de representación:",
+    "options": [
+      "Deberá motivarse esa desigualdad",
+      "Deberá anularse el nombramiento del órgano",
+      "Deberá suspenderse el proceso selectivo",
+      "Deberá comunicarse a la Inspección de Trabajo"
+    ],
+    "correct": 0,
+    "exp": "La acción B.1.2.1 consiste en «continuar con el criterio de paridad en la composición de los órganos de selección de personal y motivar la desigualdad de representación cuando se produzca». No prevé anular el nombramiento, suspender el proceso ni comunicarlo a la Inspección de Trabajo.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje B, Línea B.1, acción B.1.2.1, pág. 35 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción C.1.2.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿a quién se dirige la sensibilización sobre la importancia de ejercer el derecho a la conciliación del personal municipal?",
+    "options": [
+      "Al personal que se incorpora tras una excedencia",
+      "A las jefaturas municipales con personal a su cargo",
+      "A la representación sindical en la mesa de negociación",
+      "Al personal municipal con hijos o hijas menores de doce años"
+    ],
+    "correct": 1,
+    "exp": "La acción C.1.2.1 (objetivo C.1.2, corregir los obstáculos que puedan impedir el uso de las medidas de conciliación) consiste en «sensibilizar a las jefaturas municipales con personal a su cargo sobre la importancia de ejercer el derecho a la conciliación del personal municipal».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje C, Línea C.1, acción C.1.2.1, pág. 39 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción D.1.1.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿sobre qué materia se continuará formando al personal sanitario del Servicio de Prevención y Salud Laboral para el desarrollo de acciones preventivas?",
+    "options": [
+      "«Ergonomía y embarazo»",
+      "«Riesgos psicosociales»",
+      "«Salud y género»",
+      "«Clima laboral y acoso»"
+    ],
+    "correct": 2,
+    "exp": "La acción D.1.1.2 (objetivo D.1.1, integrar la perspectiva de género en la prevención de riesgos laborales) consiste en «continuar con la formación para el personal sanitario del Servicio de Prevención y Salud Laboral sobre “Salud y género”, para el desarrollo de acciones preventivas».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje D, Línea D.1, acción D.1.1.2, pág. 41 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 10 del II Plan de Igualdad del Ayuntamiento de Zaragoza, las decisiones y acuerdos alcanzados en el seno de la Comisión de Igualdad:",
+    "options": [
+      "Tendrán carácter reservado",
+      "Se publicarán solo si son unánimes",
+      "Se comunicarán solo a las partes",
+      "Serán todos ellos públicos"
+    ],
+    "correct": 3,
+    "exp": "El apdo. 10 dice que «todas las decisiones y acuerdos alcanzados en el seno de dicha Comisión serán públicos». Entre sus funciones figura también realizar una memoria anual de carácter público.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 10 'La Comisión de Igualdad', pág. 45 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 10 del II Plan de Igualdad del Ayuntamiento de Zaragoza, en la evaluación final, ¿cómo se denominan los indicadores que proporcionan información sobre los procedimientos de trabajo y gestión del plan, como el grado de compromiso de los agentes implicados en la ejecución de las acciones?",
+    "options": [
+      "Indicadores de proceso",
+      "Indicadores de impacto",
+      "Indicadores de resultados",
+      "Indicadores de valoración subjetiva"
+    ],
+    "correct": 0,
+    "exp": "El apartado «Evaluación final» habla de «indicadores de proceso, aquellos que proporcionan información sobre los procedimientos de trabajo y gestión del plan», por ejemplo el grado de compromiso de los agentes implicados o el grado de coordinación de acciones compartidas. Los indicadores de resultados miden la ejecución de las acciones, los de valoración subjetiva valoran su calidad, eficacia, eficiencia y adecuación, y los de impacto miden los avances en igualdad en cada eje.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 10 'Evaluación final', pág. 47 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. 12 del II Plan de Igualdad del Ayuntamiento de Zaragoza, el Protocolo de Prevención y Actuación frente al Acoso Sexual, Acoso por razón de sexo y Acoso por Orientación sexual fue aprobado por:",
+    "options": [
+      "El Gobierno de Zaragoza, el 18 de abril de 2013",
+      "La Comisión de Igualdad, el 24 de junio de 2016",
+      "La Comisión Negociadora, el 1 de marzo de 2023",
+      "La Mesa para la Igualdad, el 9 de marzo de 2009"
+    ],
+    "correct": 1,
+    "exp": "El apdo. 12 dice que «el Ayuntamiento de Zaragoza aprobó en la Comisión de Igualdad del 24 de junio de 2016 el Protocolo», que se incorporó al pacto convenio vigente en ese momento; el Anexo II lo repite («Aprobado en la Comisión de Igualdad de 24 de junio de 2016»). El 18 de abril de 2013 se aprobó el I Plan, el 1 de marzo de 2023 la Comisión Negociadora aprobó el texto del II Plan y el 9 de marzo de 2009 se constituyó la Mesa para la Igualdad.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 12, pág. 48 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el II Plan de Igualdad del Ayuntamiento de Zaragoza, la asistencia y protección de las víctimas de acoso sexual, por razón de sexo y por orientación sexual se realizará siguiendo los principios de:",
+    "options": [
+      "Publicidad, contradicción, oralidad, inmediación, gratuidad y celeridad",
+      "Legalidad, jerarquía, eficacia, coordinación, descentralización y servicio",
+      "Sigilo, respeto, profesionalidad, objetividad e imparcialidad y celeridad",
+      "Mérito, capacidad, transparencia, igualdad, publicidad y agilidad"
+    ],
+    "correct": 2,
+    "exp": "El apdo. 12, y en los mismos términos la Declaración de principios del Protocolo (Anexo II, apdo. I), garantiza que «la asistencia y protección de las víctimas se realice siguiendo los principios de sigilo, respeto, profesionalidad, objetividad e imparcialidad y celeridad».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 12, pág. 49 de 67; Anexo II, apdo. I, pág. 53 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según las medidas del I PIEEM en proceso permanente (Anexo I del II Plan de Igualdad del Ayuntamiento de Zaragoza), el personal municipal que se incorpora al puesto de trabajo después de permisos o excedencias relacionados con la conciliación tiene acceso preferente a los cursos de formación durante:",
+    "options": [
+      "Seis meses",
+      "Dos años",
+      "Tres meses",
+      "Un año"
+    ],
+    "correct": 3,
+    "exp": "La medida 2 del objetivo 2 (Formación) del Anexo I prevé el «acceso preferente, durante un año, a los cursos de formación al personal municipal que se incorpora al puesto de trabajo después de permisos o excedencias relacionados con la conciliación de la vida personal, laboral y familiar».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo I, Área de trabajo Formación, objetivo 2, medida 2, pág. 51 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. IV del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), el acoso de intercambio o chantaje sexual es el producido por:",
+    "options": [
+      "Superiores jerárquicos o quienes deciden sobre su empleo y sus condiciones de trabajo",
+      "Compañeras o compañeros del mismo nivel jerárquico que la persona acosada, exclusivamente",
+      "Personal de las empresas externas contratadas por el Ayuntamiento para prestar servicios",
+      "Personas usuarias de los servicios municipales atendidas por la persona acosada"
+    ],
+    "correct": 0,
+    "exp": "El apdo. IV define el acoso de intercambio o chantaje sexual como «el producido por personal superior jerárquico o personas cuyas decisiones pueden tener efectos sobre el empleo y las condiciones de trabajo de la persona acosada»; por ejemplo, demandas de favores sexuales relacionadas con la carrera profesional, la mejora de las condiciones de trabajo o la conservación del puesto. El otro tipo de acoso sexual, el ambiental, es la conducta que crea un entorno laboral intimidatorio, hostil o humillante.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. IV, pág. 54 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VI del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), la aplicación del Protocolo, respecto de las acciones legales oportunas de las personas implicadas:",
+    "options": [
+      "Impide ejercitarlas hasta que concluya el procedimiento",
+      "No impide nunca su utilización paralela o posterior",
+      "Solo permite ejercitarlas una vez archivada la denuncia",
+      "Exige renunciar a ellas para poder acogerse al Protocolo"
+    ],
+    "correct": 1,
+    "exp": "La garantía 6 del apdo. VI dice: «La aplicación de este protocolo no impedirá en ningún caso la utilización, paralela o posterior, por parte de las personas implicadas, de las acciones legales oportunas».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VI.6, pág. 57 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VII.2 del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), el documento de constitución del Comité de Asesoramiento, además de nombrar a las personas que lo componen, designará a una de ellas como:",
+    "options": [
+      "Presidenta",
+      "Secretaria",
+      "Tramitadora",
+      "Instructora"
+    ],
+    "correct": 2,
+    "exp": "El apdo. VII.2 dice que «el documento de constitución del Comité de Asesoramiento además de nombrar a las personas que componen el mismo, designará a una de ellas como tramitadora». El Protocolo no prevé una presidencia, una secretaría ni una instrucción dentro del Comité.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VII.2, págs. 58-59 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VIII.A del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), si la denuncia se presenta de forma verbal:",
+    "options": [
+      "No podrá admitirse a trámite en ningún caso",
+      "Deberá reiterarse ante el Comité de Asesoramiento",
+      "Deberá grabarse con el consentimiento de las partes",
+      "Deberá ratificarse después por escrito"
+    ],
+    "correct": 3,
+    "exp": "El apdo. VIII.A dice: «La denuncia podrá ser de forma verbal o escrita. Si fuese verbal la persona denunciante deberá ratificarla por escrito». Las que no se admiten a trámite son las denuncias anónimas.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.A, pág. 59 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VIII.A del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), una vez presentada la denuncia se reunirán de urgencia dos personas de la Asesoría Confidencial, procurando que una de ellas sea siempre:",
+    "options": [
+      "Un/a Agente de Igualdad",
+      "Un/a Delegado/a de Prevención",
+      "Un/a representante sindical",
+      "Un/a abogado/a de la Asesoría Jurídica"
+    ],
+    "correct": 0,
+    "exp": "El apdo. VIII.A dice que «una vez presentada la denuncia se reunirán de urgencia dos personas de la Asesoría Confidencial, procurando que una de ellas siempre sea un/a Agente de Igualdad». Si la persona denunciante se ha dirigido directamente a una persona concreta de la Asesoría Confidencial, será esta quien inicie el procedimiento.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.A, pág. 60 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VIII.C del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), una de las situaciones en que puede concluir el procedimiento informal es que la persona denunciante y la denunciada identifiquen y analicen los hechos y haya:",
+    "options": [
+      "Una indemnización a la víctima",
+      "Un compromiso de no repetición",
+      "Un traslado voluntario de puesto",
+      "Una amonestación por escrito"
+    ],
+    "correct": 1,
+    "exp": "El apdo. VIII.C recoge tres situaciones posibles: a) «la persona denunciante y la persona denunciada identifican y analizan los hechos y hay un compromiso de no repetición»; b) la Asesoría Confidencial propone actuaciones y ambas partes muestran su acuerdo; c) no hay acuerdo y se inicia el procedimiento formal.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.C, pág. 60 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VIII.C del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), la Asesoría Confidencial dará conocimiento del resultado del procedimiento informal a:",
+    "options": [
+      "La Comisión de Igualdad y, en todo caso, la Alcaldía-Presidencia del Ayuntamiento de Zaragoza",
+      "La Junta de Personal y, si fuera necesario, el Comité de Empresa del Ayuntamiento",
+      "El Comité de Asesoramiento y, si fuera necesario, el Servicio de Relaciones Laborales",
+      "La Asesoría Jurídica Municipal y, en todo caso, la Inspección de Trabajo"
+    ],
+    "correct": 2,
+    "exp": "El apdo. VIII.C dice: «La Asesoría Confidencial dará conocimiento del resultado del procedimiento informal al Comité de Asesoramiento y si fuera necesario al Servicio de Relaciones Laborales».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.C, pág. 61 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VIII.D del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), si del análisis del caso se dedujera alguna otra falta distinta de los tipos de acoso objeto del Protocolo y tipificada en la normativa laboral existente:",
+    "options": [
+      "Se archivaría la denuncia por quedar fuera del ámbito del Protocolo",
+      "Se devolvería el caso a la Asesoría Confidencial para tramitar el procedimiento informal",
+      "Se trasladaría a la Comisión de Igualdad para que dicte la resolución",
+      "Se propondría la incoación del expediente disciplinario que corresponda"
+    ],
+    "correct": 3,
+    "exp": "Entre las alternativas del informe de valoración del Comité de Asesoramiento, la letra b) del apdo. VIII.D dice: «Si del análisis del caso se dedujera alguna otra falta distinta de los tipos de acosos objeto de este Protocolo y que estuviera tipificada en la normativa laboral existente, se propondría la incoación del expediente disciplinario que corresponda».",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.D.b), pág. 62 de 67",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apdo. VIII.E del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), de la decisión que adopte el Comité de Asesoramiento tras las alegaciones se dará traslado a la persona denunciante, a la persona denunciada y a:",
+    "options": [
+      "La Dirección del Área donde presta sus servicios la persona presuntamente acosada",
+      "La Junta de Personal o el Comité de Empresa, según el régimen jurídico de la víctima",
+      "La Comisión de Igualdad, para que la incluya y publique en su memoria anual",
+      "La Alcaldía-Presidencia, para su conocimiento y ratificación en su caso"
+    ],
+    "correct": 0,
+    "exp": "El apdo. VIII.E dice: «De la decisión aquí adoptada se dará traslado a la persona denunciante, a la persona denunciada y a la Dirección del Área donde presta sus servicios la persona presuntamente acosada». Las partes pueden alegar en el plazo máximo de cinco días laborables, y el Comité puede rechazar la alegación o modificar la resolución.",
+    "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.E, pág. 64 de 67",
+    "confianza": "alta"
+  }
+]);

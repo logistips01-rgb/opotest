@@ -1,71 +1,151 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 2,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el art. 12.2 de la LO 3/2007, la capacidad y legitimación de las personas físicas y jurídicas con interés legítimo se refiere a los procesos sobre defensa del derecho a la igualdad de los órdenes:",
+      "q": "Según la Introducción del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuándo se constituyó una Comisión para la Igualdad de carácter permanente, con la función de coordinar, seguir y evaluar las medidas del Plan de Igualdad?",
       "options": [
-        "Penal, civil y contencioso-administrativo",
-        "Civil, social y contencioso-administrativo",
-        "Penal, social y contencioso-administrativo",
-        "Civil, penal y social"
+        "El 26 de octubre de 2014",
+        "El 15 de noviembre de 2022",
+        "El 18 de abril de 2013",
+        "El 24 de junio de 2016"
       ],
-      "correct": 1,
-      "exp": "El art. 12.2 habla de «los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa de este derecho». El orden penal no se menciona; de hecho, el art. 13.2 excluye también los procesos penales de la regla especial de prueba.",
-      "fuente": "Art. 12.2 LO 3/2007 (Ley Orgánica 3/2007, de 22 de marzo)",
+      "correct": 0,
+      "exp": "La Introducción del II Plan dice que «el 26 de octubre de 2014 se constituyó una Comisión para la Igualdad de carácter permanente», formada por representantes de la organización, de las secciones sindicales y agentes de igualdad. Las otras fechas corresponden a otros hechos que recoge el Plan: el 15 de noviembre de 2022 el Grupo Técnico entregó a la Comisión de Igualdad el documento base del II Plan, el 18 de abril de 2013 se aprobó el Primer Plan y el 24 de junio de 2016 la Comisión de Igualdad aprobó el Protocolo frente al acoso.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 1 'Introducción', pág. 6 de 67",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Correcta según el texto (art. 12.2: «procesos civiles, sociales y contencioso-administrativos»), pero repite contenido ya presente en el banco: T2#66 y T2#117 ponen en el propio enunciado «los procesos civiles, sociales y contencioso-administrativos» del art. 12.2, T2#119 compara 12.2 y 12.3, y T2#122 pregunta la exclusión de los procesos penales (art. 13.2), que es lo que distingue aquí la correcta de los distractores. No aporta ningún dato nuevo, y el art. 12.2 ya tiene tres preguntas (regla 6). | Revisor 2 (CONFIRMADA): Art. 12.2 LO 3/2007: «procesos civiles, sociales y contencioso-administrativos». Las tres opciones que incluyen el orden penal son falsas. Las existentes del 12.2 preguntan quién está legitimado, no los órdenes. Título I.",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato meramente histórico de la Introducción (fecha/órgano de una reunión interna del proceso de elaboración), no materia razonable de examen según tools/generar.md y las instrucciones de esta tanda; además el banco ya tiene varias preguntas de fechas de la Introducción (Mesa 9-3-2009, I Plan 2013, diagnóstico 2020, Fase IV 2023). Comprobado en pág. 6 de 67: «El 26 de octubre de 2014 se constituyó una Comisión para la Igualdad de carácter permanente…»; la respuesta y los distractores son correctos, pero se rechaza por el criterio anterior. | Revisor 2 (RECHAZADA): Correcta según el texto (Introducción: «El 26 de octubre de 2014 se constituyó una Comisión para la Igualdad de carácter permanente»); los distractores son fechas reales de otros hechos del Plan y todos falsos para este. Rechazada por pertinencia: es una fecha histórica interna sin efecto normativo, y el banco ya pregunta dos veces la fecha de la Mesa para la Igualdad (9-3-2009), el año de aprobación del I Plan y las fechas de la Fase IV. Añadir más fechas de constitución o de reuniones no es lo que pide generar.md.",
       "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el art. 3.a de la Ley 4/2007 de Aragón, la violencia doméstica comprende también la ejercida sobre las menores o incapaces que convivan con el agresor o que se hallen sujetas, respecto del cónyuge o conviviente, a:",
+      "q": "Según la Introducción del II Plan de Igualdad del Ayuntamiento de Zaragoza (Fase II), ¿qué órgano aprobó el 23 de febrero de 2021 el Diagnóstico de la plantilla municipal que sirvió de base para elaborar el II PIEEM?",
       "options": [
-        "Patria potestad o tutela, siempre que hayan sido declaradas por resolución judicial",
-        "Autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho",
-        "Tutela o curatela, pero no a acogimiento familiar ni a guarda de hecho",
-        "Acogimiento familiar formalizado ante la entidad pública de protección"
+        "La Comisión Negociadora del Plan",
+        "La Comisión de Igualdad",
+        "El Gobierno de Zaragoza",
+        "El Grupo Técnico del Plan"
       ],
       "correct": 1,
-      "exp": "El art. 3.a termina con la violencia ejercida «sobre las menores o incapaces que con él convivan o que se hallen sujetas a autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente». La lista incluye la guarda de hecho y el acogimiento, y no exige declaración judicial ni formalización.",
-      "fuente": "Art. 3.a) Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+      "exp": "En la Fase II, el Diagnóstico de la plantilla realizado en 2020 «es aprobado por la Comisión de Igualdad con fecha 23 de febrero de 2021». La Comisión Negociadora no se constituyó hasta el 20 de febrero de 2023; el Grupo Técnico se creó en la Fase III (27 de abril de 2021) para diseñar el Plan; y al Gobierno de Zaragoza le corresponde aprobar el Plan, no el Diagnóstico.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 1 'Introducción', Fase II, pág. 7 de 67",
       "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La correcta es literal (art. 3.a: «autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente»). Pero el distractor «Acogimiento familiar formalizado ante la entidad pública de protección» no es falso: una menor en acogimiento formalizado del cónyuge está comprendida en «acogimiento», y la opción no lleva ningún «solo» ni ninguna exclusión, a diferencia de los otros dos distractores («siempre que...», «pero no a...»). Hay dos opciones defendibles. Arreglo: «Únicamente a acogimiento familiar formalizado ante la entidad pública de protección» o «Acogimiento, siempre que se haya formalizado ante la entidad pública de protección». | Revisor 2 (DUDOSA): La correcta es exacta (art. 3.a Ley 4/2007). Pero el distractor «Acogimiento familiar formalizado ante la entidad pública de protección» también es cierto: un menor en acogimiento formalizado del cónyuge o conviviente está incluido, porque la ley dice «acogimiento» sin más. Ese distractor no pone ninguna restricción («solo», «siempre que»), a diferencia del de la patria potestad. Arreglo: redactarlo como «Solo acogimiento familiar formalizado ante la entidad pública, no la guarda de hecho» o cambiarlo por otro claramente falso.",
-      "_motivo": "veredicto DUDOSA"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato meramente histórico de la Introducción (fecha/órgano de una reunión interna del proceso de elaboración), no materia razonable de examen según tools/generar.md y las instrucciones de esta tanda; además el banco ya tiene varias preguntas de fechas de la Introducción (Mesa 9-3-2009, I Plan 2013, diagnóstico 2020, Fase IV 2023). Comprobado en págs. 6-7 de 67 (Fase II): el Diagnóstico «es aprobado por la Comisión de Igualdad con fecha 23 de febrero de 2021». Contenido correcto; rechazada solo por anecdótica. | Revisor 2 (CONFIRMADA): Comprobado en la Introducción, Fase II: el diagnóstico «es aprobado por la Comisión de Igualdad con fecha 23 de febrero de 2021»; el Anexo IV lo repite. Coincide con la regla del apdo. 11: el diagnóstico del siguiente plan se aprueba «en el seno de la Comisión de Igualdad». Los distractores son falsos: la Comisión Negociadora se constituyó el 20-2-2023, el Grupo Técnico es de la Fase III y el Gobierno de Zaragoza aprueba el Plan. Pregunta por el órgano, no por la fecha. No repite la n.º 86 del banco, que pregunta el año del diagnóstico.",
+      "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el art. 19.2 de la Ley 4/2007 de Aragón, las casas de acogida atenderán, además de a las mujeres víctimas de violencia doméstica, a las que se encuentren en situación de:",
+      "q": "En la Fase III de elaboración del II Plan de Igualdad del Ayuntamiento de Zaragoza («Diseño del Plan»), ¿qué aprobó por unanimidad la Comisión de Igualdad el 27 de abril de 2021?",
       "options": [
-        "Alto riesgo, siempre que dispongan de dispositivo de alarma",
-        "Exclusión social, aunque no hayan sufrido actos de violencia",
-        "Riesgo inminente, y también a las hijas e hijos a su cargo",
-        "Desempleo, si están inscritas como demandantes de empleo"
+        "El texto definitivo del Plan para su aprobación por el Gobierno",
+        "La constitución de la Comisión Negociadora encargada del Plan",
+        "La constitución de un Grupo Técnico para diseñar el Plan",
+        "El Protocolo de actuación frente al acoso sexual y por razón de sexo"
       ],
       "correct": 2,
-      "exp": "El art. 19.2 dice que las casas de acogida «no solo atenderán a las mujeres víctimas de violencia doméstica o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo». El «alto riesgo» es el presupuesto del dispositivo de alarma (art. 24.1), y la inscripción como demandante de empleo se exige para la preferencia en programas de formación e inserción (art. 30.2).",
-      "fuente": "Art. 19.2 Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+      "exp": "Según la Fase III, «con fecha 27 de abril de 2021, la Comisión de Igualdad aprueba por unanimidad la constitución de un Grupo Técnico para trabajar en su diseño», formado paritariamente por personas designadas por la Corporación y por la representación sindical. La Comisión Negociadora se constituyó el 20 de febrero de 2023 y fue ella la que aprobó el texto definitivo el 1 de marzo de 2023; el Protocolo frente al acoso se aprobó en la Comisión de Igualdad de 24 de junio de 2016.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 1 'Introducción', Fase III, pág. 7 de 67",
       "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 19.2 Ley 4/2007: las casas de acogida atienden a las víctimas de violencia doméstica «o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo». Distractores falsos. La explicación sobre el «alto riesgo» del art. 24.1 y la inscripción como demandante del art. 30.2 es exacta. El dato nuevo es el riesgo inminente: T2#155 y T2#159 tratan las hijas e hijos y la autonomía personal, no este supuesto. | Revisor 2 (DUDOSA): El texto es correcto (art. 19.2 Ley 4/2007: «o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo»), y los distractores son falsos. Pero repite en parte y se delata: el banco ya pregunta en dos ocasiones que las casas de acogida atienden «también a las hijas e hijos a su cargo» (art. 19.2), y la correcta es la única opción que añade a los hijos, así que se acierta sin conocer el dato nuevo, el riesgo inminente. Arreglo: dejar la correcta en «Riesgo inminente» y que las cuatro opciones sean situaciones parecidas, sin mencionar a los hijos.",
-      "_motivo": "veredicto DUDOSA"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato meramente histórico de la Introducción (fecha/órgano de una reunión interna del proceso de elaboración), no materia razonable de examen según tools/generar.md y las instrucciones de esta tanda; además el banco ya tiene varias preguntas de fechas de la Introducción (Mesa 9-3-2009, I Plan 2013, diagnóstico 2020, Fase IV 2023). Comprobado en pág. 7 de 67 (Fase III): «Con fecha 27 de abril de 2021, la Comisión de Igualdad aprueba por unanimidad la constitución de un Grupo Técnico…». Contenido correcto; rechazada solo por anecdótica. | Revisor 2 (RECHAZADA): Correcta según la Fase III («Con fecha 27 de abril de 2021, la Comisión de Igualdad aprueba por unanimidad la constitución de un Grupo Técnico»), y los distractores son falsos. Rechazada por pertinencia: pregunta qué se acordó en una reunión interna concreta de la tramitación, un dato histórico sin valor normativo. Es justo el tipo de «fecha de reunión» que generar.md descarta como trivialidad.",
+      "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el apdo. VIII.B del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), tras su análisis inicial la Asesoría Confidencial podrá no admitir a trámite la denuncia cuando:",
+      "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuáles son las áreas funcionales con mayor porcentaje de mujeres?",
       "options": [
-        "La persona denunciada lleve más de diez años en la plantilla municipal",
-        "Considere que la situación denunciada no pertenece al ámbito del Protocolo",
-        "La persona denunciante haya tardado más de un mes en presentar su denuncia",
-        "La persona denunciante no aporte pruebas documentales de los hechos"
+        "Bomberos, Policía Local e Infraestructuras y Medio Ambiente",
+        "Urbanismo, Movilidad y Servicios Públicos",
+        "Cultura, Deportes y Participación Ciudadana",
+        "Economía y Hacienda, Alcaldía y Recursos Humanos"
+      ],
+      "correct": 3,
+      "exp": "El apdo. 7 dice que «las áreas con mayor porcentaje de mujeres son Economía y Hacienda, Alcaldía y Recursos Humanos», donde se realizan tareas administrativas y de servicios a la ciudadanía. Bomberos, seguida de Policía Local e Infraestructuras y Medio Ambiente, son al revés las áreas muy masculinizadas.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 7 'Diagnóstico de la plantilla', pág. 18 de 67",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Pág. 18 de 67: «las áreas con mayor porcentaje de mujeres son Economía y Hacienda, Alcaldía y Recursos Humanos». Contrastado con el Anexo IV (72,3 %, 71,2 % y 61,8 % de mujeres); Cultura, Servicios Públicos y Movilidad y Participación Ciudadana figuran allí como áreas equilibradas, con mayoría de hombres, y Bomberos/Policía/Infraestructuras como masculinizadas, así que los distractores son falsos. Conclusión cualitativa del diagnóstico (segregación horizontal), no cifra; no repite las existentes del diagnóstico. | Revisor 2 (RECHAZADA): Correcta según el apdo. 7 («las áreas con mayor porcentaje de mujeres son Economía y Hacienda, Alcaldía y Recursos Humanos») y el Anexo IV (72,3 %, 71,2 % y 61,8 % de mujeres). Los distractores son falsos: Bomberos, Policía e Infraestructuras son las áreas masculinizadas, y Cultura, Servicios Públicos y Participación son las más equilibradas. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, la composición de los Tribunales de oposiciones:",
+      "options": [
+        "No es paritaria ni en titulares ni en la suma de titulares y suplentes",
+        "Es paritaria en titulares, pero no en la suma de titulares y suplentes",
+        "Es paritaria en la suma de titulares y suplentes, pero no en titulares",
+        "Es paritaria tanto en titulares como en la suma de titulares y suplentes"
+      ],
+      "correct": 0,
+      "exp": "El apdo. 7 recoge que «la composición de los Tribunales de oposiciones no es paritaria ni en titulares ni en la suma de titulares y suplentes». Por eso el Plan fija el objetivo B.1.2 de promover la paridad en los órganos de selección.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 7 'Diagnóstico de la plantilla', pág. 18 de 67",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Pág. 18 de 67: «La composición de los Tribunales de oposiciones no es paritaria ni en titulares ni en la suma de titulares y suplentes». Las otras tres combinaciones son falsas. Conclusión cualitativa ligada al objetivo B.1.2 («Promover la paridad en los órganos de selección»), aunque el «por eso» de la explicación es una inferencia del redactor, no texto del Plan. No repite (la existente pregunta el objetivo B.1.2, no el dato del diagnóstico). | Revisor 2 (RECHAZADA): Correcta según el apdo. 7: «La composición de los Tribunales de oposiciones no es paritaria ni en titulares ni en la suma de titulares y suplentes». Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, del número total de promociones realizadas en el período estudiado, ¿qué porcentaje correspondió a mujeres?",
+      "options": [
+        "El 59,4 %",
+        "El 40,6 %",
+        "El 36,7 %",
+        "El 50,0 %"
       ],
       "correct": 1,
-      "exp": "El apdo. VIII.B permite a la Asesoría Confidencial «no admitir a trámite dicha denuncia si se considera que la situación denunciada no pertenece al ámbito de este Protocolo», remitiendo un escrito a la persona denunciante con los motivos. Las otras dos salidas son iniciar el procedimiento informal o el formal. El Protocolo no prevé la inadmisión por antigüedad del denunciado, por el horario de los hechos ni por falta de prueba documental.",
-      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.B, pág. 60 de 67",
+      "exp": "El apdo. 7 dice que, «del número total de promociones realizadas, el 59,4% corresponde a hombres y el 40,6% a mujeres». El 36,7 % es el porcentaje de mujeres en el total de la plantilla a 30 de junio de 2019, no en las promociones.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 7 'Diagnóstico de la plantilla', pág. 18 de 67",
       "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Pregunta correcta: según el apdo. VIII.B, letra a), cabe no admitir a trámite «si se considera que la situación denunciada no pertenece al ámbito de este Protocolo», y los tres distractores son falsos. Pero la explicación no es exacta respecto de las opciones: descarta la inadmisión «por el horario de los hechos», que no figura en ninguna opción, y omite el distractor real del retraso de más de un mes en denunciar. Arreglo: cambiar en la explicación «por el horario de los hechos» por «por el tiempo transcurrido hasta la denuncia». | Revisor 2 (DUDOSA): La correcta es exacta (VIII.B a, pág. 60) y los tres distractores son falsos. Pero la explicación no cuadra con las opciones: dice que el Protocolo no prevé la inadmisión «por el horario de los hechos», que no es ninguna opción, y no menciona el distractor real «haya tardado más de un mes en presentar su denuncia». Arreglo: cambiar en la explicación «por el horario de los hechos» por «por el tiempo transcurrido hasta la denuncia».",
-      "_motivo": "veredicto DUDOSA"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato del Diagnóstico de 2019 (apdo. 7) de carácter numérico/anecdótico, no materia razonable de examen; el banco ya tiene cinco preguntas de cifras del diagnóstico (5.019 personas/63,3 %, 2,3 puntos, 77,8 % Comité, 67 % directivos, año 2019). Comprobado en pág. 18 de 67: «del número total de promociones realizadas, el 59,4% corresponde a hombres y el 40,6% a mujeres»; contenido correcto, rechazada por ser porcentaje del diagnóstico. | Revisor 2 (RECHAZADA): Correcta según el apdo. 7: «el 59,4% corresponde a hombres y el 40,6% a mujeres». El distractor del 59,4 % es la cifra de los hombres, así que la pregunta se juega a memorizar porcentajes. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, de las diecinueve bandas retributivas en que se dividieron los datos, ¿en cuántas favorece el promedio a los hombres?",
+      "options": [
+        "En tres",
+        "En diez",
+        "En quince",
+        "En diecinueve"
+      ],
+      "correct": 2,
+      "exp": "Según el apdo. 7, «de las diecinueve bandas retributivas en que se han dividido los datos, en quince el promedio favorece a los hombres y solamente en tres favorece a las mujeres». Añade que el tramo retributivo más bajo es mayoritariamente femenino y el más elevado, mayoritariamente masculino.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 7 'Diagnóstico de la plantilla', pág. 19 de 67",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato del Diagnóstico de 2019 (apdo. 7) de carácter numérico/anecdótico, no materia razonable de examen; el banco ya tiene cinco preguntas de cifras del diagnóstico (5.019 personas/63,3 %, 2,3 puntos, 77,8 % Comité, 67 % directivos, año 2019). Comprobado en pág. 19 de 67: «De las diecinueve bandas retributivas… en quince el promedio favorece a los hombres y solamente en tres favorece a las mujeres»; contenido correcto, rechazada por ser cifra del diagnóstico. | Revisor 2 (RECHAZADA): Correcta según el apdo. 7: «en quince el promedio favorece a los hombres y solamente en tres favorece a las mujeres». Es una cifra pura, el recuento de bandas retributivas. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, en materia de formación:",
+      "options": [
+        "Las mujeres asisten más a los cursos de reciclaje y los hombres a los cursos voluntarios",
+        "Mujeres y hombres asisten en igual proporción a los cursos de reciclaje y a los voluntarios",
+        "Los hombres asisten más tanto a los cursos de reciclaje como a los cursos voluntarios",
+        "Los hombres asisten más a los cursos de reciclaje y las mujeres a los cursos voluntarios"
+      ],
+      "correct": 3,
+      "exp": "El apdo. 7 dice que «la asistencia a cursos de reciclaje, realizados con carácter general en horario laboral, tiene presencia más numerosa de hombres, mientras que la asistencia de mujeres a cursos voluntarios es mayor».",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 7 'Diagnóstico de la plantilla', pág. 19 de 67",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Pág. 19 de 67: «la asistencia a cursos de reciclaje… tiene presencia más numerosa de hombres, mientras que la asistencia de mujeres a cursos voluntarios es mayor». La correcta es fiel y las otras tres son falsas según ese texto. Conclusión cualitativa del diagnóstico, sin cifras. No repite. | Revisor 2 (RECHAZADA): Correcta según el apdo. 7: la asistencia a cursos de reciclaje tiene «presencia más numerosa de hombres, mientras que la asistencia de mujeres a cursos voluntarios es mayor». Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, durante el tiempo de existencia del Protocolo frente al acoso (2016-2019), en materia de acoso sexual:",
+      "options": [
+        "No se presentó ninguna denuncia, solo consultas",
+        "Se presentaron tres denuncias, todas archivadas",
+        "Se presentó una denuncia, resuelta por vía informal",
+        "Se presentaron denuncias que acabaron en sanción"
+      ],
+      "correct": 0,
+      "exp": "El apdo. 7 dice que, «en el tiempo de existencia del Protocolo (2016-2019) no se ha presentado ninguna denuncia por acoso sexual, solo consultas». Añade que en procedimientos de acoso laboral sí se detectaron indicios de acoso sexual que no se pudieron evidenciar por falta de denuncia concreta.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 7 'Diagnóstico de la plantilla', pág. 19 de 67",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Dato anecdótico del diagnóstico (número de denuncias presentadas en 2016-2019), no materia razonable de examen. Comprobado en pág. 19 de 67: «en el tiempo de existencia del Protocolo (2016-2019) no se ha presentado ninguna denuncia por acoso sexual, solo consultas»; el contenido es correcto, pero se rechaza por ese criterio. | Revisor 2 (RECHAZADA): Correcta según el apdo. 7: «en el tiempo de existencia del Protocolo (2016-2019) no se ha presentado ninguna denuncia por acoso sexual, solo consultas». Es además un dato histórico de un periodo cerrado. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019).",
+      "_motivo": "veredicto RECHAZADA"
     }
   ]
 }
