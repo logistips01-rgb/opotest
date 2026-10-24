@@ -1,246 +1,70 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 17,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el art. 14.j bis) del TREBEP, el derecho de los empleados públicos a la desconexión digital se reconoce en los términos establecidos en:",
+      "q": "Según el art. 34.2 del TREBEP, los municipios podrán adherirse a la negociación colectiva que se lleve a cabo en el ámbito correspondiente:",
       "options": [
-        "El convenio colectivo o el acuerdo de cada Administración Pública",
-        "La legislación vigente en materia de protección de datos personales y garantía de los derechos digitales",
-        "La legislación de prevención de riesgos laborales",
-        "El Código de Conducta de los empleados públicos"
+        "Con carácter previo, y previa autorización de la comunidad autónoma",
+        "Con carácter previo o de manera sucesiva a ella",
+        "De manera sucesiva, una vez publicado el acuerdo alcanzado",
+        "Mediante convenio con la asociación de municipios correspondiente"
       ],
       "correct": 1,
-      "exp": "El art. 14.j bis) TREBEP (añadido por la LO 3/2018) reconoce el derecho a la intimidad en el uso de dispositivos digitales y frente a la videovigilancia y la geolocalización, «así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales». No remite a convenios o acuerdos, a la normativa de prevención de riesgos ni al Código de Conducta (arts. 52 a 54).",
-      "fuente": "Art. 14.j bis) TREBEP (RDLeg 5/2015)",
+      "exp": "El art. 34.2 TREBEP reconoce la legitimación negocial de las asociaciones de municipios y de las Entidades Locales de ámbito supramunicipal y añade: «A tales efectos, los municipios podrán adherirse con carácter previo o de manera sucesiva a la negociación colectiva que se lleve a cabo en el ámbito correspondiente». Caben ambas modalidades, y el precepto no exige autorización autonómica, publicación previa del acuerdo ni convenio.",
+      "fuente": "Art. 34.2 TREBEP (RDLeg 5/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (104 caracteres) es la más larga con mucha diferencia (distractores 65, 49 y 47); se acierta por la longitud. Contenido correcto: art. 14.j bis) (añadido por DF 14.ª LO 3/2018) remite a la «legislación vigente en materia de protección de datos personales y garantía de los derechos digitales»; distractores falsos. Arreglo: acortar la correcta («La legislación de protección de datos y derechos digitales») o dar a los distractores un matiz de longitud parecida. | Revisor 2 (DUDOSA): Contenido correcto: art. 14.j bis) TREBEP (añadido por la DF 14 de la LO 3/2018) remite a la «legislación vigente en materia de protección de datos personales y garantía de los derechos digitales»; los distractores son falsos. Regla 7 bis: la correcta es la opción más larga (104 car.) frente a 65/49/47 de los distractores; se acierta por la longitud (en el lote la correcta es la más larga en 16 de 40 preguntas, más de un tercio). Arreglo: acortar la correcta («La normativa de protección de datos y garantía de derechos digitales») o alargar los distractores con un matiz igual de plausible (p. ej. «La normativa de prevención de riesgos laborales y de seguridad y salud en el trabajo»).",
+      "notaRevision": "Revisor 1 (DUDOSA): Art. 34.2 literal: «podrán adherirse con carácter previo o de manera sucesiva». Problemas: (1) el distractor «De manera sucesiva, una vez publicado el acuerdo alcanzado» describe una forma de adhesión que la ley admite (adhesión sucesiva; el párr. 2.º del 34.2 permite incluso adherirse a acuerdos ya alcanzados). Añadir la publicación no lo vuelve claramente falso, así que es defendible como cierto. (2) La correcta es la unión de los dos primeros distractores y la más corta (regla 7 bis). Arreglo: distractores claramente excluyentes, p. ej. «Solo con carácter previo al inicio de la negociación», «Solo una vez alcanzado y ratificado el acuerdo», «Únicamente previa autorización de la comunidad autónoma», con longitud parecida a la correcta. No repite la existente del 34.2 (legitimación de asociaciones de municipios). | Revisor 2 (DUDOSA): Art. 34.2: la marcada es literal y correcta, pero la correcta es la unión de las dos mitades que aparecen en otras dos opciones («con carácter previo…» y «de manera sucesiva…»), con lo que se delata. Además, «De manera sucesiva, una vez publicado el acuerdo alcanzado» describe una adhesión que el precepto permite (y el párr. 2.º admite adherirse a acuerdos ya alcanzados): puede leerse como cierta. Arreglo: distractores sin «previo/sucesiva» y claramente falsos (p. ej. «Solo previa autorización de la comunidad autónoma», «Solo mediante delegación en la diputación provincial», «En ningún caso, al tener cada municipio su propia Mesa»).",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 16.4 del TREBEP, cuando la Administración correspondiente las haya implantado en un mismo ámbito, los funcionarios de carrera podrán progresar simultáneamente en las modalidades de:",
+      "q": "Según el art. 39.6 del TREBEP, ¿qué cargos elegirán las Juntas de Personal de entre sus miembros?",
       "options": [
-        "Promoción interna vertical y promoción interna horizontal",
-        "Carrera horizontal y carrera vertical",
-        "Carrera vertical y promoción interna vertical",
-        "Carrera horizontal y promoción interna horizontal"
+        "Un Presidente, un Vicepresidente y un Secretario",
+        "Un Presidente y un Secretario",
+        "Un Presidente; el Secretario lo designa la Administración",
+        "Un Portavoz y un representante ante la Mesa de Negociación"
       ],
       "correct": 1,
-      "exp": "El art. 16.4 TREBEP dispone que «los funcionarios de carrera podrán progresar simultáneamente en las modalidades de carrera horizontal y vertical cuando la Administración correspondiente las haya implantado en un mismo ámbito». La simultaneidad solo se prevé para esas dos modalidades, no para las de promoción interna del art. 16.3.c) y d).",
-      "fuente": "Art. 16.4 TREBEP (RDLeg 5/2015)",
+      "exp": "El art. 39.6 TREBEP dispone: «Las Juntas de Personal elegirán de entre sus miembros un Presidente y un Secretario y elaborarán su propio reglamento de procedimiento». No prevé Vicepresidente ni que la Administración designe al Secretario.",
+      "fuente": "Art. 39.6 TREBEP (RDLeg 5/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Pregunta correcta (art. 16.4: progresión simultánea en carrera horizontal y vertical) y distractores falsos según el 16.4, pero la explicación no es exacta: afirma que «la simultaneidad solo se prevé para esas dos modalidades», cuando el art. 16.3 permite a las leyes la «aplicación aislada o simultánea de alguna o algunas» de las cuatro modalidades. Arreglo: decir que el 16.4 solo reconoce la progresión simultánea del funcionario en carrera horizontal y vertical, sin negar lo del 16.3. | Revisor 2 (DUDOSA): La respuesta es correcta: art. 16.4 TREBEP, «carrera horizontal y vertical». Pero la explicación no es exacta: dice que «la simultaneidad solo se prevé para esas dos modalidades», y el art. 16.3 permite a las leyes de Función Pública la «aplicación aislada o simultánea de alguna o algunas» de las cuatro modalidades. Arreglo: «El art. 16.4 solo prevé la progresión simultánea del funcionario en la carrera horizontal y la vertical; la aplicación aislada o simultánea de modalidades del art. 16.3 es otra cosa: se refiere a lo que regulen las leyes de desarrollo».",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 39.6 literal: Presidente y Secretario. Distractores falsos. La existente del 39.6 pregunta la mayoría de dos tercios del reglamento: no repite. La correcta es más corta, pero no se acierta por la longitud. | Revisor 2 (DUDOSA): Art. 39.6: correcta y literal, pero la correcta («Un Presidente y un Secretario», la más corta) está contenida en la opción de Presidente, Vicepresidente y Secretario y repetida en la de «Presidente; el Secretario lo designa la Administración»: es el núcleo común de tres opciones y se acierta por la forma. Arreglo: distractores que no contengan ambos cargos (p. ej. «Un Presidente y un Vicepresidente», «Un Secretario y un Portavoz», «Un Coordinador y un Tesorero»).",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 17.a) del TREBEP, en el sistema de grados, categorías o escalones de la carrera horizontal, los ascensos serán:",
+      "q": "Según el art. 44.b) del TREBEP, serán electores y elegibles en las elecciones a Delegados y Juntas de Personal los funcionarios que se encuentren en la situación de:",
       "options": [
-        "Automáticos por cada tres años de servicio",
-        "Libres, pudiendo saltarse escalones a criterio del órgano competente",
-        "Consecutivos con carácter general, salvo supuestos excepcionales en que se prevea otra posibilidad",
-        "Consecutivos en todo caso, sin excepción"
+        "Servicio activo o servicios especiales",
+        "Servicio activo o excedencia por cuidado de familiares",
+        "Servicio activo",
+        "Cualquier situación, salvo la suspensión firme de funciones"
       ],
       "correct": 2,
-      "exp": "El art. 17.a) TREBEP prevé un sistema de grados, categorías o escalones con su remuneración y añade: «Los ascensos serán consecutivos con carácter general, salvo en aquellos supuestos excepcionales en los que se prevea otra posibilidad». No son, por tanto, consecutivos sin excepción ni libres. Tampoco son automáticos por antigüedad: el art. 17.b) exige valorar la trayectoria, la calidad de los trabajos, los conocimientos y la evaluación del desempeño (los tres años son la medida del trienio, art. 23.b).",
-      "fuente": "Art. 17.a) TREBEP (RDLeg 5/2015)",
+      "exp": "El art. 44.b) TREBEP dispone: «Serán electores y elegibles los funcionarios que se encuentren en la situación de servicio activo». Añade que no tienen esa consideración los funcionarios que ocupen puestos cuyo nombramiento se efectúe por real decreto o por decreto de los consejos de gobierno de las comunidades autónomas y de las ciudades de Ceuta y Melilla. No se extiende a servicios especiales ni a excedencias.",
+      "fuente": "Art. 44.b) TREBEP (RDLeg 5/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (98 caracteres) es la más larga con mucha diferencia (distractores 68, 42 y 40); se acierta por la longitud. Además la correcta es la única con el matiz «con carácter general, salvo...». Contenido correcto: art. 17.a) «Los ascensos serán consecutivos con carácter general, salvo en aquellos supuestos excepcionales...»; comprobados 17.b) y 23.b) (trienio por cada tres años) citados en la explicación. Arreglo: acortar la correcta («Consecutivos, salvo supuestos excepcionales») o dar matiz a los distractores. | Revisor 2 (DUDOSA): Contenido correcto: art. 17.a) TREBEP, «Los ascensos serán consecutivos con carácter general, salvo en aquellos supuestos excepcionales en los que se prevea otra posibilidad». Distractores falsos y explicación exacta. Regla 7 bis: la correcta es la opción más larga (98 car.) frente a 42/68/40 de los distractores; se acierta por la longitud (en el lote la correcta es la más larga en 16 de 40 preguntas, más de un tercio). Arreglo: acortar la correcta («Consecutivos, salvo supuestos excepcionales previstos») o dar a los distractores un matiz de longitud similar.",
+      "notaRevision": "Revisor 1 (DUDOSA): Art. 44.b) literal y respuesta correcta («servicio activo»); no repite ninguna existente. Duda del redactor: sí se delata (regla 7 bis). La correcta, «Servicio activo» (15 caracteres), es el núcleo común contenido en dos distractores («Servicio activo o servicios especiales», «Servicio activo o excedencia...»). Además mide menos de la mitad que cualquier otra opción, así que se acierta por la forma. Arreglo: preguntar «¿cuál de estos funcionarios es elector y elegible?» con opciones paralelas de longitud similar, p. ej. «Un funcionario en servicio activo en la unidad electoral», «Un funcionario en situación de servicios especiales», «Un funcionario en excedencia por cuidado de familiares», «Un funcionario nombrado por decreto del Consejo de Gobierno autonómico» (este último excluido expresamente por el 44.b). | Revisor 2 (DUDOSA): Art. 44.b): correcta según el texto, pero la correcta «Servicio activo» (15 caracteres frente a 38-59) está contenida literalmente en otras dos opciones («Servicio activo o servicios especiales», «Servicio activo o excedencia…»): se delata por la forma y por ser el núcleo común. Arreglo: opciones de longitud parecida y sin incluir la correcta dentro de otras (p. ej. «Servicio activo, únicamente», «Servicios especiales o servicio en otras Administraciones», «Cualquier situación con reserva de puesto de trabajo», «Excedencia voluntaria por interés particular»).",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 18.4 del TREBEP, en relación con la promoción interna, las Administraciones Públicas:",
+      "q": "Según la disposición adicional decimotercera del TREBEP, las Administraciones Públicas podrán establecer días adicionales de permiso por asuntos particulares por antigüedad:",
       "options": [
-        "Adoptarán medidas que incentiven la participación de su personal en los procesos selectivos de promoción interna y para la progresión en la carrera profesional",
-        "Reservarán a la promoción interna al menos la mitad de las plazas de cada oferta de empleo público",
-        "Podrán eximir de las pruebas selectivas a quienes acrediten cinco años de servicio activo",
-        "Limitarán la participación a quienes hayan obtenido una evaluación del desempeño favorable"
+        "Hasta dos al cumplir el sexto trienio, y como máximo uno más por cada trienio a partir del octavo",
+        "Hasta dos al cumplir el quinto trienio, y como máximo uno más por cada trienio a partir del séptimo",
+        "Hasta uno al cumplir el sexto trienio, y como máximo uno más por cada trienio a partir del octavo",
+        "Hasta dos al cumplir el sexto trienio, y como máximo dos más por cada trienio a partir del octavo"
       ],
       "correct": 0,
-      "exp": "El art. 18.4 TREBEP establece que «las Administraciones Públicas adoptarán medidas que incentiven la participación de su personal en los procesos selectivos de promoción interna y para la progresión en la carrera profesional». El artículo no fija ninguna reserva mínima de plazas ni exige una evaluación favorable, y el art. 18.2 obliga a superar las pruebas selectivas, por lo que no cabe eximir de ellas por antigüedad.",
-      "fuente": "Art. 18.4 TREBEP (RDLeg 5/2015)",
+      "exp": "La disposición adicional decimotercera TREBEP dispone: «Las Administraciones Públicas podrán establecer hasta dos días adicionales de permiso por asuntos particulares al cumplir el sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo». Es una facultad («podrán») de cada Administración.",
+      "fuente": "Disposición adicional decimotercera TREBEP (RDLeg 5/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (159 caracteres) es la más larga con mucha diferencia (distractores 98, 89 y 90); se acierta por la longitud. Contenido correcto: art. 18.4 literal; el TREBEP no fija reserva de plazas para promoción interna ni exige evaluación favorable, y el 18.2 exige superar las pruebas. Arreglo: acortar la correcta («Adoptarán medidas que incentiven la participación de su personal en la promoción interna») o alargar los distractores. | Revisor 2 (DUDOSA): Contenido correcto: art. 18.4 TREBEP, literal. Los distractores son falsos (el art. 18.2 exige superar las pruebas; no hay reserva mínima ni exigencia de evaluación favorable). Regla 7 bis: la correcta es la opción más larga (159 car.) frente a 98/89/90 de los distractores; se acierta por la longitud (en el lote la correcta es la más larga en 16 de 40 preguntas, más de un tercio). Arreglo: acortar la correcta («Adoptarán medidas que incentiven la participación de su personal en la promoción interna») o alargar los distractores.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 20.5 del TREBEP, ¿qué retribuciones complementarias del art. 24 requieren, para su aplicación, la aprobación previa de sistemas objetivos de evaluación del desempeño?",
-      "options": [
-        "Apartado a): la progresión alcanzada dentro del sistema de carrera administrativa",
-        "Apartado b): la especial dificultad técnica, responsabilidad o dedicación del puesto",
-        "Apartado c): el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados obtenidos",
-        "Apartado d): los servicios extraordinarios prestados fuera de la jornada normal"
-      ],
-      "correct": 2,
-      "exp": "El art. 20.5 TREBEP exige la aprobación previa de sistemas objetivos de evaluación del desempeño para tres cosas: la aplicación de la carrera horizontal, «de las retribuciones complementarias derivadas del apartado c) del artículo 24» y el cese en el puesto obtenido por concurso. El apartado c) del art. 24 es el que retribuye el interés, la iniciativa o el esfuerzo y el rendimiento o resultados. Los apartados a), b) y d) no se mencionan en el art. 20.5.",
-      "fuente": "Art. 20.5 TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La respuesta literal es correcta (el art. 20.5 solo nombra el apartado c) del art. 24; comprobados los apartados a) a d) del art. 24). Pero el distractor del apartado a) («progresión alcanzada dentro del sistema de carrera administrativa») no es claramente falso: el mismo art. 20.5 exige evaluación previa para «la aplicación de la carrera profesional horizontal», y la retribución por el grado alcanzado en esa carrera es justamente la del 24.a). Un opositor bien preparado puede dudar. Arreglo: sustituir ese distractor por uno sin relación con la carrera (por ejemplo, las pagas extraordinarias del art. 22.4 o las indemnizaciones del art. 28). | Revisor 2 (CONFIRMADA): El art. 20.5 TREBEP cita expresamente solo el «apartado c) del artículo 24» (interés, iniciativa o esfuerzo, rendimiento o resultados). Los apartados a), b) y d) no se mencionan. Nota: el 24.a) retribuye la progresión en la carrera, y el art. 20.5 exige la evaluación para aplicar la carrera horizontal, pero el enunciado se ciñe a las retribuciones complementarias que nombra el 20.5, que solo son las del apartado c).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según la escala del art. 41.1.d) del TREBEP, en una unidad electoral de 251 a 500 funcionarios, el crédito de horas mensuales retribuidas de los miembros de la Junta de Personal es de:",
-      "options": [
-        "20 horas",
-        "30 horas",
-        "35 horas",
-        "40 horas"
-      ],
-      "correct": 1,
-      "exp": "El art. 41.1.d) TREBEP fija un crédito de horas mensuales dentro de la jornada, retribuidas como trabajo efectivo, según esta escala: hasta 100 funcionarios, 15; de 101 a 250, 20; de 251 a 500, 30; de 501 a 750, 35; de 751 en adelante, 40. Los miembros de la misma candidatura pueden acumular sus créditos, previa comunicación a la Jefatura de Personal.",
-      "fuente": "Art. 41.1.d) TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Repite una pregunta existente. Cifra correcta (art. 41.1.d: de 251 a 500 funcionarios, 30 horas; toda la escala de la explicación comprobada), pero T17 ya tiene «Según la escala del artículo 41.1.d) TREBEP, el crédito de horas mensuales retribuidas para una unidad electoral de hasta 100 funcionarios es de: 15 horas», con el mismo enunciado, la misma escala y casi las mismas opciones (20/30/35). Solo cambia el tramo: es la misma pregunta con otro número (regla 6). | Revisor 2 (CONFIRMADA): Escala del art. 41.1.d) TREBEP comprobada: hasta 100: 15; 101-250: 20; 251-500: 30; 501-750: 35; 751 en adelante: 40. Los cuatro valores son de la escala y solo el 30 corresponde al tramo 251-500. Ya existe en el banco la pregunta del tramo «hasta 100» (15 horas); esta pregunta otro tramo y no la considero repetida.",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 42 del TREBEP, si al término del mandato de los Delegados y de los miembros de las Juntas de Personal no se han promovido nuevas elecciones:",
-      "options": [
-        "El mandato se extingue y la representación la asumen provisionalmente los sindicatos más representativos",
-        "El mandato se prorroga por un máximo de seis meses y esos representantes se computan a todos los efectos",
-        "La Administración debe convocar de oficio las elecciones en el plazo de un mes",
-        "El mandato se entiende prorrogado, pero esos representantes no se contabilizan para determinar la capacidad representativa de los sindicatos"
-      ],
-      "correct": 3,
-      "exp": "El art. 42 TREBEP fija un mandato de cuatro años, con reelección, y añade: «El mandato se entenderá prorrogado si, a su término, no se hubiesen promovido nuevas elecciones, sin que los representantes con mandato prorrogado se contabilicen a efectos de determinar la capacidad representativa de los Sindicatos». La prórroga no tiene plazo máximo, la representación no pasa a los sindicatos y la Administración no figura entre quienes pueden promover elecciones (art. 43.1).",
-      "fuente": "Art. 42 TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (140 caracteres) es la más larga con mucha diferencia (distractores 104, 104 y 78); se acierta por la longitud. Además la correcta es la única con el matiz «pero...». Contenido correcto: art. 42, mandato prorrogado sin que esos representantes se contabilicen para la capacidad representativa de los Sindicatos; la Administración no figura en el art. 43.1. T17 tiene el art. 42 sobre la duración (4 años), no sobre la prórroga. Arreglo: acortar la correcta («Se prorroga, sin computar esos representantes para la representatividad sindical»). | Revisor 2 (DUDOSA): Contenido correcto: art. 42 TREBEP, prórroga sin cómputo para la capacidad representativa de los sindicatos. Distractores falsos (el art. 43.1 no incluye a la Administración entre los promotores) y explicación exacta. Regla 7 bis: la correcta es la más larga (140 car. frente a 104/104/78) y la única con el matiz «pero...», así que se delata por la forma (en el lote la correcta es la más larga en 16 de 40). Arreglo: «Se entiende prorrogado, sin computar a efectos de representatividad sindical» o igualar los distractores.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 45.3 del TREBEP, en el procedimiento de arbitraje para la solución extrajudicial de conflictos colectivos, las partes:",
-      "options": [
-        "Deben someterse al arbitraje cuando lo solicite una de ellas",
-        "Pueden aceptar o rechazar libremente la resolución arbitral una vez dictada",
-        "Deben acudir al arbitraje antes de intentar la mediación",
-        "Pueden acordar voluntariamente encomendar a un tercero la resolución del conflicto, comprometiéndose de antemano a aceptar su contenido"
-      ],
-      "correct": 3,
-      "exp": "Según el art. 45.3 TREBEP, «mediante el procedimiento de arbitraje las partes podrán acordar voluntariamente encomendar a un tercero la resolución del conflicto planteado, comprometiéndose de antemano a aceptar el contenido de la misma». Lo que es obligatorio a petición de una parte, y con propuestas que se pueden aceptar o rechazar libremente, es la mediación, no el arbitraje. El precepto no impone ningún orden entre ambos procedimientos.",
-      "fuente": "Art. 45.3 TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (135 caracteres) es la más larga con mucha diferencia (distractores 75, 60 y 56); se acierta por la longitud. Contenido correcto: art. 45.3, segundo párrafo, literal; los distractores atribuyen al arbitraje rasgos de la mediación o son falsos. T17 ya tiene el 45.3 sobre la mediación, pero esta pregunta trata el arbitraje (no es repetición). Arreglo: acortar la correcta («Encomiendan voluntariamente a un tercero la resolución y se obligan a aceptarla») o alargar los distractores. | Revisor 2 (DUDOSA): Contenido correcto: art. 45.3, párrafo 2.º, TREBEP. Los distractores atribuyen al arbitraje rasgos de la mediación o un orden inexistente; son falsos. Regla 7 bis: la correcta es la opción más larga (135 car.) frente a 60/75/56 de los distractores; se acierta por la longitud (en el lote la correcta es la más larga en 16 de 40 preguntas, más de un tercio). Arreglo: acortar la correcta («Pueden encomendarlo voluntariamente a un tercero, aceptando de antemano su resolución») o alargar los distractores.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 46.2 del TREBEP, las reuniones de los empleados públicos en el centro de trabajo se autorizarán:",
-      "options": [
-        "Fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas",
-        "Dentro de la jornada, con un máximo de diez horas al año",
-        "En cualquier momento, con un preaviso de cuarenta y ocho horas",
-        "Solo dentro de las horas de trabajo, previa autorización de la Junta de Personal"
-      ],
-      "correct": 0,
-      "exp": "El art. 46.2 TREBEP establece que «las reuniones en el centro de trabajo se autorizarán fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas». Añade que la reunión no perjudicará la prestación de los servicios y que los convocantes responden de su normal desarrollo. El TREBEP no fija un número de horas anuales ni un preaviso.",
-      "fuente": "Art. 46.2 TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (139 caracteres) es la más larga con mucha diferencia (distractores 80, 62 y 56); se acierta por la longitud. Contenido correcto: art. 46.2 literal; el TREBEP no fija ni horas anuales ni preaviso. T17 tiene el 46.1.d), no el 46.2. Arreglo: acortar la correcta («Fuera de las horas de trabajo, salvo acuerdo con los convocantes») o alargar los distractores. | Revisor 2 (DUDOSA): Contenido correcto: art. 46.2 TREBEP. El TREBEP no fija horas anuales, preaviso ni autorización de la Junta. Regla 7 bis: la correcta es la opción más larga (139 car.) frente a 56/62/80 de los distractores; se acierta por la longitud (en el lote la correcta es la más larga en 16 de 40 preguntas, más de un tercio). Arreglo: acortar la correcta («Fuera de las horas de trabajo, salvo acuerdo con quienes las convocan») o dar a los distractores un matiz similar.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 47.2 del TREBEP, las Administraciones Públicas adoptarán medidas de flexibilización horaria para garantizar la conciliación de los empleados públicos que tengan a su cargo hijos e hijas menores de:",
-      "options": [
-        "Seis años",
-        "Doce años",
-        "Ocho años",
-        "Catorce años"
-      ],
-      "correct": 1,
-      "exp": "El art. 47.2 TREBEP (redacción del RDL 2/2024) obliga a adoptar medidas de flexibilización horaria para los empleados públicos «que tengan a su cargo a hijos e hijas menores de doce años». También las extiende a quienes tengan necesidades de cuidado de hijos mayores de doce años, del cónyuge o pareja de hecho, de familiares hasta el segundo grado o de convivientes que no puedan valerse por sí mismos.",
-      "fuente": "Art. 47.2 TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Cifra correcta: el art. 47.2 (redacción del RDL 2/2024, en vigor desde el 23-may-2024) dice «hijos e hijas menores de doce años»; distractores falsos. Pero la explicación no es exacta: resume «familiares hasta el segundo grado», cuando el precepto dice «familiares por consanguinidad hasta el segundo grado» (excluye la afinidad). Arreglo: añadir «por consanguinidad». | Revisor 2 (DUDOSA): La respuesta es correcta: art. 47.2 TREBEP (redacción del RDL 2/2024), hijos menores de doce años. La explicación no es exacta: dice «familiares hasta el segundo grado», y el texto dice «familiares por consanguinidad hasta el segundo grado», lo que excluye a los afines. Arreglo: añadir «por consanguinidad».",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 47 bis.2 del TREBEP, la prestación del servicio mediante teletrabajo:",
-      "options": [
-        "Puede imponerse por la Administración siempre que lo exijan las necesidades del servicio",
-        "Es incompatible con la modalidad presencial",
-        "Tendrá carácter voluntario y reversible, salvo en supuestos excepcionales debidamente justificados",
-        "Una vez autorizada, no puede revocarse durante al menos un año"
-      ],
-      "correct": 2,
-      "exp": "El art. 47 bis.2 TREBEP dispone que el teletrabajo «habrá de ser expresamente autorizado y será compatible con la modalidad presencial. En todo caso, tendrá carácter voluntario y reversible salvo en supuestos excepcionales debidamente justificados». No puede imponerse por simples necesidades del servicio, es compatible con la presencialidad y el precepto no fija ningún periodo mínimo de permanencia.",
-      "fuente": "Art. 47 bis.2 TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 47 bis.2 TREBEP: autorización expresa, compatible con la presencialidad, «voluntario y reversible salvo en supuestos excepcionales debidamente justificados». Distractores falsos. Longitudes aceptables (98 frente a 88). Sin duplicado. | Revisor 2 (DUDOSA): La respuesta es correcta: art. 47 bis.2 TREBEP, «voluntario y reversible salvo en supuestos excepcionales debidamente justificados». Distractores falsos. La cita entre comillas de la explicación no es literal: pone «habrá de ser expresamente autorizado» y el texto dice «autorizada» (concuerda con «la prestación del servicio»). Arreglo: corregir a «autorizada».",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 49.b) del TREBEP, cuando en la adopción o el acogimiento internacional sea necesario el desplazamiento previo de los progenitores al país de origen del adoptado, se tiene derecho, además, a un permiso de:",
-      "options": [
-        "Hasta dos meses, con las retribuciones íntegras",
-        "Hasta dos meses, percibiendo durante ese periodo exclusivamente las retribuciones básicas",
-        "Hasta cuatro semanas, percibiendo exclusivamente las retribuciones básicas",
-        "Hasta tres meses, sin retribución alguna"
-      ],
-      "correct": 1,
-      "exp": "El art. 49.b) TREBEP dispone que en ese caso «se tendrá derecho, además, a un permiso de hasta dos meses de duración, percibiendo durante este periodo exclusivamente las retribuciones básicas». Las cuatro semanas son otra regla: el permiso por adopción puede iniciarse hasta cuatro semanas antes de la resolución judicial o administrativa.",
-      "fuente": "Art. 49.b) TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 49.b) TREBEP: permiso de hasta dos meses «percibiendo durante este periodo exclusivamente las retribuciones básicas»; las cuatro semanas antes de la resolución también están comprobadas. Distractores falsos. Sin duplicado. | Revisor 2 (DUDOSA): Contenido correcto: art. 49.b) TREBEP, «hasta dos meses... exclusivamente las retribuciones básicas». Lo de las cuatro semanas (inicio anticipado) está bien explicado. Regla 7 bis: la correcta es la más larga (89 car. frente a 47/74/40) y además es la única que comparte un rasgo con otras dos opciones («dos meses» y «exclusivamente las retribuciones básicas»), así que se deduce por la forma. Arreglo: igualar longitudes y variar los rasgos compartidos.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 49.e) del TREBEP, en la redacción vigente desde el 23 de octubre de 2026, cuando el hijo a cargo afectado por cáncer u otra enfermedad grave se encuentre en situación de gran discapacidad o gran dependencia que requiera cuidados directos, continuos y permanentes:",
-      "options": [
-        "La reducción de jornada se extinguirá en todo caso cuando cumpla veintiséis años",
-        "La reducción de jornada será obligatoriamente del cien por cien para uno solo de los progenitores",
-        "El permiso se transformará en una excedencia retribuida sin límite de edad",
-        "La reducción de jornada podrá prorrogarse, excepcionalmente, más allá de los límites de edad previstos, mientras persista la necesidad de cuidado acreditada y se mantenga la convivencia"
-      ],
-      "correct": 3,
-      "exp": "La Ley 4/2026, de 1 de octubre (DF 11.ª), añadió al art. 49.e) TREBEP un párrafo en vigor desde el 23-oct-2026: «excepcionalmente cuando la persona a cargo se encuentre en situación de gran discapacidad o gran dependencia que requiera cuidados directos, continuos y permanentes, el derecho a la reducción de jornada podrá prorrogarse más allá de los límites de edad previstos, mientras persista la necesidad de cuidado debidamente acreditada y se mantenga la convivencia con la persona beneficiaria del permiso». Por eso los 23 años (26 con discapacidad de al menos el 65 %) ya no son un tope absoluto en estos casos. La reforma no impone que uno solo de los progenitores reduzca el cien por cien ni crea ninguna excedencia.",
-      "fuente": "Art. 49.e), párrafo 5.º TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (185 caracteres) es la más larga con mucha diferencia (distractores 97, 80 y 74); se acierta por la longitud. Contenido correcto: comprobados la DF 11.ª de la Ley 4/2026 (BOE-A-2026-20528, BOE de 03/10/2026, en vigor el 23/10/2026 según la DF 28.ª) y el consolidado del TREBEP, párrafo 5.º del art. 49.e); la explicación dice desde cuándo rige. Distractores falsos. Arreglo: acortar la correcta («Podrá prorrogarse más allá de los límites de edad mientras persista la necesidad y la convivencia») o alargar los distractores. | Revisor 2 (DUDOSA): Contenido correcto. He comprobado la DF 11.ª de la Ley 4/2026 (BOE-A-2026-20528): «Se añaden dos nuevos párrafos 5.º y 6.º al artículo 49, letra e)». Entra en vigor a los veinte días de su publicación del 3-oct-2026, es decir, el 23-oct-2026, y el consolidado lo recoge. Los distractores son falsos y lo de los 23/26 años y el 65 % es exacto. Regla 7 bis: la correcta es la opción más larga (185 car.) frente a 80/97/74 de los distractores; se acierta por la longitud (en el lote la correcta es la más larga en 16 de 40 preguntas, más de un tercio). Arreglo: acortar la correcta («Podrá prorrogarse más allá de los límites de edad mientras persista la necesidad y la convivencia») o alargar los distractores.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 49.e) del TREBEP, en la redacción vigente desde el 23 de octubre de 2026, en los supuestos de especial intensidad asistencial (gran discapacidad o gran dependencia del hijo), ambos progenitores podrán excepcionalmente compartir el porcentaje de reducción de jornada:",
-      "options": [
-        "Hasta el máximo del 100 % entre los dos, de forma simultánea y proporcional al tiempo de reducción asumido por cada uno",
-        "Hasta el máximo del 50 % entre los dos, de forma alterna",
-        "Hasta el máximo del 100 % entre los dos, siempre que estén casados o sean pareja de hecho",
-        "Hasta el 100 % cada uno, de forma sucesiva"
-      ],
-      "correct": 0,
-      "exp": "El párrafo añadido al art. 49.e) TREBEP por la Ley 4/2026 (DF 11.ª), en vigor desde el 23-oct-2026, permite que ambos progenitores, adoptantes, guardadores o acogedores permanentes «excepcionalmente podrán compartir el porcentaje de reducción de jornada hasta el máximo de 100% entre los dos progenitores, de forma simultánea y proporcional al tiempo de reducción asumido por cada uno de ellos, con independencia de su estado civil». El tope del 100 % es conjunto, no de cada uno; la reducción es simultánea, no alterna ni sucesiva, y no depende del estado civil.",
-      "fuente": "Art. 49.e), párrafo 6.º TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (119 caracteres) es la más larga con mucha diferencia (distractores 89, 56 y 42); se acierta por la longitud. Contenido correcto: párrafo 6.º del art. 49.e), añadido por la DF 11.ª de la Ley 4/2026, en vigor el 23-oct-2026 («hasta el máximo de 100% entre los dos progenitores, de forma simultánea y proporcional... con independencia de su estado civil»). Distractores falsos. Arreglo: igualar las longitudes (por ejemplo, añadir a los distractores un matiz sobre el reparto, o quitar «y proporcional al tiempo de reducción asumido por cada uno»). | Revisor 2 (DUDOSA): Contenido correcto: art. 49.e), párrafo 6.º (Ley 4/2026, DF 11.ª, en vigor desde el 23-oct-2026). El tope es «hasta el máximo de 100% entre los dos progenitores, de forma simultánea y proporcional... con independencia de su estado civil». Los distractores son falsos. Regla 7 bis: la correcta es la más larga (119 car. frente a 56/89/42) y la única con todos los matices; se delata por la forma. Arreglo: alargar los distractores con matices equivalentes o acortar la correcta.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el art. 50.3 del TREBEP, el periodo de vacaciones anuales retribuidas de los funcionarios públicos:",
-      "options": [
-        "Puede sustituirse por una cuantía económica a petición del funcionario, si lo autoriza el órgano competente",
-        "Se compensa económicamente en todo caso cuando el funcionario renuncia voluntariamente a su condición",
-        "No puede compensarse económicamente en ningún caso, ni siquiera por fallecimiento",
-        "No puede sustituirse por una cuantía económica, salvo compensación de las devengadas y no disfrutadas cuando la relación de servicios concluya por causas ajenas a la voluntad del funcionario"
-      ],
-      "correct": 3,
-      "exp": "El art. 50.3 TREBEP establece que el periodo de vacaciones anuales retribuidas «no puede ser sustituido por una cuantía económica» y que, en caso de renuncia voluntaria, debe garantizarse su disfrute. No obstante, cuando la relación de servicios concluye por causas ajenas a la voluntad del funcionario, este puede pedir una compensación económica por las vacaciones devengadas y no disfrutadas, en particular en la jubilación por incapacidad permanente o el fallecimiento, hasta un máximo de dieciocho meses.",
-      "fuente": "Art. 50.3 TREBEP (RDLeg 5/2015)",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): Regla 7 bis: la correcta (190 caracteres) es la más larga con mucha diferencia (distractores 107, 101 y 81); se acierta por la longitud. Contenido correcto: art. 50.3 (añadido por la Ley 11/2020); compensación solo si la relación concluye por causas ajenas a la voluntad del funcionario (jubilación por incapacidad permanente o fallecimiento, hasta 18 meses). Arreglo: acortar la correcta («Solo se compensa si el cese es ajeno a la voluntad del funcionario») o alargar los distractores. | Revisor 2 (DUDOSA): Contenido correcto: art. 50.3 TREBEP (no sustituible por dinero; compensación solo si la relación concluye por causas ajenas a la voluntad, en particular jubilación por incapacidad permanente o fallecimiento, hasta dieciocho meses). Distractores falsos. Regla 7 bis: la correcta es la opción más larga (190 car.) frente a 107/101/81 de los distractores; se acierta por la longitud (en el lote la correcta es la más larga en 16 de 40 preguntas, más de un tercio). Arreglo: acortar la correcta («No es sustituible por dinero, salvo cese por causas ajenas a la voluntad del funcionario») o alargar los distractores.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): DA 13.ª TREBEP literal. Epígrafe: entra (derecho a permisos; la DA 14.ª, de vacaciones por antigüedad, ya figura en el tema 17). Distractores falsos. Sin existentes. | Revisor 2 (DUDOSA): DA 13.ª: correcta y literal, pero la correcta es la única que reúne el valor mayoritario en cada elemento (dos/sexto/uno/octavo aparecen cada uno en tres de las cuatro opciones): se acierta por convergencia sin saber la norma. Arreglo: variar los distractores para que la correcta no sea la moda en cada elemento (p. ej. «Hasta tres al cumplir el quinto trienio…», «Hasta cuatro al cumplir el octavo…», combinaciones no simétricas).",
       "_motivo": "veredicto DUDOSA"
     }
   ]
