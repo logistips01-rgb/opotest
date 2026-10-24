@@ -1,22 +1,54 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 12,
-  "fecha": "2026-10-23",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el art. 93.1 e) del TRLRHL, las exenciones del IVTM para los vehículos de personas de movilidad reducida y para los matriculados a nombre de personas con discapacidad para su uso exclusivo:",
+      "q": "A efectos de la exención del IAE para quienes inician el ejercicio de su actividad en territorio español (art. 82.1 b) TRLRHL), no se considera que se ha producido ese inicio cuando la actividad:",
       "options": [
-        "No se aplican a un mismo sujeto pasivo por más de un vehículo simultáneamente",
-        "Se aplican a todos los vehículos de los que sea titular el beneficiario",
-        "Solo se aplican durante los cinco primeros años desde la matriculación",
-        "Solo se aplican si el vehículo lo conduce la propia persona con discapacidad"
+        "Se haya desarrollado antes bajo otra titularidad, por ejemplo por fusión o escisión",
+        "Se traslade a un local situado en otro término municipal del mismo sujeto pasivo",
+        "La ejerza un sujeto pasivo que antes haya ejercido otra actividad económica distinta",
+        "Comience en el último trimestre del año natural, cerca ya del fin del período impositivo"
       ],
       "correct": 0,
-      "exp": "Art. 93.1 e) TRLRHL: «Las exenciones previstas en los dos párrafos anteriores no resultarán aplicables a los sujetos pasivos beneficiarios de ellas por más de un vehículo simultáneamente». Se aplican mientras se mantengan las circunstancias, «tanto a los vehículos conducidos por personas con discapacidad como a los destinados a su transporte», y exigen un grado de discapacidad igual o superior al 33 %.",
-      "fuente": "Art. 93.1 e) TRLRHL (RDLeg 2/2004)",
+      "exp": "El art. 82.1 b), párrafo segundo, TRLRHL dispone: «no se considerará que se ha producido el inicio del ejercicio de una actividad cuando esta se haya desarrollado anteriormente bajo otra titularidad, circunstancia que se entenderá que concurre, entre otros supuestos, en los casos de fusión, escisión o aportación de ramas de actividad».",
+      "fuente": "Art. 82.1 b), párrafo segundo, TRLRHL (RDLeg 2/2004)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 93.1 e), párrafo tercero, TRLRHL verificado literal. Distractores falsos (también se aplica a vehículos destinados a su transporte). No repite 12.127 (grado del 33 %). | Revisor 2 (DUDOSA): Respuesta correcta y distractores falsos según el art. 93.1 e), párr. 3.º, TRLRHL («no resultarán aplicables ... por más de un vehículo simultáneamente»). Pero la explicación no es exacta: atribuye a las dos exenciones lo que la ley dice solo de la segunda (vehículos matriculados a nombre de personas con discapacidad). «Esta exención se aplicará en tanto se mantengan dichas circunstancias, tanto a los vehículos conducidos por personas con discapacidad como a los destinados a su transporte» se refiere solo a esa exención, y el 33 % solo opera respecto de ella (la de vehículos para personas de movilidad reducida se define por el tipo de vehículo, anexo II A del RGV). Arreglo: «En el caso de los vehículos matriculados a nombre de personas con discapacidad para su uso exclusivo, la exención se aplica mientras se mantengan las circunstancias, tanto a los vehículos conducidos por ellas como a los destinados a su transporte, y exige un grado de discapacidad igual o superior al 33 %».",
+      "notaRevision": "Revisor 1 (DUDOSA): Art. 82.1 b), párrafo segundo, TRLRHL verificado y la correcta es exacta, pero el distractor 'Se traslade a un local situado en otro término municipal del mismo sujeto pasivo' describe también un caso en que no hay inicio de actividad en territorio español (el sujeto pasivo ya la ejercía; solo cambia el local), así que un opositor puede defenderlo como correcto. Arreglo: sustituirlo por un supuesto que sí es inicio y por tanto claramente falso, p. ej. 'La ejerza por primera vez una sociedad de nueva constitución sin antecedente alguno'. No repite (el banco tiene 82.1 b) sobre la duración de dos períodos). | Revisor 2 (DUDOSA): Consolidado BOE-A-2004-4214 (últ. act. 07/10/2026): art. 82.1 b), párrafo segundo: la correcta está bien. Pero el distractor «Se traslade a un local situado en otro término municipal del mismo sujeto pasivo» es defendible como cierto: quien solo traslada una actividad que ya ejercía no «inicia el ejercicio de su actividad en territorio español», así que tampoco hay inicio. El de «otra actividad económica distinta» también es discutible (el texto no lo resuelve). Arreglo: sustituir ambos por distractores claramente falsos y ajenos al concepto de inicio, p. ej. «Se ejerza en un local arrendado y no en uno propio» y «Se ejerza por una persona física y no por una sociedad».",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 82.2 del TRLRHL, ¿cuál de los siguientes sujetos pasivos exentos del IAE NO está obligado a presentar declaración de alta en la matrícula del impuesto?",
+      "options": [
+        "Los organismos públicos de investigación",
+        "La Cruz Roja Española",
+        "Las asociaciones y fundaciones de disminuidos sin ánimo de lucro",
+        "Los sujetos pasivos que inicien su actividad en territorio español"
+      ],
+      "correct": 1,
+      "exp": "El art. 82.2 TRLRHL dispone: «Los sujetos pasivos a que se refieren los párrafos a), d), g) y h) del apartado anterior no estarán obligados a presentar declaración de alta en la matrícula del impuesto». La Cruz Roja Española es el párrafo g). Los organismos públicos de investigación (párrafo e), las asociaciones y fundaciones de disminuidos (párrafo f) y quienes inician su actividad (párrafo b) no están en esa lista.",
+      "fuente": "Art. 82.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 82.2 TRLRHL literal: no están obligados al alta los sujetos de los párrafos a), d), g) y h); la Cruz Roja es la g). Organismos públicos de investigación (e), asociaciones de disminuidos (f) y quienes inician actividad (b) sí deben darse de alta. Duda de forma: la correcta es la más corta (21 frente a 40-66) porque es un nombre propio; no se acierta por longitud (el sesgo habitual es la más larga) y uno de los distractores también es breve. No repite. | Revisor 2 (DUDOSA): Consolidado BOE-A-2004-4214 (últ. act. 07/10/2026): art. 82.2: correcto (párrafos a, d, g y h; la Cruz Roja es la g), distractores e), f) y b) bien elegidos. Pero la correcta se delata por la forma (regla 7 bis): 21 caracteres frente a 40-66 de los distractores, y es la única sin matiz; además «La Cruz Roja Española» ya es la respuesta de otras dos preguntas del banco (62.1 d y 105.2 f), lo que la hace adivinable. Arreglo: igualar longitud y detalle, p. ej. distractores «Los organismos públicos de investigación», «Las fundaciones de disminuidos sin ánimo de lucro», «Los centros docentes concertados sin ánimo de lucro» (e). Ojo: no usar como distractores la Seguridad Social, las mutualidades de previsión social (d), el Estado o las entidades locales (a), ni los exentos por tratados (h), porque también están dispensados del alta.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 109.4 del TRLRHL, en los actos o contratos en que medie una condición suspensiva, el IIVTNU:",
+      "options": [
+        "Se liquidará en la fecha del contrato y su ingreso se aplazará hasta que la condición se cumpla",
+        "No se liquidará hasta que la condición se cumpla",
+        "Se exigirá en la fecha del contrato, sin derecho a devolución si la condición no se cumple",
+        "No se liquidará hasta que transcurran cinco años desde la fecha del contrato"
+      ],
+      "correct": 1,
+      "exp": "El art. 109.4 TRLRHL remite al Código Civil para calificar la condición y dispone: «Si fuese suspensiva no se liquidará el impuesto hasta que ésta se cumpla». Si la condición fuese resolutoria, «se exigirá el impuesto desde luego, a reserva, cuando la condición se cumpla, de hacer la oportuna devolución según la regla del apartado anterior».",
+      "fuente": "Art. 109.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 109.4 TRLRHL literal: con condición suspensiva no se liquida hasta que se cumpla; con resolutoria se exige desde luego con devolución posterior. Duda del redactor: el distractor 'exigirá en la fecha del contrato, sin derecho a devolución' no reproduce la regla de la resolutoria (que sí da devolución) y es falso en ambos casos; los otros dos también son falsos. La correcta es la más corta (48 frente a 76-95); no se acierta por longitud. No depende del art. 107.4. No repite (el banco tiene 109.2 y 109.3). | Revisor 2 (DUDOSA): Consolidado BOE-A-2004-4214 (últ. act. 07/10/2026): art. 109.4 literal; contenido correcto y distractores falsos. Pero la correcta (48 caracteres) es mucho más corta y escueta que los distractores (76-95), y es la única sin añadido: se puede acertar por la forma (regla 7 bis). Arreglo: igualar detalle, p. ej. correcta «No se liquidará hasta que la condición se cumpla, según la calificación del Código Civil» o acortar los distractores («Se liquidará en la fecha del contrato con ingreso aplazado», etc.).",
       "_motivo": "veredicto DUDOSA"
     }
   ]
