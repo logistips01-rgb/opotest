@@ -1,0 +1,202 @@
+[
+  {
+    "q": "Según la Introducción del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuándo se constituyó una Comisión para la Igualdad de carácter permanente, con la función de coordinar, seguir y evaluar las medidas del Plan de Igualdad?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según el texto (Introducción: «El 26 de octubre de 2014 se constituyó una Comisión para la Igualdad de carácter permanente»); los distractores son fechas reales de otros hechos del Plan y todos falsos para este. Rechazada por pertinencia: es una fecha histórica interna sin efecto normativo, y el banco ya pregunta dos veces la fecha de la Mesa para la Igualdad (9-3-2009), el año de aprobación del I Plan y las fechas de la Fase IV. Añadir más fechas de constitución o de reuniones no es lo que pide generar.md."
+  },
+  {
+    "q": "Según la Introducción del II Plan de Igualdad del Ayuntamiento de Zaragoza (Fase II), ¿qué órgano aprobó el 23 de febrero de 2021 el Diagnóstico de la plantilla municipal que sirvió de base para elaborar el II PIEEM?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la Introducción, Fase II: el diagnóstico «es aprobado por la Comisión de Igualdad con fecha 23 de febrero de 2021»; el Anexo IV lo repite. Coincide con la regla del apdo. 11: el diagnóstico del siguiente plan se aprueba «en el seno de la Comisión de Igualdad». Los distractores son falsos: la Comisión Negociadora se constituyó el 20-2-2023, el Grupo Técnico es de la Fase III y el Gobierno de Zaragoza aprueba el Plan. Pregunta por el órgano, no por la fecha. No repite la n.º 86 del banco, que pregunta el año del diagnóstico."
+  },
+  {
+    "q": "En la Fase III de elaboración del II Plan de Igualdad del Ayuntamiento de Zaragoza («Diseño del Plan»), ¿qué aprobó por unanimidad la Comisión de Igualdad el 27 de abril de 2021?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según la Fase III («Con fecha 27 de abril de 2021, la Comisión de Igualdad aprueba por unanimidad la constitución de un Grupo Técnico»), y los distractores son falsos. Rechazada por pertinencia: pregunta qué se acordó en una reunión interna concreta de la tramitación, un dato histórico sin valor normativo. Es justo el tipo de «fecha de reunión» que generar.md descarta como trivialidad."
+  },
+  {
+    "q": "¿En cuántas partes y anexos se estructura el II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la Introducción: «El Plan se estructura en 12 partes y cuatro anexos». Lo confirman el índice (apartados 1 a 12 y Anexos I a IV) y la lista que sigue. Los distractores (10+3, 12+2, 15+4) son falsos. Pregunta de estructura, razonable, y no está en el banco."
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, la OCDE define la brecha salarial como la diferencia entre las retribuciones salariales de los hombres y de las mujeres, expresada como un porcentaje:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Marco conceptual, voz «Brecha salarial»: «expresada como un porcentaje del salario masculino [...] según la OCDE». El enunciado atribuye la definición a la OCDE, como hace el Plan. Ni la LO 3/2007 (consolidado BOE-A-2007-6115: no contiene «brecha salarial») ni la Ley 7/2018 de Aragón (art. 4, BOE-A-2018-11932) la definen, así que no hay contradicción. Los distractores son falsos y no hay duplicado."
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, existe presencia o composición equilibrada entre mujeres y hombres cuando, en el conjunto de que se trate, las personas de cada sexo:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Marco conceptual: «no superen el 60 % ni sean menos del 40 %». Coincide literalmente con la DA 1.ª de la LO 3/2007 en el consolidado del BOE («no superen el sesenta por ciento ni sean menos del cuarenta por ciento»), y la Ley 7/2018 de Aragón (art. 4.1) remite a esa misma DA 1.ª. Los distractores 55/45, 70/30 y 65/35 son falsos. El banco de los temas 2 y 21 no tiene ninguna pregunta sobre el 60/40."
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cómo se denomina la división tradicional del trabajo entre mujeres y hombres, producida por los estereotipos de género, que ha generado ocupaciones masculinizadas o feminizadas?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Marco conceptual, voz «Segregación ocupacional»: «ha generado ocupaciones masculinizadas o feminizadas, es lo que se denomina segregación horizontal». La Introducción lo dice igual. La segregación vertical se define aparte (reparto desigual del poder y de los escalafones superiores); el techo de cristal y la discriminación indirecta no encajan. Ninguna ley del tema la define de otro modo y no hay duplicado."
+  },
+  {
+    "q": "Según el Marco conceptual del II Plan de Igualdad del Ayuntamiento de Zaragoza, el informe de impacto de género es el análisis de un proyecto normativo, una intervención o un contrato que se realiza:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Marco conceptual: «Análisis de un proyecto normativo, una intervención, un contrato…, previo a su aplicación». Es coherente con el art. 19 LO 3/2007 (los proyectos «deberán incorporar» el informe) y con el art. 18 de la Ley 7/2018 de Aragón («evaluación previa del impacto de género»; los reglamentos y planes lo requieren «antes de su aprobación»). Los distractores son falsos. No repite la n.º 282 del banco, que trata de la acción A.2.2.2."
+  },
+  {
+    "q": "Según el apdo. 5.1 (Ámbito personal) del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué se prevé respecto de las empresas contratadas por el Ayuntamiento?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 5.1: «dando traslado a las empresas contratadas por el Ayuntamiento de Zaragoza a los efectos de su conocimiento y aplicación si procede». El Protocolo (Anexo II, apdo. III) va en la misma línea: las empresas externas «serán informadas». Ningún distractor es cierto en otra parte del Plan. No repite la n.º 220 del banco, que pregunta por los organismos autónomos."
+  },
+  {
+    "q": "Según el apdo. 6 (Metodología) del II Plan de Igualdad del Ayuntamiento de Zaragoza, el Plan es «flexible y dinámico» porque:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 6: «Es un plan flexible y dinámico, que se adapta a nuevas normas y disposiciones [...] y a los resultados de la evaluación continua». Los distractores son falsos (el Plan no deja a cada Área elegir las acciones ni prevé modificación por Alcaldía o renovación automática), y las cuatro opciones tienen longitud pareja. Es otra característica distinta de las preguntas n.º 222 («proceso continuo») y n.º 285 («colectivo») del banco."
+  },
+  {
+    "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuáles son las áreas funcionales con mayor porcentaje de mujeres?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según el apdo. 7 («las áreas con mayor porcentaje de mujeres son Economía y Hacienda, Alcaldía y Recursos Humanos») y el Anexo IV (72,3 %, 71,2 % y 61,8 % de mujeres). Los distractores son falsos: Bomberos, Policía e Infraestructuras son las áreas masculinizadas, y Cultura, Servicios Públicos y Participación son las más equilibradas. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019)."
+  },
+  {
+    "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, la composición de los Tribunales de oposiciones:",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según el apdo. 7: «La composición de los Tribunales de oposiciones no es paritaria ni en titulares ni en la suma de titulares y suplentes». Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019)."
+  },
+  {
+    "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, del número total de promociones realizadas en el período estudiado, ¿qué porcentaje correspondió a mujeres?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según el apdo. 7: «el 59,4% corresponde a hombres y el 40,6% a mujeres». El distractor del 59,4 % es la cifra de los hombres, así que la pregunta se juega a memorizar porcentajes. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019)."
+  },
+  {
+    "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, de las diecinueve bandas retributivas en que se dividieron los datos, ¿en cuántas favorece el promedio a los hombres?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según el apdo. 7: «en quince el promedio favorece a los hombres y solamente en tres favorece a las mujeres». Es una cifra pura, el recuento de bandas retributivas. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019)."
+  },
+  {
+    "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, en materia de formación:",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según el apdo. 7: la asistencia a cursos de reciclaje tiene «presencia más numerosa de hombres, mientras que la asistencia de mujeres a cursos voluntarios es mayor». Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019)."
+  },
+  {
+    "q": "Según los datos del Diagnóstico recogidos en el apdo. 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, durante el tiempo de existencia del Protocolo frente al acoso (2016-2019), en materia de acoso sexual:",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Correcta según el apdo. 7: «en el tiempo de existencia del Protocolo (2016-2019) no se ha presentado ninguna denuncia por acoso sexual, solo consultas». Es además un dato histórico de un periodo cerrado. Rechazada por pertinencia, no por error: es un dato coyuntural del diagnóstico de 2019 recogido en el apdo. 7, no una regla del Plan (órganos, plazos, medidas, procedimiento); generar.md pide plazos, enumeraciones, órganos y cuantías, no trivialidades, y el banco del tema 2 ya tiene cinco preguntas de cifras del diagnóstico (63,3 %, 2,3 puntos, 77,8 %, 67 %, año 2019)."
+  },
+  {
+    "q": "Según el apdo. 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué eje de actuación se articula en solo dos líneas de actuación?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 8: el Eje A tiene cuatro líneas, el B tres, el C dos (C.1 Conciliación y C.2 Corresponsabilidad) y el D tres. Las acciones del apdo. 9 lo confirman. Solo el Eje C tiene dos. No repite la n.º 227 del banco, que pregunta cuántas líneas tiene el Eje B."
+  },
+  {
+    "q": "Según el apdo. 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuál es la única línea de actuación que cuenta con tres objetivos específicos?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 8: «Línea B.2 Plantilla, RPT y promoción profesional, con tres objetivos específicos». En el recuento de las doce líneas, B.2 es la única con tres objetivos (B.1 tiene 2; A.4, C.2, D.2 y D.3 tienen 1; las demás tienen 2), y suman 21 objetivos, como dice el Plan. La tabla del apdo. 8 lo confirma (B.2.1, B.2.2 y B.2.3). El distractor D.3 aparece con el nombre abreviado, pero eso no lo hace cierto. No hay duplicado."
+  },
+  {
+    "q": "Según el apdo. 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿cuál de las siguientes es una de las líneas de actuación del Eje D?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 8 y en el apdo. 9: las líneas del Eje D son D.1 Prevención y salud laboral, D.2 Clima laboral y D.3 Protección frente al acoso. Retribuciones (B.3), Formación (A.3) y Corresponsabilidad (C.2) pertenecen a otros ejes. No repite la n.º 51 del banco, que trata del nombre del Eje D."
+  },
+  {
+    "q": "Según la acción A.2.1.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, se insta a quienes forman los órganos representativos y de negociación a que presenten una composición equilibrada entre mujeres y hombres, respetando los principios de:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la acción A.2.1.1: «respetando los principios de especialización y profesionalidad». Los distractores no aparecen en esa acción. Es nueva en el banco."
+  },
+  {
+    "q": "Según la acción A.2.1.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿a quién se dirigen las campañas de sensibilización para que perciban la importancia de su participación en los órganos representativos?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la acción A.2.1.2: «campañas de sensibilización dirigidas a trabajadoras municipales para que perciban la importancia de su participación en los órganos representativos». No se confunde con la C.2.1.1, cuyas campañas van «principalmente a los trabajadores» y tratan de la corresponsabilidad. Es nueva en el banco."
+  },
+  {
+    "q": "Según la acción A.3.1.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿para qué personal se incorporará un módulo de formación en Igualdad?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la acción A.3.1.2: «Incorporar un módulo de formación en Igualdad para el personal de nuevo acceso». No se confunde con la A.3.2.2 (módulo en el curso de Formación de formadores) ni con el hincapié en mandos y jefaturas del Protocolo, apdo. V, que se refiere a otra formación. Ningún distractor es cierto y no hay duplicado."
+  },
+  {
+    "q": "Según la acción B.1.1.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, en relación con la Oferta de Empleo Público se prevé considerar:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la acción B.1.1.1: «Considerar la reserva de plazas para personas con dificultades de acceso al empleo por razón de género». Los distractores son falsos: el Plan no prevé puntuación adicional, ni exención de pruebas físicas, ni un cupo del 40 %; la B.1.1.3 solo prevé revisar las bases con pruebas físicas. La correcta no es la opción más larga. No repite la n.º 283 del banco (B.1.1.3)."
+  },
+  {
+    "q": "Según la acción B.1.2.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, se continuará con el criterio de paridad en la composición de los órganos de selección de personal y, cuando se produzca desigualdad de representación:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la acción B.1.2.1: «motivar la desigualdad de representación cuando se produzca». Los distractores son falsos. No repite la n.º 90 del banco, que pregunta por el objetivo B.1.2."
+  },
+  {
+    "q": "Según la acción C.1.2.1 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿a quién se dirige la sensibilización sobre la importancia de ejercer el derecho a la conciliación del personal municipal?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la acción C.1.2.1: «Sensibilizar a las jefaturas municipales con personal a su cargo sobre la importancia de ejercer el derecho a la conciliación». No se confunde con la A.2.2.1 (formación a las mesas de negociación sobre perspectiva de género). Es nueva en el banco."
+  },
+  {
+    "q": "Según la acción D.1.1.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿sobre qué materia se continuará formando al personal sanitario del Servicio de Prevención y Salud Laboral para el desarrollo de acciones preventivas?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la acción D.1.1.2: formación del personal sanitario del Servicio de Prevención y Salud Laboral sobre «Salud y género», para el desarrollo de acciones preventivas. Los riesgos psicosociales aparecen en la D.2.1.1, pero como evaluaciones, no como formación de ese personal. Es nueva en el banco."
+  },
+  {
+    "q": "Según el apdo. 10 del II Plan de Igualdad del Ayuntamiento de Zaragoza, las decisiones y acuerdos alcanzados en el seno de la Comisión de Igualdad:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 10: «Todas las decisiones y acuerdos alcanzados en el seno de dicha Comisión serán públicos». Los distractores son falsos. Es nueva en el banco."
+  },
+  {
+    "q": "Según el apdo. 10 del II Plan de Igualdad del Ayuntamiento de Zaragoza, en la evaluación final, ¿cómo se denominan los indicadores que proporcionan información sobre los procedimientos de trabajo y gestión del plan, como el grado de compromiso de los agentes implicados en la ejecución de las acciones?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 10, «Evaluación final»: los indicadores de proceso son «aquellos que proporcionan información sobre los procedimientos de trabajo y gestión del plan (Ej. Grado de compromiso de los agentes implicados…)». Los de resultados, valoración subjetiva e impacto se definen con otro objeto, así que el enunciado no es ambiguo. Es nueva en el banco."
+  },
+  {
+    "q": "Según el apdo. 12 del II Plan de Igualdad del Ayuntamiento de Zaragoza, el Protocolo de Prevención y Actuación frente al Acoso Sexual, Acoso por razón de sexo y Acoso por Orientación sexual fue aprobado por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 12: el Protocolo se aprobó «en la Comisión de Igualdad del 24 de junio de 2016». El Anexo II lo repite («Aprobado en la Comisión de Igualdad de 24 de junio de 2016»). Cada distractor combina otro órgano con la fecha de otro hecho: el I Plan el 18-4-2013, el texto del II Plan el 1-3-2023 y la Mesa el 9-3-2009; todos falsos para el Protocolo. Pregunta el órgano que aprobó el Protocolo, dato pertinente. No hay duplicado (la n.º 46 del banco solo usa esa fecha como distractor)."
+  },
+  {
+    "q": "Según el II Plan de Igualdad del Ayuntamiento de Zaragoza, la asistencia y protección de las víctimas de acoso sexual, por razón de sexo y por orientación sexual se realizará siguiendo los principios de:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el apdo. 12 y en el Anexo II, apdo. I: «siguiendo los principios de sigilo, respeto, profesionalidad, objetividad e imparcialidad y celeridad». Las garantías del apdo. VI (confidencialidad, diligencia y celeridad, imparcialidad…) son otra enumeración y no coinciden con ningún distractor. Es nueva en el banco."
+  },
+  {
+    "q": "Según las medidas del I PIEEM en proceso permanente (Anexo I del II Plan de Igualdad del Ayuntamiento de Zaragoza), el personal municipal que se incorpora al puesto de trabajo después de permisos o excedencias relacionados con la conciliación tiene acceso preferente a los cursos de formación durante:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo I, Área de trabajo Formación, objetivo 2, medida 2: «Acceso preferente, durante un año, a los cursos de formación al personal municipal que se incorpora [...] después de permisos o excedencias relacionados con la conciliación». Los distractores son falsos. No repite la n.º 278 del banco (Anexo I, temarios)."
+  },
+  {
+    "q": "Según el apdo. IV del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), el acoso de intercambio o chantaje sexual es el producido por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. IV: el chantaje sexual es «el producido por personal superior jerárquico o personas cuyas decisiones pueden tener efectos sobre el empleo y las condiciones de trabajo». Los distractores son falsos: compañeros, empresas externas o usuarios encajarían, en su caso, en el acoso ambiental, no en el de intercambio. No repite la P11 del examen oficial ni la n.º 244 del banco, que preguntan de qué tipo de acoso se trata y cuáles son los dos tipos."
+  },
+  {
+    "q": "Según el apdo. VI del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), la aplicación del Protocolo, respecto de las acciones legales oportunas de las personas implicadas:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VI, garantía 6: «no impedirá en ningún caso la utilización, paralela o posterior [...] de las acciones legales oportunas». Los distractores son falsos. Es nueva en el banco."
+  },
+  {
+    "q": "Según el apdo. VII.2 del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), el documento de constitución del Comité de Asesoramiento, además de nombrar a las personas que lo componen, designará a una de ellas como:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VII.2: el documento de constitución del Comité «designará a una de ellas como tramitadora». El Protocolo no prevé presidencia, secretaría ni instructor dentro del Comité (la Presidencia que nombra en el VII.3 es la de la Comisión de Igualdad). No repite la n.º 246 del banco, que trata de la composición del Comité."
+  },
+  {
+    "q": "Según el apdo. VIII.A del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), si la denuncia se presenta de forma verbal:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VIII.A: «Si fuese verbal la persona denunciante deberá ratificarla por escrito». La inadmisión es solo para las denuncias anónimas. No repite la n.º 248 del banco (denuncias anónimas)."
+  },
+  {
+    "q": "Según el apdo. VIII.A del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), una vez presentada la denuncia se reunirán de urgencia dos personas de la Asesoría Confidencial, procurando que una de ellas sea siempre:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VIII.A: «se reunirán de urgencia dos personas de la Asesoría Confidencial, procurando que una de ellas siempre sea un/a Agente de Igualdad». Los Delegados de Prevención pueden formar parte de la Asesoría (VII.1), pero no son lo que se procura que esté siempre. No repite la n.º 262 del banco, que pregunta quiénes son los asesores iniciales."
+  },
+  {
+    "q": "Según el apdo. VIII.C del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), una de las situaciones en que puede concluir el procedimiento informal es que la persona denunciante y la denunciada identifiquen y analicen los hechos y haya:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VIII.C a): «identifican y analizan los hechos y hay un compromiso de no repetición». Los distractores no aparecen en el procedimiento informal. No repite la n.º 249 del banco (VIII.C c)."
+  },
+  {
+    "q": "Según el apdo. VIII.C del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), la Asesoría Confidencial dará conocimiento del resultado del procedimiento informal a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VIII.C: «dará conocimiento del resultado del procedimiento informal al Comité de Asesoramiento y si fuera necesario al Servicio de Relaciones Laborales». Ningún distractor recoge esa combinación y las cuatro opciones tienen longitud pareja. Es nueva en el banco."
+  },
+  {
+    "q": "Según el apdo. VIII.D del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), si del análisis del caso se dedujera alguna otra falta distinta de los tipos de acoso objeto del Protocolo y tipificada en la normativa laboral existente:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VIII.D b): «se propondría la incoación del expediente disciplinario que corresponda». La no admisión por quedar fuera del ámbito del Protocolo es del análisis inicial (VIII.B a), no del informe del Comité ante otra falta tipificada, así que el distractor de archivar es falso en el supuesto preguntado. No repite la n.º 268 del banco (VIII.D c)."
+  },
+  {
+    "q": "Según el apdo. VIII.E del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), de la decisión que adopte el Comité de Asesoramiento tras las alegaciones se dará traslado a la persona denunciante, a la persona denunciada y a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Anexo II, apdo. VIII.E: «De la decisión aquí adoptada se dará traslado a la persona denunciante, a la persona denunciada y a la Dirección del Área donde presta sus servicios la persona presuntamente acosada». Los distractores son falsos: la Comisión de Igualdad recibe información periódica (apdo. I), pero no el traslado de esta decisión. No repite la n.º 259 del banco (plazo de cinco días)."
+  }
+]

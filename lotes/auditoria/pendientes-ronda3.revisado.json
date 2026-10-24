@@ -1,0 +1,301 @@
+[
+  {
+    "tema": 8,
+    "q": "Según el art. 119.3, la resolución del recurso, ¿puede agravar la situación inicial del recurrente respecto a lo resuelto en primera instancia?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "La clave («No, sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede») añade al art. 119.3 LPAC una salvedad que no está en él: procede del art. 88.2, que rige la resolución de los procedimientos iniciados a solicitud del interesado. Corregida, la clave sería «No, en ningún caso», y la pregunta repetiría literalmente la 21-48 (examen oficial, «¿Puede la resolución de un recurso administrativo agravar la situación inicial del recurrente? No, en ningún caso») y en el fondo la 8-172 y la 21-100. La salvedad del art. 88.2 ya la pregunta la 7-64. Alternativa, si se prefiere no retirar: clave «No, en ningún caso», con la explicación de que la salvedad de incoar un nuevo procedimiento es del art. 88.2.",
+    "resumen": "Retirada: atribuía al art. 119.3 LPAC una salvedad del art. 88.2 y, corregida, repetiría la pregunta de examen 21-48.",
+    "cita": "Art. 119.3 LPAC: «No obstante, la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial.» Art. 88.2 LPAC: «…sin que en ningún caso pueda agravar su situación inicial y sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede.»",
+    "revisor": "APROBADA (retirada). Comprobado en el consolidado (06/11/2024): el art. 119.3 termina en «sin que en ningún caso pueda agravarse su situación inicial»; la salvedad de incoar de oficio un nuevo procedimiento solo está en el art. 88.2. La clave actual es, pues, inexacta. Corregida («No, en ningún caso») repetiría la 21-48 (examen oficial de 2025), y en el fondo la 21-100 (examen de 2026) y la 8-172; la salvedad del 88.2 ya la pregunta la 7-64. No hay arreglo que no duplique."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de identificación no previsto en las letras a) y b), es necesario, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "La Agencia Española de Protección de Datos",
+        "La Secretaría General de Administración Digital",
+        "El Consejo de Transparencia y Buen Gobierno",
+        "La Secretaría de Estado de Seguridad"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.2 c) LPAC admite «Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital». La Secretaría de Estado de Seguridad no recibe la comunicación: solo emite, en su caso, el informe vinculante previo a que el órgano estatal competente por motivos de seguridad pública acuda a la vía jurisdiccional. La Agencia Española de Protección de Datos y el Consejo de Transparencia y Buen Gobierno no aparecen en el precepto. Aviso: el texto de la LPAC no se ha actualizado, pero ese ministerio ya no existe. El Real Decreto 829/2023, de 20 de noviembre, lo suprimió (disposición final primera), y las materias de transformación digital y de administración y función pública corresponden hoy al Ministerio para la Transformación Digital y de la Función Pública (art. 22). Además, la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+      "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª y art. 22); RD 1118/2024 (DA 1.ª y DF 1.ª)"
+    },
+    "motivo": "La clave reproduce la denominación literal del art. 9.2 c) («Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital»), pero ese ministerio se suprimió en 2023 (RD 829/2023, DF 1.ª) y la propia Secretaría General quedó suprimida el 21-feb-2025 al constituirse la Agencia Estatal de Administración Digital (RD 1118/2024, DA 1.ª). Se acorta la clave al nombre del órgano, que sigue siendo literal, y la explicación avisa del cambio. De paso, la clave deja de delatarse por la longitud (100 caracteres frente a 36-43).",
+    "resumen": "Clave acortada a «La Secretaría General de Administración Digital»; la explicación avisa de que el ministerio citado en la LPAC ya no existe y de que la Agencia Estatal de Administración Digital sustituye a esa Secretaría General desde 2025.",
+    "cita": "Art. 9.2 c) LPAC: «previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital». RD 1118/2024, DA 1.ª.2: «A la fecha de constitución efectiva de la Agencia quedarán suprimidos la Secretaría General de Administración Digital…».",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (1). Comprobado: art. 9.2 c) LPAC (consolidado 06/11/2024) sigue diciendo «Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital»; RD 829/2023 suprime ese ministerio (DF 1.ª) y crea el de Transformación Digital y de la Función Pública (art. 22); RD 1118/2024, DA 1.ª.2 suprime la SGAD a la constitución efectiva de la Agencia y DF 1.ª.2 la subroga (cita literal); la constitución fue el 21-feb-2025 (nota del consolidado del RD 1009/2023 al art. 21 y Resolución BOE-A-2025-3627, «reunión constitutiva del 21 de febrero de 2025»). Solución aceptada: el enunciado dice «Según el art. 9.2.c) de la LPAC», la clave es el nombre literal del órgano sin el ministerio extinto, ninguna opción es la Agencia ni el ministerio actual (no hay doble respuesta) y la explicación avisa sin afirmar a quién se comunica hoy. No enseña nada falso para 2027 salvo que cambie la LPAC. Cambio: la explicación decía que la Secretaría de Estado de Seguridad interviene «después, con un informe vinculante, si el órgano estatal… acude a la vía jurisdiccional», lo que sugiere que el informe es posterior; el art. 9.2 c) dice «previo informe vinculante». Se reescribe esa frase. Distractores falsos; la clave ya no se delata (47 frente a 36-43). Nota: la 4-52 pregunta casi lo mismo (ver hallazgos)."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 10.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de firma no comprendido en las letras a) y b), se exige, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "El Consejo Superior de Administración Electrónica",
+        "La Abogacía General del Estado",
+        "La Secretaría General de Administración Digital",
+        "La Secretaría de Estado de Seguridad"
+      ],
+      "correct": 2,
+      "exp": "El art. 10.2 c) LPAC exige, para los sistemas de firma, lo mismo que el art. 9.2 c) para los de identificación: «un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital». La Secretaría de Estado de Seguridad solo emite, en su caso, el informe vinculante previo a que el órgano estatal competente por motivos de seguridad pública acuda a la vía jurisdiccional. El Consejo Superior de Administración Electrónica y la Abogacía General del Estado no aparecen en el precepto. Aviso: el texto de la LPAC no se ha actualizado, pero ese ministerio ya no existe. El Real Decreto 829/2023, de 20 de noviembre, lo suprimió (disposición final primera), y las materias de transformación digital y de administración y función pública corresponden hoy al Ministerio para la Transformación Digital y de la Función Pública (art. 22). Además, la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+      "fuente": "Art. 10.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª y art. 22); RD 1118/2024 (DA 1.ª y DF 1.ª)"
+    },
+    "motivo": "Mismo problema que la 4-138, en el art. 10.2 c): la clave da un ministerio suprimido en 2023 y un órgano suprimido en 2025, sin aviso. Se acorta la clave al nombre del órgano (literal) y se añade el aviso.",
+    "resumen": "Clave acortada a «La Secretaría General de Administración Digital»; la explicación avisa del ministerio suprimido y de la Agencia Estatal de Administración Digital.",
+    "cita": "Art. 10.2 c) LPAC: «previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital».",
+    "revisor": "APROBADA sin cambios. Punto delicado (1): mismo criterio que la 4-138; el art. 10.2 c) tiene el mismo texto que el 9.2 c) (comprobado). La explicación describe bien el informe vinculante «previo». Distractores falsos (el Consejo Superior de Administración Electrónica y la Abogacía General del Estado no aparecen en el precepto; la Secretaría de Estado de Seguridad no recibe la comunicación). Longitudes 30-49."
+  },
+  {
+    "tema": 5,
+    "q": "Según el art. 23.1 de la Ley 39/2015, la ampliación del plazo máximo de resolución puede acordarse a propuesta, en su caso, de:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "El art. 23.1 de la Ley 39/2015 permite al órgano competente para resolver ampliar el plazo máximo de resolución y notificación «a propuesta, en su caso, del órgano instructor o…». ¿Cómo continúa el texto?",
+      "options": [
+        "El titular de la unidad que tramite el expediente",
+        "El interesado que haya promovido el procedimiento",
+        "El superior jerárquico del órgano competente para resolver",
+        "El órgano de control interno de la Administración actuante"
+      ],
+      "correct": 2,
+      "exp": "El art. 23.1 dice: «Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21, el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento». La propuesta no siempre es necesaria («en su caso»). La redacción no aclara si el superior jerárquico solo propone o si también puede acordar él mismo la ampliación; por eso la pregunta se limita a la letra del precepto. En el art. 21.5, en cambio, el plural deja claro que el superior jerárquico también decide: «el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales». La unidad tramitadora, el interesado y el control interno no aparecen en el art. 23.1.",
+      "fuente": "Art. 23.1 LPAC (Ley 39/2015)"
+    },
+    "motivo": "Aviso del redactor de t05-1: el enunciado («la ampliación… puede acordarse a propuesta, en su caso, de…») da por hecho que el superior jerárquico solo propone, y el texto del art. 23.1 admite también la lectura de que el superior jerárquico acuerda por sí mismo. Se reformula como pregunta de literalidad (cómo continúa el texto), que no toma partido, y la explicación señala la ambigüedad y la contrasta con el art. 21.5. La clave sigue siendo el superior jerárquico; los distractores nuevos son falsos según el art. 23.1. Alternativa: retirarla (las 5-51, 5-134 y 5-135 cubren el resto del art. 23.1).",
+    "resumen": "Reformulada como pregunta de literalidad del art. 23.1: ya no da por hecho que el superior jerárquico solo propone.",
+    "cita": "Art. 23.1 LPAC: «el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación».",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (3). Comprobado el art. 23.1: «a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar». La pregunta de literalidad es neutral: pregunta solo cómo sigue el texto, y la continuación es «el superior jerárquico del órgano competente para resolver», con independencia de cómo se lea. Distractores ausentes del precepto; longitudes parejas (49-58). No la repite ninguna otra (5-51, 5-134 y 5-135 preguntan otras partes del 23.1). Cambios en la explicación: (a) «La propuesta no es obligatoria» pasa a «no siempre es necesaria», más fiel a «en su caso»; (b) la frase sobre el art. 21.5 decía que el superior «actúa por sí mismo», pero allí actúa «a propuesta de éste» (del órgano competente); se reescribe citando el 21.5 con exactitud."
+  },
+  {
+    "tema": 6,
+    "q": "¿Cuál de los siguientes actos se considera nulo de pleno derecho?",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "El que contenga un defecto de forma que no cause indefensión ni le impida alcanzar su fin.",
+        "El que restrinja intereses legítimos y se dicte con la motivación debida.",
+        "El que tenga un contenido posible, aunque sea desfavorable para el interesado.",
+        "El que se dicte por un órgano manifiestamente incompetente por razón del territorio."
+      ],
+      "correct": 3,
+      "exp": "El art. 47.1 b) LPAC declara nulos de pleno derecho «Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio». La incompetencia tiene que ser manifiesta: si no lo es, el acto es anulable (art. 48.1) y puede convalidarse; si el vicio es de «incompetencia no determinante de nulidad», la convalidación puede hacerla el órgano competente cuando sea superior jerárquico del que dictó el acto (art. 52.3). Un defecto de forma que no cause indefensión ni impida al acto alcanzar su fin ni siquiera lo hace anulable: el defecto de forma «sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados» (art. 48.2). Lo que causa nulidad es el contenido imposible (art. 47.1 c), no el posible aunque sea desfavorable. Y limitar intereses legítimos solo obliga a motivar el acto (art. 35.1 a).",
+      "fuente": "Art. 47.1 b) LPAC (Ley 39/2015); arts. 48 y 52.3 LPAC"
+    },
+    "motivo": "Aviso del revisor 1 de t06-1: la clave («El que se dicte por un órgano incompetente por razón del territorio») omite «manifiestamente», que exige el art. 47.1 b); sin ese adverbio el acto es, en principio, anulable (arts. 48.1 y 52.3), así que la clave era falsa. La explicación anterior lo reconocía («La opción marcada omite el adverbio…»). Se añade el adverbio a la clave y, para que no se delate por la longitud, se alargan los distractores con matices igual de falsos como causa de nulidad. La explicación se reescribe sin referencias a «la opción marcada».",
+    "resumen": "La clave añade «manifiestamente», como exige el art. 47.1 b) LPAC; se alargan los distractores y se reescribe la explicación.",
+    "cita": "Art. 47.1 b) LPAC: «Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.»",
+    "revisor": "APROBADA CON CAMBIOS. La clave antigua era falsa (sin «manifiestamente», art. 47.1 b); la nueva es literal. Cambios: (a) el distractor «defecto de forma que no cause indefensión» pasa a «…que no cause indefensión ni le impida alcanzar su fin»: así es inequívocamente un defecto no invalidante (art. 48.2) y no admite la objeción de que una omisión total del procedimiento (art. 47.1 e) podría no causar indefensión; (b) la explicación decía «Un defecto de forma nunca es causa de nulidad», afirmación demasiado tajante frente al art. 47.1 e); se reescribe con la cita literal del 48.2; (c) la explicación decía que el acto con incompetencia no manifiesta «puede convalidarlo el superior jerárquico», y el art. 52.3 dice que la convalidación puede hacerla «el órgano competente cuando sea superior jerárquico del que dictó el acto viciado»; se precisa. Los otros dos distractores son falsos (art. 35.1 a y 47.1 c). La clave (84) no se delata (73-87). No repite la 6-53 (letra del 47.1 b) ni la 6-285 (incompetencia no manifiesta)."
+  },
+  {
+    "tema": 7,
+    "q": "Según el art. 88.3, además de la decisión motivada, las resoluciones deberán expresar:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 88.3 LPAC, además de contener la decisión, las resoluciones que ponen fin al procedimiento expresarán:",
+      "options": [
+        "El nombre de los funcionarios que intervinieron en la instrucción del expediente",
+        "La fecha prevista para la ejecución forzosa del acto si el interesado no lo cumple",
+        "Los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+        "El coste económico íntegro de la tramitación del expediente y quién debe soportarlo"
+      ],
+      "correct": 2,
+      "exp": "El art. 88.3 dispone: «Las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35. Expresarán, además, los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos, sin perjuicio de que los interesados puedan ejercitar cualquier otro que estimen oportuno». La decisión no se motiva siempre, sino en los casos del art. 35. El precepto no exige identificar a los funcionarios instructores, fijar una fecha de ejecución forzosa ni cuantificar el coste de la tramitación.",
+      "fuente": "Art. 88.3 LPAC (Ley 39/2015)"
+    },
+    "motivo": "Aviso del revisor 1 de t07-2 (en la lista figura como «tema 5, pregunta n.º 234», pero el enunciado citado, «además de la decisión motivada», es el de la 7-234: el art. 88 es del tema 7). El enunciado sugería que toda decisión ha de motivarse, y el art. 88.3 solo lo exige «en los casos a que se refiere el artículo 35». Se quita «motivada» del enunciado y la explicación cita el precepto completo. Se acorta la clave y se alargan los distractores, porque la clave (106 caracteres) era bastante más larga que el resto (49-62). La clave no cambia de sentido ni de posición.",
+    "resumen": "Enunciado sin «decisión motivada» (el art. 88.3 solo exige motivar en los casos del art. 35); se igualan las longitudes de las opciones.",
+    "cita": "Art. 88.3 LPAC: «Las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35. Expresarán, además, los recursos que contra la misma procedan…»",
+    "revisor": "APROBADA sin cambios. Punto delicado (4). Comprobado el art. 88.3: «Las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35. Expresarán, además, los recursos…». El enunciado nuevo ya no da por hecho que toda decisión se motive. La clave abrevia sin alterar el sentido («órgano administrativo o judicial» → «el órgano»); los tres distractores no figuran en el art. 88 (el 88.4 habla de la identidad del órgano competente, no de los funcionarios instructores). Longitudes 80-89. No se convierte en la 7-318 (cuándo se motiva) ni repite otra del banco o de lotes/nuevas. Es la 7-234, no la 5-234 (comprobado: la 5-234 trata del art. 14.3)."
+  },
+  {
+    "tema": 10,
+    "q": "¿Qué órgano es competente para acordar la enajenación de un bien patrimonial de una Entidad local cuando su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto?",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 47.2 m) de la LBRL y el art. 126.4 ll) de la Ley 7/1999, de Administración Local de Aragón, el acuerdo de enajenación de bienes cuya cuantía exceda del 20 por 100 de los recursos ordinarios del presupuesto requiere:",
+      "options": [
+        "La mayoría simple de los miembros presentes, como cualquier otro acuerdo",
+        "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+        "El voto favorable de las dos terceras partes del número de hecho de miembros",
+        "La mayoría absoluta de los miembros presentes en la sesión en que se vote"
+      ],
+      "correct": 1,
+      "exp": "El art. 47.2 LBRL exige el voto favorable de la mayoría absoluta del número legal de miembros de las corporaciones para la «Enajenación de bienes, cuando su cuantía exceda del 20 por ciento de los recursos ordinarios de su presupuesto» (letra m). En Aragón lo repite el art. 126.4 de la Ley 7/1999: «Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación» para «La enajenación de bienes, si su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto» (letra ll); a ese quórum remite el art. 108.3 del Decreto 347/2002 (RBASO). La mayoría simple de los presentes es la regla general (art. 126.1 de la Ley 7/1999), no la de este supuesto; los dos tercios del número de hecho se reservan a los acuerdos del art. 126.3, entre los que no está la enajenación; y la mayoría absoluta se cuenta sobre el número legal de miembros, no sobre los presentes. Si el valor excede además del 25 por 100, hace falta la aprobación de la Comunidad Autónoma (art. 186.1 de la Ley 7/1999; art. 121 RBASO). Aviso para Zaragoza, municipio de gran población: el art. 47.3 LBRL remite la adopción de acuerdos al art. 123.2, que no incluye esta mayoría, y la enajenación del patrimonio corresponde al Gobierno de Zaragoza (art. 14.1 g de la Ley 10/2017; disposición adicional segunda, apartado 11, de la LCSP, «cualquiera que sea el importe del contrato»).",
+      "fuente": "Art. 47.2 m) LBRL (Ley 7/1985); art. 126.4 ll) Ley 7/1999; art. 108.3 RBASO (Decreto 347/2002); en Zaragoza, arts. 47.3 LBRL y 14.1 g) Ley 10/2017 y DA 2.ª.11 LCSP (Ley 9/2017)"
+    },
+    "motivo": "Pendiente de la ronda 2 (hallazgo del proponente, no tratado): el enunciado era general («¿Qué órgano es competente…?») y la clave «El Pleno…», que no es la regla de Zaragoza (Gobierno de Zaragoza, art. 14.1.g Ley 10/2017; DA 2.ª.11 LCSP). La explicación ya avisaba, pero la regla 9 exige además que el enunciado se ciña a la norma. Se reformula como pregunta de mayoría, ceñida al art. 47.2 m) LBRL y al art. 126.4 ll) de la Ley 7/1999, con distractores que son también mayorías. Se conserva el aviso de Zaragoza. Desaparecen los distractores absurdos (Diputación, Secretario, Defensor del Pueblo).",
+    "resumen": "Enunciado ceñido al art. 47.2 m) LBRL y al art. 126.4 ll) de la Ley aragonesa 7/1999; se pregunta por la mayoría y se mantiene el aviso de Zaragoza.",
+    "cita": "Art. 47.2 m) LBRL: «Enajenación de bienes, cuando su cuantía exceda del 20 por ciento de los recursos ordinarios de su presupuesto.» Art. 126.4 ll) Ley 7/1999: «La enajenación de bienes, si su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto.»",
+    "revisor": "APROBADA sin cambios. Comprobado: art. 47.2 m) LBRL (consolidado 03/10/2026) y art. 126.4 ll) Ley 7/1999 (25/10/2022), en el apartado 4 (mayoría absoluta del número legal) y no en el 3 (dos tercios del número de hecho y mayoría absoluta), cuyas letras a)-d) no incluyen la enajenación; art. 126.1 (mayoría simple de los presentes); art. 108.3 RBASO (remite al quórum del 126.4 ll); art. 186.1 Ley 7/1999 y art. 121 RBASO (aprobación autonómica por encima del 25 %). Regla 9: el enunciado se ciñe a las dos normas y la explicación avisa de Zaragoza (art. 47.3 → 123.2 LBRL; art. 14.1 g Ley 10/2017; DA 2.ª.11 LCSP, cita literal). A diferencia de las preguntas del t16-1 rechazadas (ordenanzas por mayoría absoluta del 126.4), aquí no hay contradicción con lo que vota el Pleno de Zaragoza: en Zaragoza la enajenación ni siquiera es del Pleno; mismo criterio que la 10-139 aprobada en la ronda 2. Distractores falsos y del mismo tipo; longitudes 71-87. Ninguna otra pregunta del banco pregunta esta mayoría."
+  },
+  {
+    "tema": 10,
+    "q": "¿Qué exige, con carácter general, la normativa patrimonial para poder ceder gratuitamente un bien inmueble patrimonial de una Entidad Local a una asociación cultural sin ánimo de lucro?",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Que se adjudique mediante subasta pública al mejor postor, como cualquier enajenación de bienes patrimoniales",
+        "Que la asociación abone previamente a la Entidad local el valor de mercado del inmueble que se le va a ceder",
+        "Que se acredite el interés público de la cesión y, en su caso, se dé cuenta a la autoridad competente de la Comunidad Autónoma",
+        "Ninguna formalidad: basta un acuerdo verbal del Alcalde, sin expediente previo ni trámite de información pública"
+      ],
+      "correct": 2,
+      "exp": "Los inmuebles patrimoniales solo pueden cederse gratis a entidades o instituciones públicas y a instituciones privadas de interés público sin ánimo de lucro, para fines que redunden en beneficio de los vecinos (art. 109.2 RBEL; en Aragón, art. 187.1 de la Ley 7/1999 y art. 118.1 del Decreto 347/2002, RBASO). El art. 109.2 RBEL añade: «De estas cesiones también se dará cuenta a la autoridad competente de la Comunidad Autónoma». En Aragón, el procedimiento exige la «Justificación documental de los fines que persigue y de su utilidad e interés para la población de la Entidad local» y «La autorización o toma de conocimiento, según proceda» del departamento autonómico competente (art. 119.1 a y f RBASO). No hay subasta ni precio, porque la cesión es gratuita, y no basta un acuerdo verbal: el procedimiento incluye «Información pública por plazo no inferior a quince días» (art. 119.1 e RBASO) y la cesión la aprueba el Pleno con el voto favorable de la mayoría absoluta del número legal de miembros (art. 119.2 RBASO; también el art. 110.1 RBEL). En Zaragoza, municipio de gran población, el art. 14.1 g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza las competencias relativas a la «adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal».",
+      "fuente": "Arts. 109.2 y 110.1 RBEL (RD 1372/1986); art. 187 Ley 7/1999; arts. 118 y 119 RBASO (Decreto 347/2002); en Zaragoza, art. 14.1 g) Ley 10/2017"
+    },
+    "motivo": "Cesiones en Zaragoza (lo que quedaba del tema 10): la explicación solo citaba el RBEL, que en Aragón es supletorio en esta materia, y no avisaba de la norma aragonesa (art. 187 Ley 7/1999; arts. 118-119 RBASO) ni del órgano competente en Zaragoza. El enunciado no pregunta por el órgano y la clave es correcta también con la norma aragonesa (justificación de los fines y autorización o toma de conocimiento autonómica), así que la clave no cambia. Se alargan los tres distractores, porque la clave (126 caracteres) casi doblaba al más largo (68). Revisor: se elimina la cita del art. 47.2 ñ) LBRL, que solo comprende la cesión gratuita a otras Administraciones o instituciones públicas, y se cita el art. 110.1 RBEL; siguen siendo falsos (la cesión gratuita no lleva subasta ni precio, y exige expediente con información pública, art. 119.1 e RBASO).",
+    "resumen": "La explicación añade la norma aragonesa sobre cesiones gratuitas y el aviso de Zaragoza; se alargan los distractores; la clave no cambia.",
+    "cita": "Art. 109.2 RBEL: «De estas cesiones también se dará cuenta a la autoridad competente de la Comunidad Autónoma.» Art. 119.1 f) RBASO: «La autorización o toma de conocimiento, según proceda, del Departamento de Presidencia y Relaciones Institucionales.»",
+    "revisor": "APROBADA CON CAMBIOS. La clave sigue siendo correcta: art. 109.2 RBEL («se dará cuenta a la autoridad competente de la Comunidad Autónoma») y, en Aragón, art. 187.1 Ley 7/1999 y arts. 118.1 y 119.1 a) y f) RBASO, todos comprobados. Error en la explicación y la fuente: citaban el art. 47.2 ñ) LBRL para la mayoría absoluta de esta cesión, y ese precepto solo comprende la «Cesión gratuita de bienes a otras Administraciones o instituciones públicas»; el caso de la pregunta es una asociación privada. Se sustituye por el art. 110.1 RBEL («En todo caso, la cesión gratuita de los bienes requerirá acuerdo adoptado con el voto favorable de la mayoría absoluta…»), además del 119.2 RBASO. Forma (regla 7 bis): la clave (126) seguía siendo un tercio más larga que el distractor más largo (94); se alargan los tres distractores (108-114), que siguen siendo falsos. No se añade al distractor del precio nada sobre la tasación, porque el art. 186.2 Ley 7/1999 sí exige informe pericial en toda cesión."
+  },
+  {
+    "tema": 5,
+    "q": "Según el art. 22.1 a), el plazo máximo para resolver se suspende cuando deba requerirse al interesado para subsanar deficiencias, por el tiempo que medie entre:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 22.1 a), cuando deba requerirse al interesado para subsanar deficiencias, el plazo máximo para resolver podrá suspenderse por el tiempo que medie entre:",
+      "exp": "Art. 22.1 a): «Cuando deba requerirse a cualquier interesado para la subsanación de deficiencias o la aportación de documentos y otros elementos de juicio necesarios, por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario, o, en su defecto, por el del plazo concedido». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá». Ni la tramitación de urgencia, ni la notificación de la resolución, ni el registro de la solicitud son el intervalo que fija esta letra.",
+      "options": [
+        "El inicio y el fin de la tramitación de urgencia acordada por el órgano competente",
+        "La firma de la resolución y su notificación efectiva al interesado",
+        "La notificación del requerimiento y su efectivo cumplimiento, o el plazo concedido",
+        "La presentación de la solicitud y su anotación en el registro electrónico"
+      ],
+      "correct": 2
+    },
+    "motivo": "Criterio «podrá/deberá»: el enunciado decía que el plazo «se suspende», y el art. 22.1 dice «se podrá suspender». Se corrige el verbo; la clave no cambia.",
+    "resumen": "El enunciado dice «podrá suspenderse», como el art. 22.1, en lugar de «se suspende»; se alargan los distractores para que la clave no se delate por la longitud.",
+    "cita": "Art. 22.1 LPAC: «El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se podrá suspender en los siguientes casos».",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (2). Comprobado el art. 22: el apartado 1 dice «se podrá suspender» y el 2 «se suspenderá». El cambio de verbo no altera la clave y ningún distractor pasa a ser cierto (el 22.1 a fija el tiempo entre la notificación del requerimiento y su cumplimiento o el plazo concedido; ninguna otra opción lo describe). Cita de la explicación literal. Cambio de forma (regla 7 bis): la clave (82) era mucho más larga que los distractores (31-48) y la propuesta lo dejaba para otra ronda; como la pregunta ya se toca, se alargan los tres distractores (66-81), que siguen siendo falsos y del mismo tipo (intervalos entre dos momentos del procedimiento). La explicación añade por qué fallan."
+  },
+  {
+    "tema": 5,
+    "q": "Según el art. 22.1 e), el plazo máximo para resolver se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios propuestos por los interesados, durante:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 22.1 e), cuando deban realizarse pruebas técnicas o análisis contradictorios propuestos por los interesados, el plazo máximo para resolver podrá suspenderse durante:",
+      "exp": "Art. 22.1 e): «Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados, durante el tiempo necesario para la incorporación de los resultados al expediente». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá». Esta letra no fija un plazo cerrado ni lo deja en manos del interesado; el límite de tres meses, tras el cual prosigue el procedimiento, es el de la suspensión por informes preceptivos (art. 22.1 d).",
+      "options": [
+        "El tiempo necesario para la incorporación de los resultados al expediente",
+        "Un plazo fijo de treinta días naturales, contados desde que se acuerde su práctica",
+        "Un máximo de tres meses, transcurrido el cual proseguirá el procedimiento",
+        "El plazo que fije el interesado al proponer las pruebas, sin límite máximo"
+      ],
+      "correct": 0
+    },
+    "motivo": "Criterio «podrá/deberá»: el enunciado decía «se suspende» en un supuesto del art. 22.1 («se podrá suspender»). Se corrige el verbo; la clave no cambia.",
+    "resumen": "El enunciado dice «podrá suspenderse», como el art. 22.1; se cambian los distractores por plazos del mismo tipo.",
+    "cita": "Art. 22.1 e) LPAC: «Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados, durante el tiempo necesario para la incorporación de los resultados al expediente.»",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (2). Comprobado el art. 22: el apartado 1 dice «se podrá suspender» y el 2 «se suspenderá». El cambio de verbo no altera la clave y ningún distractor pasa a ser cierto (el 22.1 e dice «durante el tiempo necesario para la incorporación de los resultados al expediente», sin plazo fijo ni máximo). Cambio de forma: la clave (73) era la más larga (21-53) y un distractor («Solo si el interesado lo solicita por escrito notarial») no respondía a «durante:»; se sustituyen los tres distractores por plazos del mismo tipo, todos falsos para la letra e): treinta días naturales, un máximo de tres meses (que es el límite de los informes preceptivos del 22.1 d, y la explicación lo dice) y el plazo que fije el interesado. Longitudes 72-81."
+  },
+  {
+    "tema": 5,
+    "q": "Según el art. 22.1 c) de la Ley 39/2015, procede la suspensión del plazo máximo cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 22.1 c) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que:",
+      "exp": "Art. 22.1 c): «Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate, desde que se tenga constancia de su existencia, lo que deberá ser comunicado a los interesados, hasta que se resuelva, lo que también habrá de ser notificado». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá». La ley no atiende a la antigüedad del procedimiento europeo, al domicilio de los afectados ni al Estado ante el que se tramita, sino a que condicione directamente la resolución.",
+      "options": [
+        "Haya sido iniciado por la Comisión Europea hace más de un año",
+        "Afecte a una empresa con domicilio social fuera del territorio español",
+        "Condicione directamente el contenido de la resolución de que se trate",
+        "Se tramite ante las autoridades de otro Estado miembro de la Unión Europea"
+      ],
+      "correct": 2
+    },
+    "motivo": "Criterio «podrá/deberá»: «procede la suspensión» puede leerse como suspensión obligada, y el art. 22.1 dice «se podrá suspender». Se ajusta el enunciado; la clave no cambia.",
+    "resumen": "El enunciado dice «podrá suspenderse», como el art. 22.1; se alargan los distractores.",
+    "cita": "Art. 22.1 c) LPAC: «Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate».",
+    "revisor": "APROBADA CON CAMBIOS. Punto delicado (2). Comprobado el art. 22: el apartado 1 dice «se podrá suspender» y el 2 «se suspenderá». El cambio de verbo no altera la clave y ningún distractor pasa a ser cierto (la única exigencia del 22.1 c es que el procedimiento europeo «condicione directamente el contenido de la resolución»). No repite la 5-271 (que pregunta desde cuándo se suspende). Cambio de forma: la clave (69) era la más larga (35-49) y la propuesta lo dejaba para otra ronda; se alargan los distractores (59-73), que siguen sin ser el requisito legal."
+  },
+  {
+    "tema": 5,
+    "q": "Según el art. 22.1 f) de la Ley 39/2015, el plazo máximo para resolver se suspende cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, en los términos del:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 22.1 f) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, en los términos del:",
+      "exp": "Art. 22.1 f): «Cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio en los términos previstos en el artículo 86 de esta Ley, desde la declaración formal al respecto y hasta la conclusión sin efecto, en su caso, de las referidas negociaciones». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá»."
+    },
+    "motivo": "Criterio «podrá/deberá»: el enunciado decía «se suspende» en un supuesto del art. 22.1. Se corrige el verbo; la clave no cambia.",
+    "resumen": "El enunciado dice «podrá suspenderse», como el art. 22.1.",
+    "cita": "Art. 22.1 f) LPAC: «Cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio en los términos previstos en el artículo 86 de esta Ley».",
+    "revisor": "APROBADA sin cambios. Punto delicado (2). Comprobado el art. 22: el apartado 1 dice «se podrá suspender» y el 2 «se suspenderá». El cambio de verbo no altera la clave y ningún distractor pasa a ser cierto (las opciones son números de artículo y solo el 86 es el que cita el 22.1 f). Cita literal; longitudes iguales."
+  },
+  {
+    "tema": 5,
+    "q": "Según el art. 22.1 g) de la Ley 39/2015, procede la suspensión cuando sea indispensable para resolver el procedimiento la obtención de un previo pronunciamiento de:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 22.1 g) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando para resolver el procedimiento sea indispensable la obtención de un previo pronunciamiento de:",
+      "exp": "Art. 22.1 g): «Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional, desde el momento en que se solicita, lo que habrá de comunicarse a los interesados, hasta que la Administración tenga constancia del mismo». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá»."
+    },
+    "motivo": "Criterio «podrá/deberá»: «procede la suspensión» puede leerse como suspensión obligada, y el art. 22.1 dice «se podrá suspender». Se ajusta el enunciado; la clave no cambia.",
+    "resumen": "El enunciado dice «podrá suspenderse», como el art. 22.1.",
+    "cita": "Art. 22.1 g) LPAC: «Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional».",
+    "revisor": "APROBADA sin cambios. Punto delicado (2). Comprobado el art. 22: el apartado 1 dice «se podrá suspender» y el 2 «se suspenderá». El cambio de verbo no altera la clave y ningún distractor pasa a ser cierto (solo «un órgano jurisdiccional» está en el 22.1 g; el pronunciamiento de un órgano de la Unión Europea del 22.1 b no está entre las opciones). Cita literal; longitudes parejas (22-29)."
+  },
+  {
+    "tema": 6,
+    "q": "¿Cuál de las siguientes características es predicable de los actos anulables?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Criterio nulidad/anulabilidad. Procede de un banco de test externo (no es de examen oficial de Zaragoza). La clave, «Sólo afecta a los interesados», es una fórmula doctrinal vaga que la LPAC no recoge, y su explicación es inexacta: dice que la anulabilidad «solo pueden hacer valer los interesados», cuando la propia Administración puede impugnar sus actos favorables anulables previa declaración de lesividad (art. 107.1). Además, la explicación nombra las opciones por su número («las opciones 0, 2 y 3»), contra la regla 3. Lo que sí tiene base literal (los actos anulables se pueden convalidar, art. 52.1) ya lo preguntan la 6-79 y la 6-219.",
+    "resumen": "Retirada: clave doctrinal sin base en la LPAC y explicación inexacta; lo literal ya está en otras preguntas.",
+    "cita": "Art. 107.1 LPAC: «Las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público.»",
+    "revisor": "APROBADA (retirada). Confirmado: la clave («Sólo afecta a los interesados») no tiene base en la LPAC, la explicación es inexacta frente al art. 107.1 (lesividad: la Administración impugna sus actos favorables anulables) y nombra las opciones por número (regla 3). Arreglarla exigiría una pregunta nueva sobre convalidación, que ya cubren la 6-79 y la 6-219 (art. 52.1)."
+  },
+  {
+    "tema": 6,
+    "q": "¿Cuál de las siguientes características no es predicable de los actos nulos?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Gemela de la 6-111 (mismas cuatro opciones, mismo banco externo). Para que la clave («Sólo afecta a los interesados») sea la única respuesta, hay que dar por predicables de los actos nulos «No producen efectos» y «Producen ineficacia por sí mismos», que son caracterizaciones doctrinales y chocan con la letra del art. 39.1 LPAC («se presumirán válidos y producirán efectos desde la fecha en que se dicten»): quien estudie la ley puede dudar con razón. Lo literal (no se convalidan, art. 52.1; la nulidad se declara en cualquier momento, art. 106.1) ya está en la 6-82, la 6-220 y la 6-228. Alternativa, si se prefiere conservarla: reescribir la explicación para presentar esas dos opciones como doctrina.",
+    "resumen": "Retirada: depende de caracterizaciones doctrinales que chocan con la letra del art. 39.1 LPAC; lo literal ya está en otras preguntas.",
+    "cita": "Art. 39.1 LPAC: «Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.»",
+    "revisor": "APROBADA (retirada). Confirmado: su clave solo es la única respuesta si se dan por predicables de los actos nulos «No producen efectos» y «Producen ineficacia por sí mismos», que chocan con la letra del art. 39.1 («se presumirán válidos y producirán efectos»). La alternativa del proponente (explicarlas como doctrina) seguiría dejando una pregunta discutible; lo literal ya está en la 6-82, la 6-220 (art. 52.1) y la 6-228 (art. 106.1)."
+  },
+  {
+    "tema": 6,
+    "q": "Según el art. 49.1 a), la nulidad o anulabilidad de un acto no implicará la de los sucesivos actos en el procedimiento que sean:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Cita un «art. 49.1 a)» que no existe: el art. 49 tiene dos apartados sin letras. Corregida la cita (art. 49.1), repetiría la 6-203, que pregunta lo mismo con la misma clave literal («No implicará la de los sucesivos en el procedimiento que sean independientes del primero»), y la 6-204.",
+    "resumen": "Retirada: cita una letra inexistente del art. 49 y, corregida, repetiría la 6-203.",
+    "cita": "Art. 49.1 LPAC: «La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.»",
+    "revisor": "APROBADA (retirada). El art. 49 tiene dos apartados sin letras (comprobado). Corregida la cita, coincidiría con la 6-203 (misma clave literal del 49.1) y con la 6-204."
+  },
+  {
+    "tema": 6,
+    "q": "Según el art. 49.1 b), la nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquella, salvo que:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Cita un «art. 49.1 b)» que no existe: el contenido es del art. 49.2. Corregida la cita, repetiría la 6-206 (misma pregunta y misma clave literal) y la 6-205.",
+    "resumen": "Retirada: cita una letra inexistente (es el art. 49.2) y, corregida, repetiría la 6-206.",
+    "cita": "Art. 49.2 LPAC: «La nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.»",
+    "revisor": "APROBADA (retirada). El contenido es del art. 49.2, no de un «49.1 b)» inexistente. Corregida, coincidiría con la 6-206 (misma excepción literal) y con la 6-205."
+  },
+  {
+    "tema": 6,
+    "q": "¿Qué principio recoge el art. 49 de la Ley 39/2015 en relación con la nulidad parcial de un acto?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Su `fuente` cita un «art. 49.1 b)» inexistente (es el 49.2) y la clave parafrasea sin exactitud el precepto («salvo que sea esencial para la existencia del acto», cuando la ley dice «de tal importancia que sin ella el acto administrativo no hubiera sido dictado»). Corregida, repetiría la 6-205 y la 6-206.",
+    "resumen": "Retirada: fuente con una letra inexistente, clave parafraseada y, corregida, repetida con la 6-205 y la 6-206.",
+    "cita": "Art. 49.2 LPAC: «salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado».",
+    "revisor": "APROBADA (retirada). Fuente con letra inexistente y clave parafraseada («esencial para la existencia del acto» frente a «de tal importancia que sin ella el acto administrativo no hubiera sido dictado»). Con la clave literal sería la 6-205."
+  },
+  {
+    "tema": 6,
+    "q": "Según el principio general del art. 52, el acto de convalidación produce efecto:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "La `fuente` dice «Art. 39» y la explicación atribuye la regla a «la regla general de eficacia del art. 39», cuando la da expresamente el art. 52.2 («El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3»). Corregida, repetiría la 6-221, que pregunta lo mismo con la clave literal del art. 52.2.",
+    "resumen": "Retirada: fuente y explicación equivocadas (es el art. 52.2) y, corregida, repetiría la 6-221.",
+    "cita": "Art. 52.2 LPAC: «El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos.»",
+    "revisor": "APROBADA (retirada). La regla es del art. 52.2 («producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3»), no del 39. Corregida sería la 6-221, que pregunta lo mismo con la clave literal."
+  }
+]
