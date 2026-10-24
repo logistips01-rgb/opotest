@@ -1,0 +1,307 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 18,
+ "lote": "t18-2",
+ "preguntas": [
+  {
+   "q": "Según el art. 56.1.d) del TREBEP, a quien ha sido separado del servicio siendo funcionario, ese requisito le impide participar en los procesos selectivos para el acceso:",
+   "options": [
+    "Al cuerpo o escala de funcionario en el que hubiese sido separado",
+    "A cualquier cuerpo o escala de cualquiera de las Administraciones Públicas",
+    "A cualquier cuerpo o escala de la Administración que acordó la separación",
+    "A cualquier cuerpo o escala, durante los seis años siguientes a la separación"
+   ],
+   "correct": 0,
+   "exp": "Art. 56.1.d) TREBEP: es requisito «No haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o de los órganos constitucionales o estatutarios de las Comunidades Autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, para el acceso al cuerpo o escala de funcionario, o para ejercer funciones similares a las que desempeñaban en el caso del personal laboral, en el que hubiese sido separado o inhabilitado». Da igual qué Administración acordara la separación, pero el impedimento se refiere al cuerpo o escala en el que se le separó, no a cualquier cuerpo o escala; y el precepto no fija un plazo de seis años.",
+   "fuente": "Art. 56.1.d) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 56.1.d) literal: «para el acceso al cuerpo o escala de funcionario, o para ejercer funciones similares … en el que hubiese sido separado o inhabilitado». Los distractores (cualquier cuerpo de cualquier Administración, cualquier cuerpo de la Administración que separó, seis años) son falsos; el precepto no fija plazo. No repite T18#265 (que pregunta «mediante expediente disciplinario»). Aviso menor: las bases generales de Zaragoza (base 5.1.e TRBGTL) piden no haber sido separado «del servicio de cualquiera de las Administraciones Publicas» sin la restricción al mismo cuerpo; no afecta porque el enunciado se ciñe al TREBEP. | Revisor 2 (CONFIRMADA): Art. 56.1.d) TREBEP (consolidado BOE, últ. act. 03/10/2026; la Ley 4/2026 solo toca el art. 49.e) comprobado: el impedimento se refiere al cuerpo o escala «en el que hubiese sido separado»; los otros tres alcances son falsos. Dentro del epígrafe (adquisición de la relación de servicio). No repite: la del banco sobre 56.1.d pregunta por el medio (expediente disciplinario), no por el alcance."
+  },
+  {
+   "q": "¿Cuál de los siguientes figura entre los requisitos generales que enumera el art. 56.1 del TREBEP para poder participar en los procesos selectivos?",
+   "options": [
+    "Estar empadronado en el municipio que convoca",
+    "Poseer la titulación exigida",
+    "Carecer de antecedentes penales de cualquier clase",
+    "Estar inscrito como demandante de empleo"
+   ],
+   "correct": 1,
+   "exp": "Art. 56.1 TREBEP: los requisitos generales son a) tener la nacionalidad española, sin perjuicio del art. 57; b) poseer la capacidad funcional para el desempeño de las tareas; c) tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa; d) no haber sido separado mediante expediente disciplinario ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, y e) «Poseer la titulación exigida». No figuran el empadronamiento ni la inscripción como demandante de empleo, y la letra d) no exige carecer de cualquier antecedente penal, sino no estar inhabilitado para empleos o cargos públicos.",
+   "fuente": "Art. 56.1.e) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 56.1.e) literal «Poseer la titulación exigida». Empadronamiento y demandante de empleo no figuran; la letra d) exige no estar inhabilitado, no carecer de todo antecedente penal. Explicación exacta. No hay pregunta del banco sobre la letra e) (T18#264-266 y #279-281 tratan las letras a, c y d). La correcta es la más corta: no se delata. | Revisor 2 (CONFIRMADA): Art. 56.1.e) TREBEP literal; empadronamiento, demanda de empleo y ausencia de cualquier antecedente penal no figuran en el 56.1 (la d habla de inhabilitación, no de antecedentes). El banco tiene preguntas sobre 56.1 a), c) y d), no sobre la e)."
+  },
+  {
+   "q": "Según el art. 57.3 del TREBEP, el acceso al empleo público como personal funcionario, en los términos del apartado 1 de ese artículo, se extiende igualmente a:",
+   "options": [
+    "Los nacionales de Estados con los que España haya suscrito un convenio de doble nacionalidad",
+    "Los extranjeros que acrediten cinco años de residencia legal y continuada en España",
+    "Quienes gocen de libre circulación de trabajadores por tratados de la UE ratificados por España",
+    "Los nacionales de los Estados del Consejo de Europa que hayan ratificado la Carta Social Europea"
+   ],
+   "correct": 2,
+   "exp": "Art. 57.3 TREBEP: «El acceso al empleo público como personal funcionario, se extenderá igualmente a las personas incluidas en el ámbito de aplicación de los Tratados Internacionales celebrados por la Unión Europea y ratificados por España en los que sea de aplicación la libre circulación de trabajadores, en los términos establecidos en el apartado 1 de este artículo». Los otros supuestos no figuran en el art. 57; los extranjeros con residencia legal a los que no se refieren los apartados anteriores solo pueden acceder «como personal laboral» (art. 57.4).",
+   "fuente": "Art. 57.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 57.3 literal: el acceso como funcionario «se extenderá igualmente a las personas incluidas en el ámbito de aplicación de los Tratados Internacionales celebrados por la Unión Europea y ratificados por España en los que sea de aplicación la libre circulación de trabajadores». Doble nacionalidad, Carta Social y cinco años de residencia no aparecen; los extranjeros residentes solo como laborales (57.4). Frente a T17#252 (art. 65, pérdida de la nacionalidad de esos Estados): distinto artículo y distinta materia (acceso frente a pérdida); no es repetición. En el banco no hay pregunta del 57.3. | Revisor 2 (CONFIRMADA): Art. 57.3 TREBEP comprobado; la correcta es paráfrasis fiel. Doble nacionalidad, cinco años de residencia y Carta Social Europea no figuran; los extranjeros con residencia legal solo acceden como laborales (57.4). Sin pregunta previa sobre 57.3."
+  },
+  {
+   "q": "Según el art. 59.1 del TREBEP, el cupo de reserva para personas con discapacidad en las ofertas de empleo público se establece de modo que progresivamente se alcance:",
+   "options": [
+    "El cinco por ciento de los efectivos totales en cada Administración Pública",
+    "El dos por ciento de las plazas de cada cuerpo o escala",
+    "El siete por ciento de los efectivos totales en cada Administración Pública",
+    "El dos por ciento de los efectivos totales en cada Administración Pública"
+   ],
+   "correct": 3,
+   "exp": "Art. 59.1 TREBEP: se reserva un cupo no inferior al siete por ciento de las vacantes «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». El siete por ciento se refiere a las vacantes ofertadas, no a los efectivos. El cinco por ciento no aparece en el precepto: es lo que resta del cupo mínimo del siete por ciento si a la discapacidad intelectual se reserva justo el dos por ciento. Y el otro dos por ciento del artículo es el mínimo de las plazas ofertadas para discapacidad intelectual, no un porcentaje de cada cuerpo o escala. En Aragón, el art. 27.2 de la Ley 5/2019 eleva el cupo de las ofertas de empleo público a «no inferior al 8%», «de modo que, progresivamente, se alcance el 2% de los efectivos totales en la Administración de la Comunidad Autónoma de Aragón y sus entidades instrumentales».",
+   "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 59.1 literal: «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». Distractores falsos (7 % es de vacantes; 2 % de plazas es el de discapacidad intelectual; 5 % no está en el precepto). Se ha corregido el defecto que llevó a DUDOSA en t18-1: ahora la explicación dice bien que el 5 % «no aparece en el precepto» y es lo que resta del 7 % si la intelectual se queda en el 2 %. La cita del art. 27.2 Ley 5/2019 (8 %, 2 % de efectivos en la Administración de la Comunidad Autónoma y sus entidades instrumentales) es literal y exacta. No repite T18#269, #270, #291 ni T21#19 (preguntan 7 %, intelectual, acreditación y 5 %). | Revisor 2 (CONFIRMADA): Art. 59.1 TREBEP: «progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». Distractores falsos (el 7 % es de vacantes; el 2 % de plazas es para discapacidad intelectual). La nota sobre el art. 27.2 Ley 5/2019 es exacta. No repite T18 (2 % intelectual) ni T21 P20."
+  },
+  {
+   "q": "Según el art. 61.5 del TREBEP, además de completar las pruebas con otros elementos para asegurar la objetividad y la racionalidad de los procesos selectivos, ¿qué podrá exigirse igualmente?",
+   "options": [
+    "Reconocimientos médicos",
+    "Una fianza que garantice la toma de posesión",
+    "Cartas de recomendación de empleadores anteriores",
+    "La acreditación de la vecindad en el municipio"
+   ],
+   "correct": 0,
+   "exp": "Art. 61.5 TREBEP: «Para asegurar la objetividad y la racionalidad de los procesos selectivos, las pruebas podrán completarse con la superación de cursos, de periodos de prácticas, con la exposición curricular por los candidatos, con pruebas psicotécnicas o con la realización de entrevistas. Igualmente podrán exigirse reconocimientos médicos». Ni la fianza, ni las cartas de recomendación ni la vecindad figuran en el precepto.",
+   "fuente": "Art. 61.5 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 61.5 literal: «Igualmente podrán exigirse reconocimientos médicos». Fianza, cartas de recomendación y vecindad no figuran. No repite T18#299, que pregunta por la primera frase del 61.5 (cursos, prácticas, exposición curricular, psicotécnicos, entrevistas). Frente a T18#274 (art. 62.1, con el distractor falso «examen médico adicional posterior al nombramiento»): no hay contradicción, porque el 62.1 enumera los requisitos para adquirir la condición tras el proceso y el 61.5 permite reconocimientos médicos dentro del proceso selectivo; incluso se complementan. La correcta es la más corta. | Revisor 2 (CONFIRMADA): Art. 61.5 TREBEP: «Igualmente podrán exigirse reconocimientos médicos». Fianza, cartas de recomendación y vecindad no figuran. La pregunta existente sobre 61.5 (¿cuál NO figura?) no incluye los reconocimientos médicos: no es repetición."
+  },
+  {
+   "q": "Un funcionario de carrera pasa a desempeñar las responsabilidades de un órgano directivo municipal. Según el art. 87.1.f) del TREBEP, será declarado en la situación de:",
+   "options": [
+    "Servicio activo",
+    "Servicios especiales",
+    "Servicio en otras Administraciones Públicas",
+    "Excedencia voluntaria por interés particular"
+   ],
+   "correct": 1,
+   "exp": "Art. 87.1.f) TREBEP: los funcionarios de carrera serán declarados en servicios especiales «Cuando se desempeñen cargos electivos retribuidos y de dedicación exclusiva en las Asambleas de las ciudades de Ceuta y Melilla y en las entidades locales, cuando se desempeñen responsabilidades de órganos superiores y directivos municipales y cuando se desempeñen responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas». Mientras dure, percibirá las retribuciones del puesto o cargo que desempeñe, sin perjuicio de los trienios (art. 87.2).",
+   "fuente": "Art. 87.1.f) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 87.1.f) literal: servicios especiales «cuando se desempeñen responsabilidades de órganos superiores y directivos municipales». Servicio activo, servicio en otras Administraciones y excedencia por interés particular son falsos. Es el inciso de la letra f) que faltaba: T18#119 pregunta por los cargos electivos retribuidos y T18#308 por los órganos económico-administrativos, así que no repite. Explicación (87.2, trienios) exacta. Nada en la Ley 10/2017 contradice esto en Zaragoza. Matiz que no la invalida: los habilitados nacionales que ocupan puestos reservados que la LBRL califica de órganos directivos (art. 130) siguen en servicio activo, pero el supuesto del enunciado es el de «pasar a desempeñar» un órgano directivo, que es el de la letra f). | Revisor 2 (CONFIRMADA): Art. 87.1.f) TREBEP comprobado («cuando se desempeñen responsabilidades de órganos superiores y directivos municipales»). Distractores falsos según ese precepto. Sugerencia menor, no bloqueante: la explicación podría advertir que el habilitado nacional que ocupa por concurso un puesto reservado que es órgano directivo (p. ej. interventor general) sigue en servicio activo en su puesto. No repite la del banco sobre 87.1.f (reclamaciones económico-administrativas)."
+  },
+  {
+   "q": "Según el art. 88.3 del TREBEP, los funcionarios de carrera en servicio en otras Administraciones Públicas por haber obtenido un puesto mediante los sistemas de provisión del Estatuto se rigen por:",
+   "options": [
+    "La legislación de su Administración de origen, de la que siguen siendo funcionarios",
+    "La de origen en situaciones y régimen disciplinario, y la de destino en todo lo demás",
+    "La legislación de la Administración en la que estén destinados de forma efectiva",
+    "La legislación estatal de función pública, con exclusión de la autonómica y la local"
+   ],
+   "correct": 2,
+   "exp": "Art. 88.3 TREBEP: estos funcionarios «se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias para la provisión de puestos de trabajo que se efectúen por esta última». Conservar la condición de funcionario de origen no significa regirse por su legislación, y el precepto no reparte materias entre una y otra Administración.",
+   "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 88.3 literal: «se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen». Distractores falsos; el 88.3 no reparte materias (el reparto «situaciones y disciplina de origen» tampoco existe en el RD 365/1995, cuyo art. 11.2 aplica las de destino salvo la separación del servicio). No repite T18#5, #28 y #29 (conservación de la condición, derecho a concursar y cómputo como servicio activo): esta pregunta trata la legislación aplicable, que no tenía pregunta. | Revisor 2 (CONFIRMADA): Art. 88.3 TREBEP literal: «se rigen por la legislación de la Administración en la que estén destinados de forma efectiva». No hay reparto de materias ni remisión a la legislación estatal. Las preguntas del banco sobre 88.3 tratan la conservación de la condición y el cómputo del tiempo, no la legislación aplicable."
+  },
+  {
+   "q": "En su redacción vigente, ¿limita la letra b) del art. 95.2 del TREBEP a una lista cerrada los motivos por los que una actuación discriminatoria constituye falta muy grave?",
+   "options": [
+    "Sí: solo es falta muy grave la discriminación por alguno de los motivos que cita expresamente",
+    "No: el órgano que incoa el expediente puede añadir otros motivos mediante resolución motivada",
+    "Sí: y además exige que la discriminación cause un perjuicio grave a la Administración",
+    "No: la enumeración termina con «cualquier otra condición o circunstancia personal o social»"
+   ],
+   "correct": 3,
+   "exp": "Art. 95.2.b) TREBEP, en la redacción dada por la Ley 4/2023, de 28 de febrero: es falta muy grave «Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, identidad sexual, características sexuales, lengua, opinión, lugar de nacimiento o vecindad, sexo o cualquier otra condición o circunstancia personal o social», así como el acoso por las razones que enumera y el acoso moral y sexual. La lista queda abierta por su cláusula final. El perjuicio grave a la Administración o a los ciudadanos es un requisito de la letra d) (acuerdos manifiestamente ilegales), no de la b), y el precepto no permite al órgano instructor añadir motivos.",
+   "fuente": "Art. 95.2.b) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE descargado por mí (TREBEP BOE-A-2015-11719, últ. act. 03/10/2026; la única redacción de la Ley 4/2026 afecta al art. 49.e, ajeno). Art. 95.2.b) en la redacción de la Ley 4/2023 (disp. final 16.9; vigente desde 02/03/2023): la enumeración acaba en «sexo o cualquier otra condición o circunstancia personal o social». El perjuicio grave es de la letra d); el instructor no añade motivos. No repite T18#74 y #90 (acoso moral y sexual). Longitudes equilibradas. | Revisor 2 (CONFIRMADA): Art. 95.2.b) TREBEP en redacción de la DF 16.9 de la Ley 4/2023 (en vigor 02/03/2023) comprobado: termina con «cualquier otra condición o circunstancia personal o social», luego es lista abierta. El perjuicio grave es de la letra d). Las del banco sobre 95.2.b preguntan por el acoso, no por el carácter abierto. Longitudes parecidas."
+  },
+  {
+   "q": "En el Ayuntamiento de Zaragoza, la separación del servicio de un funcionario municipal que no sea funcionario de Administración Local con habilitación de carácter nacional corresponde a:",
+   "options": [
+    "El Gobierno de Zaragoza, que no puede delegar esta atribución",
+    "El Gobierno de Zaragoza, que puede delegarla en el concejal de personal",
+    "El Alcalde, que puede delegarla en el Gobierno de Zaragoza",
+    "El Pleno, que no puede delegar esta atribución"
+   ],
+   "correct": 0,
+   "exp": "Art. 14.1.i) de la Ley 10/2017, de capitalidad: corresponde al Gobierno de Zaragoza «la separación del servicio de los funcionarios municipales, sin perjuicio de lo dispuesto respecto a los funcionarios de Administración Local con habilitación de carácter nacional; el despido del personal laboral; el régimen disciplinario». El art. 14.2 le permite delegar o desconcentrar las funciones de la letra i) «con excepción de la aprobación de la relación de puestos de trabajo, de las retribuciones del personal, de la oferta de empleo público, de la determinación del número y régimen del personal eventual y de la separación del servicio de los funcionarios». Coincide con lo que los arts. 127.1.h) y 127.2 LBRL disponen para la Junta de Gobierno Local de los municipios de gran población. Ojo: en los municipios de régimen común es el Alcalde quien acuerda la separación del servicio (art. 21.1.h LBRL) y no puede delegarla (art. 21.3), pero eso no rige en Zaragoza.",
+   "fuente": "Art. 14.1.i) y 14.2 Ley 10/2017 (capitalidad de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Repetición: es la misma pregunta que T19#303 del banco («En el Ayuntamiento de Zaragoza, ¿a qué órgano atribuye el art. 14.1.i) de la Ley 10/2017 la separación del servicio…, y puede delegarse? → Al Gobierno de Zaragoza, que no puede delegarla»), con el mismo par de distractores sobre la delegación. El contenido es correcto (art. 14.1.i y 14.2 Ley 10/2017, BOE-A-2018-1683, cotejado: el 14.2 excluye de la delegación «la separación del servicio de los funcionarios»), pero no aporta nada nuevo. | Revisor 2 (RECHAZADA): Contenido correcto (art. 14.1.i y 14.2 Ley 10/2017; arts. 21.1.h, 21.3, 127.1.h y 127.2 LBRL comprobados), pero REPITE una pregunta del tema 19 ya en el banco: «En el Ayuntamiento de Zaragoza, ¿a qué órgano atribuye el art. 14.1.i) de la Ley 10/2017 la separación del servicio […] y puede delegarse?», con la misma correcta («Al Gobierno de Zaragoza, que no puede delegarla») y casi los mismos distractores."
+  },
+  {
+   "q": "Según el art. 27.2 de la Ley 5/2019, de derechos y garantías de las personas con discapacidad en Aragón, que se aplica también a las entidades locales aragonesas, en las ofertas de empleo público se reservará a personas con discapacidad un cupo no inferior al:",
+   "options": [
+    "7 % de las vacantes",
+    "8 % de las vacantes",
+    "10 % de las vacantes",
+    "5 % de las vacantes"
+   ],
+   "correct": 1,
+   "exp": "Art. 27.2 de la Ley 5/2019 de Aragón: «En las ofertas de empleo público se reservará un cupo no inferior al 8% de las vacantes para ser cubiertas entre personas con discapacidad». Según su art. 2.1.b), la Ley se aplica «A las entidades que integran la Administración local», así que el cupo mínimo rige también en las ofertas del Ayuntamiento de Zaragoza. El siete por ciento es el mínimo general del art. 59.1 TREBEP, que la ley aragonesa eleva; el cinco por ciento es lo que resta del siete por ciento del TREBEP tras el dos por ciento para discapacidad intelectual.",
+   "fuente": "Art. 27.2 Ley 5/2019 de Aragón (BOE-A-2019-7785)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-2019-7785 (Ley 5/2019, sin modificaciones). Ámbito: la ley se aplica a «las entidades que integran la Administración local» (art. 2.1.b) y el art. 27.1-3 habla de «Administraciones públicas de Aragón»/«ofertas de empleo público» sin limitarlo a la Comunidad Autónoma; las bases de la OEP 2026 de Zaragoza (aux. adm.: 4 TLRDIS + 2 TLRINTEL + 1 TLRMEN sobre 85, ≈8 %; turno TLRMEN de «discapacidad mental» ≥33 % en la base 5.4 TRBGTL) son coherentes con su aplicación. Epígrafe: el cupo de reserva en el acceso es «adquisición de la relación de servicio» (como el art. 59 TREBEP, ya en el tema 18). Art. 27.2 literal: «se reservará un cupo no inferior al 8% de las vacantes para ser cubiertas entre personas con discapacidad». El 7 % es el mínimo del TREBEP 59.1, que la ley aragonesa eleva; 10 % y 5 % no figuran. La explicación es exacta, incluida la del 5 %. No hay en el banco preguntas de la Ley 5/2019. | Revisor 2 (CONFIRMADA): Art. 27.2 Ley 5/2019 (BOE-A-2019-7785): cupo «no inferior al 8% de las vacantes». Ámbito: art. 2.1.b) incluye las entidades de la Administración local y el primer inciso del 27.2 no se limita a la Comunidad Autónoma (solo el objetivo del 2 % de efectivos se refiere a ella). Lo corrobora la práctica municipal: las bases generales del Ayuntamiento (tools/temarios/bases-generales-trbgtl-2025.pdf, bases 5.2-5.4) prevén turnos de reserva para discapacidad, discapacidad intelectual y discapacidad mental. No hay preguntas previas sobre la Ley 5/2019."
+  },
+  {
+   "q": "Según el art. 27.2 de la Ley 5/2019 de Aragón, ¿a quiénes se destina el 1 % de las plazas ofertadas que ese precepto reserva de forma específica?",
+   "options": [
+    "A personas con discapacidad física que acrediten un grado igual o superior al 65 %",
+    "A personas con enfermedad mental que acrediten un grado igual o superior al 65 %",
+    "A personas con enfermedad mental que acrediten un grado igual o superior al 33 %",
+    "A personas con discapacidad sensorial que acrediten un grado igual o superior al 33 %"
+   ],
+   "correct": 2,
+   "exp": "Art. 27.2, párrafo segundo, de la Ley 5/2019 de Aragón: «La reserva del mínimo del 8% se realizará de manera que, al menos, el 2% de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y un 1% para personas con enfermedad mental que acrediten un grado de discapacidad igual o superior al 33%». El art. 59.1 TREBEP no prevé esta reserva específica: reparte el cupo entre la discapacidad intelectual y «cualquier otro tipo de discapacidad». La ley aragonesa no reserva un porcentaje propio a la discapacidad física ni a la sensorial.",
+   "fuente": "Art. 27.2 Ley 5/2019 de Aragón (BOE-A-2019-7785)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-2019-7785 (Ley 5/2019, sin modificaciones). Ámbito: la ley se aplica a «las entidades que integran la Administración local» (art. 2.1.b) y el art. 27.1-3 habla de «Administraciones públicas de Aragón»/«ofertas de empleo público» sin limitarlo a la Comunidad Autónoma; las bases de la OEP 2026 de Zaragoza (aux. adm.: 4 TLRDIS + 2 TLRINTEL + 1 TLRMEN sobre 85, ≈8 %; turno TLRMEN de «discapacidad mental» ≥33 % en la base 5.4 TRBGTL) son coherentes con su aplicación. Epígrafe: el cupo de reserva en el acceso es «adquisición de la relación de servicio» (como el art. 59 TREBEP, ya en el tema 18). Art. 27.2, párrafo segundo, literal: «un 1% para personas con enfermedad mental que acrediten un grado de discapacidad igual o superior al 33%». Los tres distractores, de discapacidad física o sensorial y del 65 %, son falsos. Es justo el turno TLRMEN que convoca Zaragoza, así que tiene utilidad práctica. Explicación exacta (el TREBEP no prevé esta reserva). | Revisor 2 (CONFIRMADA): Art. 27.2, párrafo segundo, Ley 5/2019: «un 1% para personas con enfermedad mental que acrediten un grado de discapacidad igual o superior al 33%». Los otros tres colectivos y grados son falsos; la ley no reserva cuota propia a la discapacidad física ni a la sensorial. El reparto se aplica a toda oferta sujeta al cupo del 8 % (art. 2.1.b), y el Ayuntamiento tiene turno TLRMEN con grado ≥33 %."
+  },
+  {
+   "q": "Según el art. 27.3 de la Ley 5/2019 de Aragón, el número de plazas reservadas para personas con discapacidad y su distribución en los diferentes cuerpos, escalas y categorías profesionales se determinará en:",
+   "options": [
+    "La relación de puestos de trabajo",
+    "El presupuesto anual de la Administración",
+    "Un decreto anual del Gobierno de Aragón",
+    "La oferta de empleo público"
+   ],
+   "correct": 3,
+   "exp": "Art. 27.3 de la Ley 5/2019 de Aragón: «El número de plazas reservadas se determinará en la oferta de empleo público, así como su distribución en los diferentes cuerpos, escalas y categorías profesionales. Se establecerán en las convocatorias de acceso al empleo público turnos separados para las personas con discapacidad». No se fija en la relación de puestos de trabajo, en el presupuesto ni en un decreto del Gobierno de Aragón.",
+   "fuente": "Art. 27.3 Ley 5/2019 de Aragón (BOE-A-2019-7785)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-2019-7785 (Ley 5/2019, sin modificaciones). Ámbito: la ley se aplica a «las entidades que integran la Administración local» (art. 2.1.b) y el art. 27.1-3 habla de «Administraciones públicas de Aragón»/«ofertas de empleo público» sin limitarlo a la Comunidad Autónoma; las bases de la OEP 2026 de Zaragoza (aux. adm.: 4 TLRDIS + 2 TLRINTEL + 1 TLRMEN sobre 85, ≈8 %; turno TLRMEN de «discapacidad mental» ≥33 % en la base 5.4 TRBGTL) son coherentes con su aplicación. Epígrafe: el cupo de reserva en el acceso es «adquisición de la relación de servicio» (como el art. 59 TREBEP, ya en el tema 18). Art. 27.3 literal: «El número de plazas reservadas se determinará en la oferta de empleo público, así como su distribución en los diferentes cuerpos, escalas y categorías profesionales». La RPT, el presupuesto y un decreto anual son falsos. Explicación exacta. Sin equivalente en el banco. | Revisor 2 (CONFIRMADA): Art. 27.3 Ley 5/2019 literal: «El número de plazas reservadas se determinará en la oferta de empleo público», junto con su distribución. RPT, presupuesto y decreto del Gobierno de Aragón son falsos. Precepto genérico, aplicable también a las entidades locales."
+  },
+  {
+   "q": "Según el art. 27.7 de la Ley 5/2019 de Aragón, tienen preferencia para elegir los puestos ofertados en primer destino, entre otros, los aspirantes que hayan superado el proceso selectivo y cuenten con una discapacidad:",
+   "options": [
+    "Igual o superior al 65 %",
+    "Igual o superior al 33 %",
+    "Igual o superior al 45 %",
+    "Igual o superior al 50 %"
+   ],
+   "correct": 0,
+   "exp": "Art. 27.7 de la Ley 5/2019 de Aragón: «Tendrán preferencia en la elección de los puestos ofertados para su adjudicación en primer destino las personas aspirantes que, habiendo superado el proceso selectivo, cuenten con una discapacidad igual o superior al 65% o tengan a su cargo menores de 12 años que presenten necesidades de autonomía personal por motivos de discapacidad o estén en riesgo de padecerla y estén siendo atendidos por los Servicios de Atención Temprana del Instituto Aragonés de Servicios Sociales». Ningún otro grado de discapacidad da esta preferencia.",
+   "fuente": "Art. 27.7 Ley 5/2019 de Aragón (BOE-A-2019-7785)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Cotejado con el consolidado BOE-A-2019-7785. Art. 27.7 literal: preferencia para quienes «cuenten con una discapacidad igual o superior al 65%» (o tengan a cargo menores de 12 años atendidos por Atención Temprana del IASS). Respuesta y distractores (33, 45 y 50 %) correctos según la letra. Duda del redactor resuelta así: el 27.7, a diferencia del 27.4, 27.8 y 27.9, no se limita expresamente a la Administración de la Comunidad Autónoma, y la ley se aplica a las entidades locales (art. 2.1.b), pero «en los términos establecidos en esta Ley»; nada en el texto lo extiende con claridad a los ayuntamientos. Además, las bases generales de Zaragoza (TRBGTL, base sobre la puntuación final y base 6.17.4) ordenan la elección de puesto solo por la puntuación final y no recogen esta preferencia. El estudiante de Zaragoza puede aprender una regla que su Ayuntamiento no aplica. Es un dato marginal para el epígrafe (primer destino, no adquisición de la condición). Arreglo: añadir a la explicación que el precepto no dice expresamente si obliga a las entidades locales y que las bases generales del Ayuntamiento de Zaragoza ordenan la elección de puesto por la puntuación final sin mencionar esta preferencia. Si no se añade, rechazar. | Revisor 2 (CONFIRMADA): Art. 27.7 Ley 5/2019 literal: preferencia en la elección de puestos en primer destino para quien tenga una discapacidad «igual o superior al 65%» (o tenga a su cargo menores de 12 años atendidos por Atención Temprana, de ahí el «entre otros»). 33, 45 y 50 % son falsos. Opciones de igual longitud."
+  },
+  {
+   "q": "Según el art. 239 de la Ley 7/1999, de Administración Local de Aragón, el régimen estatutario de los funcionarios locales en cuanto a la adquisición y pérdida de su condición, las situaciones administrativas y el régimen disciplinario será:",
+   "options": [
+    "El que establezca cada entidad local en su reglamento de personal",
+    "Equivalente al de los funcionarios de la Comunidad Autónoma",
+    "Idéntico al de los funcionarios de la Administración General del Estado",
+    "El que fije el acuerdo de condiciones de trabajo de cada entidad local"
+   ],
+   "correct": 1,
+   "exp": "Art. 239 de la Ley 7/1999 de Administración Local de Aragón: «El régimen estatutario de los funcionarios locales en cuanto a la adquisición y pérdida de su condición, las situaciones administrativas, los derechos sindicales, de negociación colectiva y participación, derechos, deberes y responsabilidades y el régimen disciplinario serán equivalentes a los de los funcionarios de la Comunidad Autónoma, sin perjuicio de las competencias de la Administración General del Estado en el caso de la separación del servicio de los funcionarios con habilitación de carácter nacional». Encaja con el art. 3.1 TREBEP: «El personal funcionario de las entidades locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte este Estatuto y por la legislación de las comunidades autónomas, con respeto a la autonomía local».",
+   "fuente": "Art. 239 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Repetición: T19#322 del banco pregunta lo mismo con casi las mismas palabras («Según el art. 239 de la Ley 7/1999 … el régimen estatutario de los funcionarios locales en cuanto a la adquisición y pérdida de su condición, las situaciones administrativas, los derechos y deberes y el régimen disciplinario será equivalente al de: → Los funcionarios de la Comunidad Autónoma»). El texto es correcto (art. 239, BOE-A-1999-10151, cotejado), pero además la materia (régimen de los funcionarios locales) es propia del tema 19, donde ya está. | Revisor 2 (RECHAZADA): Contenido correcto (art. 239 Ley 7/1999, consolidado comprobado), pero REPITE una pregunta del tema 19 ya en el banco: «Según el art. 239 de la Ley 7/1999 […] el régimen estatutario de los funcionarios locales en cuanto a la adquisición y pérdida de su condición, las situaciones administrativas […] será equivalente al de:», con la misma correcta («Los funcionarios de la Comunidad Autónoma») y un distractor equivalente (AGE)."
+  },
+  {
+   "q": "Según el art. 9.1 del RD 365/1995, cuando quien pierde la condición que motivó su pase a servicios especiales tiene derecho a reserva de puesto, el reingreso al servicio activo tiene efectos económicos y administrativos desde:",
+   "options": [
+    "El día en que perdió aquella condición",
+    "La fecha de la resolución que conceda el reingreso",
+    "La fecha de solicitud del reingreso",
+    "La toma de posesión en el puesto reservado"
+   ],
+   "correct": 2,
+   "exp": "Art. 9.1 del Reglamento de Situaciones Administrativas de los funcionarios de la Administración General del Estado: quienes pierdan la condición por la que pasaron a servicios especiales deben solicitar el reingreso en el plazo de un mes, y «El reingreso tendrá efectos económicos y administrativos desde la fecha de solicitud del mismo cuando exista derecho a la reserva de puesto». El día en que se perdió la condición es la fecha de efectos de la excedencia voluntaria por interés particular que se declara si no se pide el reingreso en plazo.",
+   "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-1995-8730 (RD 365/1995, últ. act. 04/03/2006). Regla 10: el RD sigue aplicándose a la AGE en lo que no se oponga al TREBEP (DF 4.ª.2 TREBEP; el art. 29 Ley 30/1984 se mantiene transitoriamente con ese alcance). Art. 9.1 literal: «El reingreso tendrá efectos económicos y administrativos desde la fecha de solicitud del mismo cuando exista derecho a la reserva de puesto». No está desplazado: el TREBEP (arts. 87.3 y 89.2, párrafo cuarto) remite el plazo de reingreso al reglamento y no regula su fecha de efectos. Distractores falsos; la explicación del «día en que perdió la condición» (efectos de la excedencia por interés particular de oficio) es exacta. No repite T18#206 (plazo de un mes) ni T18#207 (excedencia de oficio): pregunta otro dato del mismo apartado. | Revisor 2 (CONFIRMADA): Art. 9.1 RD 365/1995 (BOE-A-1995-8730) literal: el reingreso tiene efectos «desde la fecha de solicitud del mismo cuando exista derecho a la reserva de puesto». No lo contradice el TREBEP: el 87.3 fija solo un mínimo de reingreso y el 89.2 remite al reglamento el plazo para pedirlo. Las preguntas del banco sobre 9.1 tratan el plazo de un mes y la excedencia si no se pide; esta, los efectos del reingreso."
+  },
+  {
+   "q": "Según el art. 16.6 del RD 365/1995, si un funcionario en excedencia voluntaria por interés particular solicita el reingreso condicionándolo a puestos o municipios concretos, el cómputo del plazo máximo de duración de la excedencia:",
+   "options": [
+    "Se interrumpe hasta que se le ofrezca un puesto de esas características",
+    "Se suspende durante un máximo de seis meses",
+    "Vuelve a empezar desde la fecha de la solicitud",
+    "No se interrumpe"
+   ],
+   "correct": 3,
+   "exp": "Art. 16.6 RD 365/1995: «La solicitud de reingreso al servicio activo condicionada a puestos o municipios concretos de funcionarios procedentes de esta situación no interrumpirá el cómputo del plazo máximo de duración de la misma». Es relevante porque, según el art. 16.4, la falta de petición de reingreso dentro del plazo máximo comporta la pérdida de la condición de funcionario.",
+   "fuente": "Art. 16.6 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Regla 10: presenta como vigente una regla desplazada. El art. 16.6 RD 365/1995 se refiere al «plazo máximo de duración» de la excedencia voluntaria por interés particular (16.3: máximo de quince años; 16.4: la falta de reingreso en plazo comporta la pérdida de la condición de funcionario). Ese máximo desapareció de la ley: el art. 29.3.c) Ley 30/1984, en la redacción del art. 104 de la Ley 13/1996 (consolidado BOE-A-1984-17387), solo fija un mínimo («no se podrá permanecer menos de dos años continuados»). El art. 89.2 TREBEP tampoco prevé un máximo (solo «periodos mínimos de permanencia»), y el art. 63 TREBEP, con una lista cerrada de causas de pérdida de la condición de funcionario, no incluye la falta de reingreso. La explicación agrava el fallo al dar por vigente el 16.4. Ojo, fuera de este lote: T18#232 (máximo de quince años) y T18#233 (pérdida de la condición, art. 16.4) del banco tienen el mismo problema y conviene revisarlas. | Revisor 2 (RECHAZADA): Regla 10, precepto desplazado. El art. 16.6 RD 365/1995 descansa en el «plazo máximo de duración» de la excedencia por interés particular (art. 16.3: máximo de 15 años; 16.4: pérdida de la condición si no se pide el reingreso dentro de él). Ese máximo lo suprimió el art. 104 de la Ley 13/1996, que modificó el art. 29.3.c) de la Ley 30/1984; el consolidado de esa ley solo exige no permanecer «menos de dos años». El TREBEP tampoco fija máximo (art. 89.2, que solo prevé periodos mínimos) y su art. 63 no incluye entre las causas de pérdida de la condición la falta de petición de reingreso. Presentar como vigente un plazo máximo cuyo cómputo «no se interrumpe» enseña una regla que ya no rige."
+  },
+  {
+   "q": "Según el art. 18.5 del RD 365/1995, ¿qué conceptos retributivos quedan excluidos del cálculo de la cantidad a que da derecho el pase a la excedencia voluntaria incentivada?",
+   "options": [
+    "Las pagas extraordinarias y el complemento de productividad",
+    "El complemento específico y los trienios",
+    "El complemento de destino y las pagas extraordinarias",
+    "Los trienios y el complemento de productividad"
+   ],
+   "correct": 0,
+   "exp": "Art. 18.5 RD 365/1995: quienes pasen a la excedencia voluntaria incentivada «tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades». No se excluyen el complemento específico, el de destino ni los trienios.",
+   "fuente": "Art. 18.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-1995-8730 (RD 365/1995, últ. act. 04/03/2006). Regla 10: el RD sigue aplicándose a la AGE en lo que no se oponga al TREBEP (DF 4.ª.2 TREBEP; el art. 29 Ley 30/1984 se mantiene transitoriamente con ese alcance). Art. 18.5 literal: «excluidas las pagas extraordinarias y el complemento de productividad». Coincide con el art. 29.7 Ley 30/1984, mantenido transitoriamente, y el art. 85.2.a) TREBEP admite situaciones para «incentivar la cesación en el servicio activo»: no está desplazado. Los distractores mezclan un concepto no excluido (específico, trienios, destino) y son falsos como pareja. No repite T18#243 (una mensualidad por año con un máximo de doce): pregunta las exclusiones. La correcta es la más larga por 6 caracteres; no se delata. | Revisor 2 (CONFIRMADA): Art. 18.5 RD 365/1995 literal («excluidas las pagas extraordinarias y el complemento de productividad»), y coincide con el art. 29.7 de la Ley 30/1984. Ese art. 29 se mantiene vigente en la AGE mientras no se oponga al TREBEP y hasta que se dicten las leyes de función pública (DD única.b y DF 4.2 TREBEP; nota del consolidado), así que no está desplazado. Los distractores mezclan conceptos no excluidos (complemento específico, de destino, trienios). La pregunta existente sobre 18.5 trata la cuantía (una mensualidad, máximo doce), no las exclusiones. Situación propia de la AGE, pero dentro del epígrafe."
+  },
+  {
+   "q": "Según el art. 7.2 del RD 365/1995, el funcionario que pasó a servicios especiales desde una situación que no conllevaba el desempeño ni la reserva de un puesto de trabajo:",
+   "options": [
+    "Recupera al reingresar el último puesto que desempeñó en servicio activo",
+    "No tiene derecho a reserva de puesto de trabajo",
+    "Obtiene al reingresar un puesto definitivo de igual nivel en el mismo municipio",
+    "Conserva la reserva de un puesto en la misma localidad durante dos años"
+   ],
+   "correct": 1,
+   "exp": "Art. 7.2 RD 365/1995: «Cuando se hubiere accedido a la situación de servicios especiales desde situaciones que no conllevan el desempeño o reserva de puesto de trabajo no habrá lugar a la reserva de puesto de trabajo, sin perjuicio de lo dispuesto en el párrafo segundo del artículo 23 de este Reglamento». Las reglas de adjudicación de un puesto de igual nivel y similares retribuciones del art. 7.1 se aplican a quienes pasaron a servicios especiales procedentes de la situación de servicio activo.",
+   "fuente": "Art. 7.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Regla 10 y distractor discutible. El art. 7.2 RD 365/1995 dice literalmente que no hay reserva de puesto si se pasó a servicios especiales desde una situación sin desempeño ni reserva de puesto. Pero el art. 87.3 TREBEP (básico y posterior) reconoce a todos los que están en servicios especiales, sin distinguir de qué situación vengan, el derecho «al menos, a reingresar al servicio activo en la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados». Con eso, la regla del 7.2 presentada como vigente sin matiz es al menos parcialmente desplazada. Además, el distractor «Obtiene al reingresar un puesto definitivo de igual nivel en el mismo municipio» se acerca a lo que hoy garantiza el 87.3, así que no es claramente falso. La explicación no menciona el 87.3. Ante la duda, rechazo. | Revisor 2 (DUDOSA): El texto del art. 7.2 RD 365/1995 se comprueba y la correcta es literal. Sin embargo, el art. 87.3 TREBEP (básico) garantiza a TODO funcionario en servicios especiales, sea cual sea su situación de procedencia, «al menos» reingresar al servicio activo en la misma localidad y con la categoría y el nivel consolidados. El distractor «Obtiene al reingresar un puesto definitivo de igual nivel en el mismo municipio» queda demasiado cerca de esa garantía básica, y la correcta, sin matiz, puede hacer creer que no hay ningún derecho de reingreso. Propuesta: sustituir ese distractor por uno claramente ajeno (p. ej. «Recupera el puesto que ocupaba antes de pasar a la excedencia») y añadir a la explicación que, aunque no haya reserva de puesto, rige el mínimo del art. 87.3 TREBEP."
+  },
+  {
+   "q": "Según el art. 4 del RD 365/1995, ¿en cuál de estos supuestos se declara al funcionario en la situación de servicios especiales?",
+   "options": [
+    "Cuando quede a disposición del Subsecretario o del Director del Organismo autónomo",
+    "Cuando preste servicios en Organismos públicos porque una disposición legal exija ser funcionario",
+    "Cuando sea Comisionado parlamentario de una Comunidad Autónoma o Adjunto de este",
+    "Cuando sea miembro de una Corporación Local sin cargo retribuido ni dedicación exclusiva"
+   ],
+   "correct": 2,
+   "exp": "Art. 4.m) RD 365/1995: los funcionarios serán declarados en servicios especiales «Cuando ostenten la condición de Comisionados parlamentarios de Comunidad Autónoma o Adjuntos de éstos», según la Ley 36/1985. Los otros tres supuestos son de servicio activo según el art. 3: quedar a disposición del Subsecretario o del Director del Organismo autónomo (letra h), prestar servicios en Organismos o Entes públicos por razón de la condición de funcionario exigida por disposición legal (letra k) y ser miembro de una Corporación Local salvo que se desempeñe cargo retribuido y de dedicación exclusiva (letra g).",
+   "fuente": "Art. 4.m) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-1995-8730 (RD 365/1995, últ. act. 04/03/2006). Regla 10: el RD sigue aplicándose a la AGE en lo que no se oponga al TREBEP (DF 4.ª.2 TREBEP; el art. 29 Ley 30/1984 se mantiene transitoriamente con ese alcance). Art. 4.m) literal: servicios especiales «Cuando ostenten la condición de Comisionados parlamentarios de Comunidad Autónoma o Adjuntos de éstos». Sigue siendo cierto con el TREBEP, porque los elige la asamblea legislativa (art. 87.1.h). Los distractores son supuestos de servicio activo del art. 3: h) a disposición del Subsecretario, k) servicios en Organismos o Entes públicos por exigirlo una disposición legal y g) miembro de Corporación Local salvo cargo retribuido y de dedicación exclusiva, que tampoco son servicios especiales con el art. 87.1.f TREBEP. No repite T18#191-196, que tratan las letras a, b, e, f, k y l. | Revisor 2 (CONFIRMADA): Art. 4.m) RD 365/1995 comprobado. Sigue vigente: lo respalda la Ley 36/1985 (BOE-A-1985-23210), que manda a servicios especiales a los Comisionados parlamentarios autonómicos y a sus Adjuntos que sean funcionarios, y encaja con el art. 87.1.h) TREBEP. Los tres distractores son supuestos de servicio activo del art. 3 (letras h, k y g), coherentes con el art. 87.1.f) TREBEP. La letra m) no se había preguntado (el banco cubre las letras a, b, e, f, k y l)."
+  },
+  {
+   "q": "Según el art. 12.5 del RD 365/1995, a los efectos distintos de las retribuciones, incluido el régimen de incompatibilidades, la situación de expectativa de destino se equipara a la de:",
+   "options": [
+    "Excedencia forzosa",
+    "Servicios especiales",
+    "Suspensión de funciones",
+    "Servicio activo"
+   ],
+   "correct": 3,
+   "exp": "Art. 12.5 RD 365/1995: tras fijar las retribuciones de los funcionarios en expectativa de destino, añade: «A los restantes efectos, incluido el régimen de incompatibilidades, esta situación se equipara a la de servicio activo». La excedencia forzosa es la situación a la que se pasa cuando transcurre el periodo máximo de un año de expectativa de destino o se incumplen sus obligaciones (art. 12.2 y 12.3).",
+   "fuente": "Art. 12.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Cotejado con el consolidado BOE-A-1995-8730 (RD 365/1995, últ. act. 04/03/2006). Regla 10: el RD sigue aplicándose a la AGE en lo que no se oponga al TREBEP (DF 4.ª.2 TREBEP; el art. 29 Ley 30/1984 se mantiene transitoriamente con ese alcance). Art. 12.5, párrafo segundo, literal: «A los restantes efectos, incluido el régimen de incompatibilidades, esta situación se equipara a la de servicio activo». Coincide con el art. 29.5 Ley 30/1984, mantenido transitoriamente, y el art. 85.2.a) TREBEP permite estas situaciones: no está desplazado. Distractores falsos; la explicación sobre la excedencia forzosa (12.2 y 12.3) es exacta. No repite T18#216 (primer párrafo: 50 % del complemento específico) ni T18#20 (12.2). | Revisor 2 (CONFIRMADA): Art. 12.5, párrafo segundo, RD 365/1995 literal («se equipara a la de servicio activo»), igual que el art. 29.5 de la Ley 30/1984, que sigue vigente en la AGE por la DF 4.2 TREBEP. Los distractores son falsos. La pregunta existente sobre 12.5 trata el 50 % del complemento específico; esta, la equiparación. Situación propia de la AGE, coherente con la pregunta del banco que la excluye de las situaciones del art. 85.1 TREBEP."
+  }
+ ]
+}

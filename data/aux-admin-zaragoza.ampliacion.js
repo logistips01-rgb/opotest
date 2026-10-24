@@ -62788,3 +62788,202 @@ window.addQuestions('aux-admin-zaragoza', 2, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 18 · lote 2026-10-24 · 15 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "Según el art. 56.1.d) del TREBEP, a quien ha sido separado del servicio siendo funcionario, ese requisito le impide participar en los procesos selectivos para el acceso:",
+    "options": [
+      "Al cuerpo o escala de funcionario en el que hubiese sido separado",
+      "A cualquier cuerpo o escala de cualquiera de las Administraciones Públicas",
+      "A cualquier cuerpo o escala de la Administración que acordó la separación",
+      "A cualquier cuerpo o escala, durante los seis años siguientes a la separación"
+    ],
+    "correct": 0,
+    "exp": "Art. 56.1.d) TREBEP: es requisito «No haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o de los órganos constitucionales o estatutarios de las Comunidades Autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, para el acceso al cuerpo o escala de funcionario, o para ejercer funciones similares a las que desempeñaban en el caso del personal laboral, en el que hubiese sido separado o inhabilitado». Da igual qué Administración acordara la separación, pero el impedimento se refiere al cuerpo o escala en el que se le separó, no a cualquier cuerpo o escala; y el precepto no fija un plazo de seis años.",
+    "fuente": "Art. 56.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes figura entre los requisitos generales que enumera el art. 56.1 del TREBEP para poder participar en los procesos selectivos?",
+    "options": [
+      "Estar empadronado en el municipio que convoca",
+      "Poseer la titulación exigida",
+      "Carecer de antecedentes penales de cualquier clase",
+      "Estar inscrito como demandante de empleo"
+    ],
+    "correct": 1,
+    "exp": "Art. 56.1 TREBEP: los requisitos generales son a) tener la nacionalidad española, sin perjuicio del art. 57; b) poseer la capacidad funcional para el desempeño de las tareas; c) tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa; d) no haber sido separado mediante expediente disciplinario ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, y e) «Poseer la titulación exigida». No figuran el empadronamiento ni la inscripción como demandante de empleo, y la letra d) no exige carecer de cualquier antecedente penal, sino no estar inhabilitado para empleos o cargos públicos.",
+    "fuente": "Art. 56.1.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57.3 del TREBEP, el acceso al empleo público como personal funcionario, en los términos del apartado 1 de ese artículo, se extiende igualmente a:",
+    "options": [
+      "Los nacionales de Estados con los que España haya suscrito un convenio de doble nacionalidad",
+      "Los extranjeros que acrediten cinco años de residencia legal y continuada en España",
+      "Quienes gocen de libre circulación de trabajadores por tratados de la UE ratificados por España",
+      "Los nacionales de los Estados del Consejo de Europa que hayan ratificado la Carta Social Europea"
+    ],
+    "correct": 2,
+    "exp": "Art. 57.3 TREBEP: «El acceso al empleo público como personal funcionario, se extenderá igualmente a las personas incluidas en el ámbito de aplicación de los Tratados Internacionales celebrados por la Unión Europea y ratificados por España en los que sea de aplicación la libre circulación de trabajadores, en los términos establecidos en el apartado 1 de este artículo». Los otros supuestos no figuran en el art. 57; los extranjeros con residencia legal a los que no se refieren los apartados anteriores solo pueden acceder «como personal laboral» (art. 57.4).",
+    "fuente": "Art. 57.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 59.1 del TREBEP, el cupo de reserva para personas con discapacidad en las ofertas de empleo público se establece de modo que progresivamente se alcance:",
+    "options": [
+      "El cinco por ciento de los efectivos totales en cada Administración Pública",
+      "El dos por ciento de las plazas de cada cuerpo o escala",
+      "El siete por ciento de los efectivos totales en cada Administración Pública",
+      "El dos por ciento de los efectivos totales en cada Administración Pública"
+    ],
+    "correct": 3,
+    "exp": "Art. 59.1 TREBEP: se reserva un cupo no inferior al siete por ciento de las vacantes «de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública». El siete por ciento se refiere a las vacantes ofertadas, no a los efectivos. El cinco por ciento no aparece en el precepto: es lo que resta del cupo mínimo del siete por ciento si a la discapacidad intelectual se reserva justo el dos por ciento. Y el otro dos por ciento del artículo es el mínimo de las plazas ofertadas para discapacidad intelectual, no un porcentaje de cada cuerpo o escala. En Aragón, el art. 27.2 de la Ley 5/2019 eleva el cupo de las ofertas de empleo público a «no inferior al 8%», «de modo que, progresivamente, se alcance el 2% de los efectivos totales en la Administración de la Comunidad Autónoma de Aragón y sus entidades instrumentales».",
+    "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.5 del TREBEP, además de completar las pruebas con otros elementos para asegurar la objetividad y la racionalidad de los procesos selectivos, ¿qué podrá exigirse igualmente?",
+    "options": [
+      "Reconocimientos médicos",
+      "Una fianza que garantice la toma de posesión",
+      "Cartas de recomendación de empleadores anteriores",
+      "La acreditación de la vecindad en el municipio"
+    ],
+    "correct": 0,
+    "exp": "Art. 61.5 TREBEP: «Para asegurar la objetividad y la racionalidad de los procesos selectivos, las pruebas podrán completarse con la superación de cursos, de periodos de prácticas, con la exposición curricular por los candidatos, con pruebas psicotécnicas o con la realización de entrevistas. Igualmente podrán exigirse reconocimientos médicos». Ni la fianza, ni las cartas de recomendación ni la vecindad figuran en el precepto.",
+    "fuente": "Art. 61.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un funcionario de carrera pasa a desempeñar las responsabilidades de un órgano directivo municipal. Según el art. 87.1.f) del TREBEP, será declarado en la situación de:",
+    "options": [
+      "Servicio activo",
+      "Servicios especiales",
+      "Servicio en otras Administraciones Públicas",
+      "Excedencia voluntaria por interés particular"
+    ],
+    "correct": 1,
+    "exp": "Art. 87.1.f) TREBEP: los funcionarios de carrera serán declarados en servicios especiales «Cuando se desempeñen cargos electivos retribuidos y de dedicación exclusiva en las Asambleas de las ciudades de Ceuta y Melilla y en las entidades locales, cuando se desempeñen responsabilidades de órganos superiores y directivos municipales y cuando se desempeñen responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas». Mientras dure, percibirá las retribuciones del puesto o cargo que desempeñe, sin perjuicio de los trienios (art. 87.2).",
+    "fuente": "Art. 87.1.f) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 88.3 del TREBEP, los funcionarios de carrera en servicio en otras Administraciones Públicas por haber obtenido un puesto mediante los sistemas de provisión del Estatuto se rigen por:",
+    "options": [
+      "La legislación de su Administración de origen, de la que siguen siendo funcionarios",
+      "La de origen en situaciones y régimen disciplinario, y la de destino en todo lo demás",
+      "La legislación de la Administración en la que estén destinados de forma efectiva",
+      "La legislación estatal de función pública, con exclusión de la autonómica y la local"
+    ],
+    "correct": 2,
+    "exp": "Art. 88.3 TREBEP: estos funcionarios «se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias para la provisión de puestos de trabajo que se efectúen por esta última». Conservar la condición de funcionario de origen no significa regirse por su legislación, y el precepto no reparte materias entre una y otra Administración.",
+    "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En su redacción vigente, ¿limita la letra b) del art. 95.2 del TREBEP a una lista cerrada los motivos por los que una actuación discriminatoria constituye falta muy grave?",
+    "options": [
+      "Sí: solo es falta muy grave la discriminación por alguno de los motivos que cita expresamente",
+      "No: el órgano que incoa el expediente puede añadir otros motivos mediante resolución motivada",
+      "Sí: y además exige que la discriminación cause un perjuicio grave a la Administración",
+      "No: la enumeración termina con «cualquier otra condición o circunstancia personal o social»"
+    ],
+    "correct": 3,
+    "exp": "Art. 95.2.b) TREBEP, en la redacción dada por la Ley 4/2023, de 28 de febrero: es falta muy grave «Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, identidad sexual, características sexuales, lengua, opinión, lugar de nacimiento o vecindad, sexo o cualquier otra condición o circunstancia personal o social», así como el acoso por las razones que enumera y el acoso moral y sexual. La lista queda abierta por su cláusula final. El perjuicio grave a la Administración o a los ciudadanos es un requisito de la letra d) (acuerdos manifiestamente ilegales), no de la b), y el precepto no permite al órgano instructor añadir motivos.",
+    "fuente": "Art. 95.2.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.2 de la Ley 5/2019, de derechos y garantías de las personas con discapacidad en Aragón, que se aplica también a las entidades locales aragonesas, en las ofertas de empleo público se reservará a personas con discapacidad un cupo no inferior al:",
+    "options": [
+      "7 % de las vacantes",
+      "8 % de las vacantes",
+      "10 % de las vacantes",
+      "5 % de las vacantes"
+    ],
+    "correct": 1,
+    "exp": "Art. 27.2 de la Ley 5/2019 de Aragón: «En las ofertas de empleo público se reservará un cupo no inferior al 8% de las vacantes para ser cubiertas entre personas con discapacidad». Según su art. 2.1.b), la Ley se aplica «A las entidades que integran la Administración local», así que el cupo mínimo rige también en las ofertas del Ayuntamiento de Zaragoza. El siete por ciento es el mínimo general del art. 59.1 TREBEP, que la ley aragonesa eleva; el cinco por ciento es lo que resta del siete por ciento del TREBEP tras el dos por ciento para discapacidad intelectual.",
+    "fuente": "Art. 27.2 Ley 5/2019 de Aragón (BOE-A-2019-7785)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.2 de la Ley 5/2019 de Aragón, ¿a quiénes se destina el 1 % de las plazas ofertadas que ese precepto reserva de forma específica?",
+    "options": [
+      "A personas con discapacidad física que acrediten un grado igual o superior al 65 %",
+      "A personas con enfermedad mental que acrediten un grado igual o superior al 65 %",
+      "A personas con enfermedad mental que acrediten un grado igual o superior al 33 %",
+      "A personas con discapacidad sensorial que acrediten un grado igual o superior al 33 %"
+    ],
+    "correct": 2,
+    "exp": "Art. 27.2, párrafo segundo, de la Ley 5/2019 de Aragón: «La reserva del mínimo del 8% se realizará de manera que, al menos, el 2% de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y un 1% para personas con enfermedad mental que acrediten un grado de discapacidad igual o superior al 33%». El art. 59.1 TREBEP no prevé esta reserva específica: reparte el cupo entre la discapacidad intelectual y «cualquier otro tipo de discapacidad». La ley aragonesa no reserva un porcentaje propio a la discapacidad física ni a la sensorial.",
+    "fuente": "Art. 27.2 Ley 5/2019 de Aragón (BOE-A-2019-7785)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 de la Ley 5/2019 de Aragón, el número de plazas reservadas para personas con discapacidad y su distribución en los diferentes cuerpos, escalas y categorías profesionales se determinará en:",
+    "options": [
+      "La relación de puestos de trabajo",
+      "El presupuesto anual de la Administración",
+      "Un decreto anual del Gobierno de Aragón",
+      "La oferta de empleo público"
+    ],
+    "correct": 3,
+    "exp": "Art. 27.3 de la Ley 5/2019 de Aragón: «El número de plazas reservadas se determinará en la oferta de empleo público, así como su distribución en los diferentes cuerpos, escalas y categorías profesionales. Se establecerán en las convocatorias de acceso al empleo público turnos separados para las personas con discapacidad». No se fija en la relación de puestos de trabajo, en el presupuesto ni en un decreto del Gobierno de Aragón.",
+    "fuente": "Art. 27.3 Ley 5/2019 de Aragón (BOE-A-2019-7785)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 del RD 365/1995, cuando quien pierde la condición que motivó su pase a servicios especiales tiene derecho a reserva de puesto, el reingreso al servicio activo tiene efectos económicos y administrativos desde:",
+    "options": [
+      "El día en que perdió aquella condición",
+      "La fecha de la resolución que conceda el reingreso",
+      "La fecha de solicitud del reingreso",
+      "La toma de posesión en el puesto reservado"
+    ],
+    "correct": 2,
+    "exp": "Art. 9.1 del Reglamento de Situaciones Administrativas de los funcionarios de la Administración General del Estado: quienes pierdan la condición por la que pasaron a servicios especiales deben solicitar el reingreso en el plazo de un mes, y «El reingreso tendrá efectos económicos y administrativos desde la fecha de solicitud del mismo cuando exista derecho a la reserva de puesto». El día en que se perdió la condición es la fecha de efectos de la excedencia voluntaria por interés particular que se declara si no se pide el reingreso en plazo.",
+    "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.5 del RD 365/1995, ¿qué conceptos retributivos quedan excluidos del cálculo de la cantidad a que da derecho el pase a la excedencia voluntaria incentivada?",
+    "options": [
+      "Las pagas extraordinarias y el complemento de productividad",
+      "El complemento específico y los trienios",
+      "El complemento de destino y las pagas extraordinarias",
+      "Los trienios y el complemento de productividad"
+    ],
+    "correct": 0,
+    "exp": "Art. 18.5 RD 365/1995: quienes pasen a la excedencia voluntaria incentivada «tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades». No se excluyen el complemento específico, el de destino ni los trienios.",
+    "fuente": "Art. 18.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4 del RD 365/1995, ¿en cuál de estos supuestos se declara al funcionario en la situación de servicios especiales?",
+    "options": [
+      "Cuando quede a disposición del Subsecretario o del Director del Organismo autónomo",
+      "Cuando preste servicios en Organismos públicos porque una disposición legal exija ser funcionario",
+      "Cuando sea Comisionado parlamentario de una Comunidad Autónoma o Adjunto de este",
+      "Cuando sea miembro de una Corporación Local sin cargo retribuido ni dedicación exclusiva"
+    ],
+    "correct": 2,
+    "exp": "Art. 4.m) RD 365/1995: los funcionarios serán declarados en servicios especiales «Cuando ostenten la condición de Comisionados parlamentarios de Comunidad Autónoma o Adjuntos de éstos», según la Ley 36/1985. Los otros tres supuestos son de servicio activo según el art. 3: quedar a disposición del Subsecretario o del Director del Organismo autónomo (letra h), prestar servicios en Organismos o Entes públicos por razón de la condición de funcionario exigida por disposición legal (letra k) y ser miembro de una Corporación Local salvo que se desempeñe cargo retribuido y de dedicación exclusiva (letra g).",
+    "fuente": "Art. 4.m) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.5 del RD 365/1995, a los efectos distintos de las retribuciones, incluido el régimen de incompatibilidades, la situación de expectativa de destino se equipara a la de:",
+    "options": [
+      "Excedencia forzosa",
+      "Servicios especiales",
+      "Suspensión de funciones",
+      "Servicio activo"
+    ],
+    "correct": 3,
+    "exp": "Art. 12.5 RD 365/1995: tras fijar las retribuciones de los funcionarios en expectativa de destino, añade: «A los restantes efectos, incluido el régimen de incompatibilidades, esta situación se equipara a la de servicio activo». La excedencia forzosa es la situación a la que se pasa cuando transcurre el periodo máximo de un año de expectativa de destino o se incumplen sus obligaciones (art. 12.2 y 12.3).",
+    "fuente": "Art. 12.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  }
+]);
