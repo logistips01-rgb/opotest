@@ -1,0 +1,474 @@
+[
+  {
+    "tema": 14,
+    "q": "Según el art. 133 de la LBRL, la gestión económico-financiera de los municipios de gran población se rige, entre otros, por el principio de:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 133 de la LBRL, entre los criterios a los que se ajusta la gestión económico-financiera de los municipios de gran población figura la introducción de la exigencia de:",
+      "options": [
+        "La publicación mensual del estado de ejecución del gasto",
+        "El seguimiento de los costes de los servicios",
+        "La aprobación trimestral del presupuesto por el Pleno",
+        "La gestión directa de todos los servicios municipales"
+      ],
+      "correct": 1,
+      "exp": "El art. 133 LBRL enumera los criterios a los que «se ajustará» la gestión económico-financiera de los municipios de gran población. Su letra e) es la «Introducción de la exigencia del seguimiento de los costes de los servicios». Entre los demás figuran el cumplimiento del objetivo de estabilidad presupuestaria (letra a), la separación de las funciones de contabilidad y de fiscalización (letra b) y la asignación de recursos «en función de la definición y el cumplimiento de objetivos» (letra f). El precepto no exige publicar cada mes la ejecución del gasto ni gestionar directamente todos los servicios, y el presupuesto no se aprueba por trimestres.",
+      "fuente": "Art. 133 e) LBRL (Ley 7/1985)"
+    },
+    "motivo": "La clave decía “Programación, con proyección plurianual, y control de eficacia y de eficiencia en la gestión”, y la explicación, que la gestión debe orientarse a “los principios de eficacia, eficiencia, economía y celeridad, con proyección plurianual de la programación”. Nada de eso está en el art. 133 LBRL, que enumera ocho criterios en sus letras a) a h). Los distractores (confidencialidad, gratuidad, discrecionalidad absoluta) eran absurdos. Se reformula sobre la letra e), que ninguna otra pregunta del banco pregunta (la 14-143 trata la letra b y la 14-346 la letra f), con distractores del mismo tipo.",
+    "resumen": "La clave atribuía al art. 133 LBRL una programación «con proyección plurianual» que no recoge; se pregunta ahora su letra e) (seguimiento de los costes de los servicios).",
+    "cita": "Art. 133 LBRL: «La gestión económico-financiera se ajustará a los siguientes criterios: … e) Introducción de la exigencia del seguimiento de los costes de los servicios.»",
+    "revisor": "APROBADA CON CAMBIOS (solo en el resumen). Art. 133 LBRL (consolidado de 03/10/2026): ocho criterios, letras a) a h); ninguno habla de «proyección plurianual» ni de «celeridad», así que la clave anterior era falsa. La nueva clave es la letra e), literal: «Introducción de la exigencia del seguimiento de los costes de los servicios». Los tres distractores (publicación mensual de la ejecución, aprobación trimestral del presupuesto, gestión directa de todos los servicios) no están en el art. 133 y son falsos. Vale en Zaragoza (título X LBRL; la Ley 10/2017 no regula estos criterios). No repite la 14-143 (letra b) ni la 14-346 (letra f); no hay otra pregunta del banco ni de lotes/nuevas sobre la letra e). Clave 45 frente a 53-56 (no es la más larga). Retoque: el resumen entrecomillaba «programación con proyección plurianual», que no es literal de la clave antigua («Programación, con proyección plurianual, …»); queda «una programación «con proyección plurianual»»."
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 134 de la LBRL, la gestión económico-financiera y presupuestaria de los municipios de gran población corresponde a órganos que dependan directamente de:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Da como clave que la gestión económico-financiera corresponde a órganos que dependen «directamente de» la Junta de Gobierno Local. El art. 134 LBRL no dice eso: su apartado 1 dispone que las funciones de presupuestación, contabilidad, tesorería y recaudación «serán ejercidas por el órgano u órganos que se determinen en el Reglamento orgánico municipal», y su apartado 2 exige habilitación nacional salvo para la presupuestación. Corregida, sería idéntica a la 14-347 (“Según el art. 134.1 de la LBRL, en los municipios de gran población las funciones de presupuestación, contabilidad, tesorería y recaudación serán ejercidas por:”), y el apartado 2 ya lo pregunta la 14-144.",
+    "resumen": "Retirada: el art. 134 LBRL no hace depender esos órganos de la Junta de Gobierno Local (remite al Reglamento orgánico); corregida repetiría la pregunta del art. 134.1 que ya está en el banco.",
+    "cita": "Art. 134.1 LBRL: «Las funciones de presupuestación, contabilidad, tesorería y recaudación serán ejercidas por el órgano u órganos que se determinen en el Reglamento orgánico municipal.»",
+    "revisor": "APROBADA (retirada). Art. 134 LBRL: el apartado 1 remite al «órgano u órganos que se determinen en el Reglamento orgánico municipal» y el 2 exige habilitación nacional salvo en presupuestación; no hay dependencia legal de la Junta de Gobierno Local, así que la clave era falsa. Corregida sería la 14-347 (134.1, misma clave literal) y el 134.2 lo pregunta la 14-144."
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 130 de la LBRL, la Administración municipal ejecutiva de los municipios de gran población se organiza en:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 123.1 c) de la LBRL, entre los niveles esenciales de la organización municipal, cuya determinación tiene en todo caso naturaleza orgánica, figuran los coordinadores generales, que dependen directamente de:",
+      "options": [
+        "Los directores generales de su misma área",
+        "El secretario general del Pleno municipal",
+        "Los miembros de la Junta de Gobierno Local",
+        "El titular de la asesoría jurídica municipal"
+      ],
+      "correct": 2,
+      "exp": "El art. 123.1 c) LBRL atribuye al Pleno la aprobación y modificación de los reglamentos de naturaleza orgánica y da en todo caso esa naturaleza a «La determinación de los niveles esenciales de la organización municipal, entendiendo por tales las grandes áreas de gobierno, los coordinadores generales, dependientes directamente de los miembros de la Junta de Gobierno Local, con funciones de coordinación de las distintas Direcciones Generales u órganos similares integradas en la misma área de gobierno…». Los coordinadores coordinan a los directores generales; no dependen de ellos. El secretario general del Pleno y el titular de la asesoría jurídica son, como los coordinadores, órganos directivos (art. 130.1 B). El art. 130 LBRL enumera los órganos superiores y directivos, pero no dice de quién dependen los coordinadores generales. En Zaragoza, el art. 11.1 c) 6.ª de la Ley 10/2017 recoge la misma regla: los coordinadores generales son «dependientes directamente de los miembros del Gobierno de Zaragoza».",
+      "fuente": "Art. 123.1 c) LBRL (Ley 7/1985); en Zaragoza, art. 11.1 c) 6.ª Ley 10/2017"
+    },
+    "motivo": "Atribuía al art. 130 LBRL que la Administración ejecutiva se organiza en “Áreas, dirigidas por un miembro de la Junta de Gobierno Local, y órganos directivos, dependientes de aquellas”. El art. 130 solo enumera los órganos superiores y directivos y no dice eso; la explicación entrecomillaba como literal un texto que no existe. Además, la clave (109 caracteres) se delataba frente a distractores de 61-66. Lo que sí dice la ley sobre la relación entre áreas y miembros de la Junta está en el art. 123.1 c): los coordinadores generales dependen directamente de los miembros de la Junta de Gobierno Local. Se reformula sobre ese precepto; ninguna pregunta del banco lo trata (las 14-140 y 14-141 preguntan qué órganos son superiores o directivos).",
+    "resumen": "El art. 130 LBRL no dice que las áreas las dirija un miembro de la Junta de Gobierno Local; se pregunta ahora el art. 123.1 c): los coordinadores generales dependen directamente de los miembros de la Junta (en Zaragoza, del Gobierno de Zaragoza).",
+    "cita": "Art. 123.1 c) LBRL: «…los coordinadores generales, dependientes directamente de los miembros de la Junta de Gobierno Local…». Art. 11.1 c) 6.ª Ley 10/2017: «…los coordinadores generales, dependientes directamente de los miembros del Gobierno de Zaragoza…».",
+    "revisor": "APROBADA CON CAMBIOS (una frase de la explicación). Art. 130 LBRL: no dice que las áreas las dirija un miembro de la Junta; la clave y la cita de la explicación antigua eran inventadas. Art. 123.1 c) LBRL comprobado: «los coordinadores generales, dependientes directamente de los miembros de la Junta de Gobierno Local, con funciones de coordinación de las distintas Direcciones Generales…». En Zaragoza, art. 11.1 c) 6.ª Ley 10/2017 (consolidado de 15/01/2019): «dependientes directamente de los miembros del Gobierno de Zaragoza»; la explicación lo avisa. Distractores falsos: los coordinadores coordinan a los directores generales; el secretario general del Pleno y el titular de la asesoría jurídica son órganos directivos (art. 130.1 B d y e). Longitudes 41-44. No repite la 14-140 ni la 14-141. Retoque: «El art. 130 LBRL solo enumera los órganos superiores y directivos» era inexacto (sus apartados 3 y 4 regulan el nombramiento y las incompatibilidades); ahora dice que los enumera pero no dice de quién dependen los coordinadores generales."
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 122.4 de la LBRL, el Pleno cuenta con el apoyo de una serie de comisiones con funciones de estudio, informe o consulta de los asuntos que hayan de someterse a su decisión, así como:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 122.4 de la LBRL, además del estudio, informe o consulta de los asuntos que hayan de ser sometidos a la decisión del Pleno, corresponde a las comisiones del Pleno:",
+      "options": [
+        "El seguimiento de la gestión del Alcalde y de su equipo de gobierno",
+        "La fiscalización previa de los gastos de la Junta de Gobierno Local",
+        "La propuesta al Alcalde de los miembros de la Junta de Gobierno Local",
+        "La coordinación de los órganos directivos de cada área de gobierno"
+      ],
+      "correct": 0,
+      "exp": "El art. 122.4 LBRL atribuye a las comisiones del Pleno «El estudio, informe o consulta de los asuntos que hayan de ser sometidos a la decisión del Pleno» (letra a), «El seguimiento de la gestión del Alcalde y de su equipo de gobierno, sin perjuicio del superior control y fiscalización que, con carácter general, le corresponde al Pleno» (letra b) y las funciones que el Pleno les delegue (letra c). La función interventora corresponde a la Intervención general municipal (art. 136.1); al Alcalde le corresponde «nombrar y separar libremente a los miembros de la Junta de Gobierno Local» (art. 126.2), sin propuesta de nadie, y la coordinación de las Direcciones Generales de cada área es la función de los coordinadores generales (art. 123.1 c). La fórmula «la gestión del Alcalde, la Junta de Gobierno Local y los concejales que ostenten delegaciones» es la del art. 20.1 c), que regula estos órganos en los municipios de régimen común. En Zaragoza, el art. 10.4 c) de la Ley 10/2017 recoge el mismo seguimiento.",
+      "fuente": "Art. 122.4 b) LBRL (Ley 7/1985); en Zaragoza, art. 10.4 c) Ley 10/2017"
+    },
+    "motivo": "La clave decía “El seguimiento de la gestión del Alcalde, la Junta de Gobierno Local y los concejales que ostenten delegaciones”, que es la fórmula del art. 20.1 c) LBRL (municipios de régimen común), no la del art. 122.4 b): «la gestión del Alcalde y de su equipo de gobierno». La clave (111 caracteres) se delataba además frente a distractores absurdos de 40-58. Se pone la clave literal, se reescribe el enunciado con la letra a) del precepto y se ponen distractores del mismo tipo, falsos también en Zaragoza (art. 10.4 Ley 10/2017). No se usa como distractor el dictamen de ordenanzas, que en Zaragoza sí es función de las comisiones (art. 10.4 b).",
+    "resumen": "Clave literal del art. 122.4 b) LBRL («la gestión del Alcalde y de su equipo de gobierno»); la anterior copiaba la fórmula del art. 20.1 c). Distractores igualados.",
+    "cita": "Art. 122.4 b) LBRL: «El seguimiento de la gestión del Alcalde y de su equipo de gobierno, sin perjuicio del superior control y fiscalización que, con carácter general, le corresponde al Pleno.»",
+    "revisor": "APROBADA CON CAMBIOS (forma de la explicación). Art. 122.4 b) LBRL comprobado: «El seguimiento de la gestión del Alcalde y de su equipo de gobierno, sin perjuicio del superior control y fiscalización que, con carácter general, le corresponde al Pleno»; la clave antigua copiaba el art. 20.1 c) («la gestión del Alcalde, la Junta de Gobierno Local y los concejales que ostenten delegaciones», literal comprobado). Zaragoza: art. 10.4 c) Ley 10/2017 dice lo mismo; su letra b) (dictamen de ordenanzas y Reglamentos) no se usa como distractor. Distractores falsos también en Zaragoza: la fiscalización es de la Intervención general (art. 136.1); el Alcalde nombra libremente a los miembros de la Junta (art. 126.2, literal); la coordinación de las Direcciones Generales es de los coordinadores generales (art. 123.1 c). Ninguno es materia delegable en comisiones (art. 123.3 LBRL; art. 11.3 Ley 10/2017). Longitudes 66-69. Retoque: la explicación enumeraba las funciones como «a) «…»; b) «…»; y c) …», letras que en la app pueden confundirse con las de las opciones; ahora dice «(letra a)», «(letra b)», «(letra c)»."
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 130.2 de la LBRL, se consideran órganos directivos municipales, entre otros:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 130.1 B) de la LBRL, son órganos directivos los directores generales u órganos similares que culminen la organización administrativa dentro de cada una de:",
+      "options": [
+        "Las juntas municipales de distrito",
+        "Las comisiones permanentes del Pleno",
+        "Las sociedades mercantiles locales",
+        "Las grandes áreas o concejalías"
+      ],
+      "correct": 3,
+      "exp": "El art. 130.1 B) LBRL enumera los órganos directivos. Su letra b) incluye «Los directores generales u órganos similares que culminen la organización administrativa dentro de cada una de las grandes áreas o concejalías», y su letra a), «Los coordinadores generales de cada área o concejalía». El precepto no se refiere a los distritos, a las comisiones del Pleno ni a las sociedades mercantiles. El apartado 2 del mismo artículo añade como órganos directivos a los titulares de los máximos órganos de dirección de los organismos autónomos y de las entidades públicas empresariales locales.",
+      "fuente": "Art. 130.1 B) b) LBRL (Ley 7/1985)"
+    },
+    "motivo": "Citaba el art. 130.2 cuando los coordinadores y directores generales están en el art. 130.1 B) a) y b); el apartado 2 se refiere a los titulares de los máximos órganos de dirección de organismos autónomos y entidades públicas empresariales. La clave (144 caracteres) se delataba frente a distractores absurdos de 35-61. Corregida tal cual, se acercaría mucho a la 14-141 (qué órgano es directivo) y a la 21-106 (examen: cuál no figura en el 130.1 B). Se reformula sobre el ámbito de la letra b), con distractores del mismo tipo.",
+    "resumen": "Citaba el art. 130.2 por el 130.1 B); se pregunta ahora el ámbito de los directores generales («dentro de cada una de las grandes áreas o concejalías») con distractores de la misma longitud.",
+    "cita": "Art. 130.1 B) b) LBRL: «Los directores generales u órganos similares que culminen la organización administrativa dentro de cada una de las grandes áreas o concejalías.»",
+    "revisor": "APROBADA sin cambios. La pregunta antigua citaba el 130.2 por el 130.1 B). Art. 130.1 B) b) LBRL comprobado: «Los directores generales u órganos similares que culminen la organización administrativa dentro de cada una de las grandes áreas o concejalías». Distractores (juntas de distrito, comisiones del Pleno, sociedades mercantiles) falsos; se evita bien «organismos autónomos» (art. 130.2). La explicación es exacta. No repite la 14-141 ni la 21-106 (examen), que preguntan qué órgano es o no es directivo. Clave 31 frente a 34-36."
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 17.4 de la LBRL, el Consejo de Empadronamiento está adscrito al Ministerio de Economía y Hacienda y es presidido por:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 17.4 LBRL: «Adscrito al Ministerio de Economía y Hacienda se crea el Consejo de Empadronamiento como órgano colegiado de colaboración entre la Administración General del Estado y los Entes Locales en materia padronal…», y «El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales». No lo preside el Ministro, el Presidente de la FEMP ni un alcalde. Aviso: la LBRL conserva el nombre de un ministerio que ya no existe. El Reglamento de Población y Demarcación Territorial, en la redacción del Real Decreto 141/2024, dice hoy: «El Consejo de Empadronamiento, adscrito al Ministerio de Economía, Comercio y Empresa, es un órgano colegiado de colaboración entre la Administración General del Estado y los Entes locales en materia padronal» (art. 84). Su presidente sigue siendo el del Instituto Nacional de Estadística (art. 86.2).",
+      "fuente": "Art. 17.4 LBRL (Ley 7/1985); arts. 84 y 86.2 RPDT (RD 1690/1986, redacción del RD 141/2024)"
+    },
+    "motivo": "El enunciado y la explicación usan, literalmente, el «Ministerio de Economía y Hacienda» del art. 17.4 LBRL, sin avisar de que ese ministerio no existe y de que el RPDT vigente (art. 84, redacción del RD 141/2024, en vigor el 08/02/2024) adscribe el Consejo al Ministerio de Economía, Comercio y Empresa. La clave no cambia; se añade el aviso.",
+    "resumen": "La clave no cambia; la explicación avisa de que el RPDT vigente adscribe el Consejo de Empadronamiento al Ministerio de Economía, Comercio y Empresa.",
+    "cita": "Art. 84 RPDT: «El Consejo de Empadronamiento, adscrito al Ministerio de Economía, Comercio y Empresa, es un órgano colegiado de colaboración entre la Administración General del Estado y los Entes locales en materia padronal.» Art. 86.2 RPDT: «El Presidente del Consejo de Empadronamiento será el Presidente del Instituto Nacional de Estadística.»",
+    "revisor": "APROBADA sin cambios. Art. 17.4 LBRL (redacción del RDL 6/2023, consolidado de 20/12/2023) sigue diciendo «Adscrito al Ministerio de Economía y Hacienda» y que el Consejo «será presidido por el Presidente del Instituto Nacional de Estadística»: el enunciado es literal. Art. 84 RPDT (redacción del RD 141/2024, consolidado de 07/02/2024): «adscrito al Ministerio de Economía, Comercio y Empresa», literal; art. 86.2 RPDT: «El Presidente del Consejo de Empadronamiento será el Presidente del Instituto Nacional de Estadística». El RD 829/2023 (art. 16) mantiene ese ministerio. Clave sin cambios."
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 130.3 de la LBRL, el nombramiento de los coordinadores generales y directores generales debe efectuarse entre:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 14-314 (art. 130.3: nombramiento de coordinadores y directores generales entre funcionarios de carrera… «clasificados en el subgrupo A1», salvo que el Reglamento Orgánico permita otra cosa). Además, su clave (270 caracteres frente a 44-51) omite el requisito del subgrupo A1 que introdujo la Ley 27/2013, y su explicación usa la redacción anterior (“cuerpos o escalas que exijan titulación superior”). Corregida, sería la 14-314.",
+    "resumen": "Retirada: repite la pregunta del art. 130.3 LBRL que ya está en el banco, y su clave y explicación usaban la redacción anterior a la Ley 27/2013 (sin el subgrupo A1).",
+    "cita": "Art. 130.3 LBRL: «…entre funcionarios de carrera del Estado, de las Comunidades Autónomas, de las Entidades Locales o con habilitación de carácter nacional que pertenezcan a cuerpos o escalas clasificados en el subgrupo A1, salvo que el Reglamento Orgánico Municipal permita…»",
+    "revisor": "APROBADA (retirada por duplicado). Comparada con la 14-314: su enunciado da entero el art. 130.3 (funcionarios de carrera del Estado, CCAA, EELL o con habilitación nacional, salvo que el Reglamento Orgánico permita otra cosa) y pregunta además el subgrupo A1. Enseña todo lo que enseñaba la 14-74, y lo enseña con la redacción vigente (Ley 27/2013), que la 14-74 omitía (su explicación daba la de 2003: «titulación superior»)."
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 17 de la LBRL, la formación, mantenimiento, revisión y custodia del padrón municipal corresponde:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Su explicación da como texto del art. 17 LBRL que el padrón corresponde al Ayuntamiento “conforme a las normas aprobadas conjuntamente por el Ministerio de Economía y Hacienda y el de Administraciones Públicas”, redacción sustituida por el Real Decreto-ley 6/2023 (art. 128.3), y su clave no es literal. El art. 17.1 vigente dice «de acuerdo con lo que establezca la legislación del Estado». Corregida, repetiría la 14-110 (“¿A quién le corresponde la formación del Padrón Municipal?”), que ya cita el texto vigente. Además, la clave (108 caracteres) se delataba frente a 45-53.",
+    "resumen": "Retirada: explicación con la redacción del art. 17.1 LBRL anterior al RDL 6/2023 y clave no literal; corregida repetiría otra pregunta del banco.",
+    "cita": "Art. 17.1 LBRL: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado.»",
+    "revisor": "APROBADA (retirada por duplicado). Art. 17.1 LBRL vigente: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado». La 14-110 da la misma respuesta (Ayuntamiento) y cita esa frase entera. La explicación de la 14-55 daba la redacción anterior al RDL 6/2023 (normas de los Ministerios de Economía y Hacienda y de Administraciones Públicas)."
+  },
+  {
+    "tema": 14,
+    "q": "¿A quién le corresponde el mantenimiento del Padrón Municipal?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta lo mismo que la 14-110 (“¿A quién le corresponde la formación del Padrón Municipal?”): cambia solo el verbo (mantenimiento), con los mismos tres distractores y la misma clave, “Al Ayuntamiento respectivo”. El art. 17.1 LBRL atribuye en una sola frase «La formación, mantenimiento, revisión y custodia del Padrón municipal» al Ayuntamiento, y la 14-110 cita la frase entera. Quedaban cinco preguntas iguales (14-110 a 14-114), más la 14-55; se conserva la 14-110. La gestión informatizada por las Diputaciones ya la pregunta la 14-248.",
+    "resumen": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores.",
+    "cita": "Art. 17.1 LBRL: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado.»",
+    "revisor": "APROBADA (retirada por duplicado). Mismas cuatro opciones y misma clave que la 14-110; solo cambia el verbo, y el art. 17.1 atribuye la formación, el mantenimiento, la revisión y la custodia en una sola frase, que la explicación de la 14-110 cita entera."
+  },
+  {
+    "tema": 14,
+    "q": "¿A quién le corresponde realizar la revisión del Padrón Municipal?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta lo mismo que la 14-110 (“¿A quién le corresponde la formación del Padrón Municipal?”): cambia solo el verbo (revisión), con los mismos tres distractores y la misma clave, “Al Ayuntamiento respectivo”. El art. 17.1 LBRL atribuye en una sola frase «La formación, mantenimiento, revisión y custodia del Padrón municipal» al Ayuntamiento, y la 14-110 cita la frase entera. Quedaban cinco preguntas iguales (14-110 a 14-114), más la 14-55; se conserva la 14-110. La gestión informatizada por las Diputaciones ya la pregunta la 14-248.",
+    "resumen": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores.",
+    "cita": "Art. 17.1 LBRL: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado.»",
+    "revisor": "APROBADA (retirada por duplicado). Igual que la anterior: mismas opciones y clave que la 14-110; cambia solo el verbo (revisión), incluido en la frase del art. 17.1 que cita la 14-110."
+  },
+  {
+    "tema": 14,
+    "q": "¿A quién le corresponde custodiar el Padrón Municipal?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta lo mismo que la 14-110 (“¿A quién le corresponde la formación del Padrón Municipal?”): cambia solo el verbo (custodia), con los mismos tres distractores y la misma clave, “Al Ayuntamiento respectivo”. El art. 17.1 LBRL atribuye en una sola frase «La formación, mantenimiento, revisión y custodia del Padrón municipal» al Ayuntamiento, y la 14-110 cita la frase entera. Quedaban cinco preguntas iguales (14-110 a 14-114), más la 14-55; se conserva la 14-110. La gestión informatizada por las Diputaciones ya la pregunta la 14-248.",
+    "resumen": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores.",
+    "cita": "Art. 17.1 LBRL: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado.»",
+    "revisor": "APROBADA (retirada por duplicado). Igual que la anterior: mismas opciones y clave que la 14-110; cambia solo el verbo (custodia)."
+  },
+  {
+    "tema": 14,
+    "q": "¿A quién le corresponde gestionar el Padrón Municipal?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta lo mismo que la 14-110 (“¿A quién le corresponde la formación del Padrón Municipal?”): cambia solo el verbo (gestión), con los mismos tres distractores y la misma clave, “Al Ayuntamiento respectivo”. El art. 17.1 LBRL atribuye en una sola frase «La formación, mantenimiento, revisión y custodia del Padrón municipal» al Ayuntamiento, y la 14-110 cita la frase entera. Quedaban cinco preguntas iguales (14-110 a 14-114), más la 14-55; se conserva la 14-110. La gestión informatizada por las Diputaciones ya la pregunta la 14-248.",
+    "resumen": "Retirada por repetida: el banco ya pregunta a quién corresponde el padrón (art. 17.1 LBRL) con la misma clave y los mismos distractores.",
+    "cita": "Art. 17.1 LBRL: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado.»",
+    "revisor": "APROBADA (retirada por duplicado). Mismas opciones y clave que la 14-110. La «gestión» está en el párrafo tercero del art. 17.1 («se llevará por los Ayuntamientos con medios informáticos»), no en el primero, pero la respuesta es la misma (Ayuntamiento) y la excepción de ese párrafo (gestión informatizada por las Diputaciones) ya la pregunta la 14-248, cuyo enunciado da la regla general. No se pierde nada."
+  },
+  {
+    "tema": 14,
+    "q": "Según la Disposición transitoria tercera.1 de la Ley 10/2017, hasta la aprobación de la regulación de la participación de los entes locales en los ingresos de la Comunidad Autónoma de Aragón, el Ayuntamiento de Zaragoza recibirá anualmente:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta la cantidad anual (ocho millones de euros) de la disposición transitoria tercera de la Ley 10/2017, que regula la financiación del Ayuntamiento «Hasta la aprobación de la regulación de la participación de los entes locales en los ingresos de la Comunidad Autónoma de Aragón». Es un régimen transitorio de financiación: el epígrafe del tema 14 solo incluye de la ley de capitalidad las «disposiciones generales y especialidades en materia de organización», y la financiación de la capitalidad (Capítulo VII, arts. 56 a 59) ya se archivó como fuera de alcance el 21-ago-2026 (data/reserva/tema13-financiacion-capitalidad-fuera-alcance.json). La pregunta es correcta según el texto; se retira por alcance y por ser un dato transitorio (encargo de la coordinación sobre transitorias de los temas 14-16).",
+    "resumen": "Retirada: dato transitorio de financiación de la Ley 10/2017 (DT 3.ª), fuera del epígrafe del tema 14 (organización); el texto es correcto.",
+    "cita": "Ley 10/2017, DT 3.ª.1: «Hasta la aprobación de la regulación de la participación de los entes locales en los ingresos de la Comunidad Autónoma de Aragón, el Ayuntamiento de Zaragoza recibirá anualmente la cantidad de ocho millones de euros.»",
+    "revisor": "APROBADA (retirada por alcance; no es duplicado). DT 3.ª.1 Ley 10/2017 comprobada: «el Ayuntamiento de Zaragoza recibirá anualmente la cantidad de ocho millones de euros»; la pregunta es correcta. El epígrafe del tema 14 (anexo I, BOPZ 170/2026) solo incluye de la ley de capitalidad las «disposiciones generales y especialidades en materia de organización»; la financiación no entra en ningún epígrafe (tema 13: solo «La aprobación del presupuesto municipal»). Mismo criterio que la reserva del 21-ago (data/reserva/tema13-financiacion-capitalidad-fuera-alcance.json)."
+  },
+  {
+    "tema": 13,
+    "q": "Si la reducción de gastos por remanente de tesorería negativo no resulta posible, el art. 193.2 TRLRHL permite acudir a...",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Una operación de crédito por su importe, si se dan las condiciones del art. 177.5 TRLRHL",
+        "Una subida extraordinaria de los tipos impositivos aplicable ya en el ejercicio corriente",
+        "La enajenación de terrenos del patrimonio municipal del suelo por el importe del déficit",
+        "Una subvención extraordinaria del Estado o de la Comunidad Autónoma por el importe del déficit"
+      ],
+      "correct": 0,
+      "exp": "El art. 193.2 TRLRHL dispone: «Si la reducción de gastos no resultase posible, se podrá acudir al concierto de operación de crédito por su importe, siempre que se den las condiciones señaladas en el artículo 177.5 de esta ley». Si no se adopta ninguna de las dos medidas, «el presupuesto del ejercicio siguiente habrá de aprobarse con un superávit inicial de cuantía no inferior al repetido déficit» (art. 193.3). El precepto no prevé subir los tipos impositivos, enajenar patrimonio municipal del suelo ni pedir una subvención extraordinaria. Aviso: este régimen sigue escrito en el art. 193.2 TRLRHL, pero la disposición adicional decimocuarta del Real Decreto-ley 20/2011, en la redacción que le dio la Ley 17/2012 «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida», solo permite a las entidades locales concertar «nuevas operaciones de crédito a largo plazo para la financiación de inversiones», y con condiciones: haber liquidado el ejercicio anterior con ahorro neto positivo y no superar el capital vivo el 75 por ciento de los ingresos corrientes liquidados (por encima de ese porcentaje y hasta el límite del art. 53 TRLRHL, con autorización del órgano de tutela financiera). Por eso hoy no cabe sanear el remanente negativo con un préstamo a largo plazo por esta vía.",
+      "fuente": "Art. 193.2 y 193.3 TRLRHL (RDLeg 2/2004); DA 14.ª RDL 20/2011 (redacción de la Ley 17/2012)"
+    },
+    "motivo": "Aviso del revisor de la ronda 4: es la misma cuestión que la 13-107 a la 13-109. La clave es literal del art. 193.2 TRLRHL, pero no avisaba de que la DA 14.ª del RDL 20/2011 (redacción de la Ley 17/2012, vigencia indefinida) solo permite nuevas operaciones de crédito a largo plazo para financiar inversiones. Se añade el aviso con la frase propuesta por el revisor y las condiciones que ya lleva la 13-108. Además, la clave (97 caracteres) se delataba frente a distractores de 45-57: se abrevia sin cambiar su sentido y se alargan los distractores.",
+    "resumen": "La clave (art. 193.2 TRLRHL) no cambia de sentido; la explicación avisa de la DA 14.ª RDL 20/2011 y se igualan las longitudes de las opciones.",
+    "cita": "Art. 193.2 TRLRHL: «Si la reducción de gastos no resultase posible, se podrá acudir al concierto de operación de crédito por su importe, siempre que se den las condiciones señaladas en el artículo 177.5 de esta ley.» Ley 17/2012, DF 31.ª: «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida, la disposición adicional decimocuarta del Real Decreto-Ley 20/2011…».",
+    "revisor": "APROBADA sin cambios. Art. 193.2 TRLRHL (consolidado de 07/10/2026) y 193.3 citados literalmente. La clave abreviada no cambia el sentido. Distractores falsos según el art. 193. El aviso es el que propuso el revisor de la ronda 4, con las condiciones de la DA 14.ª RDL 20/2011 (consolidado de 28/12/2012: ahorro neto positivo, 75 por ciento, autorización hasta el límite del art. 53) y la fórmula de la DF 31.ª Ley 17/2012 «Con efectos de la entrada en vigor de esta Ley y vigencia indefinida», todo comprobado. Coherente con las 13-107 a 13-109. Longitudes 88-94, clave en posición 0."
+  },
+  {
+    "tema": 18,
+    "q": "Según el art. 4.k) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario...",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Enseña como supuesto de servicios especiales el del art. 4.k) RD 365/1995: «Cuando cumplan el servicio militar o prestación social sustitutoria equivalente». No tiene aplicación: la Ley 17/1999 «supuso la suspensión del servicio militar obligatorio» (preámbulo de la Ley 39/2007, de la carrera militar), la Ley Orgánica 5/2005 derogó la Ley Orgánica 13/1991 del Servicio Militar (disposición derogatoria única 1.b), y el art. 87.1 TREBEP no recoge el supuesto. No tiene arreglo sin cambiar de pregunta; los demás supuestos del art. 4 ya están en el banco (p. ej., 18-320).",
+    "resumen": "Retirada: el servicio militar obligatorio está suspendido y el art. 87.1 TREBEP no recoge ese supuesto de servicios especiales.",
+    "cita": "Ley 39/2007, preámbulo: «…se promulgó la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, que supuso la suspensión del servicio militar obligatorio.» LO 5/2005, disposición derogatoria única 1: «b) La Ley Orgánica 13/1991, de 20 de diciembre, del Servicio Militar.»",
+    "revisor": "APROBADA (retirada; no es duplicado). Art. 4 k) RD 365/1995: «Cuando cumplan el servicio militar o prestación social sustitutoria equivalente». LO 5/2005, disposición derogatoria única 1 b): deroga la LO 13/1991 del Servicio Militar; preámbulo de la Ley 39/2007: la Ley 17/1999 «supuso la suspensión del servicio militar obligatorio». El art. 87.1 TREBEP (consolidado de 03/10/2026) no recoge el supuesto (solo el de reservistas voluntarios activados, letra l), y el 87.4 limita la declaración a los supuestos del Estatuto y de las leyes de función pública. Enseña un supuesto sin aplicación (regla 10). Los demás supuestos del art. 4 siguen en el banco (p. ej., 18-320)."
+  },
+  {
+    "tema": 18,
+    "q": "El art. 5 del RD 365/1995 atribuye el establecimiento de los criterios para calificar un cargo como de carácter político a...",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 5 RD 365/1995: es cargo de carácter político el cargo de confianza «que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que, conforme a los criterios que establezca el Ministerio para las Administraciones Públicas, conlleve responsabilidades directivas o asesoramiento a nivel político». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Ese ministerio ya no existe con ese nombre: hoy la política del Gobierno «en materia de administración pública, función pública, y gobernanza pública» corresponde al Ministerio para la Transformación Digital y de la Función Pública (art. 22.2 del Real Decreto 829/2023). La pregunta se ciñe a la letra del Reglamento.",
+      "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.2 RD 829/2023"
+    },
+    "motivo": "Denominación orgánica de 1995 sin aviso (hallazgo de la ronda 4). La clave es literal y no cambia; la explicación avisa del ministerio actual competente en función pública.",
+    "resumen": "La clave (literal del art. 5 RD 365/1995) no cambia; se avisa de que el Ministerio para las Administraciones Públicas ya no existe.",
+    "cita": "RD 829/2023, art. 22.2: «Asimismo corresponde al Ministerio para la Transformación Digital y de la Función Pública la propuesta y ejecución de la política del Gobierno en materia de administración pública, función pública, y gobernanza pública.»",
+    "revisor": "APROBADA CON CAMBIOS (una frase del aviso). Cita del art. 5 RD 365/1995 literal (consolidado de 04/03/2006). Art. 22.2 RD 829/2023 (consolidado de 29/12/2023, no derogado) literal. Retoque: «el Reglamento, de 1995, no se ha actualizado» es inexacto (el RD 255/2006 modificó su art. 15); ahora dice que «conserva denominaciones de órganos que ya no existen»."
+  },
+  {
+    "tema": 18,
+    "q": "Conforme al art. 6.2 del RD 365/1995, la autorización para realizar una misión de carácter internacional requiere que conste el interés de la Administración según los criterios que establezca...",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 6.2 RD 365/1995: en el supuesto del art. 4 a), «la autorización para realizar la misión de carácter internacional requerirá que conste el interés de la Administración, conforme a los criterios que establezca el Ministerio de Asuntos Exteriores». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Ese departamento se denomina hoy Ministerio de Asuntos Exteriores, Unión Europea y Cooperación (art. 2 del Real Decreto 829/2023). El Ministerio para las Administraciones Públicas y la Secretaría de Estado para la Administración Pública, que aparecen como distractores, tampoco existen hoy con ese nombre. La pregunta se ciñe a la letra del Reglamento.",
+      "fuente": "Art. 6.2 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 2 RD 829/2023"
+    },
+    "motivo": "Denominación orgánica de 1995 sin aviso (hallazgo de la ronda 4). La clave es literal y no cambia.",
+    "resumen": "La clave (literal del art. 6.2 RD 365/1995) no cambia; se avisa de la denominación actual del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.",
+    "cita": "RD 829/2023, art. 2.1: «Corresponde al Ministerio de Asuntos Exteriores, Unión Europea y Cooperación la propuesta y ejecución de la política exterior…».",
+    "revisor": "APROBADA CON CAMBIOS (una frase del aviso). Cita del art. 6.2 literal; denominación actual comprobada en el art. 2 RD 829/2023 («Ministerio de Asuntos Exteriores, Unión Europea y Cooperación»). Mismo retoque que en la 18-198 («no se ha actualizado» fuera)."
+  },
+  {
+    "tema": 18,
+    "q": "Según el art. 12.1 del RD 365/1995, pasan a la situación de expectativa de destino los funcionarios afectados por un procedimiento de reasignación de efectivos que...",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Hayan sido sancionados con suspensión firme de funciones por una falta disciplinaria grave",
+        "Hayan agotado el plazo máximo de un año sin obtener un nuevo puesto de trabajo",
+        "No hayan obtenido puesto en las dos primeras fases del procedimiento de reasignación",
+        "Hayan pedido la excedencia voluntaria incentivada en la primera fase de reasignación"
+      ],
+      "correct": 2,
+      "exp": "Art. 12.1 RD 365/1995: los funcionarios afectados por un procedimiento de reasignación de efectivos «que no hayan obtenido puesto en las dos primeras fases previstas en el apartado g) del artículo 20.1 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, pasarán a la situación de expectativa de destino», y se adscriben «al Ministerio para las Administraciones Públicas, a través de relaciones específicas de puestos en reasignación». Quien agota en esa situación el periodo máximo de un año pasa a excedencia forzosa (art. 12.2); quien está en las dos primeras fases puede pedir la excedencia voluntaria incentivada (art. 18.1), que es otra situación, y la suspensión firme lleva a la situación de suspensión de funciones (art. 90 TREBEP). Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. El Ministerio para las Administraciones Públicas ya no existe con ese nombre: hoy la política del Gobierno en materia de administración pública y función pública corresponde al Ministerio para la Transformación Digital y de la Función Pública (art. 22.2 del Real Decreto 829/2023).",
+      "fuente": "Art. 12.1 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.2 RD 829/2023"
+    },
+    "motivo": "La clave nombraba sin aviso el «Ministerio para las Administraciones Públicas» (hallazgo de la ronda 4) y se delataba por la longitud (131 caracteres frente a 46-77). Se quita de la clave la adscripción, se deja la condición que define la situación (literal en lo esencial) y se alargan los distractores; la explicación cita el precepto entero y avisa de la denominación actual.",
+    "resumen": "La clave mantiene su sentido (no haber obtenido puesto en las dos primeras fases de reasignación) sin la mención del ministerio extinto, que pasa a la explicación con aviso; distractores igualados.",
+    "cita": "Art. 12.1 RD 365/1995: «Los funcionarios afectados por un procedimiento de reasignación de efectivos, que no hayan obtenido puesto en las dos primeras fases… pasarán a la situación de expectativa de destino.»",
+    "revisor": "APROBADA CON CAMBIOS (una frase del aviso). Art. 12.1 RD 365/1995 citado literalmente (dos fragmentos comprobados). Clave fiel al 12.1 sin la adscripción al ministerio extinto, que pasa a la explicación con aviso. Distractores falsos: agotar el año en expectativa lleva a la excedencia forzosa (art. 12.2); quien está en las dos primeras fases puede pedir la excedencia voluntaria incentivada (art. 18.1); la suspensión firme es la situación del art. 90 TREBEP. Longitudes 78-90 (clave 84). Mismo retoque que en la 18-198."
+  },
+  {
+    "tema": 18,
+    "q": "Según el art. 12.4 del RD 365/1995, la declaración y cese en la situación de expectativa de destino corresponde a...",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 12.4 RD 365/1995: «Corresponde a la Secretaría de Estado para la Administración Pública efectuar la declaración y cese en esta situación administrativa y la gestión del personal afectado por la misma». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Esa Secretaría de Estado ya no existe con ese nombre: hoy uno de los órganos superiores del Ministerio para la Transformación Digital y de la Función Pública es la Secretaría de Estado de Función Pública (art. 22.3 c) del Real Decreto 829/2023). La pregunta se ciñe a la letra del Reglamento.",
+      "fuente": "Art. 12.4 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.3 c) RD 829/2023"
+    },
+    "motivo": "Denominación orgánica de 1995 sin aviso (hallazgo de la ronda 4). La clave es literal y no cambia.",
+    "resumen": "La clave (literal del art. 12.4 RD 365/1995) no cambia; se avisa de que hoy existe la Secretaría de Estado de Función Pública.",
+    "cita": "RD 829/2023, art. 22.3: «Este Ministerio se estructura en los siguientes órganos superiores: … c) La Secretaría de Estado de Función Pública.»",
+    "revisor": "APROBADA CON CAMBIOS (una frase del aviso). Cita del art. 12.4 literal; art. 22.3 c) RD 829/2023 («La Secretaría de Estado de Función Pública») comprobado. Mismo retoque que en la 18-198."
+  },
+  {
+    "tema": 18,
+    "q": "Según el artículo 18.3 del RD 365/1995, ¿a qué órgano corresponde acordar la declaración de excedencia voluntaria incentivada?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 18.3 RD 365/1995: «Corresponde a la Secretaría de Estado para la Administración Pública acordar la declaración de esta situación». Aviso: el Reglamento, de 1995, conserva denominaciones de órganos que ya no existen. Esa Secretaría de Estado ya no existe con ese nombre: hoy uno de los órganos superiores del Ministerio para la Transformación Digital y de la Función Pública es la Secretaría de Estado de Función Pública (art. 22.3 c) del Real Decreto 829/2023). La pregunta se ciñe a la letra del Reglamento.",
+      "fuente": "Art. 18.3 RD 365/1995 (Reglamento de Situaciones Administrativas); art. 22.3 c) RD 829/2023"
+    },
+    "motivo": "Denominación orgánica de 1995 sin aviso (hallazgo de la ronda 4, entonces 18-241). La clave es literal y no cambia.",
+    "resumen": "La clave (literal del art. 18.3 RD 365/1995) no cambia; se avisa de que hoy existe la Secretaría de Estado de Función Pública.",
+    "cita": "Art. 18.3 RD 365/1995: «Corresponde a la Secretaría de Estado para la Administración Pública acordar la declaración de esta situación.»",
+    "revisor": "APROBADA CON CAMBIOS (una frase del aviso). Cita del art. 18.3 literal; art. 22.3 c) RD 829/2023 comprobado. Mismo retoque que en la 18-198. (Fuera de la propuesta: el distractor «La Comisión Superior de Personal» no lleva la preposición «A» de las otras opciones; es un detalle de forma para otra ronda.)"
+  },
+  {
+    "tema": 18,
+    "q": "Según la disposición adicional cuarta del RD 365/1995, la competencia en materia de situaciones administrativas de los funcionarios docentes universitarios y del personal de Administración y Servicios propio de las Universidades corresponde a:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "La disposición adicional cuarta del RD 365/1995 dice: «De acuerdo con lo previsto en los artículos 44.2 y 49.4 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, la competencia en materia de situaciones administrativas de los funcionarios docentes que desempeñen sus funciones en las Universidades y de los pertenecientes a Escalas de Administración y Servicios propias de las mismas, corresponden al Rector». Aviso: la Ley de Reforma Universitaria que cita está derogada (disposición derogatoria única de la Ley Orgánica 6/2001, de Universidades, a su vez derogada por la Ley Orgánica 2/2023, del Sistema Universitario). Hoy el art. 50.1 de la Ley Orgánica 2/2023 atribuye al Rector o Rectora «las funciones de dirección, gobierno y gestión de la universidad» y «cuantas competencias no sean expresamente atribuidas a otros órganos de la universidad». La pregunta se ciñe a la letra del Reglamento.",
+      "fuente": "Disposición adicional cuarta RD 365/1995 (Reglamento de Situaciones Administrativas); art. 50.1 LO 2/2023"
+    },
+    "motivo": "La explicación remitía a la “Ley Orgánica de Reforma Universitaria citada” sin avisar de que está derogada (hallazgo de la ronda 4, entonces 18-260). La clave es literal y no cambia.",
+    "resumen": "La clave (literal de la DA 4.ª RD 365/1995) no cambia; se avisa de la derogación de la LORU y de lo que dice hoy la LO 2/2023.",
+    "cita": "LO 2/2023, art. 50.1: «El Rector o la Rectora ejerce las funciones de dirección, gobierno y gestión de la universidad… Le corresponden asimismo cuantas competencias no sean expresamente atribuidas a otros órganos de la universidad.» LO 6/2001, disposición derogatoria única 1: «Queda derogada la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria…».",
+    "revisor": "APROBADA sin cambios. DA 4.ª RD 365/1995 citada literalmente. Disposición derogatoria única 1 de la LO 6/2001: «Queda derogada la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria»; la LO 6/2001 está derogada por la LO 2/2023 (disposición derogatoria única 1 a, con efectos de 12/04/2023). Art. 50.1 LO 2/2023: los dos fragmentos citados son literales. El aviso no afirma más de lo que dice la LOSU."
+  },
+  {
+    "tema": 10,
+    "q": "¿Qué relación guarda el Secretario de la Corporación con la conservación y tutela de los bienes de la Entidad Local, según la práctica administrativa?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Se apoya en “la práctica administrativa”, no en un precepto, y su clave (214 caracteres frente a 56-87) se acierta por la longitud. Lo que tiene de literal ya lo preguntan otras: el dictamen previo al ejercicio de acciones (10-228, art. 9.3 RBEL), la autorización del inventario (10-246, art. 32.1), el informe en el expediente de investigación (10-260, art. 53) y la certificación para el Registro de la Propiedad (10-115 y 10-249, art. 36.2). Hallazgo de la ronda 4.",
+    "resumen": "Retirada: pregunta doctrinal (“según la práctica administrativa”) con la clave delatada por la longitud; sus funciones literales ya están en otras preguntas del tema.",
+    "cita": "Art. 32.1 RBEL: «Los inventarios serán autorizados por el Secretario de la Corporación con el visto bueno del Presidente…» (pregunta 10-246).",
+    "revisor": "APROBADA (retirada; no es duplicado puro). Se pregunta «según la práctica administrativa», sin precepto que la respalde, y la clave (214 caracteres frente a 56-87) se acierta por la longitud. Lo que tiene de literal ya está en otras preguntas, que comparé: dictamen previo (10-228, art. 9.3 RBEL), autorización del inventario (10-246, art. 32.1), informe en la investigación (10-260, art. 53) y certificación para el Registro de la Propiedad (10-115 y 10-249, art. 36.2)."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2 c), durante el plazo de dos meses tras la comunicación de un nuevo sistema de identificación, ¿qué puede hacer el órgano estatal competente por motivos de seguridad pública?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite lo que preguntan juntas la 4-138 (quién puede acudir a la vía jurisdiccional durante los dos meses: «el órgano estatal competente por motivos de seguridad pública») y la 4-139 (de quién es el informe vinculante previo: «la Secretaría de Estado de Seguridad»). Su clave, “Acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad”, reúne las dos, y se delataba por la longitud (97 frente a 39-52). Es el duplicado del art. 9.2 c) que quedaba de la lista de la ronda 3.",
+    "resumen": "Retirada por repetida: lo que pregunta del art. 9.2 c) LPAC ya está en otras dos preguntas del banco.",
+    "cita": "Art. 9.2 c) LPAC: «…durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad…»",
+    "revisor": "APROBADA (retirada por duplicado). La clave («Acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad») es la suma de la 4-138 (quién puede acudir a la vía jurisdiccional durante los dos meses) y la 4-139 (de quién es el informe vinculante). Art. 9.2 c) LPAC (consolidado de 06/11/2024) comprobado."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2, las Administraciones deben garantizar que la utilización de los sistemas de las letras a) y b) sea posible:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 4-141 (“El último párrafo del art. 9.2 de la LPAC obliga a las Administraciones Públicas a garantizar que la utilización de uno de los sistemas de las letras a) y b) sea posible:”), con el mismo enunciado y la misma clave. Hallada al recorrer el art. 9.2 por el aviso de duplicados de la ronda 3.",
+    "resumen": "Retirada por repetida: el último párrafo del art. 9.2 LPAC ya se pregunta con un enunciado casi idéntico y la misma respuesta.",
+    "cita": "Art. 9.2 LPAC, último párrafo: «…sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c).»",
+    "revisor": "APROBADA (retirada por duplicado), con un retoque en el resumen. Enunciado casi idéntico y misma respuesta que la 4-141 (último párrafo del art. 9.2 LPAC, literal). El resumen decía «con el mismo enunciado»; ahora «con un enunciado casi idéntico y la misma respuesta»."
+  },
+  {
+    "tema": 4,
+    "q": "Si una Administración admite para un procedimiento el sistema de identificación de la letra c) del art. 9.2 de la LPAC, ¿queda liberada de ofrecer los sistemas de las letras a) y b) para ese mismo procedimiento?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta con otras palabras la misma regla que la 4-141 (último párrafo del art. 9.2 LPAC: los sistemas de las letras a) y b) deben ser posibles aunque se admita la letra c). Además, su clave (93 caracteres) era la más larga frente a 54-64.",
+    "resumen": "Retirada por repetida: pregunta la misma regla del último párrafo del art. 9.2 LPAC que otra del banco.",
+    "cita": "Art. 9.2 LPAC, último párrafo: «Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento…»",
+    "revisor": "APROBADA (retirada por duplicado). Es la misma regla de la 4-141 preguntada como sí/no: que se admita la letra c) no exime de garantizar la a) o la b). La 4-141 la enseña con la cita literal."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2 a), uno de los sistemas de identificación electrónica de los interesados son los sistemas basados en:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta lo mismo que la 4-131 (qué sistema recoge la letra a) del art. 9.2 LPAC), y con peor forma: distractores absurdos (huellas, redes sociales, reconocimiento facial) y clave de 99 caracteres frente a 29-33. Se conserva la 4-131, que en esta misma tanda recibe distractores del mismo tipo.",
+    "resumen": "Retirada por repetida: la letra a) del art. 9.2 LPAC ya se pregunta en otra pregunta del banco, corregida en esta tanda.",
+    "cita": "Art. 9.2 a) LPAC: «Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.»",
+    "revisor": "APROBADA (retirada por duplicado). Pregunta lo mismo que la 4-131 (qué sistema regula la letra a): certificados cualificados de firma electrónica), y la «Lista de confianza» la pregunta la 4-132. Distractores absurdos y clave de 99 frente a 29-33."
+  },
+  {
+    "tema": 4,
+    "q": "Según el art. 9.2 b), otro sistema de identificación electrónica admitido son los sistemas basados en:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta lo mismo que la 4-134 (la letra b) del art. 9.2 LPAC se basa en certificados cualificados de «sello electrónico») y que la 4-133. Distractores absurdos y clave más larga (59 frente a 18-38). Se conserva la 4-134, de mejor forma.",
+    "resumen": "Retirada por repetida: la letra b) del art. 9.2 LPAC ya se pregunta en otra pregunta del banco.",
+    "cita": "Art. 9.2 b) LPAC: «Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.»",
+    "revisor": "APROBADA (retirada por duplicado). Misma respuesta que la 4-134 (letra b: certificados cualificados de sello electrónico)."
+  },
+  {
+    "tema": 4,
+    "q": "¿Qué regula específicamente la letra b) del art. 9.2 de la LPAC?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta lo mismo que la 4-134 (la letra b) del art. 9.2 LPAC: certificados cualificados de sello electrónico). Su clave (185 caracteres frente a 48-57) se acierta por la longitud.",
+    "resumen": "Retirada por repetida: la letra b) del art. 9.2 LPAC ya se pregunta en otra pregunta del banco.",
+    "cita": "Art. 9.2 b) LPAC: «Sistemas basados en certificados electrónicos cualificados de sello electrónico…»",
+    "revisor": "APROBADA (retirada por duplicado). Misma respuesta que la 4-134; la clave (185 frente a 48-57) se delataba."
+  },
+  {
+    "tema": 4,
+    "q": "¿Qué sistema de identificación electrónica regula la letra a) del art. 9.2 de la LPAC?",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Sistemas basados en códigos de un solo uso enviados por SMS al teléfono del interesado",
+        "Sistemas basados en certificados electrónicos cualificados de firma electrónica",
+        "Sistemas de usuario y contraseña concertados previamente con la Administración",
+        "Sistemas basados en certificados electrónicos cualificados de sello electrónico"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.2 a) LPAC recoge los «Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’». Los basados en certificados cualificados de sello electrónico son los de la letra b). Los sistemas de usuario y contraseña o de códigos enviados al teléfono no figuran en las letras a) ni b): solo podrían admitirse como «Cualquier otro sistema que las Administraciones públicas consideren válido» de la letra c), con sus requisitos.",
+      "fuente": "Art. 9.2 a) LPAC (Ley 39/2015)"
+    },
+    "motivo": "Al retirar la 4-50 (misma pregunta), se conserva esta, pero su clave (185 caracteres frente a 53-79) se acertaba por la longitud. Se abrevia la clave sin cambiar su sentido (la «Lista de confianza» la pregunta la 4-132) y se igualan los distractores.",
+    "resumen": "La clave (certificados cualificados de firma electrónica, art. 9.2 a LPAC) no cambia de sentido; se acorta y se igualan las longitudes.",
+    "cita": "Art. 9.2 a) LPAC: «Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.»",
+    "revisor": "APROBADA sin cambios. Clave abreviada fiel al art. 9.2 a); la «Lista de confianza» queda en la 4-132. Distractores falsos: sello electrónico es la letra b); usuario y contraseña o códigos por SMS no figuran en a) ni b). La explicación es exacta: la letra c) vigente (redacción de la Ley 11/2022) dice «Cualquier otro sistema que las Administraciones públicas consideren válido…». Longitudes 78-86 (clave 79). No queda igual que la 4-134: una pregunta la letra a) y la otra la b)."
+  },
+  {
+    "tema": 6,
+    "q": "Según el principio recogido en el art. 49, la anulación de unos actos administrativos NO implicará necesariamente la anulación de:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 6-197 y la 6-198 (art. 49.1 LPAC: la nulidad o anulabilidad no implica la de los actos sucesivos «que sean independientes del primero»). Duplicado señalado en la ronda 3 (entonces 6-71).",
+    "resumen": "Retirada por repetida: el art. 49.1 LPAC ya se pregunta con la clave literal.",
+    "cita": "Art. 49.1 LPAC: «La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.»",
+    "revisor": "APROBADA (retirada por duplicado). Misma regla y misma respuesta que la 6-197 y la 6-198 (art. 49.1 LPAC: no se extiende a los actos sucesivos «que sean independientes del primero»)."
+  },
+  {
+    "tema": 6,
+    "q": "Según el art. 49, el efecto de la nulidad o anulabilidad sobre actos posteriores del procedimiento depende fundamentalmente de:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 6-197 y la 6-198 (art. 49.1 LPAC: actos sucesivos independientes), con distractores absurdos (número de páginas, rango del funcionario). Duplicado señalado en la ronda 3 (entonces 6-91).",
+    "resumen": "Retirada por repetida: el art. 49.1 LPAC ya se pregunta con la clave literal.",
+    "cita": "Art. 49.1 LPAC: «La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.»",
+    "revisor": "APROBADA (retirada por duplicado). Misma regla (art. 49.1) preguntada como criterio; la 6-197 y la 6-198 la enseñan con la cita literal. Distractores absurdos."
+  },
+  {
+    "tema": 6,
+    "q": "Según el art. 48.3, la realización de actuaciones administrativas fuera del tiempo establecido para ellas solo implica la anulabilidad del acto cuando:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite casi palabra por palabra la 6-193 (“Según el art. 48.3 LPAC, la realización de actuaciones administrativas fuera del tiempo establecido para ellas implicará la anulabilidad del acto:”), con la misma clave. El art. 48.3 lo preguntan además la 6-194 y la 6-280. Duplicado señalado en la ronda 3.",
+    "resumen": "Retirada por repetida: el art. 48.3 LPAC ya se pregunta con un enunciado casi idéntico y la misma respuesta.",
+    "cita": "Art. 48.3 LPAC: «La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.»",
+    "revisor": "APROBADA (retirada por duplicado), con un retoque en el resumen. Enunciado casi idéntico y misma respuesta que la 6-193 (art. 48.3 LPAC); además la 6-194 y la 6-280. El resumen decía «con el mismo enunciado y la misma clave»; ahora «con un enunciado casi idéntico y la misma respuesta»."
+  },
+  {
+    "tema": 6,
+    "q": "Las actuaciones administrativas realizadas fuera de plazo ¿invalidan el acto que se dicte?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta con otras palabras la regla del art. 48.3 LPAC que ya preguntan la 6-193, la 6-194 y la 6-280, y su clave la parafrasea (“Sólo si el término es esencial”) en lugar de citarla («cuando así lo imponga la naturaleza del término o plazo»). Duplicado señalado en la ronda 3 (entonces 6-113).",
+    "resumen": "Retirada por repetida: paráfrasis del art. 48.3 LPAC, que ya se pregunta con la clave literal.",
+    "cita": "Art. 48.3 LPAC: «…sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.»",
+    "revisor": "APROBADA (retirada por duplicado). Paráfrasis de la regla del art. 48.3 («Sólo si el término es esencial»), que la 6-193, la 6-194 y la 6-280 enseñan con la fórmula legal."
+  },
+  {
+    "tema": 6,
+    "q": "Según el art. 52, la Administración podrá convalidar los actos anulables:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 6-213 (art. 52.1 LPAC: convalidar los actos anulables «subsanando los vicios de que adolezcan»), con la misma clave. Duplicado señalado en la ronda 3 (entonces 6-79).",
+    "resumen": "Retirada por repetida: el art. 52.1 LPAC ya se pregunta con la misma respuesta.",
+    "cita": "Art. 52.1 LPAC: «La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.»",
+    "revisor": "APROBADA (retirada por duplicado), con un retoque en el resumen. Misma respuesta que la 6-213 (art. 52.1 LPAC: los actos anulables, «subsanando los vicios de que adolezcan»). El resumen decía «la misma clave»: las claves no son idénticas; ahora «la misma respuesta»."
+  },
+  {
+    "tema": 6,
+    "q": "¿Puede la Administración convalidar un acto nulo de pleno derecho conforme al art. 52 de la Ley 39/2015?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 6-214 (un acto nulo de pleno derecho no puede convalidarse porque el art. 52.1 LPAC limita la convalidación a los actos anulables). Su clave (113 caracteres frente a 50-55) se delataba. Duplicado señalado en la ronda 3 (entonces 6-82).",
+    "resumen": "Retirada por repetida: la imposibilidad de convalidar actos nulos (art. 52.1 LPAC) ya se pregunta en otra pregunta del banco.",
+    "cita": "Art. 52.1 LPAC: «La Administración podrá convalidar los actos anulables…»",
+    "revisor": "APROBADA (retirada por duplicado). Misma respuesta que la 6-214 (un acto nulo no puede convalidarse porque el art. 52.1 se limita a los anulables). Clave de 113 frente a 50-55."
+  },
+  {
+    "tema": 8,
+    "q": "¿Qué tres pronunciamientos puede contener la resolución de un recurso según el art. 119.1 LPAC?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 8-37 (art. 119.1 LPAC: la resolución estimará, desestimará «o declarará su inadmisión»). Se conserva la 8-37, cuya clave literal no se delata; la de esta era la más larga (70 frente a 31-62). Duplicado señalado en la ronda 3 (8-37 con la entonces 8-170).",
+    "resumen": "Retirada por repetida: el art. 119.1 LPAC ya se pregunta en otra pregunta del banco.",
+    "cita": "Art. 119.1 LPAC: «La resolución del recurso estimará en todo o en parte o desestimará las pretensiones formuladas en el mismo o declarará su inadmisión.»",
+    "revisor": "APROBADA (retirada por duplicado). La 8-37 cita entero el art. 119.1 en el enunciado y pregunta el pronunciamiento que falta (inadmisión): enseña lo mismo."
+  },
+  {
+    "tema": 8,
+    "q": "Cuando exista un vicio de forma y no se estime procedente resolver sobre el fondo, ¿qué ordena el art. 119.2 LPAC?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 8-38 (art. 119.2 LPAC: retroacción del procedimiento al momento en que se cometió el vicio). Se conserva la 8-38, de mejor forma; la clave de esta (145 caracteres frente a 41-72) se delataba. Duplicado señalado en la ronda 3 (8-38 con la entonces 8-171).",
+    "resumen": "Retirada por repetida: el art. 119.2 LPAC ya se pregunta en otra pregunta del banco.",
+    "cita": "Art. 119.2 LPAC: «Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido…»",
+    "revisor": "APROBADA (retirada por duplicado). Misma respuesta que la 8-38 (art. 119.2: retroacción al momento del vicio); la explicación de la 8-38 ya recoge la convalidación del art. 52."
+  },
+  {
+    "tema": 8,
+    "q": "Según el art. 119.3, el órgano que resuelve el recurso puede decidir cuestiones no alegadas por los interesados cuando:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Repite la 8-172 (art. 119.3 LPAC: si se decide una cuestión no alegada, hay que oír previamente a los interesados). Se conserva la 8-172; la clave de esta (166 caracteres frente a 50-66) se delataba. Duplicado señalado en la ronda 3 (8-89 con la entonces 8-173).",
+    "resumen": "Retirada por repetida: el art. 119.3 LPAC (audiencia sobre cuestiones no alegadas) ya se pregunta en otra pregunta del banco.",
+    "cita": "Art. 119.3 LPAC: «El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente.»",
+    "revisor": "APROBADA (retirada por duplicado). La 8-172 parte de la misma regla (el órgano decide cuestiones no alegadas) y pregunta el mismo requisito (oír previamente a los interesados). Se conserva la de mejor forma (la clave de esta, 166 frente a 50-66, se delataba)."
+  }
+]

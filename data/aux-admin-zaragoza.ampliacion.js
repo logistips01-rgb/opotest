@@ -65494,3 +65494,33 @@ window.addQuestions('aux-admin-zaragoza', 11, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 5 · lote 2026-10-24 · 2 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 5, [
+  {
+    "q": "Según el art. 16.5 de la Ley 39/2015, el régimen de digitalización de los documentos presentados de manera presencial se entiende sin perjuicio, entre otros, de los supuestos en que resulte obligatoria la presentación de:",
+    "options": [
+      "Documentos redactados en una lengua cooficial distinta del castellano",
+      "Documentos que vayan dirigidos a una Administración distinta de la receptora",
+      "Objetos o documentos en un soporte específico no digitalizable",
+      "Documentos con firma manuscrita del interesado o de su representante"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.5 LPAC obliga a la oficina de asistencia en materia de registros a digitalizar los documentos presentados presencialmente y a devolver los originales, «sin perjuicio de aquellos supuestos en que la norma determine la custodia por la Administración de los documentos presentados o resulte obligatoria la presentación de objetos o de documentos en un soporte específico no susceptibles de digitalización». La lengua del documento, que vaya dirigido a otra Administración o que lleve firma manuscrita no figuran entre esas salvedades.",
+    "fuente": "Art. 16.5 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3 de la Ley 39/2015, el registro electrónico garantizará que en cada asiento conste, «en su caso», una referencia a:",
+    "options": [
+      "El contenido del documento que se registra",
+      "El plazo máximo para resolver el procedimiento",
+      "El sentido del silencio administrativo aplicable",
+      "Los recursos que procedan contra la resolución"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.3 LPAC enumera lo que debe constar en cada asiento: número, epígrafe expresivo de su naturaleza, fecha y hora de presentación, identificación del interesado, órgano remitente si procede, persona u órgano al que se envía «y, en su caso, referencia al contenido del documento que se registra». El plazo máximo para resolver y los efectos del silencio son la información que el art. 21.4 manda comunicar al interesado, y los recursos procedentes son contenido de la notificación de la resolución; ninguno es dato del asiento registral.",
+    "fuente": "Art. 16.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  }
+]);

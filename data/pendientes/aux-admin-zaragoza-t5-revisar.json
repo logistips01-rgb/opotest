@@ -1,54 +1,246 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 5,
-  "fecha": "2026-10-23",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el art. 17.2 de la Ley 39/2015, el formato en que se conserven los documentos electrónicos debe permitir, además de garantizar su autenticidad, integridad y conservación:",
+      "q": "La suspensión del plazo máximo para resolver que prevé el art. 22.1 a) de la Ley 39/2015, cuando deba requerirse a un interesado para subsanar deficiencias o aportar documentos, se establece «todo ello sin perjuicio de lo previsto en»:",
       "options": [
-        "Su consulta con independencia del tiempo transcurrido",
-        "Su consulta solo durante el plazo de prescripción de las acciones",
-        "Su consulta exclusiva por el órgano que emitió el documento",
-        "Su consulta solo mientras el procedimiento siga en tramitación"
+        "El artículo 95 de la presente Ley",
+        "El artículo 87 de la presente Ley",
+        "El artículo 32 de la presente Ley",
+        "El artículo 68 de la presente Ley"
       ],
-      "correct": 0,
-      "exp": "El art. 17.2 exige conservar los documentos electrónicos en un formato que permita garantizar «la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión». La ley no limita la consulta al plazo de prescripción, al órgano emisor ni a la tramitación (el archivo del art. 17.1 es precisamente de procedimientos finalizados).",
-      "fuente": "Art. 17.2 LPAC (Ley 39/2015)",
+      "correct": 3,
+      "exp": "El art. 22.1 a) LPAC termina con la salvedad «todo ello sin perjuicio de lo previsto en el artículo 68 de la presente Ley», que es el que regula la subsanación y mejora de la solicitud. El art. 95 regula los requisitos y efectos de la caducidad, el art. 87 las actuaciones complementarias (cuya suspensión está en el art. 22.2 b) y el art. 32 la ampliación de plazos.",
+      "fuente": "Art. 22.1 a) LPAC (Ley 39/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 17.2 LPAC: «así como su consulta con independencia del tiempo transcurrido desde su emisión». Distractores falsos. 5.29 pregunta la tríada autenticidad-integridad-conservación y 5.100 el traslado a otros formatos; esta pregunta el elemento restante, no repite. | Revisor 2 (DUDOSA): El contenido es correcto (art. 17.2 literal: consulta «con independencia del tiempo transcurrido desde su emisión») y no está repetida (las t5 [29] y [100] preguntan otra cosa). Pero se delata por la forma: los tres distractores llevan «solo» o «exclusiva» y la correcta es la única sin restricción. Arreglo: redactar los distractores como alternativas cerradas del mismo tipo, sin «solo» (p. ej. «Su consulta durante un plazo mínimo de diez años desde su emisión», «Su consulta en el formato original en que se emitió», «Su consulta mediante acceso presencial en el archivo»), comprobando que ninguna resulte cierta.",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 22.1 a) literal: «todo ello sin perjuicio de lo previsto en el artículo 68 de la presente Ley». Rúbricas comprobadas: art. 95 «Requisitos y efectos» (caducidad), art. 87 «Actuaciones complementarias» (suspensión en el 22.2 b), art. 32 «Ampliación». Distractores falsos y explicación exacta. No repite: 5-47 pregunta por la duración de esta suspensión y ningún enunciado del banco liga el 22.1 a) con el art. 68. Es una remisión, del mismo tipo que las ya admitidas 5-129 (art. 86) y 5-131 (art. 39.5). | Revisor 2 (DUDOSA): El contenido es correcto: el art. 22.1 a) termina con «todo ello sin perjuicio de lo previsto en el artículo 68 de la presente Ley», y lo que dice la explicación de los arts. 95, 87 y 32 está comprobado. Pero el distractor «El artículo 87» es la remisión de otra letra del mismo artículo (el 22.2 b, actuaciones complementarias), y eso incumple el criterio de esta revisión de que ningún distractor sea la regla de otra letra del art. 22. Arreglo: sustituir «El artículo 87 de la presente Ley» por un artículo que el art. 22 no cite, como «El artículo 30 de la presente Ley» o «El artículo 40 de la presente Ley», y quitar esa mención de la explicación. No repite 5.46, que pregunta la duración de la suspensión de la letra a).",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 24.4 de la Ley 39/2015, ¿cuándo puede el interesado pedir el certificado acreditativo del silencio producido?",
+      "q": "Según el art. 22.1 d) de la Ley 39/2015, el plazo máximo para resolver puede suspenderse por la petición de informes preceptivos cuando estos se soliciten a un órgano:",
       "options": [
-        "Solo en los quince días siguientes al vencimiento",
-        "En cualquier momento que lo considere oportuno",
-        "Solo si no se ha expedido de oficio en plazo",
-        "Solo antes de recurrir el acto presunto"
+        "De otra Administración, pero no de la que tramita el procedimiento",
+        "De la misma Administración que tramita o de una Administración distinta",
+        "De la Administración que tramita, pero no de una Administración distinta",
+        "De carácter consultivo, pero no a un órgano de gestión ordinario"
       ],
       "correct": 1,
-      "exp": "El art. 24.4, tras fijar la expedición de oficio en quince días, añade: «Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento», y en ese caso los quince días se cuentan desde el día siguiente a la entrada de su petición en el registro electrónico del órgano competente. No hay plazo para pedirlo, no depende de que falte la expedición de oficio ni tiene que pedirse antes de recurrir.",
-      "fuente": "Art. 24.4 LPAC (Ley 39/2015)",
+      "exp": "El art. 22.1 d) LPAC permite suspender el plazo «cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración». No limita el supuesto a los informes pedidos a otra Administración ni a los de la propia, ni lo reserva a órganos consultivos.",
+      "fuente": "Art. 22.1 d) LPAC (Ley 39/2015)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 24.4 LPAC: «el interesado podrá pedirlo en cualquier momento». Distractores falsos (no hay plazo ni condición). 5.147 pregunta desde cuándo corren los quince días si lo pide; no repite. | Revisor 2 (DUDOSA): El contenido es correcto (art. 24.4: «el interesado podrá pedirlo en cualquier momento»). Pero se acierta por la forma: los tres distractores empiezan por «Solo» y la correcta es la única que no. Arreglo: distractores sin «solo» y del mismo tipo, p. ej. «Dentro de los quince días siguientes al vencimiento del plazo», «Una vez transcurrido el plazo de expedición de oficio», «Antes de interponer recurso contra el acto presunto». Además, la t5 [147] ya da por supuesto en su enunciado que el interesado puede pedirlo.",
+      "notaRevision": "Revisor 1 (DUDOSA): El contenido es correcto: el art. 22.1 d) dice «a un órgano de la misma o distinta Administración», y el enunciado respeta el «podrá suspenderse» («puede suspenderse»). Pero la correcta se delata por la forma (regla 7 bis): es la única opción sin restricción y las otras tres siguen la plantilla «X, pero no Y». Además, el distractor sobre órgano consultivo frente a órgano de gestión es de otro tipo y no responde a la misma disyuntiva. No repite: 5-48 dice «a otro órgano» sin precisar la Administración; 5-275 y 7-131 no revelan el «misma o distinta». Arreglo propuesto: plantearla como caso, por ejemplo «El Ayuntamiento pide un informe preceptivo a otro servicio municipal. ¿Puede suspender el plazo por el art. 22.1 d)?», con estas opciones: «Sí, porque cabe pedirlo a un órgano de la misma o de distinta Administración» / «No, porque solo cabe cuando el informe se pide a otra Administración» / «No, porque solo cabe cuando lo emite un órgano consultivo» / «Sí, pero solo si el interesado lo consiente por escrito». | Revisor 2 (DUDOSA): El contenido es correcto: el art. 22.1 d) dice «a un órgano de la misma o distinta Administración», y los tres distractores son falsos. Pero la correcta se delata por la forma: dos distractores son espejo uno del otro («De otra Administración, pero no de la que tramita» / «De la Administración que tramita, pero no de una Administración distinta») y la correcta es justo la suma de los dos, la única sin «pero no». Un alumno la acierta sin saber la norma. Arreglo: cambiar los dos distractores espejo por otros que no sean complementarios entre sí, por ejemplo «Solo de la Administración General del Estado» y «Solo de un órgano colegiado de la propia Administración», y dar a las cuatro opciones la misma estructura. No repite 5.47 ni 5.269, que preguntan el tope de tres meses y qué pasa si no llega el informe.",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "¿Qué norma añadió a la Ley 39/2015 el apartado 5 del art. 32, que permite acordar una ampliación general de plazos cuando un ciberincidente afecte gravemente a los servicios y sistemas de tramitación?",
+      "q": "En la suspensión del plazo máximo para resolver por petición de informes preceptivos (art. 22.1 d) de la Ley 39/2015), ¿qué debe comunicarse a los interesados?",
       "options": [
-        "El Real Decreto-ley 6/2022, de 29 de marzo",
-        "La Ley Orgánica 3/2018, de 5 de diciembre",
-        "El Real Decreto 203/2021, de 30 de marzo",
-        "La Ley 40/2015, de 1 de octubre"
+        "La petición del informe, pero no su recepción",
+        "La recepción del informe, pero no su petición",
+        "La petición del informe y también su recepción",
+        "El contenido del informe, una vez emitido"
+      ],
+      "correct": 2,
+      "exp": "El art. 22.1 d) LPAC fija la suspensión «por el tiempo que medie entre la petición, que deberá comunicarse a los interesados, y la recepción del informe, que igualmente deberá ser comunicada a los mismos». Hay que comunicar los dos momentos, el inicio y el final de la suspensión; el precepto no exige comunicar el contenido del informe.",
+      "fuente": "Art. 22.1 d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 22.1 d) literal: «entre la petición, que deberá comunicarse a los interesados, y la recepción del informe, que igualmente deberá ser comunicada a los mismos». Solo la opción de ambas comunicaciones es cierta; el precepto no exige comunicar el contenido del informe. Explicación exacta. Longitudes casi iguales (45/45/46/41), así que no se acierta por la forma. No repite: 5-48 (tres meses) y 5-270 (proseguirá) tratan otros aspectos de la letra d), y ningún enunciado revela este dato. Duda del redactor resuelta: no se solapa con la otra pregunta del 22.1 d) de este lote. | Revisor 2 (DUDOSA): El contenido es correcto: según el art. 22.1 d), hay que comunicar a los interesados la petición («que deberá comunicarse a los interesados») y la recepción del informe («que igualmente deberá ser comunicada a los mismos»), y la explicación es exacta. Pero la correcta se delata por la forma, igual que en la pregunta anterior: «La petición del informe, pero no su recepción» y «La recepción del informe, pero no su petición» son espejo, y la correcta («La petición del informe y también su recepción») es su unión. Arreglo: rehacer los distractores para que no sean complementarios, por ejemplo «Solo la petición, si el informe se pide a otra Administración», «Solo la recepción, si el informe es desfavorable» y «Ninguno de los dos momentos, al ser trámite interno». Ojo: si se usa este último, la redacción no debe remitir a otras opciones. No repite ninguna pregunta del banco.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 22.1 g) de la Ley 39/2015, cuando para resolver sea indispensable obtener un previo pronunciamiento, la suspensión del plazo máximo para resolver se extiende desde que este se solicita hasta que:",
+      "options": [
+        "La Administración tenga constancia del pronunciamiento",
+        "El pronunciamiento solicitado adquiera firmeza",
+        "Transcurran tres meses desde que se solicitó",
+        "Se notifique la resolución final a los interesados"
       ],
       "correct": 0,
-      "exp": "El texto consolidado del BOE indica: «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo», en vigor desde el 31 de marzo de 2022. La Ley Orgánica 3/2018 modificó los apartados 2 y 3 del art. 28, no el art. 32. El Real Decreto 203/2021 es un reglamento y no puede modificar una ley. La Ley 40/2015 se aprobó el mismo día que la Ley 39/2015 y no añadió este apartado.",
-      "fuente": "Art. 32.5 LPAC (Ley 39/2015), añadido por la disp. final 21.ª del RDL 6/2022",
+      "exp": "El art. 22.1 g) LPAC (previo pronunciamiento de un órgano jurisdiccional) suspende el plazo «desde el momento en que se solicita, lo que habrá de comunicarse a los interesados, hasta que la Administración tenga constancia del mismo, lo que también deberá serles comunicado». No exige que el pronunciamiento sea firme. El tope de tres meses es propio de los informes preceptivos de la letra d), y la notificación de la resolución final no es el término de esta suspensión.",
+      "fuente": "Art. 22.1 g) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 22.1 g) literal: «desde el momento en que se solicita, lo que habrá de comunicarse a los interesados, hasta que la Administración tenga constancia del mismo». No exige firmeza. El límite de tres meses es de la letra d). La notificación de la resolución final no es el término de la suspensión. Distractores falsos y explicación exacta. No repite: 5-130 pregunta de qué órgano es el pronunciamiento, no hasta cuándo dura la suspensión. No se confunde con la letra b): la respuesta de esa letra, «notificación del pronunciamiento a la Administración instructora» (5-271), no figura entre las opciones. | Revisor 2 (DUDOSA): La correcta está bien según el art. 22.1 g): «hasta que la Administración tenga constancia del mismo». Pero el distractor «Transcurran tres meses desde que se solicitó» es la regla de otra letra (el tope de tres meses de los informes preceptivos de la letra d), y la propia explicación lo reconoce. Eso incumple el criterio de que ningún distractor sea la regla de otra letra del art. 22. Arreglo: cambiarlo por algo que no esté en ninguna letra del art. 22, como «Se celebre la vista ante el órgano jurisdiccional», y ajustar la explicación. Además, la correcta es la opción más larga (54 frente a 50, 46 y 44 caracteres), aunque por poco. No repite 5.129, que pregunta de qué órgano tiene que venir el pronunciamiento.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 22.1 f) de la Ley 39/2015, cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, la suspensión del plazo máximo para resolver comienza:",
+      "options": [
+        "Con la firma del pacto o convenio por las partes",
+        "Con el acuerdo de iniciación del procedimiento",
+        "Con la primera propuesta de acuerdo presentada",
+        "Con la declaración formal al respecto"
+      ],
+      "correct": 3,
+      "exp": "El art. 22.1 f) LPAC suspende el plazo «desde la declaración formal al respecto y hasta la conclusión sin efecto, en su caso, de las referidas negociaciones». La firma del pacto pondría fin al procedimiento, no abriría la suspensión; el acuerdo de iniciación es el que inicia el cómputo del plazo en los procedimientos de oficio (art. 21.3 a), y la ley no vincula la suspensión a la presentación de propuestas.",
+      "fuente": "Art. 22.1 f) LPAC (Ley 39/2015)",
       "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Duda (4) del redactor. El dato es exacto: el consolidado dice «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo» (BOE-A-2022-4972, en vigor desde el 31/03/2022), y los distractores son falsos (la LO 3/2018 modificó el art. 28; el RD 203/2021 es un reglamento; la Ley 40/2015 no lo añadió). La rechazo por dos motivos. 1) Repite al revés la 5.213, cuyo enunciado dice «El art. 32.5 LPAC, introducido por el Real Decreto-ley 6/2022...» y pregunta el contenido; aquí se da el contenido y se pregunta la norma. 2) Qué norma modificó la ley es historia legislativa, no contenido de «Términos y plazos»; generar.md (regla 3) excluye las trivialidades y no es materia típica de examen de Auxiliar. | Revisor 2 (CONFIRMADA): Nota del consolidado verificada: «Se añade el apartado 5 por la disposición final 21 del Real Decreto-ley 6/2022, de 29 de marzo» (BOE-A-2022-4972), en vigor desde el 31/03/2022. La LO 3/2018 modificó el art. 28.2 y 3; el RD 203/2021 es reglamento; la Ley 40/2015 no lo añadió. Valor de examen bajo, y el enunciado de la t5 [213] ya da el dato, pero pregunta otra cosa. Se admite.",
+      "notaRevision": "Revisor 1 (RECHAZADA): La respuesta es correcta: el art. 22.1 f) dice «desde la declaración formal al respecto». Pero hay dos problemas. (1) La 5-273 (t05-1), sobre la misma letra, tiene como respuesta que la conclusión de las negociaciones se constata mediante «declaración formulada por la Administración o los interesados». Quien la conoce acierta esta por asociación. Es la tercera pregunta sobre la letra f), junto con la 5-129 (art. 86). (2) La explicación no es exacta: dice que la firma del pacto «pondría fin al procedimiento», cuando el art. 86.1 admite pactos finalizadores y también pactos previos a la resolución, que no ponen fin al procedimiento. Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 22.1 f) LPAC comprobado: la suspensión va «desde la declaración formal al respecto y hasta la conclusión sin efecto, en su caso, de las referidas negociaciones». Ningún distractor es la regla de otra letra: el acuerdo de iniciación no es el «acuerdo motivado del inicio de las actuaciones» del 22.2 b). Lo que dice la explicación del art. 21.3 a) también está comprobado. No repite 5.272 (cómo se constata el final de la suspensión) ni 5.128 (la remisión al art. 86): esta pregunta trata del inicio. La correcta es la más corta.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "En el supuesto de suspensión del art. 22.1 c) de la Ley 39/2015, relativo a un procedimiento no finalizado en el ámbito de la Unión Europea, el plazo máximo para resolver permanece suspendido hasta que:",
+      "options": [
+        "Transcurran seis meses desde el inicio de la suspensión",
+        "Ese procedimiento de la Unión Europea se resuelva",
+        "La Comisión Europea emita un informe sobre el asunto",
+        "Los interesados soliciten que se reanude el plazo"
+      ],
+      "correct": 1,
+      "exp": "El art. 22.1 c) LPAC mantiene la suspensión desde que se tenga constancia de la existencia de ese procedimiento «hasta que se resuelva, lo que también habrá de ser notificado». La ley no fija un tope de seis meses, no la condiciona a un informe de la Comisión Europea ni permite a los interesados ponerle fin pidiendo la reanudación.",
+      "fuente": "Art. 22.1 c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): El dato es correcto: el art. 22.1 c) dice «hasta que se resuelva». Pero la respuesta se deduce del propio enunciado, que habla de un «procedimiento no finalizado» en la UE: la suspensión dura mientras no termina, es decir, hasta que se resuelva. Los distractores son flojos (seis meses, informe de la Comisión, petición de los interesados). La letra c) ya tiene dos preguntas en el banco: la 5-128 (que condicione directamente la resolución) y la 5-272 (desde que se tenga constancia). Duda del redactor: con la 5-271 (letra b, hasta la notificación del pronunciamiento a la Administración instructora) no hay solapamiento literal, pero el par b/c ya está cubierto por las 5-271 y 5-272 y esta pregunta no añade nada examinable. | Revisor 2 (CONFIRMADA): Art. 22.1 c) LPAC comprobado: «desde que se tenga constancia de su existencia ... hasta que se resuelva, lo que también habrá de ser notificado». Los distractores son falsos y ninguno es la regla de otra letra: el seis meses no está en el art. 22, y un informe de la Comisión no es el pronunciamiento preceptivo de la letra b). No repite 5.127 (requisito de que condicione directamente) ni 5.271 (inicio de la suspensión): esta pregunta trata del final. La explicación es exacta y las longitudes están equilibradas.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 22.2 c) de la Ley 39/2015, el plazo máximo para resolver se suspende cuando los interesados promuevan la recusación:",
+      "options": [
+        "Antes del trámite de audiencia, y no después de él",
+        "En los diez días siguientes al acuerdo de iniciación",
+        "En cualquier momento de la tramitación del procedimiento",
+        "Antes de la propuesta de resolución, y no después de ella"
+      ],
+      "correct": 2,
+      "exp": "El art. 22.2 c) LPAC dispone que el plazo se suspenderá «cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento». No limita la recusación a una fase concreta ni le fija un plazo de diez días desde la iniciación.",
+      "fuente": "Art. 22.2 c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 22.2 c) literal: «Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento». Coincide con el art. 24.1 de la Ley 40/2015, así que no hay plazo de diez días ni límite por fases: distractores falsos. Explicación exacta y enunciado correcto con el «se suspenderá» del apartado 2. No repite: 5-50 pregunta hasta cuándo dura la suspensión, 5-275 si es obligatoria (su «durante la tramitación» no revela el «en cualquier momento»), y 7-112 el art. 74. | Revisor 2 (RECHAZADA): El texto es correcto: el art. 22.2 c) dice «cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento». Pero el dato ya está en el banco: la correcta de 5.274 es «Cuando un interesado promueva la recusación durante la tramitación», y 5.49 pregunta la misma letra (hasta cuándo dura la suspensión). Además, la correcta se delata por la forma: es la única opción sin restricción, frente a dos distractores paralelos («Antes de..., y no después de él/ella») y un plazo inventado. Aporta poco y no cumple el criterio de forma.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 31.3 de la Ley 39/2015, ¿a quién corresponde determinar los días que se considerarán inhábiles a efectos del cómputo de plazos en los registros electrónicos?",
+      "options": [
+        "A cada oficina de asistencia en materia de registros, según su horario",
+        "Al Registro Electrónico General del Estado, para todas las Administraciones",
+        "Al órgano instructor, en el acuerdo de iniciación de cada procedimiento",
+        "A la sede electrónica del registro de cada Administración u Organismo"
+      ],
+      "correct": 3,
+      "exp": "El art. 31.3 LPAC dispone que «la sede electrónica del registro de cada Administración Pública u Organismo, determinará», atendiendo a su ámbito territorial y al calendario del art. 30.7, los días inhábiles a estos efectos, y que ese será el único calendario aplicable en los registros electrónicos. Las oficinas de asistencia solo publican sus días y horario de apertura (art. 31.1); no hay un registro estatal que fije los días inhábiles de todas las Administraciones, ni lo decide el instructor de cada procedimiento.",
+      "fuente": "Art. 31.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): El dato es correcto: según el art. 31.3, lo determina «la sede electrónica del registro de cada Administración Pública u Organismo». Pero repite en el fondo la 5-205, sobre el mismo inciso del 31.3, cuya respuesta dice que los días inhábiles se fijan atendiendo «al ámbito territorial en que ejerce sus competencias el titular de la sede electrónica y al calendario previsto en el art. 30.7». La 5-205 ya liga la determinación a la sede electrónica, y la 5-206 cubre el resto del apartado. Duda del redactor: con la 5-204 (31.2 c) no hay solapamiento; el problema está en la 5-205. Además, la explicación no es exacta: dice que «las oficinas de asistencia solo publican sus días y horario», cuando el art. 31.1 atribuye esa publicación a «cada Administración Pública». | Revisor 2 (CONFIRMADA): Art. 31.3 LPAC comprobado: «La sede electrónica del registro de cada Administración Pública u Organismo, determinará ... los días que se considerarán inhábiles», y es el único calendario aplicable en los registros electrónicos. Los distractores son falsos: las oficinas solo publican días y horario de apertura (art. 31.1), no hay un registro estatal común y no lo decide el instructor. La explicación es exacta. Solapa en parte con 5.204, cuya correcta menciona al «titular de la sede electrónica», y con 5.205, pero esas preguntan los criterios y el calendario único; esta pregunta quién lo determina. Las longitudes están equilibradas.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "El art. 18 de la Ley 39/2015 lleva por rúbrica:",
+      "options": [
+        "Colaboración de las personas",
+        "Comparecencia de las personas",
+        "Cooperación de las personas",
+        "Obligaciones de las personas"
+      ],
+      "correct": 0,
+      "exp": "El art. 18 LPAC se titula «Colaboración de las personas» y regula el deber de facilitar informes, inspecciones y otros actos de investigación, y el de identificar a otros interesados. «Comparecencia de las personas» es la rúbrica del art. 19; las otras dos no corresponden a ningún artículo del Título II.",
+      "fuente": "Art. 18 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): La rúbrica es correcta (art. 18 «Colaboración de las personas»), pero la pregunta solo pide memorizar una numeración que el banco ya revela. La 5-32, la 5-106 y la 5-267 (t05-1) empiezan «Según el art. 18.1..., las personas colaborarán con la Administración», y la rúbrica aparece como distractor en la 5-114 (art. 19) y en la 5-241 (art. 15). No aporta nada examinable. | Revisor 2 (RECHAZADA): Rúbrica literal comprobada en el consolidado BOE-A-2015-10565, pero se rechaza por criterio de la tanda: las rúbricas no son materia que caiga en el examen (el tema 21 con los exámenes oficiales no tiene ninguna pregunta de rúbricas) y el banco ya revela este dato en otros enunciados: 5.31, 5.105, 5.106, 5.107 y 5.266 dicen «Según el art. 18.1, las personas colaborarán con la Administración...», y 5.113 y 5.240 traen «Colaboración de las personas» como opción. Además, «Cooperación de las personas» es un casi sinónimo que convierte la pregunta en un juego de palabras.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "El art. 20 de la Ley 39/2015 lleva por rúbrica:",
+      "options": [
+        "Responsabilidad de la resolución",
+        "Responsabilidad de la tramitación",
+        "Impulso de la tramitación",
+        "Dirección de la tramitación"
+      ],
+      "correct": 1,
+      "exp": "El art. 20 LPAC se titula «Responsabilidad de la tramitación»: hace responsables directos a los titulares de las unidades y al personal que tenga a su cargo la resolución o el despacho de los asuntos. Las demás rúbricas no existen en la Ley; el impulso del procedimiento se regula en el art. 71, cuya rúbrica es «Impulso».",
+      "fuente": "Art. 20 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): La rúbrica es correcta (art. 20 «Responsabilidad de la tramitación»), pero el dato ya está revelado: la 5-37 y la 5-115 dicen «Según el art. 20.1..., [los titulares] son responsables directos de su tramitación», y la rúbrica literal es un distractor de la 5-114. Es solo memorización de una numeración que el banco ya muestra. | Revisor 2 (RECHAZADA): Rúbrica literal comprobada en el consolidado BOE-A-2015-10565, pero se rechaza por criterio de la tanda: las rúbricas no son materia que caiga en el examen (el tema 21 con los exámenes oficiales no tiene ninguna pregunta de rúbricas) y el banco ya revela este dato en otros enunciados: 5.114 («Según el art. 20.1..., ¿quiénes son responsables directos de la tramitación...?»), 5.36 y 5.115 a 5.117, y 5.113 trae «Responsabilidad de la tramitación» como opción. Los distractores («de la resolución», «Impulso de», «Dirección de») son variantes de palabras sin contenido normativo.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "El art. 26 de la Ley 39/2015 lleva por rúbrica:",
+      "options": [
+        "Expedición de copias por las Administraciones Públicas",
+        "Archivo de documentos de las Administraciones Públicas",
+        "Emisión de documentos por las Administraciones Públicas",
+        "Validez de los documentos de las Administraciones Públicas"
+      ],
+      "correct": 2,
+      "exp": "El art. 26 LPAC se titula «Emisión de documentos por las Administraciones Públicas» (define los documentos públicos administrativos y los requisitos de los electrónicos). Las copias se regulan en el art. 27 («Validez y eficacia de las copias realizadas por las Administraciones Públicas») y el archivo en el art. 17 («Archivo de documentos»); ninguna rúbrica coincide con las otras opciones.",
+      "fuente": "Art. 26 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): La rúbrica es correcta (art. 26 «Emisión de documentos por las Administraciones Públicas»), pero el dato ya está revelado: la 5-68 dice «Según el art. 26.1, las Administraciones Públicas emitirán los documentos administrativos», y la rúbrica literal es un distractor de la 5-79 (rúbrica del art. 28). Las 5-154 a 5-160 y 5-280/281 también localizan el art. 26. Es solo memorización de una numeración ya revelada. | Revisor 2 (RECHAZADA): Rúbrica literal comprobada en el consolidado BOE-A-2015-10565, pero se rechaza por criterio de la tanda: las rúbricas no son materia que caiga en el examen (el tema 21 con los exámenes oficiales no tiene ninguna pregunta de rúbricas) y el banco ya revela este dato en otros enunciados: 5.67 («Según el art. 26.1, las Administraciones Públicas emitirán los documentos administrativos...») y 5.153 a 5.159, 5.279 y 5.280 tratan el art. 26, y 5.78 trae «Emisión de documentos por las AAPP» como opción. La rúbrica está comprobada («Emisión de documentos por las Administraciones Públicas»).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "El art. 29 de la Ley 39/2015, primero del capítulo dedicado a los términos y plazos, lleva por rúbrica:",
+      "options": [
+        "Cumplimiento de términos y plazos",
+        "Cómputo de términos y plazos",
+        "Vinculación de términos y plazos",
+        "Obligatoriedad de términos y plazos"
+      ],
+      "correct": 3,
+      "exp": "El art. 29 LPAC se titula «Obligatoriedad de términos y plazos». El cómputo se regula en el art. 30, cuya rúbrica es «Cómputo de plazos»; las demás rúbricas no existen en la Ley.",
+      "fuente": "Art. 29 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): La rúbrica es correcta (art. 29 «Obligatoriedad de términos y plazos»), pero el dato ya está revelado: la 5-80, la 5-180, la 5-181, la 5-182 y la 5-183 dicen que, según el art. 29, los términos y plazos «obligan» a autoridades, personal e interesados. La rúbrica es la nominalización de ese mismo contenido, así que la pregunta no aporta nada examinable. | Revisor 2 (RECHAZADA): Rúbrica literal comprobada en el consolidado BOE-A-2015-10565, pero se rechaza por criterio de la tanda: las rúbricas no son materia que caiga en el examen (el tema 21 con los exámenes oficiales no tiene ninguna pregunta de rúbricas) y el banco ya revela este dato en otros enunciados: 5.79 y 5.179 a 5.182 («Según el art. 29..., los términos y plazos ... obligan...») dan el contenido que la rúbrica «Obligatoriedad de términos y plazos» resume. Los distractores son sinónimos inventados («Cumplimiento», «Vinculación»).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "¿Qué artículo de la Ley 39/2015 lleva por rúbrica «Suspensión del plazo máximo para resolver»?",
+      "options": [
+        "Artículo 22",
+        "Artículo 21",
+        "Artículo 23",
+        "Artículo 25"
+      ],
+      "correct": 0,
+      "exp": "Es el art. 22 LPAC. El art. 21 se titula «Obligación de resolver», el art. 23 «Ampliación del plazo máximo para resolver y notificar» y el art. 25 «Falta de resolución expresa en procedimientos iniciados de oficio».",
+      "fuente": "Art. 22 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Es correcta (art. 22 «Suspensión del plazo máximo para resolver»), pero es la inversa de un dato que revelan decenas de preguntas: las 5-47 a 5-51, 5-127 a 5-134 y 5-270 a 5-275 dicen «Según el art. 22.1/22.2..., el plazo máximo para resolver podrá suspenderse / se suspenderá». La rúbrica literal es además un distractor de la 5-139 (art. 23). Las preguntas 3 a 9 de este mismo lote también la revelan. | Revisor 2 (RECHAZADA): Rúbrica literal comprobada en el consolidado BOE-A-2015-10565, pero se rechaza por criterio de la tanda: las rúbricas no son materia que caiga en el examen (el tema 21 con los exámenes oficiales no tiene ninguna pregunta de rúbricas) y el banco ya revela este dato en otros enunciados: 5.133 («Respecto a la suspensión del plazo máximo para resolver, ¿qué diferencia existe entre los apartados 1 y 2 del art. 22...?»), 5.46 a 5.50, 5.126 a 5.132 y 5.269 a 5.274 asocian el art. 22 a la suspensión, y 5.138 trae la rúbrica como opción. En este mismo lote, las preguntas sobre el art. 22.1 a), c), d), f) y g) y el art. 22.2 c) llevan la respuesta en el enunciado.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "¿Qué artículo de la Ley 39/2015 lleva por rúbrica, simplemente, «Ampliación»?",
+      "options": [
+        "Artículo 23",
+        "Artículo 32",
+        "Artículo 31",
+        "Artículo 33"
+      ],
+      "correct": 1,
+      "exp": "Es el art. 32 LPAC, que regula la ampliación de los plazos establecidos. No hay que confundirlo con el art. 23, cuya rúbrica es «Ampliación del plazo máximo para resolver y notificar». El art. 31 se titula «Cómputo de plazos en los registros» y el art. 33 «Tramitación de urgencia».",
+      "fuente": "Art. 32 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Es correcta (art. 32 «Ampliación»), pero el dato ya está revelado: la 5-93, la 5-207 y la 5-208 dicen «Según el art. 32.1, la Administración podrá conceder una ampliación de los plazos», y lo mismo hacen la 5-94, las 5-209 a 5-214 y la 5-298. La 5-92 y la 5-62 ya tienen «La ampliación de plazos» como opción en preguntas sobre qué regula un artículo. Es solo memorización de una numeración ya revelada. | Revisor 2 (RECHAZADA): Rúbrica literal comprobada en el consolidado BOE-A-2015-10565, pero se rechaza por criterio de la tanda: las rúbricas no son materia que caiga en el examen (el tema 21 con los exámenes oficiales no tiene ninguna pregunta de rúbricas) y el banco ya revela este dato en otros enunciados: 5.92, 5.93 y 5.206 a 5.213 («Según el art. 32.1, la Administración podrá conceder una ampliación de los plazos...») y 5.297. La rúbrica está comprobada («Artículo 32. Ampliación.»).",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "¿Qué artículo de la Ley 39/2015 lleva por rúbrica «Tramitación de urgencia»?",
+      "options": [
+        "Artículo 32",
+        "Artículo 96",
+        "Artículo 33",
+        "Artículo 23"
+      ],
+      "correct": 2,
+      "exp": "Es el art. 33 LPAC, último del Título II. El art. 96 se titula «Tramitación simplificada del procedimiento administrativo común», el art. 32 «Ampliación» y el art. 23 «Ampliación del plazo máximo para resolver y notificar».",
+      "fuente": "Art. 33 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Es correcta (art. 33 «Tramitación de urgencia»), pero el dato ya está revelado: la 5-95, la 5-96 y las 5-215 a 5-219 dicen «Según el art. 33.1/33.2..., la tramitación de urgencia...», y la 5-92 tiene «La tramitación de urgencia» como opción. Es la inversa de lo que ya hay y no aporta nada examinable. | Revisor 2 (RECHAZADA): Rúbrica literal comprobada en el consolidado BOE-A-2015-10565, pero se rechaza por criterio de la tanda: las rúbricas no son materia que caiga en el examen (el tema 21 con los exámenes oficiales no tiene ninguna pregunta de rúbricas) y el banco ya revela este dato en otros enunciados: 5.94, 5.95 y 5.214 a 5.218 («Según el art. 33.1..., la tramitación de urgencia...»), y 5.91 trae «La tramitación de urgencia» como opción. La rúbrica está comprobada («Artículo 33. Tramitación de urgencia.»), y también la del art. 96 (tramitación simplificada) que cita la explicación.",
       "_motivo": "veredicto RECHAZADA"
     }
   ]
