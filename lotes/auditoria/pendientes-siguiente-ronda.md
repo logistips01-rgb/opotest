@@ -65,3 +65,10 @@ Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
 - Tema 4: 4-139, 4-140, 4-161, 4-162, 4-169 y 4-254 mencionan la Secretaría General de Administración Digital sin avisar de su supresión (RD 829/2023; Agencia Estatal de Administración Digital desde 21-feb-2025, RD 1118/2024).
 - Tema 10: 10-109, clave «El Secretario» incompleta y no es la regla en Zaragoza.
 - Decreto 347/2002: comprobar si los arts. 108, 118 y 119 tienen modificaciones posteriores (no hay consolidado descargable).
+
+## Añadido 24-oct (redactor de t14-2; índices del 24-oct, comprobar por contenido)
+- t14.75: atribuye al art. 133 LBRL la «programación con proyección plurianual», que no está en el artículo.
+- t14.76: dice que según el art. 134 la gestión económico-financiera corresponde a órganos dependientes de la Junta de Gobierno Local; el 134.1 remite al Reglamento orgánico.
+- t14.26: atribuye al art. 130 la organización «en Áreas dirigidas por un miembro de la Junta de Gobierno Local»; el art. 130 no lo dice.
+- t14.80: altera la redacción del art. 122.4 b) («la gestión del Alcalde y de su equipo de gobierno»).
+- t14.73: cita el art. 130.2 cuando lo preguntado está en el 130.1 B).
