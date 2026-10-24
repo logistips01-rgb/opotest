@@ -1,0 +1,658 @@
+[
+ {
+  "tema": 14,
+  "q": "Según el art. 122.2 de la LBRL, el Pleno es convocado y presidido por:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "El Alcalde, salvo en los supuestos legales, a quien corresponde decidir los empates con voto de calidad",
+    "El Presidente de la comisión del Pleno competente por razón de la materia de los asuntos del orden del día",
+    "El Secretario general del Pleno, a propuesta de la Junta de Portavoces y sin voto en caso de empate",
+    "La Junta de Gobierno Local, que designa en cada sesión a uno de sus miembros para presidirla"
+   ],
+   "exp": "Art. 122.2 LBRL: «El Pleno será convocado y presidido por el Alcalde, salvo en los supuestos previstos en esta ley y en la legislación electoral general, al que corresponde decidir los empates con voto de calidad. El Alcalde podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales.» Ni las comisiones del Pleno, ni su secretario general (que asiste al Presidente para asegurar la convocatoria, art. 122.5 c), ni la Junta de Gobierno Local convocan o presiden el Pleno. En Zaragoza rige lo mismo: el Pleno «será presidido por el Alcalde, excepto en los supuestos regulados por la legislación de régimen electoral general y en el caso de delegación en un concejal» (art. 10.1 Ley 10/2017), y corresponde al Alcalde «Convocar y presidir las sesiones del Pleno y las del Gobierno de Zaragoza y decidir los empates con voto de calidad» (art. 12.1 d)."
+  },
+  "motivo": "Regla 7 bis: la clave (115 caracteres) se delataba frente a distractores de 36-41 («sin excepción», «en todo caso»). Señalada en pendientes-ronda5.md. Se abrevia la clave sin cambiar su sentido y se igualan los distractores, todos falsos según los arts. 122.2 y 122.5 c) LBRL y los arts. 10.1 y 12.1 d) Ley 10/2017. Se descarta como distractor el «Concejal de mayor edad», porque la mesa de edad preside la sesión constitutiva (legislación electoral) y sería discutible. La explicación añade el aviso de Zaragoza.",
+  "resumen": "Misma clave (el Alcalde, con voto de calidad), más corta; distractores de longitud parecida; explicación con la regla de Zaragoza.",
+  "cita": "Art. 122.2 LBRL: «El Pleno será convocado y presidido por el Alcalde, salvo en los supuestos previstos en esta ley y en la legislación electoral general, al que corresponde decidir los empates con voto de calidad.»"
+ },
+ {
+  "tema": 14,
+  "q": "Según el art. 129 de la LBRL, en los municipios de gran población debe existir un órgano administrativo responsable de:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "El asesoramiento jurídico de los grupos políticos municipales y de los concejales de la oposición en el ejercicio de su cargo",
+    "La inspección de los servicios municipales y la instrucción de los expedientes disciplinarios del personal del Ayuntamiento",
+    "La asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, y la defensa en juicio del Ayuntamiento",
+    "La resolución de los recursos de alzada contra los actos del Alcalde y de la Junta de Gobierno Local, previo informe del Secretario"
+   ],
+   "exp": "Art. 129.1 LBRL: «existirá un órgano administrativo responsable de la asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, comprensiva del asesoramiento jurídico y de la representación y defensa en juicio del ayuntamiento». El precepto no atribuye a ese órgano el asesoramiento de los grupos políticos, la inspección de servicios ni la instrucción de expedientes disciplinarios, y los actos del Alcalde y de la Junta de Gobierno Local ponen fin a la vía administrativa (art. 52.2 a LBRL), por lo que contra ellos no cabe recurso de alzada."
+  },
+  "motivo": "Regla 7 bis: clave de 190 caracteres frente a 38-47 (señalada en pendientes-ronda5.md). Se abrevia sin cambiar su sentido (asistencia jurídica y defensa en juicio) y se ponen distractores del mismo tipo, falsos según el art. 129.1. Se evitan funciones que el título X sí encomienda a otro órgano (fiscalización, art. 136; gestión tributaria, art. 135; reclamaciones económico-administrativas, art. 137; asesoramiento legal del Pleno por su secretario general, art. 122.5 e), para que ningún distractor sea cierto por otro precepto.",
+  "resumen": "Misma clave (asistencia jurídica y defensa en juicio), abreviada; distractores de longitud parecida que no corresponden a ningún órgano del título X.",
+  "cita": "Art. 129.1 LBRL: «existirá un órgano administrativo responsable de la asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, comprensiva del asesoramiento jurídico y de la representación y defensa en juicio del ayuntamiento»"
+ },
+ {
+  "tema": 14,
+  "q": "Según el art. 131.1 de la LBRL, en los municipios de gran población existirá:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Un Consejo Social de la Ciudad, con representantes de organizaciones económicas, sociales, profesionales y vecinales",
+    "Un Consejo Económico y Social, integrado solo por representantes de sindicatos y organizaciones empresariales",
+    "Un Tribunal Administrativo Municipal, con potestad jurisdiccional propia para resolver los recursos contra el Alcalde",
+    "Una Asamblea vecinal permanente, de la que forman parte todos los electores, con funciones de control del Pleno"
+   ],
+   "exp": "Art. 131.1 LBRL: «En los municipios señalados en este título, existirá un Consejo Social de la Ciudad, integrado por representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas.» Le corresponde, además de las funciones que determine el Pleno, la emisión de informes, estudios y propuestas en materia de desarrollo económico local, planificación estratégica de la ciudad y grandes proyectos urbanos (art. 131.2). La asamblea vecinal de la que forman parte todos los electores es propia del Concejo Abierto (art. 29.3), y ningún órgano municipal tiene potestad jurisdiccional."
+  },
+  "motivo": "Regla 7 bis: clave de 131 caracteres frente a 40-71 (señalada en pendientes-ronda5.md). Se abrevia la clave sin cambiar su sentido y se igualan los distractores, falsos según el art. 131.1 (composición) y los arts. 29.3 y 132 LBRL. No se usan como distractores la Comisión especial de Sugerencias y Reclamaciones ni la Comisión Especial de Cuentas, que sí existen (arts. 132 y 116) y harían discutible la opción.",
+  "resumen": "Misma clave (Consejo Social de la Ciudad), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 131.1 LBRL: «existirá un Consejo Social de la Ciudad, integrado por representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas.»"
+ },
+ {
+  "tema": 14,
+  "q": "Según el art. 17.5 de la Ley 7/ 1985, de 2 de abril, ¿quién elabora el padrón de españoles residentes en el extranjero?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "El Ayuntamiento en que el interesado tuvo su último domicilio antes de emigrar.",
+    "La Comunidad Autónoma de la que procede el interesado, con sus Diputaciones Provinciales.",
+    "Las Diputaciones Provinciales, en colaboración con los Ayuntamientos de cada provincia.",
+    "La Administración General del Estado, con los Ayuntamientos y las Comunidades Autónomas."
+   ],
+   "exp": "Art. 17.5 LBRL: «La Administración General del Estado, en colaboración con los Ayuntamientos y Administraciones de las Comunidades Autónomas confeccionará un Padrón de españoles residentes en el extranjero, al que será de aplicación las normas de esta Ley que regulan el Padrón municipal.» Al Ayuntamiento le corresponden la formación, mantenimiento, revisión y custodia del Padrón municipal (art. 17.1), no el de españoles residentes en el extranjero."
+  },
+  "motivo": "Regla 7 bis: clave de 67 caracteres frente a 22-27 (señalada en pendientes-ronda5.md, entonces 14-107). La clave pasa a recoger también la colaboración de las Comunidades Autónomas, que omitía (la explicación lo advertía); el sentido no cambia. Los distractores se alargan y siguen siendo falsos según el art. 17.5. No se usa ningún órgano de la Administración del Estado como distractor (Ministerio del Interior, consulados), porque podría entenderse incluido en la clave.",
+  "resumen": "Misma clave (Administración General del Estado), completada con las Comunidades Autónomas como dice el art. 17.5; distractores de longitud parecida.",
+  "cita": "Art. 17.5 LBRL: «La Administración General del Estado, en colaboración con los Ayuntamientos y Administraciones de las Comunidades Autónomas confeccionará un Padrón de españoles residentes en el extranjero»"
+ },
+ {
+  "tema": 6,
+  "q": "Conforme al art. 48.2 LPAC, el defecto de forma solo determinará la anulabilidad del acto cuando:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Le falten los requisitos formales indispensables para alcanzar su fin o dé lugar a indefensión de los interesados",
+    "Se haya omitido cualquier trámite del procedimiento, aunque ese defecto no haya causado indefensión a los interesados",
+    "Lo denuncie el interesado en el plazo de un mes desde la notificación, aunque el acto alcance su fin",
+    "Impida la ejecución del acto o suponga un perjuicio económico para la Administración que lo dictó"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 125 caracteres frente a 47-66 (señalada en pendientes-ronda5.md, entonces 6-191). Se abrevia la clave sin cambiar su sentido y se alargan los distractores, falsos según el art. 48.2 LPAC (los dos únicos supuestos son la falta de requisitos formales indispensables para el fin y la indefensión). Se descarta el distractor «dictado por órgano distinto del competente», que no es defecto de forma.",
+  "resumen": "Misma clave (art. 48.2 LPAC), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 48.2 LPAC: «No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.»"
+ },
+ {
+  "tema": 6,
+  "q": "Conforme al art. 49.2 LPAC, la nulidad o anulabilidad en parte de un acto administrativo:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "No implica la de las partes independientes, salvo que sin la parte viciada el acto no se hubiera dictado",
+    "Implica siempre la del acto completo, porque el acto administrativo es una unidad que no puede dividirse",
+    "Afecta a todas sus partes, salvo que el órgano que lo dictó acuerde de forma expresa conservar alguna",
+    "Afecta solo a la parte viciada si lo pide el interesado en su recurso; si no, se anula el acto entero"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 161 caracteres frente a 58-73 (señalada en pendientes-ronda5.md, entonces 6-199). Se abrevia la clave sin cambiar su sentido (regla y excepción del art. 49.2 LPAC) y se dan a los distractores el mismo nivel de detalle; todos son falsos según el art. 49.2. Se retira el distractor de la revisión de oficio, que no tenía relación con la extensión de la invalidez.",
+  "resumen": "Misma clave (art. 49.2 LPAC), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 49.2 LPAC: «La nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.»"
+ },
+ {
+  "tema": 6,
+  "q": "La incompetencia a la que se refiere el art. 52.3 LPAC como vicio convalidable es distinta de la incompetencia manifiesta por razón de la materia o del territorio, porque esta última:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Determina solo la anulabilidad del acto (art. 48.1 LPAC), pero no puede convalidarla el órgano superior",
+    "Puede subsanarse otorgando la autorización que faltaba, conforme a lo previsto en el art. 52.4 LPAC",
+    "Es causa de nulidad solo de las disposiciones generales (art. 47.2 LPAC), pero no de los actos",
+    "Determina la nulidad de pleno derecho del acto (art. 47.1 b) LPAC) y no admite convalidación"
+   ],
+   "exp": "El art. 52.3 LPAC solo permite convalidar la «incompetencia no determinante de nulidad», y lo hace el órgano competente cuando sea superior jerárquico del que dictó el acto. La incompetencia manifiesta por razón de la materia o del territorio es causa de nulidad de pleno derecho de los actos (art. 47.1 b) LPAC), y lo nulo no se convalida: el art. 52.1 solo permite convalidar los actos anulables. El art. 52.4 se refiere a otro vicio, la falta de una autorización, y el art. 47.2 regula la nulidad de las disposiciones administrativas."
+  },
+  "motivo": "Regla 7 bis: la clave (129 caracteres) se delataba frente a distractores de 39-94 y era la única sin «solo/nunca» (señalada en pendientes-ronda5.md, entonces 6-218). Se abrevia sin cambiar su sentido y se reformulan dos distractores con el mismo nivel de detalle; todos son falsos según los arts. 47.1 b), 47.2 y 52 LPAC. La explicación cita por su contenido los distractores.",
+  "resumen": "Misma clave (nulidad de pleno derecho, art. 47.1 b), abreviada; distractores de longitud parecida; explicación ampliada.",
+  "cita": "Art. 52.3 LPAC: «Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.» Art. 47.1 b): «Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.»"
+ },
+ {
+  "tema": 6,
+  "q": "Un defecto de forma que no llega a suponer prescindir total y absolutamente del procedimiento legalmente establecido se rige, en cuanto a su invalidez, por:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "El art. 47.2 LPAC, que declara nulas las disposiciones que vulneran normas de rango superior",
+    "El art. 47.1 e) LPAC, que declara nulo de pleno derecho cualquier defecto en la tramitación",
+    "El art. 48.3 LPAC, que solo lo hace anulable cuando así lo imponga la naturaleza del término o plazo que se ha incumplido",
+    "El art. 48.2 LPAC, que solo lo hace anulable si carece de requisitos indispensables para su fin o causa indefensión"
+   ],
+   "exp": "Solo cuando se prescinde «total y absolutamente del procedimiento legalmente establecido» opera la nulidad del art. 47.1 e) LPAC; los demás defectos de forma se rigen por el art. 48.2 LPAC: «el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados». El art. 48.3 se refiere a otra cosa, las actuaciones realizadas fuera de plazo, y el art. 47.2 a la nulidad de las disposiciones administrativas."
+  },
+  "motivo": "Regla 7 bis: clave de 127 caracteres frente a 44-64 (señalada en pendientes-ronda5.md, entonces 6-226). La clave se abrevia levemente sin cambiar su sentido y los distractores se alargan hasta un nivel de detalle parecido; todos son falsos para un defecto de forma no esencial (arts. 47.1 e), 47.2 y 48.3 LPAC). El distractor del art. 106.1 se sustituye por el art. 48.3, más plausible. La explicación cita por su contenido los distractores nuevos.",
+  "resumen": "Misma clave (art. 48.2 LPAC); distractores reformulados con el mismo nivel de detalle; explicación ampliada.",
+  "cita": "Art. 48.2 LPAC: «el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.» Art. 48.3: «sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.»"
+ },
+ {
+  "tema": 6,
+  "q": "En síntesis, mientras que el art. 47.1 LPAC exige que concurra alguno de los supuestos tasados en sus letras a) a g) para que un acto sea nulo de pleno derecho, el art. 48.1 LPAC declara anulable:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Los actos con defectos de forma de cualquier alcance y los dictados fuera del plazo establecido para ellos",
+    "Los actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder",
+    "Los actos que incurran en desviación de poder o en incompetencia jerárquica, pero no en otras infracciones",
+    "Los actos que vulneren normas reglamentarias, pero no los que infrinjan la ley, que son siempre nulos"
+   ],
+   "exp": "El art. 47.1 LPAC es una lista cerrada de causas de nulidad; el art. 48.1 LPAC opera como cláusula residual: «Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.» La infracción de ley, por sí sola, no es causa de nulidad si no encaja en el art. 47.1. Los defectos de forma y las actuaciones fuera de plazo solo determinan la anulabilidad en los casos de los arts. 48.2 y 48.3."
+  },
+  "motivo": "Regla 7 bis: clave de 180 caracteres frente a 46-60, única sin «solo/únicamente» (señalada en pendientes-ronda5.md, entonces 6-228). Se reduce la clave al texto literal del art. 48.1 (sin el añadido «que no encaje en los supuestos tasados de nulidad», que ya da el enunciado) y se ponen distractores del mismo tipo y longitud, falsos según los arts. 47.1 y 48 LPAC.",
+  "resumen": "Misma clave, reducida al literal del art. 48.1 LPAC; distractores de longitud parecida; explicación ampliada.",
+  "cita": "Art. 48.1 LPAC: «Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.»"
+ },
+ {
+  "tema": 4,
+  "q": "Según el art. 2.1, el sector público al que se aplica la Ley 39/2015 comprende, entre otros, a:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La Administración General del Estado, las de las Comunidades Autónomas, las Entidades Locales y las Cortes Generales",
+    "La Administración General del Estado, las de las Comunidades Autónomas, las Entidades Locales y los partidos políticos",
+    "La Administración General del Estado, las de las Comunidades Autónomas, las Entidades Locales y las empresas privadas concesionarias de servicios del sector público",
+    "La Administración General del Estado, las de las Comunidades Autónomas, las Entidades Locales y el sector público institucional"
+   ],
+   "exp": "Art. 2.1 LPAC: «La presente Ley se aplica al sector público, que comprende: a) La Administración General del Estado. b) Las Administraciones de las Comunidades Autónomas. c) Las Entidades que integran la Administración Local. d) El sector público institucional.» El sector público institucional lo forman los organismos públicos y entidades de derecho público vinculados o dependientes, las entidades de derecho privado vinculadas o dependientes de las Administraciones y las Universidades públicas (art. 2.2). No incluye a las Cortes Generales, a los partidos políticos ni a las empresas privadas que gestionan servicios públicos como concesionarias."
+  },
+  "motivo": "Regla 7 bis: clave de 156 caracteres frente a 36-47 y única sin «solo/únicamente/exclusivamente». Las cuatro opciones pasan a ser enumeraciones del mismo tipo que solo se distinguen en el cuarto elemento; los tres distractores incluyen un sujeto que no está en el art. 2.1 (con «entre otros», un distractor que fuera un subconjunto sería cierto, por eso no se usa).",
+  "resumen": "Misma clave (art. 2.1 LPAC, cuatro sujetos), con «Entidades Locales» abreviado; distractores con la misma estructura y un sujeto ajeno al sector público.",
+  "cita": "Art. 2.1 LPAC: «La presente Ley se aplica al sector público, que comprende: a) La Administración General del Estado. b) Las Administraciones de las Comunidades Autónomas. c) Las Entidades que integran la Administración Local. d) El sector público institucional.»"
+ },
+ {
+  "tema": 4,
+  "q": "Según el art. 6.7, las solicitudes de inscripción, revocación, prórroga o denuncia de un poder pueden dirigirse a:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Únicamente al registro de la Administración u Organismo ante el que vaya a tener efectos el poder",
+    "A cualquier registro, y se inscriben en el de la Administración u Organismo ante el que tenga efectos el poder",
+    "Solo a una oficina de asistencia en materia de registros, mediante comparecencia personal del poderdante",
+    "Al notario que autorizó el poder, que las comunica de oficio a los registros electrónicos de apoderamientos afectados"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 137 caracteres frente a 33-51 y única sin «solo/únicamente». Se abrevia sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según el art. 6.7 LPAC («cualquier registro»). Como cualquier registro concreto sería cierto, dos distractores llevan la exclusividad y el tercero un cauce que la ley no prevé.",
+  "resumen": "Misma clave (art. 6.7 LPAC), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 6.7 LPAC: «Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder»"
+ },
+ {
+  "tema": 2,
+  "q": "De acuerdo con el art. 1.2 de la Ley 4/2007, ¿qué se entiende por 'violencia ejercida contra las mujeres'?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Solo los actos tipificados como delito en el Código Penal que causen a la víctima un daño físico o psicológico",
+    "Las agresiones físicas producidas en el ámbito familiar o de pareja, siempre que la víctima conviva con el agresor en el momento de los hechos",
+    "Todo acto o agresión contra ellas, motivado por la pertenencia a dicho sexo, que cause o pueda causar daño físico o psicológico",
+    "Todo acto contra una mujer que le cause un daño físico grave, cualquiera que sea el motivo de la agresión"
+   ],
+   "exp": "Art. 1.2 Ley 4/2007: «se entiende por violencia ejercida contra las mujeres todo acto o agresión contra las mismas, motivado por la pertenencia a dicho sexo de las víctimas, que tenga o pueda tener como consecuencia un daño físico o psicológico, así como las agresiones a su libertad e indemnidad sexuales, incluida la amenaza de tales actos, la coacción o la privación arbitraria de libertad». La definición no se limita a los delitos ni al ámbito familiar, no exige convivencia ni un daño grave, y sí exige que el acto esté motivado por la pertenencia de la víctima al sexo femenino."
+  },
+  "motivo": "Regla 7 bis: clave de 169 caracteres frente a 58-72 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según el art. 1.2. La explicación anterior atribuía al art. 1.2 una frase que no está en él («con o sin tipificación como delito, falta o infracción»); se sustituye por el texto literal.",
+  "resumen": "Misma clave (art. 1.2 Ley 4/2007), abreviada; distractores de longitud parecida; explicación con el texto literal.",
+  "cita": "Art. 1.2 Ley 4/2007: «se entiende por violencia ejercida contra las mujeres todo acto o agresión contra las mismas, motivado por la pertenencia a dicho sexo de las víctimas, que tenga o pueda tener como consecuencia un daño físico o psicológico»"
+ },
+ {
+  "tema": 13,
+  "q": "Según el art. 209 del TRLRHL, la Cuenta General de las entidades locales está formada, entre otros documentos, por:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La cuenta de la propia entidad y las de todas las sociedades mercantiles en que participe, cualquiera que sea su porcentaje",
+    "Las cuentas de la propia entidad y de sus organismos autónomos, pero no las de sus sociedades mercantiles",
+    "La cuenta de la propia entidad, el inventario de bienes y el acta de aprobación del presupuesto del ejercicio",
+    "Las cuentas de la propia entidad, de sus organismos autónomos y de sus sociedades mercantiles íntegramente locales"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 128 caracteres frente a 36-55 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (las tres cuentas del art. 209.1 TRLRHL) y se ponen distractores del mismo tipo, falsos según el art. 209.1 (sociedades no íntegramente locales, sociedades excluidas, documentos que no forman parte de la cuenta general).",
+  "resumen": "Misma clave (art. 209.1 TRLRHL), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 209.1 TRLRHL: «La cuenta general estará integrada por: a) La de la propia entidad. b) La de los organismos autónomos. c) Las de las sociedades mercantiles de capital íntegramente propiedad de las entidades locales.»"
+ },
+ {
+  "tema": 12,
+  "q": "Según el art. 33.2 TRLRHL, una vez aprobado el acuerdo concreto de imposición y ordenación, ¿puede la entidad local exigir el pago anticipado de las contribuciones especiales?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Sí, por el importe total del coste de la obra, que se exige de una sola vez en el momento de aprobarse el acuerdo de ordenación",
+    "Sí, pero solo si lo autoriza la Comunidad Autónoma y por un importe que no supere la mitad del coste previsto",
+    "No; las contribuciones especiales solo pueden exigirse una vez ejecutadas las obras o iniciado el servicio",
+    "Sí, según el coste previsto para el año siguiente, y no cabe pedir otra anualidad sin ejecutar las obras ya anticipadas"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 179 caracteres frente a 65-71 y única sin «solo/únicamente/en ningún caso». Se abrevia sin cambiar su sentido (las dos reglas del art. 33.2 TRLRHL) y se igualan los distractores, falsos según el art. 33.2.",
+  "resumen": "Misma clave (art. 33.2 TRLRHL), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 33.2 TRLRHL: «una vez aprobado el acuerdo concreto de imposición y ordenación, la entidad local podrá exigir por anticipado el pago de las contribuciones especiales en función del importe del coste previsto para el año siguiente. No podrá exigirse el anticipo de una nueva anualidad sin que hayan sido ejecutadas las obras para las cuales se exigió el correspondiente anticipo.»"
+ },
+ {
+  "tema": 2,
+  "q": "Según el art. 3 c) de la Ley 4/2007, las situaciones de violencia social son las que se operan por quienes carecen, en relación con la víctima, de los vínculos afectivos, conyugales o laborales/docentes señalados en los apartados anteriores, incluyendo en todo caso a:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Los excónyuges y quienes hayan estado ligados a la víctima por una relación de afectividad, aun sin convivencia",
+    "Las personas integradas en su núcleo de convivencia familiar por otra relación y las vulnerables bajo custodia o guarda",
+    "Los compañeros de trabajo y los superiores jerárquicos que se prevalgan de una posición de dependencia o debilidad de la víctima",
+    "Los profesores y tutores de un centro docente que se prevalgan de una situación de proximidad con la víctima"
+   ],
+   "exp": "Art. 3 c) Ley 4/2007: las situaciones de violencia social «son las que se operan por quienes carecen, en relación con la víctima, de cualquiera de los vínculos que se relacionan en los dos apartados anteriores del presente artículo, y entre los que se encuentran, en todo caso, las personas amparadas en cualquier relación distinta a la indicada en el apartado a) por la que se encuentre integrada en el núcleo de su convivencia familiar, así como las personas que por su especial vulnerabilidad se encuentran sometidas a custodia o guarda en centros públicos o privados». Los cónyuges o excónyuges y quienes estén o hayan estado ligados a la víctima por una relación de afectividad, aun sin convivencia, dan lugar a violencia doméstica (art. 3 a); quienes tienen con ella un vínculo laboral o docente y se prevalen de una posición de dependencia o de proximidad, a violencia laboral o docente (art. 3 b)."
+  },
+  "motivo": "Regla 7 bis: clave de 179 caracteres frente a 30-42 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido. Los distractores pasan a ser sujetos de las otras dos situaciones del art. 3 (letras a y b), que por definición no son violencia social; no se usan «desconocidos» ni otras personas sin vínculo, porque sí entran en la letra c).",
+  "resumen": "Misma clave (art. 3 c Ley 4/2007), abreviada; distractores tomados de las letras a) y b), que no son violencia social; explicación ampliada.",
+  "cita": "Art. 3 c) Ley 4/2007: «entre los que se encuentran, en todo caso, las personas amparadas en cualquier relación distinta a la indicada en el apartado a) por la que se encuentre integrada en el núcleo de su convivencia familiar, así como las personas que por su especial vulnerabilidad se encuentran sometidas a custodia o guarda en centros públicos o privados.»"
+ },
+ {
+  "tema": 2,
+  "q": "Según el art. 19.3 de la Ley 4/2007, las casas de acogida estarán atendidas por equipos multidisciplinares que garantizarán a la mujer y, en su caso, a los menores a su cargo:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La vigilancia policial permanente del centro, el cambio de identidad y el traslado a un centro de otra provincia",
+    "La custodia legal de los menores, la representación procesal gratuita y la tramitación urgente de la orden de protección",
+    "La administración de su patrimonio, la gestión de sus deudas y la búsqueda de una vivienda en el mercado libre",
+    "El apoyo emocional y psicológico, el asesoramiento social y el acompañamiento necesario durante el tiempo de acogida"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 116 caracteres frente a 32-36 y única sin «solo/únicamente/exclusivamente». La clave no cambia; los distractores se alargan hasta un nivel de detalle parecido y son falsos según el art. 19.3 Ley 4/2007. Se evitan las prestaciones que la ley regula en otros artículos (alojamiento, atención psicológica y sanitaria, acceso a la vivienda protegida, escolarización, inserción laboral, mediación, dispositivo de alarma, informes del centro de emergencia), para que ningún distractor sea cierto por otro precepto.",
+  "resumen": "Clave sin cambios; distractores de longitud parecida, ajenos a lo que regula la Ley 4/2007.",
+  "cita": "Art. 19.3 Ley 4/2007: «Las casas de acogida estarán atendidas por equipos multidisciplinares que garantizarán a la mujer y, en su caso, a los menores a su cargo el apoyo emocional y psicológico, el asesoramiento social y el acompañamiento que sea necesario durante el tiempo que se permanezca en acogida.»"
+ },
+ {
+  "tema": 2,
+  "q": "Según el art. 30.1 de la Ley 4/2007, ¿a quién puede dirigirse el régimen de convenios de colaboración y subvenciones para la contratación de mujeres víctimas de violencia?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "A las empresas públicas de la Comunidad Autónoma que las contraten, pero no a las cooperativas ni a las propias mujeres",
+    "Solo a las propias mujeres víctimas de violencia que decidan constituirse como trabajadoras autónomas",
+    "A las empresas que las contraten, siempre que tengan más de cincuenta trabajadores y sede social en Aragón",
+    "A empresas, cooperativas, sociedades laborales o entidades que las contraten, o a ellas mismas si se hacen autónomas"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 168 caracteres frente a 45-65 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según el art. 30.1 Ley 4/2007. Se descarta el distractor «entidades sin fines de lucro», que podría entenderse incluido en «entidades».",
+  "resumen": "Misma clave (art. 30.1 Ley 4/2007), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 30.1 Ley 4/2007: «La Administración de la Comunidad Autónoma de Aragón establecerá un régimen de convenios de colaboración y de subvenciones bien a empresas, cooperativas, sociedades laborales o entidades que contraten a mujeres víctimas de violencia, bien a ellas mismas en los casos en que decidan constituirse como trabajadoras autónomas.»"
+ },
+ {
+  "tema": 4,
+  "q": "Según el art. 6.5 LPAC, el apoderamiento «apud acta» se otorgará:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Mediante escritura pública notarial, que el notario remite por vía electrónica al registro general de apoderamientos.",
+    "Mediante comparecencia electrónica en la sede, con firma electrónica, o personal en una oficina de asistencia en materia de registros.",
+    "Mediante comparecencia personal ante el órgano que tramita el procedimiento, en presencia del secretario o del funcionario responsable.",
+    "Mediante escrito con firma manuscrita remitido por correo certificado a la sede del organismo ante el que se actúa."
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 209 caracteres frente a 47-66 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (las dos vías del art. 6.5 LPAC) y se ponen distractores del mismo nivel de detalle, falsos según el art. 6.5.",
+  "resumen": "Misma clave (art. 6.5 LPAC), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 6.5 LPAC: «El apoderamiento «apud acta» se otorgará mediante comparecencia electrónica en la correspondiente sede electrónica haciendo uso de los sistemas de firma electrónica previstos en esta Ley, o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros.»"
+ },
+ {
+  "tema": 5,
+  "q": "Según el art. 14.2 e), los empleados de las AAPP están obligados a relacionarse electrónicamente con ellas:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Para cualquier trámite ante cualquier Administración, también como particulares, desde su toma de posesión",
+    "Solo cuando así lo establezca su convenio colectivo o el acuerdo de condiciones de trabajo de su Administración",
+    "Para los trámites y actuaciones que realicen por razón de su condición de empleado público, como determine cada Administración",
+    "Para los trámites relativos a su condición de empleado público, pero solo si lo solicitan voluntariamente y por escrito a su Administración"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 137 caracteres frente a 26-69 y única sin «solo/únicamente/nunca». Se abrevia levemente sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según el art. 14.2 e) LPAC.",
+  "resumen": "Misma clave (art. 14.2 e LPAC); distractores de longitud parecida.",
+  "cita": "Art. 14.2 e) LPAC: «Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público, en la forma en que se determine reglamentariamente por cada Administración.»"
+ },
+ {
+  "tema": 5,
+  "q": "Según el art. 29 de la Ley 39/2015, los términos y plazos establecidos en la Ley obligan a:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "A los interesados, pero no a la Administración, para la que los plazos de tramitación y resolución son solo orientativos",
+    "A las autoridades y al personal competentes para la tramitación, pero no a los interesados en los asuntos",
+    "A los funcionarios de carrera y a los interesados, pero no al personal laboral ni a las autoridades",
+    "Las autoridades y personal al servicio de las AAPP competentes para la tramitación, así como a los interesados"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 110 caracteres frente a 28-43 y única sin «solo/únicamente». La clave no cambia; los distractores se alargan hasta un nivel de detalle parecido y son falsos según el art. 29 LPAC.",
+  "resumen": "Clave sin cambios; distractores de longitud parecida.",
+  "cita": "Art. 29 LPAC: «Los términos y plazos establecidos en ésta u otras leyes obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.»"
+ },
+ {
+  "tema": 7,
+  "q": "Según el art. 58, los procedimientos se inician de oficio por acuerdo del órgano competente, ya sea:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Por propia iniciativa, por orden superior, a petición razonada de otros órganos o a solicitud de la persona interesada",
+    "Por propia iniciativa, como consecuencia de orden superior, a petición razonada de otros órganos, o por denuncia",
+    "Por orden superior o a petición razonada de otros órganos, pero no por denuncia ni por propia iniciativa",
+    "Por propia iniciativa o por denuncia, pero no por orden superior ni a petición razonada de otros órganos"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 112 caracteres frente a 28-43 y única sin «solo/únicamente/exclusivamente». La clave no cambia; los distractores pasan a ser enumeraciones del mismo tipo, falsas según el art. 58 LPAC (la solicitud del interesado es otra forma de iniciación, arts. 54 y 66).",
+  "resumen": "Clave sin cambios; distractores con la misma estructura y longitud parecida.",
+  "cita": "Art. 58 LPAC: «Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.»"
+ },
+ {
+  "tema": 7,
+  "q": "Según el art. 79, a efectos de la resolución del procedimiento, se solicitarán:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Solo los informes preceptivos por disposición legal, sin que puedan pedirse otros aunque se juzguen necesarios",
+    "Los informes que solicite el interesado y los que se juzguen necesarios, que serán siempre vinculantes para el órgano que ha de resolver",
+    "Los informes preceptivos por disposición legal y los que se juzguen necesarios para resolver, citando el precepto o su conveniencia",
+    "Los informes que se juzguen necesarios para resolver, que se pedirán sin concretar los extremos sobre los que deben versar"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 173 caracteres frente a 40-42 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según los arts. 79.1, 79.2 y 80.1 LPAC.",
+  "resumen": "Misma clave (art. 79.1 LPAC), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 79.1 LPAC: «se solicitarán aquellos informes que sean preceptivos por las disposiciones legales, y los que se juzguen necesarios para resolver, citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de reclamarlos.» Art. 80.1: «Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.»"
+ },
+ {
+  "tema": 7,
+  "q": "Según el art. 84, ¿cuáles son las formas de terminación del procedimiento previstas en la Ley 39/2015?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La resolución, el desistimiento, la renuncia, la caducidad y la interposición de un recurso por cualquier interesado",
+    "La resolución, el desistimiento, la renuncia, la caducidad y la suspensión del plazo máximo para resolver",
+    "La resolución, el desistimiento, la renuncia, la caducidad y la imposibilidad material de continuarlo por causas sobrevenidas",
+    "La resolución, el desistimiento, la renuncia, la caducidad y la acumulación a otro procedimiento con el que guarde identidad sustancial"
+   ],
+   "exp": "Art. 84.1 LPAC: «Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y la declaración de caducidad.» El art. 84.2 añade: «También producirá la terminación del procedimiento la imposibilidad material de continuarlo por causas sobrevenidas. La resolución que se dicte deberá ser motivada en todo caso.» La suspensión del plazo para resolver (art. 22) y la acumulación (art. 57) no ponen fin al procedimiento, y el recurso se interpone contra la resolución que ya le ha puesto fin."
+  },
+  "motivo": "Regla 7 bis: clave de 151 caracteres frente a 31-35 y única sin «solo/únicamente/exclusivamente». Las cuatro opciones pasan a ser enumeraciones con los cuatro modos del art. 84.1 y un quinto elemento; solo la clave lleva el del art. 84.2. No se usa el silencio administrativo como distractor, por discutible. La explicación cita por su contenido los distractores nuevos.",
+  "resumen": "Misma clave (art. 84 LPAC), algo abreviada; distractores con la misma estructura; explicación ampliada.",
+  "cita": "Art. 84.2 LPAC: «También producirá la terminación del procedimiento la imposibilidad material de continuarlo por causas sobrevenidas.»"
+ },
+ {
+  "tema": 7,
+  "q": "Según el art. 91.2, la resolución en un procedimiento de responsabilidad patrimonial deberá pronunciarse sobre:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La identidad del funcionario causante del daño y la cuantía que deberá abonar de su patrimonio al perjudicado",
+    "La existencia o no de relación de causalidad entre el servicio y la lesión y, en su caso, la valoración del daño y la indemnización",
+    "La culpa o negligencia del personal al servicio de la Administración y, en su caso, la sanción disciplinaria que proceda imponer al responsable",
+    "La prescripción de la acción y, si no ha prescrito, el importe de la indemnización fijado por el perito del interesado"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 181 caracteres frente a 40-64 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según el art. 91.2 LPAC.",
+  "resumen": "Misma clave (art. 91.2 LPAC), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 91.2 LPAC: «será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización»"
+ },
+ {
+  "tema": 8,
+  "q": "Según el art. 112, contra las resoluciones y los actos de trámite, si estos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable, los interesados podrán interponer:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Los recursos de alzada y potestativo de reposición, fundados solo en los motivos de nulidad de pleno derecho previstos en el art. 47",
+    "Los recursos de alzada y potestativo de reposición, fundados en cualquier motivo de nulidad o anulabilidad (arts. 47 y 48)",
+    "El recurso extraordinario de revisión, fundado en cualquier motivo de nulidad o anulabilidad (arts. 47 y 48)",
+    "Los recursos de alzada y de reposición, ambos obligatorios antes de acudir a la vía contencioso-administrativa"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 144 caracteres frente a 23-55 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido y se ponen distractores del mismo tipo, falsos según los arts. 112.1, 123 y 125 LPAC.",
+  "resumen": "Misma clave (art. 112.1 LPAC), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 112.1 LPAC: «podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley.»"
+ },
+ {
+  "tema": 9,
+  "q": "El art. 61.2 LCSP permite a los órganos de contratación delegar o desconcentrar sus competencias en esta materia:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Solo si lo autoriza una ley formal y únicamente a favor de órganos jerárquicamente dependientes del delegante",
+    "En ningún caso, porque la competencia para contratar es indelegable y debe ejercerla siempre su titular",
+    "Con cumplimiento de las normas y formalidades aplicables en cada caso para la delegación o desconcentración de competencias",
+    "Mediante simple instrucción interna del órgano de contratación, sin necesidad de publicar en el boletín oficial el acuerdo de delegación"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 123 caracteres frente a 30-52 y única sin «solo/únicamente/nunca». La clave no cambia; los distractores se alargan y son falsos según el art. 61.2 LCSP (las formalidades aplicables a la delegación incluyen su publicación, art. 9.3 LRJSP).",
+  "resumen": "Clave sin cambios; distractores de longitud parecida.",
+  "cita": "Art. 61.2 LCSP: «Los órganos de contratación podrán delegar o desconcentrar sus competencias y facultades en esta materia con cumplimiento de las normas y formalidades aplicables en cada caso para la delegación o desconcentración de competencias»"
+ },
+ {
+  "tema": 11,
+  "q": "Según el art. 84.1 de la LBRL, ¿a través de qué medios pueden las Entidades locales intervenir la actividad de los ciudadanos?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Ordenanzas y bandos, licencia previa, declaración responsable, órdenes individuales y sanciones penales directas",
+    "Ordenanzas y bandos, licencia previa, comunicación previa o declaración responsable, control posterior y órdenes individuales",
+    "Ordenanzas y bandos, licencia previa, comunicación previa, control posterior y expropiación forzosa de la actividad",
+    "Ordenanzas y bandos, licencia previa, convenios privados con las empresas, control posterior al inicio y órdenes individuales"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 188 caracteres frente a 46-52 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (los cinco medios del art. 84.1 LBRL) y los distractores pasan a ser enumeraciones del mismo tipo con un medio que no está en el art. 84.1.",
+  "resumen": "Misma clave (art. 84.1 LBRL), abreviada; distractores con la misma estructura.",
+  "cita": "Art. 84.1 LBRL: «a) Ordenanzas y bandos. b) Sometimiento a previa licencia y otros actos de control preventivo… c) Sometimiento a comunicación previa o a declaración responsable… d) Sometimiento a control posterior al inicio de la actividad… e) Órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo.»"
+ },
+ {
+  "tema": 11,
+  "q": "Según el art. 118.1 de la Ley 40/2015 (LRJSP), que sustituyó al derogado art. 87 LBRL, ¿quiénes pueden crear un consorcio?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Una sola Administración Pública, para gestionar de forma descentralizada un servicio público que sea de su exclusiva competencia",
+    "Varias entidades privadas, sin participación pública, para gestionar servicios declarados de interés general",
+    "Varias Administraciones o entidades del sector público institucional, entre sí o con participación de entidades privadas",
+    "Varios municipios de la misma provincia, entre sí, pero nunca con la participación de entidades privadas"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 207 caracteres frente a 37-55 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (quiénes crean el consorcio según el art. 118.1 LRJSP; la finalidad queda en la explicación) y se ponen distractores del mismo nivel de detalle, falsos según el art. 118.1.",
+  "resumen": "Misma clave (art. 118.1 LRJSP), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 118.1 LRJSP: «Los consorcios son entidades de derecho público, con personalidad jurídica propia y diferenciada, creadas por varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias.»"
+ },
+ {
+  "tema": 11,
+  "q": "El art. 84 bis.1 LBRL permite, como excepción a la regla general, exigir licencia u otro medio de control preventivo respecto a aquellas actividades económicas en dos supuestos. ¿Cuáles son?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Cuando la actividad genere ingresos tributarios para el municipio o se ejerza en suelo urbano consolidado",
+    "Por razones de orden público, seguridad, salud pública o medio ambiente, o cuando el número de operadores esté limitado",
+    "Cuando lo justifiquen razones de interés económico del municipio o lo pida un número relevante de vecinos",
+    "Cuando la actividad se ejerza en horario nocturno o la desarrolle una empresa con más de cincuenta trabajadores en plantilla"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 260 caracteres frente a 53-68 y única sin «solo/únicamente». Se abrevia sin cambiar su sentido (los dos supuestos, letras a y b del art. 84 bis.1 LBRL; el detalle de cada uno sigue en la explicación) y se ponen distractores del mismo nivel de detalle, falsos según el art. 84 bis.1. Se evita la protección de los consumidores, que la Ley 17/2009 cita entre las razones imperiosas de interés general.",
+  "resumen": "Misma clave (art. 84 bis.1 LBRL), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 84 bis.1 LBRL: «a) Cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad… b) Cuando por la escasez de recursos naturales, la utilización de dominio público, la existencia de inequívocos impedimentos técnicos o en función de la existencia de servicios públicos sometidos a tarifas reguladas, el número de operadores económicos del mercado sea limitado.»"
+ },
+ {
+  "tema": 12,
+  "q": "Según el art. 3.1 del TRLRHL, constituyen ingresos de derecho privado de las entidades locales:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Los ingresos procedentes de los bienes de dominio público local, incluidos los cánones de las concesiones",
+    "Los rendimientos de su patrimonio y las tasas que gravan la utilización privativa del dominio público local",
+    "Las subvenciones y transferencias recibidas de otras Administraciones y las multas impuestas por la entidad",
+    "Los rendimientos o productos derivados de su patrimonio y las adquisiciones por herencia, legado o donación"
+   ],
+   "exp": "Art. 3.1 TRLRHL: «Constituyen ingresos de derecho privado de las entidades locales los rendimientos o productos de cualquier naturaleza derivados de su patrimonio, así como las adquisiciones a título de herencia, legado o donación.» En cambio, «En ningún caso tendrán la consideración de ingresos de derecho privado los que procedan, por cualquier concepto, de los bienes de dominio público local» (art. 3.3); las tasas son tributos, y las subvenciones y las multas son otros recursos de las entidades locales (art. 2.1 TRLRHL)."
+  },
+  "motivo": "Regla 7 bis: clave de 147 caracteres frente a 30-56 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según los arts. 3.1 y 3.3 TRLRHL. La explicación cita por su contenido los distractores nuevos.",
+  "resumen": "Misma clave (art. 3.1 TRLRHL), abreviada; distractores de longitud parecida; explicación ampliada.",
+  "cita": "Art. 3.1 TRLRHL: «Constituyen ingresos de derecho privado de las entidades locales los rendimientos o productos de cualquier naturaleza derivados de su patrimonio, así como las adquisiciones a título de herencia, legado o donación.» Art. 3.3: «En ningún caso tendrán la consideración de ingresos de derecho privado los que procedan, por cualquier concepto, de los bienes de dominio público local.»"
+ },
+ {
+  "tema": 12,
+  "q": "Según el art. 20.1 del TRLRHL, las entidades locales pueden establecer tasas por:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La realización de obras públicas que benefician especialmente a determinadas personas o aumentan el valor de sus bienes",
+    "La venta de bienes muebles de su patrimonio y el arrendamiento de sus inmuebles patrimoniales a particulares",
+    "El uso privativo o aprovechamiento especial del dominio público local y servicios o actividades administrativas de competencia local",
+    "La mera titularidad de bienes inmuebles urbanos y el ejercicio de actividades empresariales o profesionales en el término municipal"
+   ],
+   "exp": "Art. 20.1 TRLRHL: «Las entidades locales, en los términos previstos en esta ley, podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como por la prestación de servicios públicos o la realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos.» Las obras que benefician especialmente a determinadas personas o aumentan el valor de sus bienes dan lugar a contribuciones especiales (art. 28); la venta y el arrendamiento de bienes patrimoniales producen ingresos de derecho privado (art. 3.1); la titularidad de derechos sobre bienes inmuebles y el mero ejercicio de actividades económicas son hechos imponibles de impuestos, el IBI y el IAE (arts. 61 y 78)."
+  },
+  "motivo": "Regla 7 bis: clave de 172 caracteres frente a 43-62 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (los dos hechos imponibles del art. 20.1 TRLRHL) y se ponen distractores del mismo nivel de detalle, que corresponden a otros recursos (contribuciones especiales, ingresos patrimoniales, IBI e IAE) y son falsos como tasas. No se usan servicios prestados también por el sector privado, porque según el art. 20.1 B) pueden dar lugar a tasa si su recepción no es voluntaria.",
+  "resumen": "Misma clave (art. 20.1 TRLRHL), abreviada; distractores de longitud parecida; explicación ampliada.",
+  "cita": "Art. 20.1 TRLRHL: «podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como por la prestación de servicios públicos o la realización de actividades administrativas de competencia local»"
+ },
+ {
+  "tema": 13,
+  "q": "Según el art. 162 del TRLRHL, los presupuestos generales de las entidades locales constituyen:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La previsión orientativa de los gastos e ingresos del ejercicio, que no limita las obligaciones que la entidad puede llegar a reconocer",
+    "La expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer y de los derechos que prevean liquidar",
+    "La expresión cifrada de las obligaciones que, como mínimo, deben reconocer y de los derechos liquidados el año anterior",
+    "La relación cifrada de los ingresos tributarios del ejercicio y de los gastos de personal que, como máximo, pueden atenderse"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 198 caracteres frente a 49-62 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (se omite «la entidad y sus organismos autónomos», que no es lo que se pregunta) y se ponen distractores del mismo nivel de detalle, falsos según el art. 162 TRLRHL.",
+  "resumen": "Misma clave (art. 162 TRLRHL), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 162 TRLRHL: «Los presupuestos generales de las entidades locales constituyen la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la entidad, y sus organismos autónomos, y de los derechos que prevean liquidar durante el correspondiente ejercicio»"
+ },
+ {
+  "tema": 13,
+  "q": "Según el art. 220 del TRLRHL, el control financiero tiene por objeto comprobar el funcionamiento de los servicios de la entidad local en el aspecto económico-financiero para verificar:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "La conservación de los bienes del inventario, la puntualidad del personal y el cumplimiento del horario de apertura de los servicios",
+    "La presentación de la información financiera, el cumplimiento de normas y directrices y la eficacia y eficiencia en los objetivos",
+    "La legalidad de cada acto de contenido económico antes de su aprobación, mediante la fiscalización previa del expediente",
+    "La oportunidad política de los gastos, su adecuación al programa de gobierno y la satisfacción de los ciudadanos"
+   ],
+   "exp": "Art. 220.1 y 2 TRLRHL: el control financiero comprueba el funcionamiento en el aspecto económico-financiero de los servicios de la entidad local, de sus organismos autónomos y de sus sociedades mercantiles dependientes, e informa «acerca de la adecuada presentación de la información financiera, del cumplimiento de las normas y directrices que sean de aplicación y del grado de eficacia y eficiencia en la consecución de los objetivos previstos». Se realiza por procedimientos de auditoría (art. 220.3). El examen previo de la legalidad de cada acto de contenido económico es la función interventora (art. 214), no el control financiero."
+  },
+  "motivo": "Regla 7 bis: clave de 202 caracteres frente a 51-58 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (los tres objetos del art. 220.2 TRLRHL) y se ponen distractores del mismo nivel de detalle, falsos según el art. 220; uno de ellos describe la función interventora (art. 214). La explicación lo dice.",
+  "resumen": "Misma clave (art. 220.2 TRLRHL), abreviada; distractores de longitud parecida; explicación ampliada.",
+  "cita": "Art. 220.2 TRLRHL: «Dicho control tendrá por objeto informar acerca de la adecuada presentación de la información financiera, del cumplimiento de las normas y directrices que sean de aplicación y del grado de eficacia y eficiencia en la consecución de los objetivos previstos.»"
+ },
+ {
+  "tema": 13,
+  "q": "Según el art. 166 del TRLRHL, al presupuesto general debe unirse, entre otros anexos, información relativa a:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "El inventario de bienes y derechos de la entidad, con la valoración actualizada de cada bien a la fecha del presupuesto",
+    "La relación nominal de los perceptores de subvenciones del ejercicio anterior, con el importe concedido a cada uno",
+    "El estado de consolidación del presupuesto de la entidad con los de sus organismos autónomos y sociedades mercantiles",
+    "Las cuentas anuales auditadas de todas las sociedades en que participe la entidad, cualquiera que sea su porcentaje"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 172 caracteres frente a 44-54 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (art. 166.1 c) TRLRHL) y se ponen distractores del mismo nivel de detalle que no son anexos del art. 166.1 ni documentación del art. 168.1 (el enunciado dice «entre otros anexos»).",
+  "resumen": "Misma clave (art. 166.1 c TRLRHL), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 166.1 c) TRLRHL: «El estado de consolidación del presupuesto de la propia entidad con el de todos los presupuestos y estados de previsión de sus organismos autónomos y sociedades mercantiles.»"
+ },
+ {
+  "tema": 13,
+  "q": "Según el art. 168.1 del TRLRHL, el presupuesto de la entidad local es formado por su presidente, y a él debe unirse, entre otros documentos:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Memoria explicativa, liquidación del anterior y avance del corriente, anexo de personal, anexo de inversiones e informe económico-financiero",
+    "Memoria explicativa, inventario general de bienes y derechos, anexo de personal, anexo de inversiones y padrón municipal actualizado",
+    "Liquidación del anterior y avance del corriente, cuenta general aprobada, relación de puestos de trabajo y acta del Pleno que ordenó elaborarlo",
+    "Memoria explicativa, anexo de personal, anexo de inversiones, informe económico-financiero y dictamen de la Cámara de Cuentas de Aragón"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 203 caracteres frente a 60-72 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (documentos del art. 168.1 a), b), c), d) y g) TRLRHL) y los distractores pasan a ser enumeraciones del mismo tipo con al menos un documento que no exige el art. 168.1. No se usa el informe de la Intervención, que sí acompaña al presupuesto cuando se remite al Pleno (art. 168.4).",
+  "resumen": "Misma clave (art. 168.1 TRLRHL), abreviada; distractores con la misma estructura.",
+  "cita": "Art. 168.1 TRLRHL: «a) Memoria explicativa de su contenido… b) Liquidación del presupuesto del ejercicio anterior y avance de la del corriente… c) Anexo de personal de la Entidad Local. d) Anexo de las inversiones a realizar en el ejercicio… g) Un informe económico-financiero»"
+ },
+ {
+  "tema": 13,
+  "q": "Según el art. 196.1 del TRLRHL, son funciones encomendadas a la tesorería de las entidades locales, entre otras:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Autorizar y disponer los gastos, reconocer y liquidar las obligaciones y aprobar las modificaciones de crédito",
+    "Fiscalizar previamente todos los actos que reconozcan derechos o den lugar a obligaciones y llevar la contabilidad de la entidad local",
+    "Recaudar los derechos y pagar las obligaciones, y servir al principio de unidad de caja centralizando todos los fondos y valores",
+    "Elaborar las ordenanzas fiscales, liquidar los tributos locales y resolver los recursos contra las liquidaciones"
+   ],
+   "exp": "Art. 196.1 TRLRHL: son funciones de la tesorería a) «Recaudar los derechos y pagar las obligaciones»; b) «Servir al principio de unidad de caja, mediante la centralización de todos los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias»; c) distribuir en el tiempo las disponibilidades dinerarias; d) responder de los avales contraídos; y e) realizar las demás que se deriven o relacionen con las anteriores. La autorización y disposición de gastos y el reconocimiento y liquidación de obligaciones corresponden a los órganos de gobierno de la entidad (art. 185), no a la tesorería, y la intervención previa de los actos de contenido económico es la función interventora (art. 214)."
+  },
+  "motivo": "Regla 7 bis: clave de 209 caracteres frente a 42-52 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (letras a y b del art. 196.1 TRLRHL) y se ponen distractores del mismo nivel de detalle, con funciones que la ley atribuye a otros órganos (órganos de gobierno, art. 185; Intervención, art. 214) o ajenas a la tesorería. No se usa la ordenación de pagos, porque en las entidades de más de 500.000 habitantes (Zaragoza lo es) el Pleno puede crear una unidad central de tesorería que la ejerza (arts. 186.3 y 196.2). La explicación lo dice.",
+  "resumen": "Misma clave (art. 196.1 a y b TRLRHL), abreviada; distractores de longitud parecida; explicación ampliada.",
+  "cita": "Art. 196.1 TRLRHL: «a) Recaudar los derechos y pagar las obligaciones. b) Servir al principio de unidad de caja, mediante la centralización de todos los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias.»"
+ },
+ {
+  "tema": 14,
+  "q": "Según el art. 26.1 a) de la LBRL, todos los municipios, cualquiera que sea su población, deben prestar el servicio de:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Alumbrado público, cementerio, recogida de residuos, biblioteca pública, parque público y tratamiento de los residuos urbanos",
+    "Alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua y alcantarillado",
+    "Alumbrado público, limpieza viaria, alcantarillado, protección civil e instalaciones deportivas de uso público",
+    "Cementerio, abastecimiento domiciliario de agua, pavimentación de las vías públicas y transporte colectivo urbano"
+   ],
+   "exp": "Art. 26.1 a) LBRL: en todos los municipios, «alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas». Los demás servicios dependen de la población: parque público, biblioteca pública y tratamiento de residuos, en los de más de 5.000 habitantes (letra b); protección civil e instalaciones deportivas de uso público, entre otros, en los de más de 20.000 (letra c); transporte colectivo urbano de viajeros y medio ambiente urbano, en los de más de 50.000 (letra d)."
+  },
+  "motivo": "Regla 7 bis: clave de 201 caracteres frente a 44-54 y única sin «solo/únicamente/exclusivamente». Las cuatro opciones pasan a ser listas de servicios de longitud parecida: la clave, seis de los ocho servicios de la letra a) (el enunciado no pide la lista completa); cada distractor mezcla servicios de la letra a) con otros que solo se exigen a partir de 5.000, 20.000 o 50.000 habitantes. La explicación los cita por su contenido.",
+  "resumen": "Misma clave (servicios del art. 26.1 a LBRL), en una lista más corta; distractores con servicios de las letras b), c) y d); explicación ampliada.",
+  "cita": "Art. 26.1 a) LBRL: «En todos los Municipios: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.»"
+ },
+ {
+  "tema": 14,
+  "q": "Según el art. 29.1 de la LBRL, ¿en qué municipios funciona el régimen de Concejo Abierto?",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "En los que lo acuerden por mayoría simple de sus concejales, sin necesidad de aprobación por la Comunidad Autónoma",
+    "En los que tradicional y voluntariamente cuenten con ese régimen y en los que lo aconsejen su localización u otras circunstancias",
+    "En todos los de menos de 100 habitantes, obligatoriamente y sin posibilidad de mantener otro régimen de gobierno",
+    "En los de menos de 250 habitantes en que lo pida la mayoría de los vecinos, con la aprobación de la Diputación Provincial respectiva"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 161 caracteres frente a 34-69 y única sin «solo/únicamente/exclusivamente». Se abrevia sin cambiar su sentido (letras a y b del art. 29.1 LBRL) y se ponen distractores del mismo nivel de detalle, falsos según los arts. 29.1, 29.2 y 29.4 LBRL (la obligación por número de residentes desapareció con la LO 2/2011).",
+  "resumen": "Misma clave (art. 29.1 LBRL), abreviada; distractores de longitud parecida.",
+  "cita": "Art. 29.1 LBRL: «Funcionan en Concejo Abierto: a) Los municipios que tradicional y voluntariamente cuenten con ese singular régimen de gobierno y administración. b) Aquellos otros en los que por su localización geográfica, la mejor gestión de los intereses municipales u otras circunstancias lo hagan aconsejable.»"
+ },
+ {
+  "tema": 14,
+  "q": "Conforme al art. 14.2 de la Ley 10/2017, la atribución del Gobierno de Zaragoza relativa al desarrollo de la gestión económica y a la autorización y disposición de gastos (art. 14.1.h):",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "Puede delegarse o desconcentrarse en sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos",
+    "No puede delegarse ni desconcentrarse, porque el art. 14.2 la excluye expresamente, junto con la aprobación de la relación de puestos de trabajo",
+    "Solo puede delegarse en el Alcalde, que podrá a su vez desconcentrarla mediante decreto en los Concejales delegados de área",
+    "Puede delegarse en los organismos autónomos y en las sociedades municipales, pero no en los Concejales que no formen parte del Gobierno de Zaragoza"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 177 caracteres frente a 34-77 y única sin «solo/en ningún caso». Se abrevia levemente sin cambiar su sentido (se quita «entre otros», que no está en el art. 14.2) y se ponen distractores del mismo nivel de detalle, falsos según el art. 14.2 Ley 10/2017 (que sí incluye la letra h; las excepciones de la relación de puestos de trabajo y demás se refieren a la letra i).",
+  "resumen": "Misma clave (art. 14.2 Ley 10/2017), algo abreviada; distractores de longitud parecida.",
+  "cita": "Art. 14.2 Ley 10/2017: «El Gobierno de Zaragoza podrá delegar o desconcentrar en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos, las funciones enumeradas en las letras e), f), g), h), i), con excepción de la aprobación de la relación de puestos de trabajo…»"
+ },
+ {
+  "tema": 18,
+  "q": "El artículo 90.4 del TREBEP permite acordar la suspensión de funciones con carácter provisional:",
+  "accion": "respuesta",
+  "nuevo": {
+   "options": [
+    "A petición del propio funcionario, mientras se resuelve su solicitud de excedencia voluntaria o de cambio de puesto de trabajo",
+    "Por decisión del Ministerio Fiscal, cuando haya presentado denuncia contra el funcionario por un posible delito",
+    "Con ocasión de la tramitación de un procedimiento judicial o de un expediente disciplinario, en los términos del Estatuto",
+    "Cuando el funcionario acumule tres faltas leves de asistencia en un mismo año, mientras se tramita su separación"
+   ]
+  },
+  "motivo": "Regla 7 bis: clave de 130 caracteres frente a 38-53 y única sin «solo/únicamente/exclusivamente». Se abrevia levemente sin cambiar su sentido y se ponen distractores del mismo nivel de detalle, falsos según el art. 90.4 TREBEP. No se usa la sentencia firme como distractor, porque es la suspensión firme del art. 90.2 (regla de otro apartado).",
+  "resumen": "Misma clave (art. 90.4 TREBEP), algo abreviada; distractores de longitud parecida.",
+  "cita": "Art. 90.4 TREBEP: «Podrá acordarse la suspensión de funciones con carácter provisional con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en este Estatuto.»"
+ }
+]
