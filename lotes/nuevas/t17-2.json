@@ -1,0 +1,567 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 17,
+ "lote": "t17-2",
+ "preguntas": [
+  {
+   "q": "Según el art. 16.2 del TREBEP, en relación con la carrera profesional de sus funcionarios de carrera, ¿qué promoverán las Administraciones Públicas?",
+   "options": [
+    "La rotación periódica obligatoria entre distintos puestos de trabajo",
+    "La exención de la evaluación del desempeño en los primeros años",
+    "La actualización y perfeccionamiento de su cualificación profesional",
+    "El ascenso automático de grado al cumplir cada nuevo trienio"
+   ],
+   "correct": 2,
+   "exp": "El art. 16.2 TREBEP define la carrera profesional como el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad, y añade: «A tal objeto las Administraciones Públicas promoverán la actualización y perfeccionamiento de la cualificación profesional de sus funcionarios de carrera». El precepto no prevé rotaciones obligatorias, exenciones de evaluación ni ascensos automáticos por trienios.",
+   "fuente": "Art. 16.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "A tal objeto las Administraciones Públicas promoverán la actualización y perfeccionamiento de la cualificación profesional de sus funcionarios de carrera."
+  },
+  {
+   "q": "Según el art. 17.b) del TREBEP, en la carrera horizontal de los funcionarios de carrera, además de los criterios de valoración que el precepto exige tener en cuenta, podrán incluirse otros méritos y aptitudes por razón de:",
+   "options": [
+    "La especificidad de la función desarrollada y la experiencia adquirida",
+    "La antigüedad en la Administración y el número de trienios reconocidos",
+    "La titulación académica superior a la exigida para el ingreso en el cuerpo",
+    "Las cargas familiares y las circunstancias personales del funcionario"
+   ],
+   "correct": 0,
+   "exp": "El art. 17.b) TREBEP, tras enumerar lo que «se deberá valorar» en la carrera horizontal, añade: «Podrán incluirse asimismo otros méritos y aptitudes por razón de la especificidad de la función desarrollada y la experiencia adquirida». No menciona la antigüedad o los trienios, la titulación superior ni las circunstancias familiares o personales.",
+   "fuente": "Art. 17.b) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Podrán incluirse asimismo otros méritos y aptitudes por razón de la especificidad de la función desarrollada y la experiencia adquirida."
+  },
+  {
+   "q": "Según el art. 31.8 del TREBEP, los procedimientos para determinar condiciones de trabajo en las Administraciones Públicas tendrán en cuenta las previsiones establecidas en:",
+   "options": [
+    "Los convenios colectivos sectoriales vigentes en el sector privado",
+    "Los acuerdos interprofesionales firmados por la patronal y los sindicatos",
+    "Las directrices de la Comisión de Coordinación del Empleo Público",
+    "Los convenios y acuerdos de carácter internacional ratificados por España"
+   ],
+   "correct": 3,
+   "exp": "El art. 31.8 TREBEP dispone: «Los procedimientos para determinar condiciones de trabajo en las Administraciones Públicas tendrán en cuenta las previsiones establecidas en los convenios y acuerdos de carácter internacional ratificados por España». No remite a convenios del sector privado, a acuerdos interprofesionales ni a directrices de la Comisión de Coordinación del Empleo Público.",
+   "fuente": "Art. 31.8 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Los procedimientos para determinar condiciones de trabajo en las Administraciones Públicas tendrán en cuenta las previsiones establecidas en los convenios y acuerdos de carácter internacional ratificados por España."
+  },
+  {
+   "q": "Según el art. 34.2 del TREBEP, los municipios podrán adherirse a la negociación colectiva que se lleve a cabo en el ámbito correspondiente:",
+   "options": [
+    "Con carácter previo, y previa autorización de la comunidad autónoma",
+    "Con carácter previo o de manera sucesiva a ella",
+    "De manera sucesiva, una vez publicado el acuerdo alcanzado",
+    "Mediante convenio con la asociación de municipios correspondiente"
+   ],
+   "correct": 1,
+   "exp": "El art. 34.2 TREBEP reconoce la legitimación negocial de las asociaciones de municipios y de las Entidades Locales de ámbito supramunicipal y añade: «A tales efectos, los municipios podrán adherirse con carácter previo o de manera sucesiva a la negociación colectiva que se lleve a cabo en el ámbito correspondiente». Caben ambas modalidades, y el precepto no exige autorización autonómica, publicación previa del acuerdo ni convenio.",
+   "fuente": "Art. 34.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "los municipios podrán adherirse con carácter previo o de manera sucesiva a la negociación colectiva que se lleve a cabo en el ámbito correspondiente."
+  },
+  {
+   "q": "Según el art. 34.5 del TREBEP, la competencia de las Mesas Sectoriales se extenderá a los temas comunes a los funcionarios del sector que:",
+   "options": [
+    "Hayan sido ya acordados por la Mesa General, solo para su mera ejecución",
+    "Determine en cada caso la Administración, oída la Junta de Personal",
+    "No hayan sido decididos por la Mesa General o que esta les reenvíe o delegue",
+    "Afecten a más de la mitad de los funcionarios del sector correspondiente"
+   ],
+   "correct": 2,
+   "exp": "El art. 34.5 TREBEP dispone: «La competencia de las Mesas Sectoriales se extenderá a los temas comunes a los funcionarios del sector que no hayan sido objeto de decisión por parte de la Mesa General respectiva o a los que ésta explícitamente les reenvíe o delegue». No se limita a ejecutar lo acordado por la Mesa General ni depende de lo que fije la Administración o de un porcentaje de funcionarios afectados.",
+   "fuente": "Art. 34.5 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "La competencia de las Mesas Sectoriales se extenderá a los temas comunes a los funcionarios del sector que no hayan sido objeto de decisión por parte de la Mesa General respectiva o a los que ésta explícitamente les reenvíe o delegue."
+  },
+  {
+   "q": "Según el art. 36.1 del TREBEP, la representación de las Administraciones Públicas en la Mesa General de Negociación de las Administraciones Públicas contará, en función de las materias a negociar, con representantes de:",
+   "options": [
+    "Las comunidades autónomas, Ceuta y Melilla y las diputaciones provinciales de régimen común",
+    "Las comunidades autónomas, Ceuta y Melilla y los ayuntamientos de los municipios de gran población",
+    "Las comunidades autónomas, Ceuta y Melilla y la Comisión Nacional de Administración Local",
+    "Las comunidades autónomas, Ceuta y Melilla y la Federación Española de Municipios y Provincias"
+   ],
+   "correct": 3,
+   "exp": "El art. 36.1 TREBEP establece que la representación de las Administraciones Públicas en esta Mesa «será unitaria, estará presidida por la Administración General del Estado y contará con representantes de las Comunidades Autónomas, de las ciudades de Ceuta y Melilla y de la Federación Española de Municipios y Provincias, en función de las materias a negociar». Las entidades locales están representadas a través de la FEMP, no de las diputaciones, de los municipios de gran población ni de la Comisión Nacional de Administración Local.",
+   "fuente": "Art. 36.1 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "contará con representantes de las Comunidades Autónomas, de las ciudades de Ceuta y Melilla y de la Federación Española de Municipios y Provincias, en función de las materias a negociar."
+  },
+  {
+   "q": "Según el art. 37 del TREBEP, ¿cuál de las siguientes materias queda excluida de la obligatoriedad de la negociación?",
+   "options": [
+    "La determinación concreta, en cada caso, de los procedimientos de acceso al empleo público",
+    "Las normas que fijen los criterios generales en materia de acceso, carrera y provisión de puestos",
+    "Los criterios generales de los planes y fondos para la formación y la promoción interna",
+    "Los criterios generales sobre las ofertas de empleo público de cada Administración"
+   ],
+   "correct": 0,
+   "exp": "El art. 37.2.e) TREBEP excluye de la obligatoriedad de la negociación «la regulación y determinación concreta, en cada caso, de los sistemas, criterios, órganos y procedimientos de acceso al empleo público y la promoción profesional». En cambio, son materias objeto de negociación (art. 37.1) las normas que fijen los criterios generales en materia de acceso, carrera y provisión (letra c), los criterios generales de los planes y fondos para la formación y la promoción interna (letra f) y los criterios generales sobre ofertas de empleo público (letra l).",
+   "fuente": "Art. 37.2.e) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "La regulación y determinación concreta, en cada caso, de los sistemas, criterios, órganos y procedimientos de acceso al empleo público y la promoción profesional."
+  },
+  {
+   "q": "Según el art. 38.2 del TREBEP, los Pactos se celebrarán sobre materias que:",
+   "options": [
+    "Sean competencia de los órganos de gobierno, que deberán aprobarlas de forma expresa y formal",
+    "Se correspondan estrictamente con el ámbito competencial del órgano administrativo que los suscriba",
+    "Estén sometidas a reserva de ley, que el órgano de gobierno remitirá luego al Parlamento",
+    "Sean comunes al personal funcionario y laboral de todas las Administraciones Públicas"
+   ],
+   "correct": 1,
+   "exp": "El art. 38.2 TREBEP dispone: «Los Pactos se celebrarán sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán directamente al personal del ámbito correspondiente». Las materias competencia de los órganos de gobierno, que requieren su aprobación expresa y formal, son objeto de los Acuerdos (art. 38.3), y los Acuerdos sobre materias sometidas a reserva de ley carecen de eficacia directa (art. 38.3).",
+   "fuente": "Art. 38.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Los Pactos se celebrarán sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán directamente al personal del ámbito correspondiente."
+  },
+  {
+   "q": "Según el art. 38.7 del TREBEP, si no se produce acuerdo en la negociación o en la renegociación y se han agotado, en su caso, los procedimientos de solución extrajudicial de conflictos, ¿a quién corresponde establecer las condiciones de trabajo de los funcionarios?",
+   "options": [
+    "A la Mesa General de Negociación, por mayoría de sus miembros",
+    "A un árbitro designado por la autoridad laboral competente",
+    "A los órganos de gobierno de las Administraciones Públicas",
+    "A la Comisión Paritaria de seguimiento de los Pactos y Acuerdos"
+   ],
+   "correct": 2,
+   "exp": "El art. 38.7 TREBEP dispone que, en ese caso, «corresponderá a los órganos de gobierno de las Administraciones Públicas establecer las condiciones de trabajo de los funcionarios con las excepciones contempladas en los apartados 11, 12 y 13 del presente artículo». No lo decide la Mesa, ni un árbitro impuesto, ni la Comisión Paritaria. En el Ayuntamiento de Zaragoza el órgano de gobierno con estas atribuciones de personal es el Gobierno de Zaragoza, al que el art. 14.1.i) de la Ley 10/2017 atribuye «la ratificación de los Convenios y pactos de empleo público, y las demás decisiones en materia de personal que no estén expresamente atribuidas a otro órgano».",
+   "fuente": "Art. 38.7 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "corresponderá a los órganos de gobierno de las Administraciones Públicas establecer las condiciones de trabajo de los funcionarios"
+  },
+  {
+   "q": "Cuando los órganos de gobierno de las Administraciones Públicas suspendan o modifiquen el cumplimiento de Pactos y Acuerdos ya firmados, el art. 38.10 del TREBEP obliga a las Administraciones Públicas a:",
+   "options": [
+    "Obtener previamente la conformidad de la mayoría de la representación sindical",
+    "Abrir la renegociación de las materias afectadas en el plazo máximo de un mes",
+    "Someter la decisión a la mediación obligatoria del sistema extrajudicial de conflictos",
+    "Informar a las organizaciones sindicales de las causas de la suspensión o modificación"
+   ],
+   "correct": 3,
+   "exp": "El art. 38.10 TREBEP, tras admitir excepcionalmente la suspensión o modificación de Pactos y Acuerdos ya firmados, añade: «En este supuesto, las Administraciones Públicas deberán informar a las organizaciones sindicales de las causas de la suspensión o modificación». No exige conformidad sindical previa, renegociación en un mes (eso es para la falta de ratificación de un Acuerdo, art. 38.3) ni mediación.",
+   "fuente": "Art. 38.10 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "En este supuesto, las Administraciones Públicas deberán informar a las organizaciones sindicales de las causas de la suspensión o modificación."
+  },
+  {
+   "q": "Según el art. 38.13 del TREBEP, los Pactos y Acuerdos que sucedan a otros anteriores:",
+   "options": [
+    "Los derogan en su integridad, salvo los aspectos que expresamente se acuerde mantener",
+    "Los complementan, y los anteriores siguen vigentes en lo que no se oponga a lo nuevo",
+    "Los derogan solo en lo que se oponga a ellos, salvo acuerdo en contrario",
+    "Los derogan en su integridad, sin que pueda acordarse mantener aspecto alguno"
+   ],
+   "correct": 0,
+   "exp": "El art. 38.13 TREBEP dispone: «Los Pactos y Acuerdos que sucedan a otros anteriores los derogan en su integridad, salvo los aspectos que expresamente se acuerde mantener». La derogación es total, no parcial ni por mera oposición, pero las partes pueden acordar expresamente mantener aspectos concretos.",
+   "fuente": "Art. 38.13 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Los Pactos y Acuerdos que sucedan a otros anteriores los derogan en su integridad, salvo los aspectos que expresamente se acuerde mantener."
+  },
+  {
+   "q": "Según el art. 39.6 del TREBEP, ¿qué cargos elegirán las Juntas de Personal de entre sus miembros?",
+   "options": [
+    "Un Presidente, un Vicepresidente y un Secretario",
+    "Un Presidente y un Secretario",
+    "Un Presidente; el Secretario lo designa la Administración",
+    "Un Portavoz y un representante ante la Mesa de Negociación"
+   ],
+   "correct": 1,
+   "exp": "El art. 39.6 TREBEP dispone: «Las Juntas de Personal elegirán de entre sus miembros un Presidente y un Secretario y elaborarán su propio reglamento de procedimiento». No prevé Vicepresidente ni que la Administración designe al Secretario.",
+   "fuente": "Art. 39.6 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Las Juntas de Personal elegirán de entre sus miembros un Presidente y un Secretario"
+  },
+  {
+   "q": "Según el art. 40.1.d) del TREBEP, en el establecimiento de la jornada laboral y el horario de trabajo, así como en el régimen de vacaciones y permisos, las Juntas y los Delegados de Personal tienen la función de:",
+   "options": [
+    "Emitir informe previo y vinculante",
+    "Aprobarlos junto con la Administración",
+    "Tener conocimiento y ser oídos",
+    "Ser informados una vez adoptada la decisión"
+   ],
+   "correct": 2,
+   "exp": "El art. 40.1.d) TREBEP atribuye a las Juntas y Delegados de Personal la función de «tener conocimiento y ser oídos en el establecimiento de la jornada laboral y horario de trabajo, así como en el régimen de vacaciones y permisos». No emiten informe vinculante ni aprueban esas condiciones, y su intervención no se reduce a ser informados a posteriori.",
+   "fuente": "Art. 40.1.d) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Tener conocimiento y ser oídos en el establecimiento de la jornada laboral y horario de trabajo, así como en el régimen de vacaciones y permisos."
+  },
+  {
+   "q": "Según el art. 41.1.d) del TREBEP, los miembros de la Junta de Personal y los Delegados de Personal de la misma candidatura que así lo manifiesten podrán acumular sus créditos horarios:",
+   "options": [
+    "Previa autorización expresa del órgano que ostente la Jefatura de Personal",
+    "Previo acuerdo unánime de la Junta de Personal reunida en pleno",
+    "Previa conformidad de la organización sindical más representativa",
+    "Previa comunicación al órgano que ostente la Jefatura de Personal"
+   ],
+   "correct": 3,
+   "exp": "El art. 41.1.d) TREBEP, tras la escala de créditos horarios, dispone que los miembros de la Junta de Personal y Delegados de Personal de la misma candidatura que así lo manifiesten «podrán proceder, previa comunicación al órgano que ostente la Jefatura de Personal ante la que aquélla ejerza su representación, a la acumulación de los créditos horarios». Basta la comunicación; no se exige autorización, acuerdo unánime de la Junta ni conformidad sindical.",
+   "fuente": "Art. 41.1.d) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "podrán proceder, previa comunicación al órgano que ostente la Jefatura de Personal ante la que aquélla ejerza su representación, a la acumulación de los créditos horarios."
+  },
+  {
+   "q": "Según el art. 43.2 del TREBEP, quienes estén legitimados para promover elecciones a Delegados y Juntas de Personal tienen derecho a que la Administración Pública correspondiente les suministre:",
+   "options": [
+    "El censo de personal de las unidades electorales afectadas",
+    "Un local y los medios materiales para la campaña electoral",
+    "La relación de puestos de trabajo con sus retribuciones",
+    "Los expedientes personales de los funcionarios afectados"
+   ],
+   "correct": 0,
+   "exp": "El art. 43.2 TREBEP dispone que los legitimados para promover elecciones «tendrán, a este efecto, derecho a que la Administración Pública correspondiente les suministre el censo de personal de las unidades electorales afectadas, distribuido por organismos o centros de trabajo». No se refiere a locales, a la relación de puestos ni a expedientes personales.",
+   "fuente": "Art. 43.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "derecho a que la Administración Pública correspondiente les suministre el censo de personal de las unidades electorales afectadas, distribuido por organismos o centros de trabajo."
+  },
+  {
+   "q": "Según el art. 44.a) del TREBEP, la elección de las Juntas de Personal y de los Delegados de Personal se realizará mediante sufragio personal, directo, libre y secreto, que:",
+   "options": [
+    "Solo podrá emitirse de forma presencial ante la Mesa Electoral",
+    "Podrá emitirse por correo o por otros medios telemáticos",
+    "Podrá delegarse en otro elector de la misma unidad electoral",
+    "Podrá emitirse por correo, pero nunca por medios telemáticos"
+   ],
+   "correct": 1,
+   "exp": "El art. 44.a) TREBEP establece como criterio general del procedimiento electoral: «La elección se realizará mediante sufragio personal, directo, libre y secreto que podrá emitirse por correo o por otros medios telemáticos». Al ser personal y directo, no cabe delegarlo, y no se limita al voto presencial ni excluye los medios telemáticos.",
+   "fuente": "Art. 44.a) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "La elección se realizará mediante sufragio personal, directo, libre y secreto que podrá emitirse por correo o por otros medios telemáticos."
+  },
+  {
+   "q": "Según el art. 44.b) del TREBEP, serán electores y elegibles en las elecciones a Delegados y Juntas de Personal los funcionarios que se encuentren en la situación de:",
+   "options": [
+    "Servicio activo o servicios especiales",
+    "Servicio activo o excedencia por cuidado de familiares",
+    "Servicio activo",
+    "Cualquier situación, salvo la suspensión firme de funciones"
+   ],
+   "correct": 2,
+   "exp": "El art. 44.b) TREBEP dispone: «Serán electores y elegibles los funcionarios que se encuentren en la situación de servicio activo». Añade que no tienen esa consideración los funcionarios que ocupen puestos cuyo nombramiento se efectúe por real decreto o por decreto de los consejos de gobierno de las comunidades autónomas y de las ciudades de Ceuta y Melilla. No se extiende a servicios especiales ni a excedencias.",
+   "fuente": "Art. 44.b) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Serán electores y elegibles los funcionarios que se encuentren en la situación de servicio activo."
+  },
+  {
+   "q": "Según el art. 44.f) del TREBEP, las reclamaciones contra las denegaciones de inscripción de actas electorales de Delegados y Juntas de Personal podrán plantearse directamente ante:",
+   "options": [
+    "La jurisdicción contencioso-administrativa",
+    "El órgano competente en materia de personal",
+    "La oficina pública de registro, en alzada",
+    "La jurisdicción social"
+   ],
+   "correct": 3,
+   "exp": "El art. 44.f) TREBEP dispone: «Las impugnaciones se tramitarán conforme a un procedimiento arbitral, excepto las reclamaciones contra las denegaciones de inscripción de actas electorales que podrán plantearse directamente ante la jurisdicción social». Esa excepción no va a la jurisdicción contencioso-administrativa ni a un recurso administrativo.",
+   "fuente": "Art. 44.f) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "excepto las reclamaciones contra las denegaciones de inscripción de actas electorales que podrán plantearse directamente ante la jurisdicción social."
+  },
+  {
+   "q": "Según el art. 45.2 del TREBEP, los sistemas de solución extrajudicial de conflictos colectivos podrán conocer de los conflictos derivados de la negociación, aplicación e interpretación de los Pactos y Acuerdos sobre las materias del art. 37:",
+   "options": [
+    "Excepto de aquellas en que exista reserva de ley",
+    "Excepto de las que afecten a retribuciones complementarias",
+    "Excepto de las relativas a jornada, vacaciones y permisos",
+    "Sin excepción, incluidas las sometidas a reserva de ley"
+   ],
+   "correct": 0,
+   "exp": "El art. 45.2 TREBEP dispone que los conflictos podrán ser «los derivados de la negociación, aplicación e interpretación de los Pactos y Acuerdos sobre las materias señaladas en el artículo 37, excepto para aquellas en que exista reserva de ley». La única exclusión es la de las materias con reserva de ley; las retribuciones complementarias y la jornada, vacaciones y permisos son materias del art. 37.1 (letras b y m).",
+   "fuente": "Art. 45.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Los conflictos a que se refiere el apartado anterior podrán ser los derivados de la negociación, aplicación e interpretación de los Pactos y Acuerdos sobre las materias señaladas en el artículo 37, excepto para aquellas en que exista reserva de ley."
+  },
+  {
+   "q": "Según el art. 46.2 del TREBEP, ¿quién será responsable del normal desarrollo de una reunión de empleados públicos celebrada en el centro de trabajo?",
+   "options": [
+    "El órgano competente en materia de personal",
+    "Los convocantes de la reunión",
+    "El jefe de la unidad administrativa del centro",
+    "La Junta de Personal del ámbito, en todo caso"
+   ],
+   "correct": 1,
+   "exp": "El art. 46.2, párrafo segundo, TREBEP dispone: «La celebración de la reunión no perjudicará la prestación de los servicios y los convocantes de la misma serán responsables de su normal desarrollo». La responsabilidad no recae en el órgano de personal, en el jefe de la unidad ni necesariamente en la Junta de Personal.",
+   "fuente": "Art. 46.2 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "La celebración de la reunión no perjudicará la prestación de los servicios y los convocantes de la misma serán responsables de su normal desarrollo."
+  },
+  {
+   "q": "Según el art. 47 bis.3 del TREBEP, el personal que preste sus servicios mediante teletrabajo tendrá los mismos deberes y derechos, individuales y colectivos, que el personal en modalidad presencial:",
+   "options": [
+    "Salvo los derechos colectivos de reunión y de representación del personal",
+    "Salvo la normativa de prevención de riesgos laborales, que no le es aplicable",
+    "Salvo los que sean inherentes a la prestación del servicio de manera presencial",
+    "Salvo el derecho a la desconexión digital y a la flexibilización horaria"
+   ],
+   "correct": 2,
+   "exp": "El art. 47 bis.3 TREBEP reconoce al personal en teletrabajo los mismos deberes y derechos, individuales y colectivos, que al personal presencial, «incluyendo la normativa de prevención de riesgos laborales que resulte aplicable, salvo aquellos que sean inherentes a la realización de la prestación del servicio de manera presencial». La prevención de riesgos le es aplicable y no se excluyen los derechos colectivos ni la desconexión digital.",
+   "fuente": "Art. 47 bis.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "salvo aquellos que sean inherentes a la realización de la prestación del servicio de manera presencial."
+  },
+  {
+   "q": "Según el art. 7 del TREBEP, en materia de permisos de nacimiento, adopción, del progenitor diferente de la madre biológica, de lactancia y parental, el personal laboral al servicio de las Administraciones Públicas se regirá por:",
+   "options": [
+    "Lo previsto en el Estatuto de los Trabajadores sobre suspensión del contrato",
+    "El convenio colectivo aplicable y, en su defecto, por el Estatuto Básico",
+    "La legislación laboral, con las mejoras que prevea el Estatuto Básico",
+    "Lo previsto en el propio Estatuto Básico del Empleado Público"
+   ],
+   "correct": 3,
+   "exp": "El art. 7, párrafo segundo, TREBEP (redacción del Real Decreto-ley 9/2025) dispone que en esas materias «el personal laboral al servicio de las Administraciones públicas se regirá por lo previsto en el presente Estatuto, no siendo de aplicación a este personal, por tanto, las previsiones del texto refundido de la Ley del Estatuto de los Trabajadores sobre las suspensiones de los contratos de trabajo que, en su caso, corresponderían por los mismos supuestos de hecho».",
+   "fuente": "Art. 7, párrafo segundo, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "el personal laboral al servicio de las Administraciones públicas se regirá por lo previsto en el presente Estatuto"
+  },
+  {
+   "q": "Según el art. 48.a) del TREBEP, en caso de fallecimiento del cónyuge, pareja de hecho o familiar dentro del primer grado de consanguinidad o afinidad, el permiso será de:",
+   "options": [
+    "Tres días hábiles en la misma localidad y cinco en distinta localidad",
+    "Dos días hábiles en la misma localidad y cuatro en distinta localidad",
+    "Cinco días hábiles, cualquiera que sea la localidad del suceso",
+    "Cuatro días hábiles en la misma localidad y seis en distinta localidad"
+   ],
+   "correct": 0,
+   "exp": "El art. 48.a), párrafo tercero, TREBEP dispone: «Cuando se trate de fallecimiento del cónyuge, pareja de hecho o familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles, cuando sea en distinta localidad». Dos y cuatro días hábiles corresponden al fallecimiento de un familiar dentro del segundo grado.",
+   "fuente": "Art. 48.a), párrafo tercero, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Cuando se trate de fallecimiento del cónyuge, pareja de hecho o familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles, cuando sea en distinta localidad."
+  },
+  {
+   "q": "Según el art. 48.f) del TREBEP, la sustitución del tiempo de lactancia por un permiso retribuido que acumule en jornadas completas el tiempo correspondiente podrá disfrutarse:",
+   "options": [
+    "Solo durante el disfrute del permiso por nacimiento, adopción o acogimiento",
+    "Solo a partir de la finalización del permiso por nacimiento, adopción o acogimiento",
+    "En cualquier momento antes de que el hijo cumpla los doce meses de edad",
+    "Solo a partir de que el hijo cumpla seis meses y previa autorización expresa"
+   ],
+   "correct": 1,
+   "exp": "El art. 48.f), párrafo tercero, TREBEP dispone: «Se podrá solicitar la sustitución del tiempo de lactancia por un permiso retribuido que acumule en jornadas completas el tiempo correspondiente. Esta modalidad se podrá disfrutar únicamente a partir de la finalización del permiso por nacimiento, adopción, guarda, acogimiento o del progenitor diferente de la madre biológica respectivo». No puede disfrutarse durante esos permisos ni en cualquier momento, y el precepto no fija la edad de seis meses.",
+   "fuente": "Art. 48.f), párrafo tercero, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Esta modalidad se podrá disfrutar únicamente a partir de la finalización del permiso por nacimiento, adopción, guarda, acogimiento o del progenitor diferente de la madre biológica respectivo."
+  },
+  {
+   "q": "Según el art. 48.i) del TREBEP, si hubiera más de un titular del derecho a la reducción de jornada para atender el cuidado de un familiar de primer grado por enfermedad muy grave, por el mismo hecho causante:",
+   "options": [
+    "Cada uno podrá disfrutar íntegramente la reducción durante el plazo de un mes",
+    "Solo podrá ejercerlo quien lo solicite en primer lugar, durante un mes",
+    "Podrá prorratearse entre ellos, respetando en todo caso el plazo máximo de un mes",
+    "El plazo máximo se ampliará a dos meses, a repartir entre los titulares"
+   ],
+   "correct": 2,
+   "exp": "El art. 48.i), párrafo segundo, TREBEP dispone: «Si hubiera más de un titular de este derecho por el mismo hecho causante, el tiempo de disfrute de esta reducción se podrá prorratear entre los mismos, respetando en todo caso, el plazo máximo de un mes». No se multiplica por titular, no se reserva al primer solicitante ni se amplía a dos meses.",
+   "fuente": "Art. 48.i), párrafo segundo, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Si hubiera más de un titular de este derecho por el mismo hecho causante, el tiempo de disfrute de esta reducción se podrá prorratear entre los mismos, respetando en todo caso, el plazo máximo de un mes."
+  },
+  {
+   "q": "Según el art. 48.m) del TREBEP, en vigor desde el 3 de marzo de 2025, los funcionarios tendrán permiso para la realización de los actos preparatorios de la donación de órganos o tejidos:",
+   "options": [
+    "Por un día hábil, ampliable a dos si es en distinta localidad",
+    "Por tres días hábiles, cualquiera que sea el lugar en que se realicen",
+    "Por el tiempo indispensable, aunque tengan lugar fuera de la jornada",
+    "Por el tiempo indispensable, si deben tener lugar dentro de la jornada"
+   ],
+   "correct": 3,
+   "exp": "La letra m) del art. 48 TREBEP, añadida por la Ley 6/2024 con entrada en vigor el 3 de marzo de 2025, reconoce el permiso «Por el tiempo indispensable para la realización de los actos preparatorios de la donación de órganos o tejidos siempre que deban tener lugar dentro de la jornada de trabajo». No fija un número de días y exige que los actos coincidan con la jornada.",
+   "fuente": "Art. 48.m) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Por el tiempo indispensable para la realización de los actos preparatorios de la donación de órganos o tejidos siempre que deban tener lugar dentro de la jornada de trabajo."
+  },
+  {
+   "q": "Según el art. 49.c) del TREBEP, el permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija tendrá, con carácter general, una duración de:",
+   "options": [
+    "Diecinueve semanas",
+    "Dieciséis semanas",
+    "Doce semanas",
+    "Veintiséis semanas"
+   ],
+   "correct": 0,
+   "exp": "El art. 49.c) TREBEP, en la redacción dada por el Real Decreto-ley 9/2025, dispone que este permiso «tendrá una duración de diecinueve semanas»; en el supuesto de monoparentalidad será de treinta y dos semanas.",
+   "fuente": "Art. 49.c) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija: tendrá una duración de diecinueve semanas."
+  },
+  {
+   "q": "Según el art. 49.a) del TREBEP, en los casos de parto prematuro o en que el neonato deba permanecer hospitalizado a continuación del parto, el permiso por nacimiento para la madre biológica se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de:",
+   "options": [
+    "Seis semanas adicionales",
+    "Trece semanas adicionales",
+    "Diez semanas adicionales",
+    "Dieciséis semanas adicionales"
+   ],
+   "correct": 1,
+   "exp": "El art. 49.a), párrafo tercero, TREBEP dispone que en esos casos «este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales». La misma regla figura en el art. 49.c) para el permiso del progenitor diferente de la madre biológica.",
+   "fuente": "Art. 49.a), párrafo tercero, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales."
+  },
+  {
+   "q": "Según el art. 49.a) del TREBEP, en el supuesto de discapacidad del hijo o hija, el permiso por nacimiento se ampliará:",
+   "options": [
+    "Solo para la madre biológica, en dos semanas más",
+    "Para ambos progenitores, en cuatro semanas más",
+    "Para ambos progenitores, en dos semanas más",
+    "Solo para la madre biológica, en cuatro semanas más"
+   ],
+   "correct": 2,
+   "exp": "El art. 49.a), párrafo quinto, TREBEP dispone: «Este permiso se ampliará para ambos progenitores en dos semanas más en el supuesto de discapacidad del hijo o hija y, por cada hijo o hija a partir del segundo en los supuestos de parto múltiple, una para cada uno de los progenitores». La ampliación es de dos semanas y alcanza a ambos progenitores.",
+   "fuente": "Art. 49.a), párrafo quinto, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Este permiso se ampliará para ambos progenitores en dos semanas más en el supuesto de discapacidad del hijo o hija"
+  },
+  {
+   "q": "Según el art. 49.a) del TREBEP, en el caso del disfrute interrumpido del permiso por nacimiento para la madre biológica, para cada período de disfrute se requerirá:",
+   "options": [
+    "Un preaviso de al menos un mes, y se realizará por semanas completas",
+    "Un preaviso de al menos diez días, y podrá realizarse por días sueltos",
+    "Autorización previa del órgano de personal, y se realizará por quincenas",
+    "Un preaviso de al menos quince días, y se realizará por semanas completas"
+   ],
+   "correct": 3,
+   "exp": "El art. 49.a) TREBEP dispone: «En el caso del disfrute interrumpido del permiso se requerirá, para cada período de disfrute, un preaviso de al menos quince días y se realizará por semanas completas». La misma regla se repite en las letras b) y c).",
+   "fuente": "Art. 49.a) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "En el caso del disfrute interrumpido del permiso se requerirá, para cada período de disfrute, un preaviso de al menos quince días y se realizará por semanas completas."
+  },
+  {
+   "q": "Según el art. 49.a) del TREBEP, en caso de fallecimiento de la madre, el otro progenitor:",
+   "options": [
+    "Podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso",
+    "No podrá hacer uso del permiso, al ser un derecho intransferible de la madre",
+    "Solo podrá disfrutar las seis semanas de descanso obligatorio que no se consumieron",
+    "Podrá hacer uso de la parte que reste de permiso, con un máximo de diez semanas"
+   ],
+   "correct": 0,
+   "exp": "El art. 49.a) TREBEP dispone: «En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso». Aunque el permiso es un derecho individual de la madre biológica que no puede transferirse, el precepto prevé expresamente este supuesto, sin limitarlo al descanso obligatorio ni a un número máximo de semanas.",
+   "fuente": "Art. 49.a) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso."
+  },
+  {
+   "q": "Según el art. 49 del TREBEP, durante el disfrute del permiso por nacimiento, por adopción, guarda o acogimiento o del progenitor diferente de la madre biológica, ¿se podrá participar en los cursos de formación que convoque la Administración?",
+   "options": [
+    "No, en ningún momento mientras dure el permiso",
+    "Sí, una vez finalizado el período de descanso obligatorio",
+    "Sí, en cualquier momento, incluido el descanso obligatorio",
+    "Sí, pero solo durante las dos últimas semanas del permiso"
+   ],
+   "correct": 1,
+   "exp": "Las letras a), b) y c) del art. 49 TREBEP disponen: «Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración». Durante las seis semanas de descanso obligatorio no cabe, y después no hay más límite temporal que ese.",
+   "fuente": "Art. 49.a), b) y c) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración."
+  },
+  {
+   "q": "Según el art. 49.d) del TREBEP, las faltas de asistencia, totales o parciales, de las funcionarias víctimas de violencia de género o de violencia sexual tendrán la consideración de justificadas:",
+   "options": [
+    "Por un máximo de diez días hábiles al año, previa denuncia ante la autoridad judicial",
+    "Por el tiempo que fije el órgano de personal, previo informe de la Junta de Personal",
+    "Por el tiempo y en las condiciones que determinen los servicios sociales de atención o de salud",
+    "Cuando exista orden de protección o sentencia judicial firme que lo acredite, y por su duración"
+   ],
+   "correct": 2,
+   "exp": "El art. 49.d) TREBEP dispone que «las faltas de asistencia de las funcionarias víctimas de violencia de género o de violencia sexual, totales o parciales, tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o de salud según proceda». No fija un máximo de días, no lo decide el órgano de personal y no exige orden de protección ni sentencia.",
+   "fuente": "Art. 49.d) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o de salud según proceda."
+  },
+  {
+   "q": "Según el art. 49.e) del TREBEP, siempre que ambas personas progenitoras, adoptantes, guardadoras con fines de adopción o acogedoras de carácter permanente trabajen, el funcionario tendrá derecho, para el cuidado del hijo menor afectado por cáncer u otra enfermedad grave, a una reducción de jornada:",
+   "options": [
+    "De hasta la mitad de su duración, con disminución proporcional de retribuciones",
+    "De al menos un tercio de su duración, percibiendo las retribuciones íntegras",
+    "De hasta un tercio de su duración, con disminución proporcional de retribuciones",
+    "De al menos la mitad de su duración, percibiendo las retribuciones íntegras"
+   ],
+   "correct": 3,
+   "exp": "El art. 49.e) TREBEP reconoce el derecho «a una reducción de la jornada de trabajo de al menos la mitad de la duración de aquélla, percibiendo las retribuciones íntegras con cargo a los presupuestos del órgano o entidad donde venga prestando sus servicios». La reducción mínima es la mitad y se cobran las retribuciones íntegras (salvo el supuesto del párrafo cuarto, en que la otra persona progenitora cobre sus retribuciones íntegras por este permiso o como beneficiaria de la prestación de la Seguridad Social).",
+   "fuente": "Art. 49.e), párrafo primero, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "a una reducción de la jornada de trabajo de al menos la mitad de la duración de aquélla, percibiendo las retribuciones íntegras"
+  },
+  {
+   "q": "Según el art. 49.e), párrafo primero, del TREBEP, la reducción de jornada por cuidado de hijo afectado por cáncer u otra enfermedad grave podrá mantenerse, como máximo, hasta que el hijo cumpla:",
+   "options": [
+    "Los 23 años",
+    "Los 18 años",
+    "Los 21 años",
+    "Los 25 años"
+   ],
+   "correct": 0,
+   "exp": "El art. 49.e), párrafo primero, TREBEP fija el límite «como máximo, hasta que el hijo o persona que hubiere sido objeto de acogimiento permanente o guarda con fines de adopción cumpla los 23 años», y añade que el mero cumplimiento de los 18 años no extingue la reducción si se mantiene la necesidad de cuidado. Los párrafos siguientes prevén excepciones: hasta los 26 años si antes de los 23 se acredita una discapacidad igual o superior al 65 por ciento y, desde el 23 de octubre de 2026 (Ley 4/2026), prórroga en casos de gran discapacidad o gran dependencia.",
+   "fuente": "Art. 49.e), párrafo primero, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "como máximo, hasta que el hijo o persona que hubiere sido objeto de acogimiento permanente o guarda con fines de adopción cumpla los 23 años."
+  },
+  {
+   "q": "Según el art. 49.g) del TREBEP, cuando concurran en ambas personas progenitoras las circunstancias para tener derecho al permiso parental por el mismo sujeto y hecho causante, y su disfrute en el período solicitado altere seriamente el correcto funcionamiento de la unidad en la que ambas presten servicios, la Administración podrá:",
+   "options": [
+    "Denegarlo a uno de los dos progenitores, motivándolo por escrito y oída la Junta de Personal",
+    "Aplazarlo un período razonable, justificándolo por escrito tras ofrecer una alternativa más flexible",
+    "Reducir a la mitad la duración del permiso de cada progenitor, previa comunicación a ambos",
+    "Aplazarlo hasta que el menor cumpla doce años, sin necesidad de justificarlo por escrito"
+   ],
+   "correct": 1,
+   "exp": "El art. 49.g), párrafo cuarto, TREBEP dispone que en ese caso la unidad de la administración «podrá aplazar la concesión del permiso por un período razonable, justificándolo por escrito y después de haber ofrecido una alternativa de disfrute más flexible». No permite denegarlo ni reducir su duración, y el aplazamiento exige justificación escrita.",
+   "fuente": "Art. 49.g), párrafo cuarto, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "esta podrá aplazar la concesión del permiso por un período razonable, justificándolo por escrito y después de haber ofrecido una alternativa de disfrute más flexible."
+  },
+  {
+   "q": "Según el art. 50.1 del TREBEP, a los efectos del derecho de los funcionarios públicos a las vacaciones anuales retribuidas:",
+   "options": [
+    "Los sábados serán días hábiles, salvo que sean festivos en la localidad",
+    "Se computarán por días naturales, excluidos solo los domingos y festivos",
+    "Los sábados no son días hábiles, salvo adaptaciones de horarios especiales",
+    "Los sábados se computarán como medio día hábil a efectos de vacaciones"
+   ],
+   "correct": 2,
+   "exp": "El art. 50.1, párrafo segundo, TREBEP dispone: «A los efectos de lo previsto en el presente artículo, no se considerarán como días hábiles los sábados, sin perjuicio de las adaptaciones que se establezcan para los horarios especiales». Las vacaciones se computan en días hábiles y los sábados no lo son.",
+   "fuente": "Art. 50.1, párrafo segundo, TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "A los efectos de lo previsto en el presente artículo, no se considerarán como días hábiles los sábados, sin perjuicio de las adaptaciones que se establezcan para los horarios especiales."
+  },
+  {
+   "q": "Según el art. 50.3 del TREBEP, en los casos de renuncia voluntaria:",
+   "options": [
+    "Se abonará una compensación económica por las vacaciones no disfrutadas",
+    "Se perderá el derecho a las vacaciones devengadas y no disfrutadas",
+    "El funcionario podrá optar entre disfrutar las vacaciones o cobrarlas",
+    "Deberá garantizarse en todo caso el disfrute de las vacaciones devengadas"
+   ],
+   "correct": 3,
+   "exp": "El art. 50.3 TREBEP establece que el período de vacaciones anuales retribuidas no puede ser sustituido por una cuantía económica y añade: «En los casos de renuncia voluntaria deberá garantizarse en todo caso el disfrute de las vacaciones devengadas». La compensación económica solo procede cuando la relación de servicios concluye por causas ajenas a la voluntad del funcionario.",
+   "fuente": "Art. 50.3 TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "En los casos de renuncia voluntaria deberá garantizarse en todo caso el disfrute de las vacaciones devengadas."
+  },
+  {
+   "q": "Según la disposición adicional decimotercera del TREBEP, las Administraciones Públicas podrán establecer días adicionales de permiso por asuntos particulares por antigüedad:",
+   "options": [
+    "Hasta dos al cumplir el sexto trienio, y como máximo uno más por cada trienio a partir del octavo",
+    "Hasta dos al cumplir el quinto trienio, y como máximo uno más por cada trienio a partir del séptimo",
+    "Hasta uno al cumplir el sexto trienio, y como máximo uno más por cada trienio a partir del octavo",
+    "Hasta dos al cumplir el sexto trienio, y como máximo dos más por cada trienio a partir del octavo"
+   ],
+   "correct": 0,
+   "exp": "La disposición adicional decimotercera TREBEP dispone: «Las Administraciones Públicas podrán establecer hasta dos días adicionales de permiso por asuntos particulares al cumplir el sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo». Es una facultad («podrán») de cada Administración.",
+   "fuente": "Disposición adicional decimotercera TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Las Administraciones Públicas podrán establecer hasta dos días adicionales de permiso por asuntos particulares al cumplir el sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del octavo."
+  },
+  {
+   "q": "Según la disposición adicional decimosexta del TREBEP, cada Administración Pública podrá establecer para las funcionarias en estado de gestación un permiso retribuido, hasta la fecha del parto, a partir del día primero de la semana:",
+   "options": [
+    "36 de embarazo, o de la semana 34 en caso de gestación múltiple",
+    "37 de embarazo, o de la semana 35 en caso de gestación múltiple",
+    "38 de embarazo, o de la semana 36 en caso de gestación múltiple",
+    "37 de embarazo, sin adelanto en el caso de gestación múltiple"
+   ],
+   "correct": 1,
+   "exp": "La disposición adicional decimosexta TREBEP dispone: «Cada Administración Pública, en su ámbito, podrá establecer a las funcionarias en estado de gestación, un permiso retribuido, a partir del día primero de la semana 37 de embarazo, hasta la fecha del parto. En el supuesto de gestación múltiple, este permiso podrá iniciarse el primer día de la semana 35 de embarazo, hasta la fecha de parto». Es una facultad de cada Administración, no un permiso de reconocimiento obligatorio.",
+   "fuente": "Disposición adicional decimosexta TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "Cada Administración Pública, en su ámbito, podrá establecer a las funcionarias en estado de gestación, un permiso retribuido, a partir del día primero de la semana 37 de embarazo, hasta la fecha del parto."
+  }
+ ]
+}
