@@ -1,103 +1,39 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 14,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Según el art. 10.4 de la Ley 10/2017, el dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno corresponde a:",
+      "q": "Según el art. 122.5 de la LBRL, en los municipios de gran población el nombramiento del secretario general del Pleno corresponde:",
       "options": [
-        "Las Comisiones del Pleno",
-        "El Gobierno de Zaragoza",
-        "La Junta de Portavoces",
-        "El Consejo Social de la Ciudad"
+        "A la Junta de Gobierno Local, como ocurre con los demás órganos directivos",
+        "Al Presidente, en los términos previstos en la disposición adicional octava",
+        "Al Pleno, por mayoría absoluta del número legal de miembros de la Corporación",
+        "A las Comisiones del Pleno, de las que también es secretario por ley"
       ],
-      "correct": 0,
-      "exp": "El art. 10.4.b) atribuye a las Comisiones del Pleno «el dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno». Es una especialidad de Zaragoza: el art. 122.4 LBRL no menciona expresamente esta función. Al Gobierno de Zaragoza le corresponde aprobar los proyectos (art. 14.1.a), no dictaminarlos; la Junta de Portavoces y el Consejo Social de la Ciudad no tienen esa función.",
-      "fuente": "Art. 10.4.b Ley 10/2017 (capitalidad de Zaragoza)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Art. 10.4.b verificado y la respuesta es correcta, pero repite en el fondo preguntas del tema 16, cuyo epígrafe es la aprobación de ordenanzas en la ley de capitalidad. Las preguntas de los arts. 48.3 (orden de fases: «dictamen de la Comisión plenaria» antes de la aprobación por el Pleno), 48.4.a (remisión a la Comisión plenaria para dictamen) y 49.a ya preguntan que la Comisión del Pleno dictamina la ordenanza antes de que la apruebe el Pleno. Exp: es exacto que el art. 122.4 LBRL no recoge esa función. | Revisor 2 (RECHAZADA): Es correcta según el art. 10.4.b, pero repite en el fondo preguntas del tema 16 que ya enseñan que el dictamen previo a la aprobación plenaria de ordenanzas y Reglamentos corresponde a la Comisión del Pleno: t16.137 (art. 48.3.c, remisión a la Comisión plenaria para dictamen), t16.145 y t16.141. También se solapa con t16.42 (dictamen de la Comisión informativa en el régimen común).",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 11.3 de la Ley 10/2017, la atribución del Pleno de proponer al Gobierno de Aragón que ejerza la iniciativa legislativa ante las Cortes de Aragón para modificar esa Ley:",
-      "options": [
-        "Puede delegarse en el Alcalde y en el Gobierno de Zaragoza, salvo que su aprobación exija una mayoría especial",
-        "No puede ser objeto de delegación en ningún caso, por afectar al régimen especial del municipio",
-        "Solo puede delegarse en las Comisiones del Pleno, con el voto favorable de la mayoría absoluta",
-        "Puede delegarse únicamente en la Junta de Portavoces, previo dictamen del Consejo Jurídico Municipal"
-      ],
-      "correct": 0,
-      "exp": "Esta atribución figura en el art. 11.1.r). El art. 11.3, en su último inciso, dispone: «El Pleno puede delegar en el Alcalde y en el Gobierno de Zaragoza el ejercicio de las atribuciones enunciadas en la letra r), salvo que su aprobación exija una mayoría especial». La letra r) no está entre las indelegables ni entre las que solo se delegan en Comisiones, y la Ley no prevé delegarla en la Junta de Portavoces.",
-      "fuente": "Art. 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "correct": 1,
+      "exp": "Art. 122.5 LBRL, último párrafo: «Su nombramiento corresponderá al Presidente en los términos previstos en la disposición adicional octava». Por eso no lo nombra la Junta de Gobierno Local, aunque el art. 127.1 i) le atribuya el nombramiento de los titulares de los órganos directivos, porque ese mismo precepto deja a salvo la disposición adicional octava. Tampoco lo nombran el Pleno ni las Comisiones, aunque sea también secretario de estas. En Zaragoza el Pleno lo preside el Alcalde, salvo los supuestos de la legislación electoral y la delegación en un concejal (art. 10.1 Ley 10/2017; art. 122.2 LBRL).",
+      "fuente": "Art. 122.5, último párrafo, LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 11.3, último inciso, verificado: «El Pleno puede delegar en el Alcalde y en el Gobierno de Zaragoza ... la letra r), salvo que su aprobación exija una mayoría especial». La letra r) no figura en las dos primeras listas del art. 11.3. Nota: el art. 123.3 LBRL (básico) solo permite delegar las letras d), k), m) y ñ), y solo en comisiones. Pero el enunciado se ciñe al art. 11.3, que está vigente, no anulado y sin nota en el consolidado (la STC 137/2018 solo anuló el art. 14.1.u). Sin repetición. | Revisor 2 (CONFIRMADA): Art. 11.3, último inciso, comprobado: la letra r) es delegable en el Alcalde y el Gobierno de Zaragoza, salvo que exija mayoría especial. No está en las listas de indelegables ni en la de «solo Comisiones». Distractores falsos. | Sesión principal: apartada por prudencia; el art. 11.3 Ley 10/2017 choca con el art. 123.3 LBRL (básico), que solo permite delegar en comisiones.",
+      "notaRevision": "Revisor 1 (DUDOSA): Respuesta literal correcta (art. 122.5, último párrafo: «Su nombramiento corresponderá al Presidente en los términos previstos en la DA 8.ª») y distractores falsos (127.1 i deja a salvo la DA 8.ª). Pero la última frase de la explicación da a entender que «Presidente» es el presidente del Pleno, que en Zaragoza puede ser un concejal por delegación (art. 10.1 Ley 10/2017); el RD 128/2018 (art. 46.3, libre designación, y DA 4.ª.3) atribuye la resolución al Presidente de la Corporación, es decir, al Alcalde. Arreglo: sustituir esa frase por «En Zaragoza, el Alcalde como Presidente de la Corporación; la provisión es por libre designación o concurso (DA 4.ª.3 RD 128/2018)» o suprimirla. No solapa con t14.81 ni t14.138. | Revisor 2 (CONFIRMADA): Art. 122.5, último párrafo LBRL literal: nombramiento por el Presidente en los términos de la DA 8.ª. Distractores falsos (art. 127.1 i) salva la DA 8.ª; Ley 10/2017 art. 14.1 j) igual). En Zaragoza preside el Pleno el Alcalde salvo delegación (art. 10.1 Ley 10/2017): exacto. Nota: la provisión real del puesto se rige por el art. 92 bis LBRL (concurso estatal tras el RDL 13/2026 o libre designación); la pregunta se ciñe al texto del 122.5, que no está anulado ni modificado. No repite la existente sobre el 122.5 (reserva a habilitados).",
       "_motivo": "veredicto DUDOSA"
     },
     {
-      "q": "Según el art. 12.3 de la Ley 10/2017, la dirección y otras funciones relativas a la Policía Local:",
+      "q": "Según el art. 130.2 de la LBRL, en los municipios de gran población tienen también la consideración de órganos directivos:",
       "options": [
-        "Pueden delegarse en un Concejal, salvo la superior Jefatura",
-        "No pueden delegarse en ningún caso, por ser indelegable la Jefatura",
-        "Solo pueden delegarse en el Gobierno de Zaragoza, incluida la Jefatura",
-        "Pueden delegarse en el jefe del Cuerpo, incluida la superior Jefatura"
-      ],
-      "correct": 0,
-      "exp": "La Jefatura de la Policía Local es atribución del Alcalde (art. 12.1.j) y es indelegable (art. 12.2). Pero el art. 12.3 precisa: «La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, podrán ser objeto de delegación en un Concejal». Por tanto, sí cabe delegar la dirección, pero en un Concejal y sin incluir la superior Jefatura.",
-      "fuente": "Art. 12.3 Ley 10/2017 (capitalidad de Zaragoza)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Art. 12.3, segundo inciso, verificado y la respuesta es correcta, pero repite en el fondo T21 [EXAMEN OFICIAL 31-may-2026, P2] (arts. 12.2 y 12.3). Esa pregunta ya plantea si la dirección y otras funciones de la Policía Local se pueden delegar en el Gobierno de Zaragoza, y la respuesta depende de esta misma regla: solo en un Concejal y sin la superior Jefatura. | Revisor 2 (CONFIRMADA): Art. 12.3, segundo inciso, comprobado literalmente. Distractores falsos (la Jefatura es indelegable según los arts. 12.1.j y 12.2). Hay un solapamiento parcial con t21.76 (examen), donde «delegar en el Gobierno de Zaragoza la dirección de la Policía Local» aparece solo como distractor. Esta pregunta añade el destinatario (un Concejal) y la salvedad de la superior Jefatura, así que no la considero repetición.",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 14.1 de la Ley 10/2017, la aprobación de las bases reguladoras de las subvenciones que hayan de otorgarse en régimen de concurrencia competitiva corresponde a:",
-      "options": [
-        "El Pleno",
-        "El Alcalde",
-        "El Gobierno de Zaragoza",
-        "La Comisión del Pleno competente"
+        "Los concejales presidentes de las Juntas Municipales de distrito y los alcaldes de barrio",
+        "Los portavoces de los grupos políticos municipales que forman la Junta de Portavoces",
+        "Los titulares de los máximos órganos de dirección de los organismos autónomos y entidades públicas empresariales locales",
+        "Los representantes de las organizaciones vecinales en el Consejo Social de la Ciudad"
       ],
       "correct": 2,
-      "exp": "El art. 14.1.o) atribuye al Gobierno de Zaragoza «la aprobación de las bases reguladoras de las subvenciones que hayan de otorgarse en régimen de concurrencia competitiva». Es una de las atribuciones que el art. 14.2 le permite delegar o desconcentrar. La Ley no la atribuye ni al Pleno, ni al Alcalde, ni a una Comisión del Pleno.",
-      "fuente": "Art. 14.1.o Ley 10/2017 (capitalidad de Zaragoza)",
+      "exp": "Art. 130.2 LBRL: «Tendrán también la consideración de órganos directivos, los titulares de los máximos órganos de dirección de los organismos autónomos y de las entidades públicas empresariales locales, de conformidad con lo establecido en el artículo 85 bis, párrafo b)». Los presidentes de distrito, los portavoces y los miembros del Consejo Social no figuran ni en el art. 130.1 B) ni en el 130.2.",
+      "fuente": "Art. 130.2 LBRL (Ley 7/1985)",
       "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Punto 2 del redactor: «El Pleno» también es defendible. El art. 14.1.o atribuye las bases al Gobierno de Zaragoza. Pero el art. 17.2 de la Ley 38/2003 (BOE-A-2003-20977) dispone que las bases reguladoras de las subvenciones de las corporaciones locales «se deberán aprobar en el marco de las bases de ejecución del presupuesto, a través de una ordenanza general de subvenciones o mediante una ordenanza específica». Las dos vías son del Pleno (arts. 11.1.d y 11.1.h Ley 10/2017). Ese apartado no es básico (DF 1.ª LGS), pero la misma regla está en Derecho aragonés posterior y aplicable a las entidades locales de Aragón: DLeg 2/2023, art. 11.2, último párrafo (BOE-A-2023-12919, ámbito del art. 2.3). Hay conflicto normativo y la opción «El Pleno» puede defenderse. | Revisor 2 (CONFIRMADA): Art. 14.1.o comprobado literalmente. El enunciado se ciñe a la Ley 10/2017, y la propia regla 9 de las instrucciones cita las bases de subvenciones como atribución del Gobierno de Zaragoza. Distractores falsos según esa Ley. Sin repeticiones.",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 14.1 de la Ley 10/2017, la aprobación de los precios o tarifas de los servicios municipales de transporte urbano de viajeros y autotaxis corresponde:",
-      "options": [
-        "Al Pleno, previo dictamen vinculante de la Comisión de Precios de la Comunidad Autónoma de Aragón",
-        "Al Gobierno de Zaragoza, informando, en su caso, a la Comisión de Precios de la Comunidad Autónoma de Aragón",
-        "Al Gobierno de Aragón, a propuesta del Ayuntamiento de Zaragoza y previo informe del Consejo Bilateral",
-        "Al Alcalde, que da cuenta posteriormente a la Comisión del Pleno competente en materia de movilidad"
-      ],
-      "correct": 1,
-      "exp": "El art. 14.1.p) atribuye al Gobierno de Zaragoza «la aprobación de los precios o tarifas de los servicios municipales de transporte urbano de viajeros y autotaxis, informando, en su caso, a la Comisión de Precios de la Comunidad Autónoma de Aragón». La Comisión de Precios es informada, no dictamina con carácter vinculante; y la aprobación no corresponde al Pleno, al Gobierno de Aragón ni al Alcalde.",
-      "fuente": "Art. 14.1.p Ley 10/2017 (capitalidad de Zaragoza)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): El texto del art. 14.1.p es literal, pero choca con la regla 10. El art. 20.6 TRLRHL, añadido por la DF 12.ª de la LCSP con efectos de 9-mar-2018 (posterior a la entrada en vigor de la Ley 10/2017, 21-dic-2017), establece que las contraprestaciones por servicios públicos prestados en concesión, por sociedades de economía mixta o por otras personificaciones privadas son prestaciones patrimoniales de carácter público no tributario que «se regularán mediante ordenanza», es decir, por el Pleno. Además, durante la aprobación de esa ordenanza se pide informe preceptivo a las Administraciones con facultades de intervención. Así, el distractor «Al Pleno» queda cerca del régimen real, y la exp («la aprobación no corresponde al Pleno») puede ser inexacta. Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 14.1.p comprobado: el Gobierno de Zaragoza aprueba e informa, en su caso, a la Comisión de Precios. Distractores falsos. Sin repeticiones.",
-      "_motivo": "veredicto RECHAZADA"
-    },
-    {
-      "q": "Según el art. 131.2 de la LBRL, al Consejo Social de la Ciudad le corresponde, además de las funciones que determine el Pleno mediante normas orgánicas, la emisión de informes, estudios y propuestas en materia de:",
-      "options": [
-        "Presupuestos municipales, ordenanzas fiscales y precios públicos de los servicios municipales",
-        "Quejas vecinales, deficiencias de los servicios y sugerencias no admitidas por la Administración",
-        "Desarrollo económico local, planificación estratégica de la ciudad y grandes proyectos urbanos",
-        "Organización de los distritos, procesos de participación ciudadana y consultas populares"
-      ],
-      "correct": 2,
-      "exp": "El art. 131.2 atribuye al Consejo Social de la Ciudad «la emisión de informes, estudios y propuestas en materia de desarrollo económico local, planificación estratégica de la ciudad y grandes proyectos urbanos». Las quejas, deficiencias de los servicios y sugerencias no admitidas son materia de la Comisión especial de Sugerencias y Reclamaciones (art. 132.3). El dictamen de los proyectos de ordenanzas fiscales corresponde al órgano de reclamaciones económico-administrativas (art. 137.1.b).",
-      "fuente": "Art. 131.2 LBRL (Ley 7/1985)",
-      "confianza": "alta",
-      "veredicto": "RECHAZADA",
-      "notaRevision": "Revisor 1 (RECHAZADA): Art. 131.2 verificado y la respuesta es correcta, pero repite en el fondo una pregunta del tema 15: «Según el art. 83 del ROTPC, el Consejo de la Ciudad de Zaragoza se centra esencialmente en el campo de: el desarrollo local, la planificación estratégica urbana y los grandes proyectos urbanos del municipio». Es el mismo contenido (el Consejo Social de Zaragoza) en otra norma. | Revisor 2 (RECHAZADA): Es correcta según el art. 131.2 LBRL, pero repite en el fondo t15.63 (art. 83 ROTPC): el Consejo de la Ciudad de Zaragoza, que es el Consejo Social de la Ciudad, se centra en «el desarrollo local, la planificación estratégica urbana y los grandes proyectos urbanos». Es el mismo contenido preguntado con otras palabras.",
-      "_motivo": "veredicto RECHAZADA"
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Art. 130.2 LBRL literal y distractores falsos, pero la correcta (120 caracteres) es un 40 % más larga que los distractores (84-89) y la única con detalle técnico: se acierta por la forma (regla 7 bis). Arreglo: acortarla, p. ej. «Los titulares de los máximos órganos de dirección de los organismos autónomos locales», o alargar los distractores con detalle equivalente. No repite t14.73. | Revisor 2 (DUDOSA): Contenido correcto: art. 130.2 LBRL literal (titulares de los máximos órganos de dirección de OOAA y EPE locales); no repite la existente que cita el 130.2 pero pregunta por coordinadores y directores generales. Pero la correcta mide 120 caracteres frente a 84-89 de los distractores (1,35) y es la única de tipo técnico-gerencial frente a tres figuras políticas o representativas: se acierta por la forma (regla 7 bis). Arreglo: acortar la correcta a «Los titulares de los máximos órganos de dirección de los organismos autónomos locales» y usar distractores del mismo tipo y longitud (p. ej., «Los gerentes de las sociedades mercantiles locales de capital mixto», «Los jefes de servicio de las áreas de gobierno municipales», «Los presidentes de los consejos sectoriales de participación»), comprobando que ninguno figure en el 130.",
+      "_motivo": "veredicto DUDOSA"
     }
   ]
 }

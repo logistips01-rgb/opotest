@@ -64429,3 +64429,501 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 14 · lote 2026-10-24 · 38 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 14, [
+  {
+    "q": "Según el art. 54.2 del Reglamento de Población y Demarcación Territorial, las personas menores de edad no emancipadas tendrán la misma vecindad que:",
+    "options": [
+      "Los padres que tengan su guarda y custodia o, en su defecto, sus representantes legales",
+      "El progenitor de mayor edad, salvo resolución judicial que disponga otra cosa",
+      "El municipio en el que nacieron, hasta que alcancen la mayoría de edad",
+      "El progenitor que solicitó su primera inscripción en el padrón municipal"
+    ],
+    "correct": 0,
+    "exp": "Art. 54.2 RPDT (redacción del RD 141/2024): «Las personas menores de edad no emancipadas tendrán la misma vecindad que los padres que tengan su guarda y custodia o, en su defecto, de sus representantes legales, salvo autorización por escrito de éstos para residir en otro domicilio o municipio». El Reglamento no atiende a la edad del progenitor, al lugar de nacimiento ni a quién pidió la primera inscripción.",
+    "fuente": "Art. 54.2 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.3 del Reglamento de Población y Demarcación Territorial, la inscripción en el padrón de una persona que reside en el municipio pero carece de domicilio en él solo podrá llevarse a cabo después de:",
+    "options": [
+      "Haber comprobado la Policía Local su residencia efectiva mediante un informe",
+      "Haber puesto el hecho en conocimiento de los servicios sociales competentes",
+      "Haber acreditado al menos seis meses de residencia continuada en el municipio",
+      "Haber obtenido la autorización previa de la Delegación provincial del INE"
+    ],
+    "correct": 1,
+    "exp": "Art. 54.3 RPDT: «La inscripción en el padrón municipal de personas que residiendo en el municipio carezcan de domicilio en el mismo sólo se podrá llevar a cabo después de haber puesto el hecho en conocimiento de los servicios sociales competentes en el ámbito geográfico donde esa persona resida». El precepto no exige informe policial, un tiempo mínimo de residencia ni autorización del INE.",
+    "fuente": "Art. 54.3 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61 del Reglamento de Población y Demarcación Territorial, los volantes de empadronamiento que pueden expedir los Ayuntamientos son:",
+    "options": [
+      "Documentos públicos y fehacientes para todos los efectos administrativos, como las certificaciones",
+      "Documentos que expide el INE a partir de los datos padronales que obran en su poder",
+      "Documentos de carácter puramente informativo, sin las formalidades de las certificaciones",
+      "Documentos que solo pueden expedirse mediante actuación administrativa automatizada"
+    ],
+    "correct": 2,
+    "exp": "Art. 61 RPDT, párrafo segundo: «Los Ayuntamientos podrán expedir volantes de empadronamiento, como documentos de carácter puramente informativo en los que no serán necesarias las formalidades previstas para las certificaciones». El carácter de documento público y fehaciente es de las certificaciones (art. 53.1 RPDT y art. 16.1 LBRL). El art. 83.3 RPDT prohíbe que los datos padronales del INE sirvan de base para expedir certificaciones o volantes. La actuación automatizada es una posibilidad que el mismo art. 61 prevé para las certificaciones, no una exigencia.",
+    "fuente": "Art. 61 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 63 del Reglamento de Población y Demarcación Territorial, las Oficinas del Registro Civil y el Ministerio del Interior deben remitir la información sobre variaciones de los datos padronales obligatorios, como mínimo:",
+    "options": [
+      "Trimestralmente",
+      "Semestralmente",
+      "Anualmente",
+      "Mensualmente"
+    ],
+    "correct": 3,
+    "exp": "Art. 63 RPDT, último párrafo: «En los casos de las Oficinas del Registro Civil y del Ministerio del Interior, la remisión de los datos deberá efectuarse al menos mensualmente». El Registro Civil comunica nacimientos, defunciones y cambios de nombre, apellidos, sexo y nacionalidad. El Ministerio del Interior comunica las expediciones de DNI, de tarjetas de identidad de extranjero y de certificados del número de identidad de extranjero. La información llega a cada Ayuntamiento a través del Instituto Nacional de Estadística.",
+    "fuente": "Art. 63 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.3 del Reglamento de Población y Demarcación Territorial, el Ayuntamiento debe notificar a los vecinos el contenido de sus datos padronales de manera que todo vecino pueda conocer la información que le concierna al menos:",
+    "options": [
+      "Una vez cada cinco años",
+      "Una vez cada dos años",
+      "Una vez al año",
+      "Una vez cada cuatro años"
+    ],
+    "correct": 0,
+    "exp": "Art. 69.3 RPDT: «La notificación a los vecinos del contenido de sus datos padronales se efectuará por el Ayuntamiento de manera que todo vecino tenga la oportunidad de conocer la información que le concierna al menos una vez cada cinco años». Además, siempre que se produzcan actualizaciones, el Ayuntamiento debe comunicar sus datos a cada vecino afectado (art. 69.2). Los dos años son el plazo de renovación de la inscripción de determinados extranjeros (art. 54 bis.2), no el de esta notificación.",
+    "fuente": "Art. 69.3 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70 del Reglamento de Población y Demarcación Territorial, cuando una persona cambia de municipio de residencia:",
+    "options": [
+      "Solicita primero la baja en el municipio de procedencia y, con ella, el alta en el de destino",
+      "Solicita el alta en el municipio de destino, que la envía al INE para que el de procedencia la dé de baja",
+      "Solicita el alta y la baja directamente al INE, que las comunica a los dos Ayuntamientos",
+      "Comunica el cambio a la Oficina del Censo Electoral, que tramita el alta y la baja padronales"
+    ],
+    "correct": 1,
+    "exp": "Art. 70 RPDT: quien cambie de municipio de residencia «deberá solicitar su alta en el padrón del municipio de destino, el cual, tras realizar las comprobaciones oportunas y una vez practicada la inscripción, la enviará, conforme a lo previsto en el artículo 65, al Instituto Nacional de Estadística para su comunicación al municipio de procedencia, donde se dará de baja en el padrón al vecino trasladado sin más trámite». El interesado no tiene que pedir la baja en el municipio de origen, y el trámite no se hace ante el INE ni ante la Oficina del Censo Electoral.",
+    "fuente": "Art. 70 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 71.2 del Reglamento de Población y Demarcación Territorial, cuando el INE detecta al confrontar los datos padronales de varios municipios que una persona figura inscrita en más de uno, las actuaciones para eliminar la duplicidad corresponden:",
+    "options": [
+      "Al Ayuntamiento en el que figure la inscripción más antigua",
+      "Al Ayuntamiento del municipio con mayor población de los afectados",
+      "Al Ayuntamiento en el que figure la inscripción más reciente",
+      "A la Sección Provincial del Consejo de Empadronamiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 71.2 RPDT: «Cuando la duplicidad se deduzca de la confrontación de los datos padronales de diversos municipios efectuada por el Instituto Nacional de Estadística, este Organismo lo comunicará a los Ayuntamientos afectados, correspondiendo al Ayuntamiento en el que figure la inscripción más reciente llevar a cabo las actuaciones señaladas en el apartado anterior». El criterio de «las más antiguas» del art. 71.1 sirve para otra cosa: decidir qué inscripción repetida se da de baja dentro de un mismo padrón cuando el vecino no señala cuál es la errónea.",
+    "fuente": "Art. 71.2 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 72 del Reglamento de Población y Demarcación Territorial, si la persona afectada por un expediente de baja de oficio por inscripción indebida no manifiesta expresamente su conformidad, la baja solo podrá llevarse a cabo:",
+    "options": [
+      "Con la autorización previa del juez de lo contencioso-administrativo",
+      "Con la resolución de la Presidencia del Instituto Nacional de Estadística",
+      "Con el acuerdo del Pleno del Ayuntamiento adoptado por mayoría absoluta",
+      "Con el informe favorable del Consejo de Empadronamiento"
+    ],
+    "correct": 3,
+    "exp": "Art. 72 RPDT, párrafo segundo: «Si el interesado no manifiesta expresamente su conformidad con la baja, ésta sólo podrá llevarse a cabo con el informe favorable del Consejo de Empadronamiento». Antes, el Ayuntamiento tiene que comprobar en un expediente, con audiencia del interesado, que la persona no cumple los requisitos del art. 54. El art. 85 e) RPDT confirma que el Consejo informa estas bajas «con carácter vinculante». No hace falta autorización judicial, resolución del INE ni acuerdo plenario.",
+    "fuente": "Art. 72 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79 del Reglamento de Población y Demarcación Territorial, la formación del censo de población, que se apoya en los datos de los padrones municipales, es competencia exclusiva de:",
+    "options": [
+      "El Instituto Nacional de Estadística",
+      "Los Ayuntamientos, cada uno en su término municipal",
+      "La Oficina del Censo Electoral",
+      "Las Comunidades Autónomas, a través de sus institutos de estadística"
+    ],
+    "correct": 0,
+    "exp": "Art. 79 RPDT: «La formación del censo de población, que constituye una competencia exclusiva del Instituto Nacional de Estadística, se apoyará en los datos de los padrones municipales». Los Ayuntamientos colaboran cuando el INE se lo pide, y los gastos de esa colaboración se pagan con cargo a los Presupuestos Generales del Estado. El censo de población no debe confundirse con el padrón, que forman y gestionan los Ayuntamientos, ni con el censo electoral.",
+    "fuente": "Art. 79 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 82.2 del Reglamento de Población y Demarcación Territorial, las cifras oficiales de población de los municipios españoles se aprueban mediante:",
+    "options": [
+      "Orden ministerial, que se publica en el «Boletín Oficial del Estado»",
+      "Real Decreto, que se publica en el «Boletín Oficial del Estado»",
+      "Acuerdo del Consejo de Empadronamiento, publicado en los boletines provinciales",
+      "Resolución de cada Ayuntamiento, publicada en el boletín oficial de la provincia"
+    ],
+    "correct": 1,
+    "exp": "Art. 82.2 RPDT: el Presidente del INE, con el informe favorable del Consejo de Empadronamiento, eleva al Gobierno la propuesta de cifras oficiales de población «para su aprobación mediante Real Decreto, que será publicado en el \"Boletín Oficial del Estado\"». Los Ayuntamientos aprueban la revisión de su padrón (art. 81), pero no las cifras oficiales. El Consejo de Empadronamiento informa la propuesta y no la aprueba.",
+    "fuente": "Art. 82.2 RPDT (RD 1690/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 de la LBRL, en cuanto a su relación con la provincia, cada municipio:",
+    "options": [
+      "Podrá pertenecer a dos provincias limítrofes",
+      "Pertenecerá a la provincia que elija su Pleno",
+      "Pertenecerá a una sola provincia",
+      "Podrá cambiar de provincia por ley autonómica"
+    ],
+    "correct": 2,
+    "exp": "Art. 12.2 LBRL: «Cada municipio pertenecerá a una sola provincia». Por eso el art. 13.1 LBRL impide que la alteración de términos municipales suponga modificar los límites provinciales, y el art. 141.1 CE exige ley orgánica para cualquier alteración de esos límites. Ni el Pleno ni una ley autonómica deciden a qué provincia pertenece un municipio.",
+    "fuente": "Art. 12.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.1 de la LBRL, en los expedientes de creación o supresión de municipios y de alteración de términos municipales, simultáneamente a la petición del dictamen del Consejo de Estado o del órgano consultivo autonómico:",
+    "options": [
+      "Se dará audiencia a la Comisión Nacional de Administración Local",
+      "Se notificará el expediente a la Oficina del Censo Electoral",
+      "Se suspenderá la tramitación hasta que se emita el dictamen",
+      "Se dará conocimiento a la Administración General del Estado"
+    ],
+    "correct": 3,
+    "exp": "Art. 13.1 LBRL, último inciso: «Simultáneamente a la petición de este dictamen se dará conocimiento a la Administración General del Estado». El mismo apartado exige en todo caso audiencia de los municipios interesados, dictamen del Consejo de Estado o del órgano consultivo superior de la Comunidad Autónoma, si existe, e informe de la Administración que ejerza la tutela financiera. No menciona a la Comisión Nacional de Administración Local ni a la Oficina del Censo Electoral, ni prevé suspender el expediente.",
+    "fuente": "Art. 13.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 a) de la LBRL, al municipio que resulte de una fusión acordada mediante convenio, el coeficiente de ponderación que le corresponda conforme al art. 124.1 del TRLRHL:",
+    "options": [
+      "Se incrementará en 0,10",
+      "Se incrementará en 0,05",
+      "Se incrementará en 0,20",
+      "Se incrementará en 0,50"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.4 a) LBRL: al municipio resultante de la fusión, «El coeficiente de ponderación que resulte de aplicación de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales […] se incrementará en 0,10». Es una de las ventajas financieras que la ley da a la fusión voluntaria de municipios colindantes de la misma provincia.",
+    "fuente": "Art. 13.4 a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 de la LBRL, entre los efectos que conlleva la fusión de municipios, el nuevo municipio aprobará un nuevo presupuesto:",
+    "options": [
+      "En el plazo máximo de tres meses desde la adopción del convenio de fusión",
+      "Para el ejercicio presupuestario siguiente a la adopción del convenio de fusión",
+      "Para el ejercicio en que se celebren las siguientes elecciones municipales generales",
+      "En el plazo de seis meses desde la constitución de la nueva corporación municipal"
+    ],
+    "correct": 1,
+    "exp": "Art. 13.4 LBRL, letra f) de la relación que empieza «La fusión conllevará»: «El nuevo municipio aprobará un nuevo presupuesto para el ejercicio presupuestario siguiente a la adopción del convenio de fusión». No se fija un plazo en meses ni se vincula a las elecciones. Hay otra letra f) en la relación anterior del mismo apartado («le será de aplicación lo siguiente»), que es la dispensa de prestar nuevos servicios mínimos.",
+    "fuente": "Art. 13.4 f) («La fusión conllevará») LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 n) de la LBRL, el municipio ejerce como competencia propia la conservación, mantenimiento y vigilancia de los edificios de titularidad local destinados a centros públicos de:",
+    "options": [
+      "Educación secundaria obligatoria, de bachillerato o de formación profesional",
+      "Educación primaria, de educación secundaria obligatoria o de bachillerato",
+      "Educación infantil, de educación primaria o de educación especial",
+      "Formación profesional, de enseñanzas artísticas o de enseñanzas de idiomas"
+    ],
+    "correct": 2,
+    "exp": "Art. 25.2 n) LBRL: «La conservación, mantenimiento y vigilancia de los edificios de titularidad local destinados a centros públicos de educación infantil, de educación primaria o de educación especial». La misma letra incluye participar en la vigilancia de la escolaridad obligatoria y cooperar en la obtención de solares para nuevos centros docentes. La secundaria, el bachillerato y la formación profesional no aparecen en ella. En Zaragoza, el art. 39 d) 2.º de la Ley 10/2017 remite al Convenio marco con el Gobierno de Aragón los términos de esos servicios en los edificios escolares de educación infantil, primaria y especial.",
+    "fuente": "Art. 25.2 n) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.5 de la LBRL, la Ley que determine una competencia municipal propia debe garantizar:",
+    "options": [
+      "Que la competencia se ejerce siempre en concurrencia con la Comunidad Autónoma",
+      "Que el municipio puede delegar la competencia en la Diputación provincial",
+      "Que la competencia se revisa cada cinco años con informe del Ministerio de Hacienda",
+      "Que no se produce una atribución simultánea de la misma competencia a otra Administración Pública"
+    ],
+    "correct": 3,
+    "exp": "Art. 25.5 LBRL: «La Ley determinará la competencia municipal propia de que se trate, garantizando que no se produce una atribución simultánea de la misma competencia a otra Administración Pública». Busca evitar duplicidades, lo contrario de un ejercicio en concurrencia. El art. 25 no prevé delegar estas competencias en la Diputación ni revisarlas periódicamente. El informe del Ministerio de Hacienda del art. 25.4 acompaña a los proyectos de leyes estatales.",
+    "fuente": "Art. 25.5 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.3 de la LBRL, la asistencia de las Diputaciones o entidades equivalentes a los Municipios, prevista en el art. 36, se dirigirá preferentemente:",
+    "options": [
+      "Al establecimiento y adecuada prestación de los servicios mínimos",
+      "A la financiación de las competencias delegadas por la Comunidad Autónoma",
+      "A la promoción del desarrollo económico y turístico de la comarca",
+      "A la redacción y ejecución de los planes urbanísticos municipales"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.3 LBRL: «La asistencia de las Diputaciones o entidades equivalentes a los Municipios, prevista en el artículo 36, se dirigirá preferentemente al establecimiento y adecuada prestación de los servicios mínimos». Los servicios mínimos son los que el art. 26.1 obliga a prestar según la población del municipio.",
+    "fuente": "Art. 26.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 de la LBRL, si los servicios cuya prestación coordina la Diputación en los municipios de menos de 20.000 habitantes están financiados por tasas y la Diputación asume su prestación, la tasa:",
+    "options": [
+      "Seguirá destinándose íntegramente al municipio",
+      "Irá destinada a la Diputación o entidad equivalente",
+      "Se repartirá por mitad entre municipio y Diputación",
+      "Irá destinada a la Comunidad Autónoma tuteladora"
+    ],
+    "correct": 1,
+    "exp": "Art. 26.2 LBRL, último párrafo: «Si estos servicios estuvieran financiados por tasas y asume su prestación la Diputación o entidad equivalente, será a ésta a quien vaya destinada la tasa para la financiación de los servicios». El mismo párrafo añade que la Diputación repercute a los municipios el coste efectivo del servicio en función de su uso. La STC 111/2016 anuló otros incisos del art. 26.2 (los que daban la decisión al Ministerio de Hacienda), no este.",
+    "fuente": "Art. 26.2, último párrafo, LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.4 de la LBRL, si el Municipio incumple las directrices, deniega la información solicitada o no atiende los requerimientos de la Administración que le ha delegado una competencia, esta podrá:",
+    "options": [
+      "Imponer al Municipio multas coercitivas reiteradas hasta que cumpla las directrices",
+      "Disolver los órganos municipales y asumir de forma provisional su gestión ordinaria",
+      "Revocar la delegación o ejecutar por sí misma la competencia delegada en sustitución del Municipio",
+      "Retener las transferencias del Estado al Municipio hasta que se subsane el incumplimiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 27.4 LBRL: «En caso de incumplimiento de las directrices, denegación de las informaciones solicitadas, o inobservancia de los requerimientos formulados, la Administración delegante podrá revocar la delegación o ejecutar por sí misma la competencia delegada en sustitución del Municipio». El precepto no prevé multas coercitivas, disolución de órganos ni retención de transferencias.",
+    "fuente": "Art. 27.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.6 de la LBRL, el incumplimiento de las obligaciones financieras por parte de la Administración autonómica que ha delegado una competencia faculta a la Entidad Local delegada para:",
+    "options": [
+      "Suspender la prestación del servicio delegado hasta que reciba el pago íntegro",
+      "Exigir los intereses de demora ante el Tribunal de Cuentas sin otro trámite",
+      "Repercutir el coste del servicio en los usuarios mediante una tasa extraordinaria",
+      "Compensarlas automáticamente con otras obligaciones financieras que tenga con aquella"
+    ],
+    "correct": 3,
+    "exp": "Art. 27.6 LBRL, párrafo segundo: «El incumplimiento de las obligaciones financieras por parte de la Administración autonómica delegante facultará a la Entidad Local delegada para compensarlas automáticamente con otras obligaciones financieras que ésta tenga con aquélla». Ese incumplimiento también figura entre las causas de renuncia del art. 27.7, que acuerda el Pleno. El art. 27 no prevé suspender el servicio, acudir al Tribunal de Cuentas ni crear una tasa extraordinaria.",
+    "fuente": "Art. 27.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.5 de la LBRL, ¿quién coordina y supervisa la integración de los servicios resultantes de un proceso de fusión de municipios?",
+    "options": [
+      "Las Diputaciones provinciales o entidades equivalentes, en colaboración con la Comunidad Autónoma",
+      "La Administración General del Estado, a través de la Delegación del Gobierno en la Comunidad",
+      "La Comunidad Autónoma en exclusiva, por medio de su órgano de tutela financiera local",
+      "El Pleno del nuevo municipio, previo informe del Ministerio de Hacienda y de la Diputación"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.5 LBRL: «Las Diputaciones provinciales o entidades equivalentes, en colaboración con la Comunidad Autónoma, coordinarán y supervisarán la integración de los servicios resultantes del proceso de fusión». No es tarea de la Administración General del Estado ni de la Comunidad Autónoma en exclusiva. El Pleno de cada corporación aprueba las medidas de redimensionamiento (art. 13.4, letra a) de «La fusión conllevará»), pero la coordinación y supervisión de la integración de los servicios corresponde a la Diputación.",
+    "fuente": "Art. 13.5 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 133 f) de la LBRL, en los municipios de gran población la asignación de recursos, con arreglo a los principios de eficacia y eficiencia, se hará en función de:",
+    "options": [
+      "La población de cada distrito municipal",
+      "El gasto liquidado en el ejercicio anterior",
+      "Las prioridades del Consejo Social de la Ciudad",
+      "La definición y el cumplimiento de objetivos"
+    ],
+    "correct": 3,
+    "exp": "Art. 133 f) LBRL: «La asignación de recursos, con arreglo a los principios de eficacia y eficiencia, se hará en función de la definición y el cumplimiento de objetivos». Entre los demás criterios de la gestión económico-financiera del art. 133 están la estabilidad presupuestaria (a) y el seguimiento de los costes de los servicios (e). Ninguno se refiere a la población de los distritos, al gasto del año anterior ni al Consejo Social.",
+    "fuente": "Art. 133 f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 134.1 de la LBRL, en los municipios de gran población las funciones de presupuestación, contabilidad, tesorería y recaudación serán ejercidas por:",
+    "options": [
+      "El órgano u órganos que se determinen en el Reglamento orgánico municipal",
+      "La Intervención general municipal, que las ejerce en todo caso y sin excepción",
+      "El órgano de gestión tributaria, que el Pleno debe crear siempre",
+      "La tesorería de la Diputación Provincial, por convenio con el municipio"
+    ],
+    "correct": 0,
+    "exp": "Art. 134.1 LBRL: «Las funciones de presupuestación, contabilidad, tesorería y recaudación serán ejercidas por el órgano u órganos que se determinen en el Reglamento orgánico municipal». La Intervención general tiene el control y la fiscalización interna (art. 136), y el art. 133 b) exige separar contabilidad y fiscalización. El órgano de gestión tributaria es potestativo («se habilita al Pleno», art. 135.1). Si se crea, la recaudación pasa a él (art. 135.3).",
+    "fuente": "Art. 134.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 135.2 de la LBRL, entre las competencias que corresponderán, al menos, al órgano de gestión tributaria de un municipio de gran población figura:",
+    "options": [
+      "La resolución de las reclamaciones económico-administrativas contra actos tributarios",
+      "La recaudación en período ejecutivo de los demás ingresos de derecho público del ayuntamiento",
+      "La fiscalización previa de los expedientes de gasto de la Administración municipal",
+      "La aprobación definitiva de las ordenanzas fiscales y de sus modificaciones anuales"
+    ],
+    "correct": 1,
+    "exp": "Art. 135.2 b) LBRL: corresponde a este órgano, al menos, «La recaudación en período ejecutivo de los demás ingresos de derecho público del ayuntamiento». También le corresponden la gestión, liquidación, inspección, recaudación y revisión de los actos tributarios municipales, los expedientes sancionadores tributarios y la propuesta de las normas tributarias propias, entre otras. Las reclamaciones económico-administrativas son del órgano del art. 137, la fiscalización es de la Intervención general (art. 136) y la aprobación de las ordenanzas fiscales es del Pleno.",
+    "fuente": "Art. 135.2 b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 136.2 de la LBRL, la Intervención general municipal de los municipios de gran población ejercerá sus funciones:",
+    "options": [
+      "Bajo la dependencia jerárquica del Alcalde, que fija cada año sus prioridades de control",
+      "Bajo la dirección de la Junta de Gobierno Local, ante la que responde de su gestión",
+      "Con plena autonomía respecto de los órganos, entidades y cargos directivos cuya gestión fiscalice",
+      "Con sujeción a las instrucciones del secretario general del Pleno y de las comisiones"
+    ],
+    "correct": 2,
+    "exp": "Art. 136.2 LBRL: «La Intervención general municipal ejercerá sus funciones con plena autonomía respecto de los órganos y entidades municipales y cargos directivos cuya gestión fiscalice, teniendo completo acceso a la contabilidad y a cuantos documentos sean necesarios para el ejercicio de sus funciones». La ley no la somete a la dirección del Alcalde, de la Junta de Gobierno Local ni del secretario general del Pleno.",
+    "fuente": "Art. 136.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 137.1 de la LBRL, ¿cuál de las siguientes funciones corresponde también al órgano especializado para la resolución de las reclamaciones económico-administrativas de los municipios de gran población?",
+    "options": [
+      "Aprobar inicialmente las ordenanzas fiscales y sus modificaciones",
+      "Liquidar e inspeccionar los tributos y precios públicos municipales",
+      "Fiscalizar previamente los ingresos tributarios del ayuntamiento",
+      "Emitir dictamen sobre los proyectos de ordenanzas fiscales"
+    ],
+    "correct": 3,
+    "exp": "Art. 137.1 LBRL: este órgano especializado tiene como funciones a) conocer y resolver las reclamaciones sobre actos de gestión, liquidación, recaudación e inspección de tributos e ingresos de derecho público municipales, «b) El dictamen sobre los proyectos de ordenanzas fiscales» y c) elaborar estudios y propuestas en materia tributaria si se lo piden los órganos municipales competentes. No aprueba las ordenanzas fiscales: en Zaragoza la aprobación inicial es de la Comisión plenaria (art. 49 Ley 10/2017). La liquidación y la inspección son del órgano de gestión tributaria (art. 135.2) y la fiscalización es de la Intervención (art. 136).",
+    "fuente": "Art. 137.1 b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 137.4 de la LBRL, los miembros del órgano para la resolución de las reclamaciones económico-administrativas de un municipio de gran población son designados:",
+    "options": [
+      "Por el Pleno, por mayoría absoluta de su número legal, entre personas de reconocida competencia técnica",
+      "Por el Alcalde, mediante decreto, entre los funcionarios del área municipal de hacienda",
+      "Por la Junta de Gobierno Local, entre funcionarios con habilitación de carácter nacional",
+      "Por el Pleno, por mayoría simple, entre concejales de todos los grupos políticos"
+    ],
+    "correct": 0,
+    "exp": "Art. 137.4 LBRL: el órgano «Estará constituido por un número impar de miembros, con un mínimo de tres, designados por el Pleno, con el voto favorable de la mayoría absoluta de los miembros que legalmente lo integren, de entre personas de reconocida competencia técnica». El Pleno también puede acordar su cese por la misma mayoría. En Zaragoza la regulación de este órgano tiene naturaleza orgánica y su aprobación corresponde al Pleno (art. 11.1 c) 7.ª Ley 10/2017; art. 123.1 c) LBRL).",
+    "fuente": "Art. 137.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 138 de la LBRL, ¿quiénes forman parte de la Conferencia de ciudades?",
+    "options": [
+      "La Administración General del Estado y los alcaldes de todos los municipios de más de 50.000 habitantes",
+      "La Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios del título X",
+      "Las comunidades autónomas, las diputaciones provinciales y los alcaldes de las capitales de provincia",
+      "Los alcaldes de los municipios del título X y los presidentes de sus Consejos Sociales de la Ciudad"
+    ],
+    "correct": 1,
+    "exp": "Art. 138 LBRL: existirá una Conferencia de ciudades «de la que formarán parte la Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios comprendidos en el ámbito de aplicación del título X de esta ley». No la integran las diputaciones ni los Consejos Sociales, y el criterio no es tener más de 50.000 habitantes ni ser capital de provincia, sino estar sometido al régimen de gran población.",
+    "fuente": "Art. 138 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional octava c) de la LBRL, en los municipios de gran población, las funciones que la legislación electoral asigna a los secretarios de los ayuntamientos y la llevanza y custodia del registro de intereses de los miembros de la Corporación corresponden:",
+    "options": [
+      "Al titular del órgano de apoyo a la Junta de Gobierno Local",
+      "Al titular de la asesoría jurídica municipal",
+      "Al secretario del Pleno",
+      "Al interventor general municipal"
+    ],
+    "correct": 2,
+    "exp": "Disposición adicional octava c) LBRL: «Las funciones que la legislación electoral general asigna a los secretarios de los ayuntamientos, así como la llevanza y custodia del registro de intereses de miembros de la Corporación, serán ejercidas por el secretario del Pleno». Esta disposición se aplica a los municipios del título X, entre ellos Zaragoza.",
+    "fuente": "Disposición adicional octava c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional octava d) de la LBRL, en los municipios de gran población, las funciones de fe pública de los actos y acuerdos de los órganos unipersonales corresponden, sin perjuicio de que pueda delegarlas en otros funcionarios:",
+    "options": [
+      "Al secretario general del Pleno, que lo es también de las comisiones",
+      "Al concejal que ejerza de secretario de la Junta de Gobierno Local",
+      "Al titular del órgano responsable de la asistencia jurídica al Alcalde y a la Junta",
+      "Al titular del órgano de apoyo al secretario de la Junta de Gobierno Local"
+    ],
+    "correct": 3,
+    "exp": "Disposición adicional octava d) LBRL: «Las funciones de fe pública de los actos y acuerdos de los órganos unipersonales y las demás funciones de fe pública, salvo aquellas que estén atribuidas al secretario general del Pleno, al concejal secretario de la Junta de Gobierno Local y al secretario del consejo de administración de las entidades públicas empresariales, serán ejercidas por el titular del órgano de apoyo al secretario de la Junta de Gobierno Local, sin perjuicio de que pueda delegar su ejercicio en otros funcionarios del ayuntamiento». En Zaragoza ese órgano es el de apoyo al Gobierno de Zaragoza y a su Secretario (art. 13.4 y disposición adicional segunda de la Ley 10/2017).",
+    "fuente": "Disposición adicional octava d) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.3 de la Ley 10/2017, de régimen especial de Zaragoza, el Ayuntamiento de Zaragoza puede crear y dotarse de cuantos órganos complementarios considere necesarios para el buen gobierno y la buena administración municipales, que serán órganos:",
+    "options": [
+      "De información, consulta o asesoramiento",
+      "De resolución vinculante de recursos administrativos",
+      "Con potestad para aprobar normas reglamentarias",
+      "De fiscalización externa de la gestión económica"
+    ],
+    "correct": 0,
+    "exp": "Art. 7.3 Ley 10/2017: el Ayuntamiento de Zaragoza configura sus órganos de gobierno y administración dentro del marco constitucional, estatutario y legal, «pudiendo, además, crear y dotarse de cuantos órganos complementarios de información, consulta o asesoramiento considere necesarios para el buen gobierno y la buena administración municipales». Los distractores atribuyen a esos órganos funciones decisorias, normativas o de control externo que el precepto no les da.",
+    "fuente": "Art. 7.3 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.2 de la Ley 10/2017, en sus relaciones con los ciudadanos la Administración municipal de Zaragoza actuará de conformidad con los principios de:",
+    "options": [
+      "Información mutua y colaboración",
+      "Transparencia y participación",
+      "Lealtad institucional y reciprocidad",
+      "Jerarquía y unidad de gestión"
+    ],
+    "correct": 1,
+    "exp": "Art. 8.2 Ley 10/2017, último inciso: «En sus relaciones con los ciudadanos, la Administración municipal actuará de conformidad con los principios de transparencia y de participación». La información mutua y la colaboración son principios de sus relaciones con las demás Administraciones Públicas, junto con la coordinación y el respeto a los ámbitos competenciales (mismo apartado). La lealtad institucional, la reciprocidad y la jerarquía no aparecen en el art. 8.2.",
+    "fuente": "Art. 8.2 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el Ayuntamiento de Zaragoza, según el art. 11.1 j) de la Ley 10/2017, la aceptación de las delegaciones o encomiendas de gestión realizadas por otras Administraciones, salvo que por Ley se impongan obligatoriamente, corresponde:",
+    "options": [
+      "Al Gobierno de Zaragoza",
+      "Al Alcalde",
+      "Al Pleno",
+      "Al Consejo Bilateral de Capitalidad"
+    ],
+    "correct": 2,
+    "exp": "Art. 11.1 j) Ley 10/2017: corresponde al Pleno «La transferencia de funciones o actividades a otras Administraciones Públicas, así como la aceptación de las delegaciones o encomiendas de gestión realizadas por otras administraciones, salvo que por Ley se impongan obligatoriamente». El art. 11.3 la incluye entre las competencias indelegables. Coincide con el art. 123.1 j) LBRL, y el art. 123.2 LBRL exige para estos acuerdos mayoría absoluta del número legal de miembros. El art. 27.5 LBRL dice que la delegación solo es efectiva si la acepta el municipio.",
+    "fuente": "Art. 11.1 j) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 l) de la Ley 10/2017, en el Ayuntamiento de Zaragoza la adopción de acuerdos relativos a la constitución o participación en consorcios, fundaciones y asociaciones corresponde:",
+    "options": [
+      "Al Gobierno de Zaragoza",
+      "Al Alcalde, mediante decreto",
+      "A la Junta de Portavoces",
+      "Al Pleno"
+    ],
+    "correct": 3,
+    "exp": "Art. 11.1 l) Ley 10/2017: corresponde al Pleno «La adopción de acuerdos relativos a la constitución o participación en consorcios, fundaciones y asociaciones», junto con otros acuerdos sobre sociedades mercantiles. Según el art. 11.3, esta atribución solo puede delegarse en las Comisiones del Pleno. No corresponde al Gobierno de Zaragoza, al Alcalde ni a la Junta de Portavoces, que no es un órgano decisorio.",
+    "fuente": "Art. 11.1 l) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 de la Ley 10/2017, ¿cuál de las siguientes es una función del órgano de apoyo al Gobierno de Zaragoza y a su Secretario?",
+    "options": [
+      "El archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones",
+      "La redacción de las actas de las sesiones y la certificación de sus acuerdos",
+      "El asesoramiento legal preceptivo en los asuntos que exijan mayoría especial",
+      "La fiscalización previa de los acuerdos de contenido económico del Gobierno"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.4 Ley 10/2017: el órgano de apoyo, cuyo titular se nombra entre funcionarios con habilitación de carácter nacional, tiene estas funciones: asistir al Secretario, remitir las convocatorias a los miembros del Gobierno de Zaragoza, «El archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones» y velar por la correcta y fiel comunicación de sus acuerdos. Redactar las actas y certificar los acuerdos le corresponde al Secretario, que es uno de los miembros del Gobierno designado por el Alcalde. El asesoramiento legal por mayoría especial es del secretario general del Pleno (art. 122.5 e) LBRL) y la fiscalización es de la Intervención general (art. 136 LBRL).",
+    "fuente": "Art. 13.4 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1 ñ) de la Ley 10/2017, las encomiendas de gestión para la realización de actividades de carácter material, técnico o de servicios, y los encargos a las entidades que sean medio propio y servicio técnico del Ayuntamiento de Zaragoza, corresponden:",
+    "options": [
+      "Al Pleno",
+      "Al Gobierno de Zaragoza",
+      "Al Alcalde",
+      "A la Comisión del Pleno competente"
+    ],
+    "correct": 1,
+    "exp": "Art. 14.1 ñ) Ley 10/2017: corresponden al Gobierno de Zaragoza «Las encomiendas de gestión para la realización de actividades de carácter material, técnico o de servicios, así como los encargos a entidades que tengan atribuida la condición de medio propio y servicio técnico del Ayuntamiento de Zaragoza». No hay que confundirlo con la aceptación de las encomiendas que hacen otras Administraciones al Ayuntamiento, que es del Pleno (art. 11.1 j).",
+    "fuente": "Art. 14.1 ñ) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 de la Ley 10/2017, de las atribuciones de urbanismo y obras de la letra d) del art. 14.1, ¿cuál puede delegar o desconcentrar el Gobierno de Zaragoza?",
+    "options": [
+      "La aprobación de los proyectos de urbanización",
+      "La aprobación de los instrumentos de gestión urbanística",
+      "La aprobación de los proyectos de obra ordinaria",
+      "La aprobación inicial del planeamiento de desarrollo"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.2 Ley 10/2017: el Gobierno de Zaragoza puede delegar o desconcentrar las funciones de las letras e), f), g), h), i) (con excepciones), m), o), q), r) y t), «así como la aprobación de los proyectos de obra ordinaria prevista en la letra d) del citado apartado». De la letra d) del art. 14.1, que incluye la aprobación inicial del planeamiento de desarrollo del Plan General, los instrumentos y Convenios de gestión urbanística y los proyectos de urbanización y de obra ordinaria, solo se cita como delegable la obra ordinaria.",
+    "fuente": "Art. 14.2 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18 de la Ley 10/2017, ¿quién establece las funciones, la composición y el funcionamiento de las Comisiones específicas de asesoramiento que pueden constituirse en el Ayuntamiento de Zaragoza?",
+    "options": [
+      "El Pleno, mediante un Reglamento de naturaleza orgánica",
+      "El Alcalde, mediante un decreto de organización",
+      "El Consejo Jurídico Municipal, en su reglamento",
+      "El Gobierno de Zaragoza, en el acuerdo de creación"
+    ],
+    "correct": 3,
+    "exp": "Art. 18 Ley 10/2017: «Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación». No se regulan por Reglamento orgánico del Pleno, por decreto del Alcalde ni por el Consejo Jurídico Municipal, que es otro órgano consultivo (art. 17).",
+    "fuente": "Art. 18 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  }
+]);

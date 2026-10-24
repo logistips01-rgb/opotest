@@ -72,3 +72,4 @@ Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
 - t14.26: atribuye al art. 130 la organización «en Áreas dirigidas por un miembro de la Junta de Gobierno Local»; el art. 130 no lo dice.
 - t14.80: altera la redacción del art. 122.4 b) («la gestión del Alcalde y de su equipo de gobierno»).
 - t14.73: cita el art. 130.2 cuando lo preguntado está en el 130.1 B).
+- t14.250: dice «Ministerio de Economía y Hacienda» (literal del art. 17.4 LBRL); el RPDT vigente adscribe el Consejo de Empadronamiento al Ministerio de Economía, Comercio y Empresa. Matiz menor: valorar aviso en la explicación (revisor 1 de t14-2).
