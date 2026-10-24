@@ -1,0 +1,607 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 13,
+ "lote": "t13-2",
+ "preguntas": [
+  {
+   "q": "Según el art. 1.2 de la Orden EHA/3565/2008, por la que se aprueba la estructura de los presupuestos de las entidades locales, esa estructura presupuestaria es de aplicación:",
+   "options": [
+    "A las entidades locales y a los organismos autónomos de ellas dependientes",
+    "A las entidades locales, a sus organismos autónomos y a sus sociedades mercantiles",
+    "A las entidades locales y a sus sociedades mercantiles de capital íntegramente local",
+    "A los municipios y provincias, pero no a los organismos autónomos dependientes"
+   ],
+   "correct": 0,
+   "exp": "El art. 1.2 de la Orden dispone que la normativa que establece la estructura presupuestaria prevista en el art. 167.1 TRLRHL «será de aplicación tanto para las entidades locales como para los organismos autónomos de ellas dependientes». Por eso es falsa la opción que excluye a los organismos autónomos, y también las que incluyen a las sociedades mercantiles, que el precepto no menciona.",
+   "fuente": "Art. 1.2 Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 1.2 Orden EHA/3565/2008 (consolidado BOE, vigente; última modificación Orden HAP/419/2014): «será de aplicación tanto para las entidades locales como para los organismos autónomos de ellas dependientes». Sociedades no mencionadas; la opción que excluye a los OO.AA. es falsa. Sin repetición en temas 12, 13 y 21. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), art. 1.2 literal: «tanto para las entidades locales como para los organismos autónomos de ellas dependientes». Sociedades mercantiles no mencionadas; los tres distractores son falsos. Sin duplicado en temas 12, 13 y 21."
+  },
+  {
+   "q": "Según el art. 4.2 de la Orden EHA/3565/2008, con carácter general, el detalle de los créditos de la clasificación por programas se presentará, como mínimo, en el nivel de:",
+   "options": [
+    "Áreas de gasto",
+    "Grupos de programas de gasto",
+    "Políticas de gasto",
+    "Subprogramas de gasto"
+   ],
+   "correct": 1,
+   "exp": "El art. 4.2 de la Orden establece: «Con carácter general, el detalle de los créditos se presentará, como mínimo, en el nivel de grupos de programas de gasto», y añade que en los casos especificados en el anexo I deberá presentarse en el nivel de programas. Las áreas y las políticas de gasto son niveles superiores al grupo de programas (art. 4.1: áreas de gasto, políticas de gasto, grupos de programas y programas), y los subprogramas son un desarrollo posible de los programas, no el nivel mínimo.",
+   "fuente": "Art. 4.2 Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.2 Orden: «como mínimo, en el nivel de grupos de programas de gasto» (y en programas en los casos del anexo I). Áreas y políticas son niveles superiores; subprogramas, desarrollo opcional (art. 4.1). Distinta de la existente sobre art. 167.3 a) TRLRHL. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), art. 4.2 literal (mínimo: grupos de programas; programas solo en los casos del anexo I). Áreas y políticas son niveles superiores y subprogramas, desarrollo opcional (art. 4.1). La correcta es más larga solo por el nombre del nivel; no se delata."
+  },
+  {
+   "q": "Según el art. 4.3 de la Orden EHA/3565/2008, la estructura de la clasificación por programas del anexo I es cerrada y obligatoria para todas las entidades locales, aunque es abierta a partir del nivel de:",
+   "options": [
+    "Políticas de gasto",
+    "Grupos de programas",
+    "Programas y subprogramas",
+    "Áreas de gasto"
+   ],
+   "correct": 2,
+   "exp": "El art. 4.3 dice que la estructura del anexo I «se debe considerar cerrada y obligatoria para todas las entidades locales. No obstante, será abierta a partir del nivel de programas y subprogramas, por lo que podrán crearse los programas y subprogramas que se consideren necesarios cuando no figuren en la estructura». Las áreas de gasto, las políticas de gasto y los grupos de programas forman parte de la estructura cerrada.",
+   "fuente": "Art. 4.3 Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.3 Orden (redacción HAP/419/2014): estructura cerrada y obligatoria, «abierta a partir del nivel de programas y subprogramas». Cita literal correcta. Distractores falsos. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), art. 4.3 literal: «será abierta a partir del nivel de programas y subprogramas». Áreas, políticas y grupos de programas son cerrados (también según la introducción del anexo I). Sin duplicado (las preguntas del banco sobre el 167.3 a) TRLRHL preguntan otra cosa)."
+  },
+  {
+   "q": "Según el art. 4.4 de la Orden EHA/3565/2008, cuando una entidad local asuma competencias por delegación del Estado o de la comunidad autónoma (art. 27 LBRL), deberá desarrollar los grupos de programa para que exista una exacta correspondencia entre cada servicio asumido y:",
+   "options": [
+    "Una única área de gasto de la clasificación",
+    "Un único capítulo de la clasificación económica",
+    "Una única unidad de la clasificación orgánica",
+    "Un único programa o subprograma presupuestario"
+   ],
+   "correct": 3,
+   "exp": "El art. 4.4 obliga a la entidad local que asuma competencias delegadas a «realizar el necesario desarrollo de los grupos de programa, a fin de que exista una exacta correspondencia entre cada servicio asumido y un único programa o subprograma presupuestario». La correspondencia se exige con un programa o subprograma, no con un área de gasto, un capítulo económico o una unidad orgánica.",
+   "fuente": "Art. 4.4 Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.4 Orden (redacción HAP/419/2014): «exacta correspondencia entre cada servicio asumido y un único programa o subprograma presupuestario». Distractores falsos. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), art. 4.4 literal («un único programa o subprograma presupuestario»); remite al art. 27 LBRL (delegación), comprobado. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 6 de la Orden EHA/3565/2008, cuando la entidad local opta por utilizar la clasificación orgánica, la aplicación presupuestaria viene definida por la conjunción de las clasificaciones:",
+   "options": [
+    "Orgánica, por programas y económica",
+    "Orgánica y económica, pero no la de programas",
+    "Orgánica y por programas, pero no la económica",
+    "Por programas y económica, pero no la orgánica"
+   ],
+   "correct": 0,
+   "exp": "El art. 6 de la Orden define la aplicación presupuestaria, como mínimo, por la conjunción de las clasificaciones por programas y económica (en el nivel de grupo de programa o programa y concepto o subconcepto) y añade: «En el caso de que la Entidad local opte por utilizar la clasificación orgánica, la aplicación presupuestaria vendrá definida por la conjunción de las clasificaciones orgánica, por programas y económica». Lo mismo dice el art. 167.4 TRLRHL. Ninguna de las tres clasificaciones se excluye.",
+   "fuente": "Art. 6, párrafo segundo, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales) y art. 167.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 6, párrafo segundo, Orden (redacción HAP/419/2014): con clasificación orgánica, la aplicación se define por la conjunción de orgánica, por programas y económica; concuerda con art. 167.4 TRLRHL («ésta integrará asimismo la aplicación presupuestaria»). Distractores falsos. No repite la existente del art. 167.4 (control contable/fiscal). | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), art. 6, párr. 2.º literal; concuerda con el art. 167.4 TRLRHL («ésta integrará asimismo la aplicación presupuestaria»). Los tres distractores excluyen una clasificación: falsos."
+  },
+  {
+   "q": "Según el art. 8 de la Orden EHA/3565/2008, el crédito definitivo vigente en cada momento viene determinado por:",
+   "options": [
+    "El crédito inicial minorado en las retenciones y en los créditos no disponibles",
+    "El crédito inicial aumentado o disminuido por las modificaciones presupuestarias",
+    "El crédito del presupuesto prorrogado más los ajustes aprobados por el Pleno",
+    "El crédito comprometido a fin de ejercicio más los remanentes incorporados"
+   ],
+   "correct": 1,
+   "exp": "El art. 8.2 de la Orden dispone: «El crédito definitivo vigente en cada momento vendrá determinado por el crédito inicial aumentado o disminuido como consecuencia de modificaciones presupuestarias». El crédito inicial es, según el art. 8.1, «el asignado a cada aplicación presupuestaria en el presupuesto de la entidad definitivamente aprobado». Las retenciones y la no disponibilidad no alteran el crédito definitivo, y el precepto no lo define por el presupuesto prorrogado ni por lo comprometido.",
+   "fuente": "Art. 8.2 Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.2 Orden: «crédito inicial aumentado o disminuido como consecuencia de modificaciones presupuestarias». Distractores falsos. No repetida. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), art. 8.2 literal. Retenciones, no disponibilidad, prórroga y créditos comprometidos no definen el crédito definitivo. Explicación exacta."
+  },
+  {
+   "q": "Según la disposición adicional única de la Orden EHA/3565/2008, en la clasificación por programas las políticas de gasto se corresponden con las antiguas:",
+   "options": [
+    "Grupos de funciones",
+    "Subfunciones",
+    "Funciones",
+    "Partidas funcionales"
+   ],
+   "correct": 2,
+   "exp": "La disposición adicional única establece que «las áreas de gasto, políticas de gasto y grupos de programas se corresponden, respectivamente, con los grupos de funciones, funciones y subfunciones» utilizados en los presupuestos anteriores a 2010. Así, las políticas de gasto equivalen a las funciones; los grupos de funciones equivalen a las áreas de gasto y las subfunciones a los grupos de programas.",
+   "fuente": "Disposición adicional única Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Disposición adicional única de la Orden: áreas, políticas y grupos de programas se corresponden «respectivamente, con los grupos de funciones, funciones y subfunciones». Políticas = funciones. Explicación exacta. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), disposición adicional única literal: áreas = grupos de funciones, políticas = funciones, grupos de programas = subfunciones (también en el preámbulo). Distractores falsos."
+  },
+  {
+   "q": "Según el preámbulo de la Orden EHA/3565/2008, ¿qué denominación sustituye a la de «partida presupuestaria»?",
+   "options": [
+    "Concepto presupuestario",
+    "Crédito presupuestario",
+    "Programa presupuestario",
+    "Aplicación presupuestaria"
+   ],
+   "correct": 3,
+   "exp": "El preámbulo de la Orden explica que «se sustituye la denominación «partida presupuestaria» por la de «aplicación presupuestaria»» para evitar confusiones con la «partida» como nivel de desagregación del subconcepto económico y mantener una definición homogénea con la Ley General Presupuestaria. El concepto es un nivel de la clasificación económica, el programa lo es de la clasificación por programas y el crédito presupuestario es la expresión cifrada de la aplicación (art. 6 de la Orden). El RD 500/1990, anterior a la Orden, sigue hablando de «partida presupuestaria» (por ejemplo, en su art. 31.1).",
+   "fuente": "Preámbulo Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Preámbulo de la Orden, literal: «se sustituye la denominación «partida presupuestaria» por la de «aplicación presupuestaria»». Concepto, crédito y programa son otras categorías (arts. 5, 6 y 4). Dentro de «estructura» del epígrafe. Sobre la duda del redactor: la pregunta se ciñe al preámbulo y el dato es literal; que el TRLRHL y el RD 500/1990 sigan usando «partida» no hace verdadera ninguna otra opción. No hay pregunta existente sobre ello. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), preámbulo literal: se sustituye «partida presupuestaria» por «aplicación presupuestaria». Comprobado que el RD 500/1990 sigue usando «partida» (art. 31.1). Concepto, crédito y programa son otra cosa (art. 6 y anexos)."
+  },
+  {
+   "q": "Según el anexo III de la Orden EHA/3565/2008, el código de la clasificación económica de los gastos tiene carácter cerrado y obligatorio en sus niveles de:",
+   "options": [
+    "Capítulo y artículo",
+    "Capítulo, artículo y concepto",
+    "Capítulo, sin incluir el artículo",
+    "Concepto, subconcepto y partida"
+   ],
+   "correct": 0,
+   "exp": "El anexo III dice que el código «tiene carácter cerrado y obligatorio en sus niveles de capítulo y artículo. Por lo que se refiere a concepto, subconcepto y partida, se considera abierto», aunque la Orden tipifica algunos conceptos y subconceptos obligatorios y cada entidad puede crear los epígrafes adicionales que necesite. Concuerda con el art. 167.3 c) TRLRHL, según el cual los niveles de capítulo y artículo «habrán de ser los mismos que los establecidos para la Administración del Estado».",
+   "fuente": "Anexo III (introducción) Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales) y art. 167.3 c) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo III, introducción: «El código tiene carácter cerrado y obligatorio en sus niveles de capítulo y artículo. Por lo que se refiere a concepto, subconcepto y partida, se considera abierto». Concuerda con art. 167.3 c) TRLRHL. Distinta de la existente sobre los tres niveles del 167.3 c). | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), introducción del anexo III literal: cerrado y obligatorio en capítulo y artículo; abierto en concepto, subconcepto y partida (también art. 5.4-5.5). Concuerda con el art. 167.3 c) TRLRHL. El banco pregunta por los tres niveles del 167.3 c), no por esto."
+  },
+  {
+   "q": "En la clasificación por programas del anexo I de la Orden EHA/3565/2008, el área de gasto 0 corresponde a:",
+   "options": [
+    "Servicios públicos básicos",
+    "Deuda pública",
+    "Actuaciones de carácter general",
+    "Actuaciones de carácter económico"
+   ],
+   "correct": 1,
+   "exp": "El anexo I rotula «Área de Gasto 0. Deuda Pública», que «comprende los gastos de intereses y amortización de la Deuda Pública y demás operaciones financieras de naturaleza análoga, con exclusión de los gastos que ocasione la formalización de las mismas» (estos se llevan a la política de gasto 93, grupo de programas 934). Los servicios públicos básicos son el área 1, las actuaciones de carácter económico el área 4 y las actuaciones de carácter general el área 9.",
+   "fuente": "Anexo I, área de gasto 0, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo I: «Área de Gasto 0. Deuda Pública»; área 1 Servicios públicos básicos, 4 Actuaciones de carácter económico, 9 Actuaciones de carácter general; gastos de formalización a la política 93, grupo 934. Todo comprobado. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), anexo I: «Área de Gasto 0. Deuda Pública» (grupo de programas 011; formalización, al 934). Comprobado: área 1 Servicios públicos básicos, área 4 Actuaciones de carácter económico y área 9 Actuaciones de carácter general. Distractores falsos."
+  },
+  {
+   "q": "Según el anexo I de la Orden EHA/3565/2008, el área de gasto 1, «Servicios públicos básicos», incluye cuatro políticas de gasto básicas. ¿Cuál de las siguientes es una de ellas?",
+   "options": [
+    "Sanidad",
+    "Fomento del empleo",
+    "Bienestar comunitario",
+    "Transporte público"
+   ],
+   "correct": 2,
+   "exp": "El anexo I dice que en el área de gasto 1 se incluyen «cuatro políticas de gasto básicas: seguridad y movilidad ciudadana, vivienda y urbanismo, bienestar comunitario y medio ambiente» (políticas 13, 15, 16 y 17), ligadas a los servicios obligatorios del art. 26.1 LBRL. La sanidad es la política 31 (área 3, producción de bienes públicos de carácter preferente), el fomento del empleo la 24 (área 2, actuaciones de protección y promoción social) y el transporte público la 44 (área 4, actuaciones de carácter económico).",
+   "fuente": "Anexo I, área de gasto 1, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo I, área de gasto 1: «cuatro políticas de gasto básicas: seguridad y movilidad ciudadana, vivienda y urbanismo, bienestar comunitario y medio ambiente». Sanidad = política 31 (área 3), Fomento del empleo = 24 (área 2), Transporte público = 44 (área 4): comprobado. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), anexo I, área 1, literal: «cuatro políticas de gasto básicas: seguridad y movilidad ciudadana, vivienda y urbanismo, bienestar comunitario y medio ambiente» (13, 15, 16 y 17). Comprobado: Sanidad es la política 31 (área 3), Fomento del empleo la 24 (área 2) y Transporte público la 44 (área 4)."
+  },
+  {
+   "q": "Según el anexo III de la Orden EHA/3565/2008, la adquisición de un bien que no es fungible, que tiene una duración previsiblemente superior al ejercicio presupuestario y que es susceptible de inclusión en inventario se imputa al capítulo:",
+   "options": [
+    "2, «Gastos corrientes en bienes y servicios»",
+    "7, «Transferencias de capital»",
+    "8, «Activos financieros»",
+    "6, «Inversiones reales»"
+   ],
+   "correct": 3,
+   "exp": "El capítulo 6, «Inversiones reales», recoge, entre otros, la adquisición de bienes de naturaleza inventariable necesarios para el funcionamiento de los servicios, y le son imputables los bienes que «no sean bienes fungibles», que «tengan una duración previsiblemente superior al ejercicio presupuestario» o que «sean susceptibles de inclusión en inventario». Al capítulo 2 van, al contrario, los bienes fungibles, de duración previsiblemente inferior al ejercicio o no inventariables. El capítulo 7 recoge aportaciones sin contrapartida directa para financiar operaciones de capital, y el 8 la adquisición de activos financieros.",
+   "fuente": "Anexo III, capítulos 2 y 6, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo III, capítulo 6: imputables los bienes que «a) no sean bienes fungibles; b) tengan una duración previsiblemente superior al ejercicio; c) sean susceptibles de inclusión en inventario». Capítulo 2 recoge lo contrario. Denominaciones de capítulos 2, 6, 7 y 8 correctas. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), anexo III: el capítulo 6 recoge los bienes que no sean fungibles, de duración previsiblemente superior al ejercicio o susceptibles de inventario (a, b y c); el capítulo 2, los contrarios. El enunciado reúne tres rasgos del capítulo 6 y ninguno del 2, así que no es ambiguo. Capítulo 7 (aportaciones sin contrapartida) y capítulo 8 (activos financieros) son falsos."
+  },
+  {
+   "q": "Según el anexo III de la Orden EHA/3565/2008, cuando una entidad local devuelve un préstamo a largo plazo, ¿a qué capítulos del estado de gastos se imputan la amortización del principal y los intereses?",
+   "options": [
+    "La amortización al capítulo 9 y los intereses al capítulo 3",
+    "La amortización y los intereses, ambos juntos al capítulo 9",
+    "La amortización al capítulo 3 y los intereses al capítulo 9",
+    "La amortización al capítulo 8 y los intereses al capítulo 3"
+   ],
+   "correct": 0,
+   "exp": "El capítulo 9, «Pasivos financieros», «recoge el gasto que realizan las entidades locales y sus organismos autónomos destinado a la amortización de deudas», a largo o a corto plazo, por su valor efectivo, «aplicando los rendimientos implícitos al capítulo 3». El capítulo 3, «Gastos financieros», comprende «los intereses, incluidos los implícitos, y demás gastos derivados de todo tipo de operaciones financieras y de deudas». El capítulo 8, «Activos financieros», es el de la adquisición de activos financieros, no el de la devolución de deudas.",
+   "fuente": "Anexo III, capítulos 3 y 9, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo III: capítulo 9 «amortización de deudas ... aplicando los rendimientos implícitos al capítulo 3»; capítulo 3 comprende los intereses. Capítulo 8 es adquisición de activos financieros. Distractores falsos. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), anexo III: capítulo 9, amortización de deudas a largo o a corto plazo, «aplicando los rendimientos implícitos al capítulo 3» (concepto 911/913); capítulo 3, intereses de todo tipo de operaciones financieras y deudas. El capítulo 8 es la adquisición de activos. Opciones de igual longitud."
+  },
+  {
+   "q": "Según el anexo III de la Orden EHA/3565/2008, los anticipos de sueldos y salarios y demás préstamos concedidos al personal se recogen en el estado de gastos dentro del capítulo:",
+   "options": [
+    "1, «Gastos de personal»",
+    "8, «Activos financieros»",
+    "4, «Transferencias corrientes»",
+    "9, «Pasivos financieros»"
+   ],
+   "correct": 1,
+   "exp": "En la descripción del capítulo 8, «Activos financieros», el anexo III dice: «Los anticipos de sueldos y salarios y demás préstamos al personal se recogerán en los Conceptos 830, «Préstamos a corto plazo. Desarrollo por sectores», y 831, «Préstamos a largo plazo. Desarrollo por sectores»». No son retribuciones (capítulo 1) ni transferencias sin contrapartida (capítulo 4), sino préstamos que la entidad concede; el capítulo 9 es el de la amortización de las deudas de la propia entidad.",
+   "fuente": "Anexo III, capítulo 8, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo III, capítulo 8: «Los anticipos de sueldos y salarios y demás préstamos al personal se recogerán en los Conceptos 830 ... y 831». Distractores falsos. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), anexo III, capítulo 8, literal: anticipos de sueldos y préstamos al personal en los conceptos 830 y 831. Distractores (capítulos 1, 4 y 9) falsos."
+  },
+  {
+   "q": "Según el anexo III de la Orden EHA/3565/2008, en la clasificación económica de los gastos de las entidades locales, el capítulo 5 se denomina:",
+   "options": [
+    "«Gastos corrientes en bienes y servicios»",
+    "«Transferencias corrientes»",
+    "«Fondo de Contingencia y Otros Imprevistos»",
+    "«Gastos financieros»"
+   ],
+   "correct": 2,
+   "exp": "El capítulo 5 del anexo III se denomina «Fondo de Contingencia y Otros Imprevistos» y comprende la dotación al Fondo de Contingencia del art. 31 de la LO 2/2012, para atender necesidades imprevistas, inaplazables y no discrecionales para las que no exista crédito o el previsto resulte insuficiente; lo añadió la Orden HAP/419/2014, aplicable a los presupuestos de 2015 y siguientes. Los gastos corrientes en bienes y servicios son el capítulo 2, los gastos financieros el 3 y las transferencias corrientes el 4.",
+   "fuente": "Anexo III, capítulo 5, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo III: «CAPÍTULO 5 Fondo de Contingencia y Otros Imprevistos», añadido por art. único.4 Orden HAP/419/2014, aplicable a presupuestos de 2015 y siguientes (nota del consolidado). Capítulos 2, 3 y 4 bien nombrados. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), anexo III: «CAPÍTULO 5 Fondo de Contingencia y Otros Imprevistos», añadido por la Orden HAP/419/2014 para presupuestos de 2015 y siguientes. Comprobado: capítulo 2 Gastos corrientes en bienes y servicios, 3 Gastos financieros y 4 Transferencias corrientes. La diferencia de longitud es mínima."
+  },
+  {
+   "q": "Según el anexo IV de la Orden EHA/3565/2008, en el estado de ingresos de las entidades locales, las operaciones corrientes comprenden los capítulos:",
+   "options": [
+    "1 a 4",
+    "1 a 3",
+    "1 a 7",
+    "1 a 5"
+   ],
+   "correct": 3,
+   "exp": "El anexo IV distingue las operaciones no financieras (capítulos 1 a 7) de las financieras (8 y 9), «subdividiéndose las primeras en operaciones corrientes (Capítulos 1 a 5) y de capital (Capítulos 6 y 7)». En el estado de gastos, en cambio, las operaciones corrientes son los capítulos 1 a 4 (anexo III). Los capítulos 1 a 3 de ingresos son solo los de naturaleza tributaria o análoga, y 1 a 7 son todas las operaciones no financieras.",
+   "fuente": "Anexo IV (introducción) Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo IV, introducción: «operaciones corrientes (Capítulos 1 a 5) y de capital (Capítulos 6 y 7)»; en gastos, corrientes 1 a 4 (anexo III). Explicación exacta. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), introducción del anexo IV literal: operaciones corrientes, capítulos 1 a 5; de capital, 6 y 7 (en gastos, en cambio, las corrientes son los capítulos 1 a 4). Distractores falsos."
+  },
+  {
+   "q": "Según el anexo IV de la Orden EHA/3565/2008, el producto correspondiente al canon de concesiones administrativas se recoge en el estado de ingresos dentro del capítulo:",
+   "options": [
+    "5, «Ingresos patrimoniales»",
+    "3, «Tasas, precios públicos y otros ingresos»",
+    "6, «Enajenación de inversiones reales»",
+    "2, «Impuestos indirectos»"
+   ],
+   "correct": 0,
+   "exp": "El anexo IV explica que «el Capítulo 5 recoge los ingresos patrimoniales, derivados de depósitos, dividendos o rentas de bienes inmuebles, así como, entre otros, el producto correspondiente al canon de concesiones administrativas y las contraprestaciones del derecho de superficie». El capítulo 3 recoge tasas, precios públicos y otros ingresos; el 6, los ingresos «provenientes de transacciones con salida o entrega de bienes de capital»; y el 2, los impuestos indirectos.",
+   "fuente": "Anexo IV, operaciones corrientes, Orden EHA/3565/2008 (estructura de los presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Anexo IV, operaciones corrientes: el capítulo 5 recoge «el producto correspondiente al canon de concesiones administrativas». Capítulos 2 (Impuestos indirectos), 3 (Tasas, precios públicos y otros ingresos) y 6 (Enajenación de inversiones reales) comprobados. | Revisor 2 (CONFIRMADA): Orden EHA/3565/2008 consolidada (BOE-A-2008-19916, últ. act. 19/03/2014 por Orden HAP/419/2014; el BOE no registra orden de estructura posterior que la derogue), anexo IV, A.1, literal: el capítulo 5 recoge «el producto correspondiente al canon de concesiones administrativas» (conceptos 550 y 551). Las tasas del capítulo 3 no se confunden, porque el enunciado reproduce la fórmula literal del anexo. La cita sobre el capítulo 6 de la explicación también es literal."
+  },
+  {
+   "q": "Según el art. 1 del RD 500/1990, sus normas son aplicables, en los términos que en cada caso se establecen, a las sociedades mercantiles cuyo capital social pertenezca a la entidad local:",
+   "options": [
+    "Únicamente si es de forma íntegra",
+    "Total o mayoritariamente",
+    "En cualquier proporción",
+    "Al menos en un 25 por ciento"
+   ],
+   "correct": 1,
+   "exp": "El art. 1 c) del RD 500/1990 lo aplica «a las Sociedades mercantiles cuyo capital social pertenezca total o mayoritariamente a la Entidad local». No hay que confundirlo con la integración en el presupuesto general: en él solo se integran los estados de previsión de las sociedades de capital íntegramente local (art. 164.1 c TRLRHL), mientras que las de participación mayoritaria remiten sus previsiones y programas (art. 168.3 TRLRHL) y sus programas anuales de actuación, inversiones y financiación se unen como anexo (art. 166.1 b TRLRHL).",
+   "fuente": "Art. 1 c) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 1 c) RD 500/1990 (BOE-A-1990-9664, sin modificaciones): «Sociedades mercantiles cuyo capital social pertenezca total o mayoritariamente a la Entidad local». Explicación coherente con arts. 164.1 c), 166.1 b) y 168.3 TRLRHL. Distinta de las existentes sobre el art. 164.1 c). | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 1 c) literal («total o mayoritariamente»). Bien distinguido del art. 164.1 c) TRLRHL («íntegramente»), del 168.3 y del 166.1 b), todos comprobados. Las preguntas del banco sobre el 162 y el 164.1 c) preguntan otra cosa (integración en el presupuesto general)."
+  },
+  {
+   "q": "Según el art. 6 del RD 500/1990, los créditos de los órganos territoriales de gestión desconcentrada de una entidad local se integran:",
+   "options": [
+    "En un presupuesto separado dentro del presupuesto general",
+    "En el estado de consolidación anexo al presupuesto general",
+    "En el presupuesto de la propia entidad local",
+    "En un estado de previsión propio, como las sociedades mercantiles"
+   ],
+   "correct": 2,
+   "exp": "El art. 6 dispone: «Se integrarán en el Presupuesto de la propia Entidad los créditos de sus Órganos centralizados, de sus Órganos territoriales de gestión desconcentrada y de aquellos Órganos desconcentrados para la gestión de los servicios que carezcan de personalidad jurídica propia». Solo los organismos autónomos tienen presupuesto propio dentro del general, y las sociedades mercantiles de capital íntegramente local aportan estados de previsión (art. 164.1 TRLRHL). En Zaragoza, la Ley 10/2017 (art. 52.1) prevé distritos «como divisiones territoriales propias dotadas de órganos de gestión desconcentrada».",
+   "fuente": "Art. 6 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 6 RD 500/1990 literal. La referencia a la Ley 10/2017 (art. 52.1, párrafo segundo: distritos «como divisiones territoriales propias dotadas de órganos de gestión desconcentrada») es exacta. Distractores falsos. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 6 literal. La referencia de la explicación al art. 52.1 de la Ley 10/2017 (distritos dotados de órganos de gestión desconcentrada) está comprobada y es exacta; también concuerda con el art. 128.2 LBRL. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 18.1 c) del RD 500/1990, en el anexo de personal que se une al presupuesto se relacionarán y valorarán los puestos de trabajo existentes en la entidad, de forma que se dé la oportuna correlación con:",
+   "options": [
+    "La oferta de empleo público aprobada para el ejercicio",
+    "Las retribuciones fijadas por la ley de presupuestos del Estado",
+    "Las bases de las convocatorias de los procesos selectivos",
+    "Los créditos para personal incluidos en el presupuesto"
+   ],
+   "correct": 3,
+   "exp": "El art. 18.1 c) describe el anexo de personal como aquel «en que se relacionen y valoren los puestos de trabajo existentes en la misma, de forma que se de la oportuna correlación con los créditos para personal incluidos en el Presupuesto». La correlación que exige es con los créditos de personal del propio presupuesto, no con la oferta de empleo, con la ley de presupuestos del Estado ni con las convocatorias. El art. 168.1 c) TRLRHL solo enumera el «Anexo de personal de la Entidad Local».",
+   "fuente": "Art. 18.1 c) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 18.1 c) RD 500/1990: «de forma que se de la oportuna correlación con los créditos para personal incluidos en el Presupuesto». Compatible con art. 168.1 c) TRLRHL; el enunciado no entra en el órgano que forma el presupuesto (en Zaragoza, art. 14.1 b) Ley 10/2017). Distinta de la existente del 168.1 c). | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 18.1 c) literal («oportuna correlación con los créditos para personal incluidos en el Presupuesto»). El art. 168.1 c) TRLRHL solo dice «Anexo de personal». Distractores falsos. No repite la pregunta del banco sobre el 168.1 c)."
+  },
+  {
+   "q": "Según el art. 18.1 e) del RD 500/1990, en relación con las operaciones de crédito, el informe económico-financiero que se une al presupuesto hará una especial referencia a:",
+   "options": [
+    "La carga financiera que pese sobre la entidad antes y después de su formalización",
+    "El tipo de interés medio que la entidad ha pagado en los cinco ejercicios anteriores",
+    "La autorización del Ministerio de Hacienda que se haya obtenido para cada operación",
+    "El informe del Tribunal de Cuentas sobre el nivel de endeudamiento de la entidad"
+   ],
+   "correct": 0,
+   "exp": "El art. 18.1 e), párrafo segundo, dispone que en el informe económico-financiero se incluirá, además del importe de las operaciones de crédito, «el detalle de las características y condiciones financieras de todo orden en que se prevean concertar y se hará una especial referencia a la carga financiera que pese sobre la Entidad antes y después de su formalización». El precepto no menciona el interés medio de ejercicios anteriores, ni autorizaciones ministeriales, ni informes del Tribunal de Cuentas.",
+   "fuente": "Art. 18.1 e), párrafo segundo, RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 18.1 e), párrafo segundo, RD 500/1990: «se hará una especial referencia a la carga financiera que pese sobre la Entidad antes y después de su formalización». Complementa sin contradecir el art. 168.1 g) TRLRHL. Distractores falsos. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 18.1 e), párrafo segundo, literal. No lo contradice el art. 168.1 g) TRLRHL (el informe económico-financiero sigue vigente). Opciones de longitud pareja y distractores falsos."
+  },
+  {
+   "q": "Según el art. 18.5 del RD 500/1990, ¿qué presupuestos pueden aprobarse separadamente del acuerdo único de aprobación del presupuesto general?",
+   "options": [
+    "Los de las sociedades mercantiles cuyo capital pertenezca íntegramente a la entidad",
+    "Los de los organismos cuya creación tenga lugar una vez aprobado el presupuesto general",
+    "Los de los organismos autónomos de carácter comercial, industrial o financiero",
+    "Los de los organismos autónomos que los remitan después del 15 de septiembre"
+   ],
+   "correct": 1,
+   "exp": "El art. 18.5 reproduce la regla del art. 168.5 TRLRHL (acuerdo único, sin aprobar separadamente ninguno de los presupuestos integrantes) y añade: «salvo en el caso de los correspondientes a Organismos cuya creación tenga lugar una vez aprobado aquél». No hay excepción para las sociedades mercantiles, para los organismos autónomos comerciales o industriales ni para los que remitan tarde su presupuesto. Ojo: esta regla del «acuerdo único» no tiene que ver con la «aprobación en acto único» del procedimiento de la Ley 10/2017 de Zaragoza (art. 48.3 d), al que remite su art. 50).",
+   "fuente": "Art. 18.5 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 18.5 RD 500/1990: «salvo en el caso de los correspondientes a Organismos cuya creación tenga lugar una vez aprobado aquél». El art. 168.5 TRLRHL no recoge esta excepción, pero no la contradice ni hay norma posterior o sentencia que la desplace; el enunciado se ciñe al RD. No repite la existente del 168.5 TRLRHL (que pregunta la regla general, no la excepción). La nota sobre el «acto único» de los arts. 48.3 d) y 50 Ley 10/2017 es exacta. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 18.5 literal: excepción para los «Organismos cuya creación tenga lugar una vez aprobado aquél». El art. 168.5 TRLRHL no recoge la excepción, pero su texto es igual al de la LRHL de 1988 que el RD desarrollaba: no hay ley posterior que lo desplace. Lo que la explicación dice de la Ley 10/2017 (art. 48.3 d), al que remite el art. 50) está comprobado. La correcta es poco más larga (87 frente a 83)."
+  },
+  {
+   "q": "Según el art. 19 del RD 500/1990, el anexo de inversiones que se une al presupuesto deberá especificar, para cada uno de los proyectos, entre otros datos:",
+   "options": [
+    "La empresa adjudicataria de la obra",
+    "El informe técnico de supervisión",
+    "El órgano encargado de su gestión",
+    "La fecha de su aprobación por el Pleno"
+   ],
+   "correct": 2,
+   "exp": "El art. 19 exige que el anexo de inversiones especifique para cada proyecto: código de identificación, denominación, año de inicio y de finalización previstos, importe de la anualidad, tipo de financiación (recursos generales o ingresos afectados), vinculación de los créditos asignados y, en la letra g), «Órgano encargado de su gestión». No figuran el adjudicatario, el informe de supervisión ni la fecha de aprobación plenaria.",
+   "fuente": "Art. 19 g) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 19 g) RD 500/1990: «Órgano encargado de su gestión». Enumeración a)-g) comprobada; distractores no figuran. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 19 g) literal; lista a)-g) comprobada. Adjudicatario, informe de supervisión y fecha de aprobación plenaria no figuran. Distinta de la pregunta del lote t13-1 sobre el 18.1 d)."
+  },
+  {
+   "q": "Según el art. 21.2 del RD 500/1990, cuando el presupuesto se prorroga, ¿qué no tendrá en ningún caso, singularmente, la consideración de prorrogable?",
+   "options": [
+    "Los créditos para gastos de personal",
+    "Los créditos para intereses de la deuda",
+    "Los créditos de los organismos autónomos",
+    "Las modificaciones de crédito"
+   ],
+   "correct": 3,
+   "exp": "El art. 21.2 dispone: «En ningún caso tendrán singularmente la consideración de prorrogables las modificaciones de crédito ni los créditos destinados a servicios o programas que deban concluir en el ejercicio anterior o estén financiados con crédito u otros ingresos específicos o afectados». Concuerda con el art. 169.6 TRLRHL, que prorroga el presupuesto anterior «con sus créditos iniciales». Los créditos de personal, de intereses o de los organismos autónomos no están excluidos de la prórroga; el art. 21.3 a) permite incluso, si concurren las circunstancias que enumera, ajustes al alza por mayores cargas financieras de operaciones de crédito.",
+   "fuente": "Art. 21.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 21.2 RD 500/1990: «En ningún caso tendrán singularmente la consideración de prorrogables las modificaciones de crédito ni ...». Coherente con art. 169.6 TRLRHL («con sus créditos iniciales»). No repite la existente del 169.6 (que pregunta por los créditos de servicios que deban concluir). | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 21.2 literal. Concuerda con el art. 169.6 TRLRHL («con sus créditos iniciales») y con el art. 50 f) de la Ley 10/2017 (prórroga automática en Zaragoza). Las preguntas del banco sobre el 169.6 preguntan por otros créditos excluidos, no por las modificaciones. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 21.6 del RD 500/1990, las modificaciones y ajustes efectuados sobre el presupuesto prorrogado se entienden hechos sobre el presupuesto definitivo, salvo que:",
+   "options": [
+    "El Pleno disponga en el acuerdo de aprobación que se consideran incluidos en los créditos iniciales",
+    "El Presidente los declare caducados mediante resolución motivada, previo informe del Interventor",
+    "Hayan transcurrido más de tres meses desde el inicio del ejercicio sin presupuesto aprobado",
+    "Se refieran a créditos financiados con ingresos afectados procedentes de otras Administraciones"
+   ],
+   "correct": 0,
+   "exp": "El art. 21.6 dispone que «las modificaciones y ajustes efectuados sobre el Presupuesto prorrogado se entenderán hechas sobre el Presupuesto definitivo, salvo que el Pleno disponga en el propio acuerdo de aprobación de este último que determinadas modificaciones o ajustes se consideran incluidas en los créditos iniciales, en cuyo caso deberán anularse los mismos». No prevé una declaración de caducidad por el Presidente, ningún plazo de tres meses ni una excepción para los ingresos afectados.",
+   "fuente": "Art. 21.6 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 21.6 RD 500/1990, inciso segundo, literal. Regla 9: en Zaragoza el presupuesto lo aprueba el Pleno (art. 11.1 h) Ley 10/2017; LBRL 123.1 h), así que el acuerdo plenario de aprobación es cierto también allí. No repite la existente del 21.6 (efectos de 1 de enero). Distractores falsos (el del Presidente remeda el 21.4, pero no prevé caducidad). | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 21.6 literal. Vale en Zaragoza: aprueba el presupuesto el Pleno (art. 11.1 h Ley 10/2017; art. 123.1 h LBRL). La pregunta del banco sobre el 21.6 pregunta por los efectos de 1 de enero, no por esta salvedad. Diferencia de longitud mínima."
+  },
+  {
+   "q": "Según el art. 27.2 del RD 500/1990, los créditos que se declaren ampliables tendrán carácter vinculante:",
+   "options": [
+    "Al nivel general de vinculación que fijen las bases de ejecución",
+    "Al nivel de desagregación con que figuren en los estados de gastos",
+    "Al nivel que establezca en cada momento la legislación del Estado",
+    "Al nivel del capítulo de la clasificación económica del gasto"
+   ],
+   "correct": 1,
+   "exp": "El art. 27.2 dispone que los créditos ampliables «tendrán carácter de vinculantes al nivel de desagregación con que figuren en los estados de gastos del Presupuesto». Es una excepción a la regla general del art. 27.1 (niveles de vinculación de la legislación presupuestaria del Estado) y a la posibilidad de fijar otros niveles en las bases de ejecución (art. 28); el capítulo es solo el límite que el art. 29 impone a esos niveles generales.",
+   "fuente": "Art. 27.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 27.2 RD 500/1990: ampliables «vinculantes al nivel de desagregación con que figuren en los estados de gastos del Presupuesto». Vigente: el art. 172.2 TRLRHL admite que «reglamentariamente se disponga otra cosa». Distinta de las existentes sobre 27.1 y 172.2. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 27.2 literal. No está desplazado: el art. 172.2 TRLRHL remite a la legislación del Estado «salvo que reglamentariamente se disponga otra cosa». Los distractores corresponden al 27.1, al 28 y al 29: falsos para los ampliables."
+  },
+  {
+   "q": "Según el art. 36.3 del RD 500/1990, para que los recursos procedentes de operaciones de crédito puedan financiar nuevos o mayores gastos por operaciones corrientes declarados necesarios y urgentes, además de las otras condiciones previstas, es preciso que el Pleno:",
+   "options": [
+    "Incluya la operación en el plan de disposición de fondos",
+    "Declare previamente una situación de calamidad pública",
+    "Reconozca la insuficiencia de otros medios de financiación",
+    "Apruebe un plan económico-financiero para cuatro años"
+   ],
+   "correct": 2,
+   "exp": "El art. 36.3 empieza: «Siempre que se reconozca por el Pleno de la Entidad local la insuficiencia de otros medios de financiación, y con el quórum establecido por el artículo 47.3 de la Ley 7/1985», y luego exige las tres condiciones de importe, carga financiera y cancelación que recoge también el art. 177.5 TRLRHL. Coherentemente, el art. 37.2 d) pide acreditar en la memoria «la insuficiencia de los medios de financiación previstos en el artículo 36.1». El precepto no exige incluir la operación en el plan de disposición de fondos, declarar una calamidad pública ni aprobar un plan económico-financiero.",
+   "fuente": "Art. 36.3 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 36.3 RD 500/1990: «Siempre que se reconozca por el Pleno de la Entidad local la insuficiencia de otros medios de financiación». Requisito reglamentario compatible con art. 177.5 TRLRHL (que no lo contradice) y reflejado en el art. 37.2 d). En Zaragoza los créditos extraordinarios y suplementos los aprueba el Pleno (art. 177.2 TRLRHL). El distractor de calamidad pública remite al 177.6, supuesto distinto. Distinta de las existentes del 36.2 y 177.5. | Revisor 2 (DUDOSA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 36.3 literal: correcto según el texto. Duda de la regla 10: la financiación excepcional de gasto corriente con operaciones de crédito (art. 177.5 TRLRHL, sin cambios desde la LRHL de 1988) ha quedado limitada por la legislación posterior de endeudamiento. La DA 14.ª del RDL 20/2011, de vigencia indefinida, solo permite concertar operaciones a largo plazo «para la financiación de inversiones» y en las condiciones que fija. Además, el quórum del «art. 47.3 LBRL» remite a una numeración superada. Arreglo propuesto: que la explicación advierta de esa limitación de la DA 14.ª RDL 20/2011, o descartar la pregunta. Los distractores son falsos."
+  },
+  {
+   "q": "Según el art. 37.2 b) del RD 500/1990, en los expedientes de crédito extraordinario o de suplemento de crédito, la inexistencia o insuficiencia de crédito deberá verificarse:",
+   "options": [
+    "En el nivel de la partida presupuestaria que se incrementa",
+    "En el nivel del capítulo de la clasificación económica",
+    "En el nivel del área de gasto de la clasificación por programas",
+    "En el nivel en que esté establecida la vinculación jurídica"
+   ],
+   "correct": 3,
+   "exp": "El art. 37.2 b) exige acreditar la inexistencia de crédito (crédito extraordinario) o la insuficiencia del saldo no comprometido (suplemento) y añade: «Dicha inexistencia o insuficiencia de crédito deberá verificarse en el nivel en que esté establecida la vinculación jurídica». El precepto se remite al nivel de vinculación jurídica, no a la partida, al capítulo ni al área de gasto.",
+   "fuente": "Art. 37.2 b) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 37.2 b), párrafo segundo, RD 500/1990: «deberá verificarse en el nivel en que esté establecida la vinculación jurídica». Distinta de la existente del 31.2 (retenciones). Distractores falsos. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 37.2 b), párrafo segundo, literal. Distractores falsos. Se parece en la idea a la pregunta del banco sobre el 31.2 (retenciones), pero es otro precepto y otro supuesto: no es repetición."
+  },
+  {
+   "q": "Según el art. 44 del RD 500/1990, para generar crédito en el supuesto de reintegros de presupuesto corriente es requisito indispensable:",
+   "options": [
+    "La efectividad del cobro del reintegro",
+    "El reconocimiento del derecho a reintegrar",
+    "La existencia formal de un compromiso firme",
+    "El acuerdo previo del Pleno de la entidad"
+   ],
+   "correct": 0,
+   "exp": "El art. 44 fija un requisito para cada supuesto de generación: para aportaciones y enajenaciones, el reconocimiento del derecho o la existencia formal del compromiso firme de aportación (letra a); para prestación de servicios y reembolso de préstamos, el reconocimiento del derecho, con disponibilidad condicionada a la recaudación (letra b); y, según la letra c), «en el supuesto de reintegros de presupuesto corriente, la efectividad del cobro del reintegro». No se exige acuerdo del Pleno.",
+   "fuente": "Art. 44 c) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 44 c) RD 500/1990: «En el supuesto de reintegros de presupuesto corriente, la efectividad del cobro del reintegro». Las existentes preguntan las letras a) y b), no la c). Distractores falsos. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 44 c) literal. El banco tiene el 44 a) y el 44 b), no el c). Concuerda con el art. 181 e) TRLRHL. Distractores falsos (el reconocimiento del derecho y el compromiso firme son los requisitos de otros supuestos)."
+  },
+  {
+   "q": "Según el art. 47.5 del RD 500/1990, a la incorporación de los remanentes de crédito que amparen proyectos financiados con ingresos afectados:",
+   "options": [
+    "Se le aplica el límite de cuatro ejercicios de los gastos plurianuales",
+    "No le son aplicables las reglas de limitación en el número de ejercicios",
+    "Solo se le permite una vez, en el ejercicio inmediato siguiente",
+    "Se le exige siempre el acuerdo previo del Pleno de la entidad"
+   ],
+   "correct": 1,
+   "exp": "El art. 47.5 dispone que esos remanentes «deberán incorporarse obligatoriamente sin que les sean aplicables las reglas de limitación en el número de ejercicios, salvo que se desista total o parcialmente de iniciar o continuar la ejecución del gasto, o que se haga imposible su realización». Por eso el art. 99.3, al declarar no incorporables los remanentes incorporados en el ejercicio que se liquida, salva «la excepción prevista en el número 5 del artículo 47». El precepto no remite al límite de los gastos plurianuales ni exige acuerdo del Pleno.",
+   "fuente": "Art. 47.5 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 47.5 RD 500/1990: «deberán incorporarse obligatoriamente sin que les sean aplicables las reglas de limitación en el número de ejercicios». Compatible con art. 182.3 TRLRHL. La existente del 182.3 pregunta por la obligatoriedad y el desistimiento, no por la limitación de ejercicios. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 47.5 literal; el art. 99.3 salva esa excepción (comprobado). El art. 182.3 TRLRHL (igual que el 163.3 LRHL de 1988) es compatible y no lo desplaza. La pregunta del banco sobre el 182.3 pregunta por la incorporación obligatoria y el desistimiento, no por la limitación de ejercicios. Diferencia de longitud mínima."
+  },
+  {
+   "q": "Según el art. 70.1 del RD 500/1990, el plazo máximo de que disponen los perceptores de órdenes de pago «a justificar» para justificar la aplicación de las cantidades percibidas se cuenta desde:",
+   "options": [
+    "La expedición de la orden de pago a justificar",
+    "La realización efectiva del gasto que se atiende",
+    "La percepción de los correspondientes fondos",
+    "El cierre del ejercicio presupuestario corriente"
+   ],
+   "correct": 2,
+   "exp": "El art. 70.1 obliga a los perceptores «a justificar la aplicación de las cantidades percibidas en el plazo máximo de tres meses desde la percepción de los correspondientes fondos». El cómputo no empieza con la expedición de la orden, con la realización del gasto ni con el cierre del ejercicio. El art. 190.2 TRLRHL fija el mismo plazo máximo de tres meses.",
+   "fuente": "Art. 70.1 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 70.1 RD 500/1990: «tres meses desde la percepción de los correspondientes fondos». El art. 190.2 TRLRHL fija los tres meses sin decir desde cuándo, y no lo contradice. La existente del 190.2 pregunta la duración del plazo; esta pregunta el día inicial, así que no es repetición. Distractores falsos. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 70.1 literal («desde la percepción de los correspondientes fondos»). El art. 190.2 TRLRHL fija tres meses sin decir desde cuándo; no hay contradicción. El banco pregunta por el plazo (tres meses), no por el inicio del cómputo."
+  },
+  {
+   "q": "Según el art. 73.1 del RD 500/1990, ¿cuál de los siguientes gastos se cita expresamente como atendible mediante anticipos de caja fija?",
+   "options": [
+    "La adquisición de mobiliario inventariable",
+    "Las subvenciones a asociaciones vecinales",
+    "Las certificaciones de obras de inversión",
+    "El material de oficina no inventariable"
+   ],
+   "correct": 3,
+   "exp": "El art. 73.1 permite que los fondos librados a justificar tengan el carácter de anticipos de caja fija «para las atenciones corrientes de carácter periódico o repetitivo, tales como dietas, gastos de locomoción, material de oficina no inventariable, conservación y otros de similares características». El mobiliario inventariable y las obras de inversión no son atenciones corrientes, y las subvenciones no son gastos de ese tipo.",
+   "fuente": "Art. 73.1 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 73.1 RD 500/1990: «dietas, gastos de locomoción, material de oficina no inventariable, conservación y otros». La existente del 73.2 pregunta qué son los anticipos, no los ejemplos. Distractores falsos. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 73.1 literal (dietas, locomoción, material de oficina no inventariable, conservación). Mobiliario inventariable, obras de inversión y subvenciones no son atenciones corrientes periódicas. La pregunta del banco sobre el 73.2 trata la definición, no esto."
+  },
+  {
+   "q": "Según el art. 74.4 del RD 500/1990, los perceptores de anticipos de caja fija habrán de rendir cuentas, como mínimo, en el mes de:",
+   "options": [
+    "Diciembre de cada año",
+    "Enero del ejercicio siguiente",
+    "Marzo del ejercicio siguiente",
+    "Junio de cada año"
+   ],
+   "correct": 0,
+   "exp": "El art. 74.4 obliga a los perceptores a justificar los fondos a lo largo del ejercicio en que se constituyó el anticipo, «por lo que, al menos, en el mes de diciembre de cada año, habrán de rendir las cuentas a que se refiere el apartado 1 de este artículo». Fuera de ese mínimo, rinden cuentas a medida que sus necesidades de tesorería aconsejen reponer los fondos (art. 74.1).",
+   "fuente": "Art. 74.4 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 74.4 RD 500/1990: «al menos, en el mes de diciembre de cada año, habrán de rendir las cuentas». Coherente con art. 190.3 TRLRHL. Las existentes (190.3 y 74.3) preguntan otra cosa. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 74.4 literal («al menos, en el mes de diciembre de cada año»). Concuerda con el art. 190.3 TRLRHL. El banco tiene el 74.3 y el 190.3 (justificación a lo largo del ejercicio), pero no el mes mínimo de rendición."
+  },
+  {
+   "q": "Según el art. 78 del RD 500/1990, los reintegros de ejercicios cerrados:",
+   "options": [
+    "Reponen crédito en la partida a la que se imputó el pago indebido",
+    "Constituyen un recurso del presupuesto de ingresos de la entidad",
+    "Generan crédito en el presupuesto de gastos del ejercicio corriente",
+    "Se aplican como menor gasto de la partida de origen del pago"
+   ],
+   "correct": 1,
+   "exp": "El art. 78.2 dispone: «Los reintegros de ejercicios cerrados constituyen un recurso del Presupuesto de ingresos de la Entidad local». Son los que se producen en un ejercicio distinto de aquel en que se reconoció la obligación (art. 77.2). Reponer crédito es lo propio de los reintegros de presupuesto corriente (art. 78.1 y art. 181 e) TRLRHL), no de los de ejercicios cerrados.",
+   "fuente": "Art. 78.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 78.2 RD 500/1990: «Los reintegros de ejercicios cerrados constituyen un recurso del Presupuesto de ingresos de la Entidad local». La reposición de crédito es del 78.1 (presupuesto corriente). La existente del 77.1 pregunta la definición. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 78.2 literal; art. 77.2 comprobado. Reponer crédito es propio de los reintegros de presupuesto corriente (78.1; art. 181 e TRLRHL). Los tres distractores describen el régimen de presupuesto corriente: falsos para ejercicios cerrados."
+  },
+  {
+   "q": "Según el art. 82.2 del RD 500/1990, en el caso de los suplementos de crédito, el Pleno de la entidad podrá acordar que los límites para gastos plurianuales se calculen sobre:",
+   "options": [
+    "El importe del suplemento de crédito, sin el crédito inicial",
+    "El importe del crédito definitivo al cierre del ejercicio",
+    "El importe del crédito inicial más el suplemento de crédito",
+    "El importe total del presupuesto de gastos de la entidad"
+   ],
+   "correct": 2,
+   "exp": "El art. 82.2 permite al Pleno acordar que los límites para gastos plurianuales «se calculen sobre el importe del crédito extraordinario en el primer caso y sobre el importe del crédito inicial más el suplemento de crédito en el segundo». Para el suplemento, por tanto, la base es el crédito inicial más el suplemento, no el suplemento aislado, ni el crédito definitivo al cierre, ni el total del presupuesto. El art. 174.5 TRLRHL también reserva al Pleno, en casos excepcionales, ampliar el número de anualidades y elevar los porcentajes.",
+   "fuente": "Art. 82.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Regla 10. El art. 82 RD 500/1990 reproduce el antiguo art. 155.3 LRHL: los porcentajes se aplicaban al «crédito inicial». El vigente art. 174.3 TRLRHL los aplica al «crédito correspondiente del año en que la operación se comprometió», y el 174.5 permite al Pleno, en casos excepcionales, ampliar anualidades y elevar porcentajes. La base de cálculo del 82.2 queda superada y vacía de sentido, y el distractor «crédito definitivo» se acerca a la base legal vigente. Presentarlo como regla operativa es dudoso; ante la duda, se rechaza. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 82.2 literal. Regla 10: el art. 174.3 TRLRHL usa la misma base («crédito correspondiente del año») que el art. 155.3 de la LRHL de 1988, que el RD desarrollaba, así que no hay desplazamiento. Regla 9: los créditos extraordinarios, los suplementos y el art. 174.5 son del Pleno también en Zaragoza (art. 177.2 TRLRHL; art. 11.1 h y s Ley 10/2017). Distractores falsos."
+  },
+  {
+   "q": "Según el art. 93.2 del RD 500/1990, como consecuencia de la liquidación del presupuesto deberán determinarse:",
+   "options": [
+    "Los derechos y obligaciones pendientes a 31 de diciembre, el resultado presupuestario, el balance de situación y el remanente de Tesorería",
+    "El resultado presupuestario, los remanentes de crédito, el remanente de Tesorería y el estado de consolidación con los organismos autónomos",
+    "Los derechos y obligaciones pendientes a 31 de diciembre, los remanentes de crédito, el remanente de Tesorería y la cuenta general del ejercicio",
+    "Los derechos y obligaciones pendientes a 31 de diciembre, el resultado presupuestario, los remanentes de crédito y el remanente de Tesorería"
+   ],
+   "correct": 3,
+   "exp": "El art. 93.2 enumera lo que debe determinarse como consecuencia de la liquidación: «a) Los derechos pendientes de cobro y las obligaciones pendientes de pago a 31 de diciembre. b) El resultado presupuestario del ejercicio. c) Los remanentes de crédito. d) El remanente de Tesorería». El balance, el estado de consolidación y la cuenta general no forman parte de esa enumeración.",
+   "fuente": "Art. 93.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 93.2 RD 500/1990 a)-d) literal. El balance, el estado de consolidación y la cuenta general no figuran. Las cuatro opciones tienen longitud parecida. La existente del 93.1 a) pregunta otra cosa. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 93.2 a)-d) literal. Cada distractor mete un elemento ajeno: balance de situación, estado de consolidación o cuenta general. Longitudes parejas. El banco tiene el 93.1 a) y el 94, no el 93.2."
+  },
+  {
+   "q": "Según el art. 96 del RD 500/1990, el resultado de las operaciones presupuestarias del ejercicio viene determinado por la diferencia entre:",
+   "options": [
+    "Los derechos liquidados y las obligaciones reconocidas durante el ejercicio, por sus valores netos",
+    "Los derechos recaudados y los pagos realizados durante el ejercicio, por sus importes íntegros",
+    "Las previsiones definitivas de ingresos y los créditos definitivos de gastos de ese mismo ejercicio",
+    "Los fondos líquidos a 31 de diciembre y las obligaciones pendientes de pago a esa misma fecha"
+   ],
+   "correct": 0,
+   "exp": "El art. 96.1 dispone que el resultado de las operaciones presupuestarias «vendrá determinado por la diferencia entre los derechos presupuestarios liquidados durante el ejercicio y las obligaciones presupuestarias reconocidas durante el mismo período», y los apartados 2 y 3 precisan que ambos se toman por sus valores netos, deducidos los anulados. No se calcula con cobros y pagos, ni con previsiones y créditos definitivos; los fondos líquidos y las obligaciones pendientes de pago son componentes del remanente de Tesorería (art. 101).",
+   "fuente": "Art. 96 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 96.1-3 RD 500/1990: diferencia entre derechos liquidados y obligaciones reconocidas, por sus valores netos. Fondos líquidos y obligaciones pendientes de pago son componentes del remanente (art. 101.1). No repite la existente del art. 97. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 96.1-3 literal (derechos liquidados menos obligaciones reconocidas, netos de anulaciones). Cobros y pagos, previsiones y créditos definitivos, y fondos líquidos y obligaciones pendientes (que son del art. 101) son falsos."
+  },
+  {
+   "q": "Según el art. 104.3 del RD 500/1990, el remanente líquido de Tesorería será, en cada momento, el que resulte de deducir del remanente inicial:",
+   "options": [
+    "Los derechos pendientes de cobro de difícil o imposible recaudación",
+    "Las cuantías ya destinadas a financiar modificaciones de crédito",
+    "Las obligaciones reconocidas que estén pendientes de pago",
+    "Los fondos líquidos existentes a 31 de diciembre del ejercicio"
+   ],
+   "correct": 1,
+   "exp": "El art. 104.3 dispone: «El remanente líquido de Tesorería será, en cada momento, el que resulte de deducir del remanente inicial las cuantías ya destinadas a financiar modificaciones de crédito». Los derechos de difícil o imposible recaudación se deducen antes, para obtener el propio remanente inicial (arts. 103.1 y 104.1); las obligaciones pendientes de pago y los fondos líquidos son componentes con los que se calcula el remanente (art. 101.1), no deducciones del remanente inicial.",
+   "fuente": "Art. 104.3 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 104.3 RD 500/1990 literal. Sobre la duda de distractores: los derechos de difícil o imposible recaudación ya se deducen para obtener el remanente inicial (arts. 103.1 y 104.1: «obtenido una vez efectuadas las deducciones a que hacen referencia los artículos anteriores»); obligaciones pendientes y fondos líquidos son componentes del art. 101.1. Los tres son falsos. Sin norma posterior que desplace el precepto. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 104.3 literal. Cálculo comprobado (arts. 101-104): el remanente se integra por derechos pendientes de cobro, obligaciones pendientes de pago y fondos líquidos (101); se minora en el exceso de financiación afectada (102) y en los derechos de difícil o imposible recaudación (103.1), y así resulta el remanente inicial (104.1). Al inicial se le restan las cuantías ya destinadas a modificaciones y queda el líquido (104.3). Ningún distractor es cierto."
+  },
+  {
+   "q": "Según el art. 104.5 del RD 500/1990, la utilización del remanente de Tesorería como recurso para financiar modificaciones de crédito:",
+   "options": [
+    "Exige reconocer antes un derecho por su importe en el presupuesto de ingresos",
+    "Da lugar a la liquidación de un derecho en el capítulo 9 del estado de ingresos",
+    "No da lugar ni al reconocimiento ni a la liquidación de derechos presupuestarios",
+    "Obliga a anular derechos pendientes de cobro por el mismo importe utilizado"
+   ],
+   "correct": 2,
+   "exp": "El art. 104.5 dispone: «La utilización del remanente de Tesorería como recurso para la financiación de modificaciones de créditos no dará lugar ni al reconocimiento ni a la liquidación de derechos presupuestarios». Por eso son falsas las opciones que exigen reconocer o liquidar un derecho, y el precepto tampoco obliga a anular derechos pendientes de cobro.",
+   "fuente": "Art. 104.5 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 104.5 RD 500/1990: «no dará lugar ni al reconocimiento ni a la liquidación de derechos presupuestarios». La Orden lleva el remanente al artículo 87, capítulo 8 de ingresos, como previsión, no al capítulo 9; el distractor es falso por partida doble. No repite la existente del 104.4. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 104.5 literal. Distractores falsos (la opción del capítulo 9 de ingresos lo es también: el remanente figura en el capítulo 8, concepto 870, y no se liquida como derecho). El banco tiene el 104.4, no el 104.5."
+  },
+  {
+   "q": "Según el art. 117 del RD 500/1990, al consolidar el presupuesto de la entidad con los de sus organismos autónomos y sociedades mercantiles, ¿cuál de las siguientes operaciones se elimina de los estados de ingresos y gastos cuando se efectúa entre ellos?",
+   "options": [
+    "Los préstamos recibidos de entidades financieras privadas",
+    "Las subvenciones recibidas de la comunidad autónoma",
+    "Los impuestos municipales pagados por los vecinos",
+    "Los gastos e ingresos derivados de cesiones de personal"
+   ],
+   "correct": 3,
+   "exp": "El art. 117.1 manda eliminar, cuando se efectúen entre la entidad, sus organismos autónomos o sus sociedades mercantiles, las transferencias corrientes y de capital, los «gastos e ingresos derivados de cesiones de personal», las compraventas de bienes, las prestaciones de servicios, los tributos locales y precios exigibles entre ellas y otros de similar naturaleza. Solo se eliminan las operaciones internas: los préstamos de entidades financieras, las subvenciones de la comunidad autónoma y los impuestos pagados por los vecinos son operaciones con terceros.",
+   "fuente": "Art. 117.1 b) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 117.1 b) RD 500/1990: «Gastos e ingresos derivados de cesiones de personal». Los distractores son operaciones con terceros, no internas. Distinta de las existentes del 166.1 c) TRLRHL. | Revisor 2 (CONFIRMADA): RD 500/1990 consolidado (BOE-A-1990-9664, sin modificaciones), art. 117.1 b) literal; lista a)-f) comprobada. Los préstamos de entidades privadas, las subvenciones de la comunidad autónoma y los impuestos de los vecinos son operaciones con terceros, no internas. Dentro del epígrafe: el estado de consolidación es anexo del presupuesto (art. 166.1 c TRLRHL)."
+  }
+ ]
+}
