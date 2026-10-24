@@ -1,0 +1,547 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 19,
+ "lote": "t19-2",
+ "preguntas": [
+  {
+   "q": "En el Ayuntamiento de Zaragoza, ¿a qué órgano atribuye el art. 14.1.i) de la Ley 10/2017 la separación del servicio de los funcionarios municipales (sin perjuicio de lo dispuesto para los funcionarios con habilitación de carácter nacional), y puede delegarse?",
+   "options": [
+    "Al Pleno del Ayuntamiento, que no puede delegarla",
+    "Al Alcalde, que puede delegarla en un Concejal",
+    "Al Gobierno de Zaragoza, que no puede delegarla",
+    "Al Gobierno de Zaragoza, que puede delegarla en un Concejal"
+   ],
+   "correct": 2,
+   "exp": "El art. 14.1.i) de la Ley 10/2017 atribuye al Gobierno de Zaragoza «la separación del servicio de los funcionarios municipales, sin perjuicio de lo dispuesto respecto a los funcionarios de Administración Local con habilitación de carácter nacional». El art. 14.2 permite delegar las funciones de la letra i) con excepción, entre otras, «de la separación del servicio de los funcionarios», así que no es delegable. No es atribución del Pleno ni del Alcalde. Para los municipios de gran población, el art. 127.1.h) y 127.2 LBRL dicen lo mismo de la Junta de Gobierno Local.",
+   "fuente": "Art. 14.1.i) y 14.2 Ley 10/2017 (capitalidad de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado en BOE-A-2018-1683 (consolidado 15/01/2019): art. 14.1.i) atribuye al Gobierno de Zaragoza «la separación del servicio de los funcionarios municipales...» y el art. 14.2 exceptúa de la delegación «la separación del servicio de los funcionarios». Coincide con art. 127.1.h) y 127.2 LBRL. Distractores falsos. Sin duplicado en temas 13-21 (14-279 y 14-306 tratan otras letras del 14.2). Cierto en Zaragoza (regla 9). | Revisor 2 (CONFIRMADA): Art. 14.1.i) Ley 10/2017 (BOE-A-2018-1683): separación del servicio = Gobierno de Zaragoza; 14.2 excluye expresamente de la delegación «la separación del servicio de los funcionarios». Paralelo LBRL 127.1.h) y 127.2. Distractores falsos. Sin repetición en temas 13/14/17/18/19/21."
+  },
+  {
+   "q": "En el Ayuntamiento de Zaragoza, ¿a qué órgano corresponde, según el art. 14.1.i) de la Ley 10/2017, la ratificación de los Convenios y pactos de empleo público?",
+   "options": [
+    "Al Pleno del Ayuntamiento",
+    "Al Alcalde",
+    "A la Comisión del Pleno competente en materia de personal",
+    "Al Gobierno de Zaragoza"
+   ],
+   "correct": 3,
+   "exp": "El art. 14.1.i) de la Ley 10/2017 incluye entre las atribuciones del Gobierno de Zaragoza «la ratificación de los Convenios y pactos de empleo público», junto con la relación de puestos de trabajo, la oferta de empleo público o el régimen disciplinario y de incompatibilidades. Esta mención no aparece en la lista paralela del art. 127.1.h) LBRL. Las atribuciones del Pleno (art. 11) y del Alcalde (art. 12) no la recogen.",
+   "fuente": "Art. 14.1.i) Ley 10/2017 (capitalidad de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 14.1.i) Ley 10/2017 recoge literalmente «la ratificación de los Convenios y pactos de empleo público»; comprobado que el art. 127.1.h) LBRL no la menciona y que los arts. 11 y 12 no la atribuyen al Pleno ni al Alcalde. Distractores falsos. Sin duplicado (19-155 y 19-18 tocan otras atribuciones del 14.1.i). | Revisor 2 (CONFIRMADA): Art. 14.1.i) Ley 10/2017 literal: «la ratificación de los Convenios y pactos de empleo público» al Gobierno de Zaragoza. Comprobado que arts. 11 (Pleno: solo plantilla y código ético) y 12 (Alcalde: superior dirección del personal) no la recogen y que 127.1.h) LBRL no la menciona. Cierto en Zaragoza."
+  },
+  {
+   "q": "En Zaragoza, el titular del órgano de apoyo al Gobierno de Zaragoza y a su Secretario se nombra entre funcionarios con habilitación de carácter nacional (art. 13.4 de la Ley 10/2017). Según la disposición adicional cuarta del RD 128/2018, en los municipios de gran población el puesto de titular del órgano de apoyo a la Junta de Gobierno Local está reservado a:",
+   "options": [
+    "La subescala de Secretaría, categoría de entrada, y debe clasificarse en clase 2.ª",
+    "La subescala de Secretaría, categoría superior, y debe clasificarse en clase 1.ª",
+    "La subescala de Secretaría-Intervención, y debe clasificarse en clase 1.ª",
+    "La subescala de Intervención-Tesorería, categoría de entrada, y debe clasificarse en clase 1.ª"
+   ],
+   "correct": 1,
+   "exp": "La disposición adicional cuarta, apartado 2.b), del RD 128/2018 dispone que «El puesto de titular del órgano de apoyo a la Junta de Gobierno Local y al Concejal-Secretario de la misma está reservado, igualmente, a la subescala de Secretaría, categoría superior, y deberá clasificarse en clase 1.ª». En Zaragoza ese órgano es el de apoyo al Gobierno de Zaragoza (art. 13.4 de la Ley 10/2017), cuyo titular «será nombrado entre funcionarios de Administración local con habilitación de carácter nacional». Ni la categoría de entrada, ni la clase 2.ª, ni las subescalas de Secretaría-Intervención o Intervención-Tesorería corresponden a este puesto.",
+   "fuente": "Disposición adicional cuarta, apartado 2.b) RD 128/2018; art. 13.4 Ley 10/2017 (capitalidad de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Texto correcto (DA 4.ª.2.b RD 128/2018, BOE-A-2018-3760, y art. 13.4 Ley 10/2017), pero repite en la práctica la existente 19-136 (DA 4.ª.2.a, Secretario General del Pleno): las cuatro opciones son casi idénticas y la correcta es la misma, «subescala de Secretaría, categoría superior, y debe clasificarse en clase 1.ª». La norma dice «igualmente», así que quien sabe la 19-136 acierta esta por la misma regla. Regla 6; ante la duda, rechazo. | Revisor 2 (CONFIRMADA): DA 4.ª.2.b) RD 128/2018 (BOE-A-2018-3760, texto original sin modificar) literal; art. 13.4 Ley 10/2017 comprobado. Distractores falsos (categoría de entrada, Secretaría-Intervención, Intervención-Tesorería). No repite la existente sobre el Secretario General del Pleno (DA 4.ª.2.a), aunque la respuesta coincide en redacción; es otro puesto."
+  },
+  {
+   "q": "Según la disposición adicional cuarta del RD 128/2018, en los municipios de gran población el puesto de Intervención General municipal está reservado a:",
+   "options": [
+    "La subescala de Intervención-Tesorería, categoría superior, y debe clasificarse en clase 1.ª",
+    "La subescala de Intervención-Tesorería, en cualquiera de sus categorías, y debe clasificarse en clase 1.ª",
+    "La subescala de Intervención-Tesorería, categoría de entrada, y debe clasificarse en clase 2.ª",
+    "La subescala de Secretaría-Intervención, y debe clasificarse en clase 1.ª"
+   ],
+   "correct": 0,
+   "exp": "La disposición adicional cuarta, apartado 2.c), del RD 128/2018 establece: «El puesto de Intervención General municipal está reservado a la subescala de Intervención-Tesorería, categoría superior, y deberá clasificarse en clase 1.ª». La posibilidad de desempeño por funcionarios de la categoría de entrada o superior se prevé en el apartado 2.d) para los puestos con funciones de contabilidad, tesorería y recaudación, no para la Intervención General.",
+   "fuente": "Disposición adicional cuarta, apartado 2.c) RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): DA 4.ª.2.c RD 128/2018 verificada literalmente («categoría superior, y deberá clasificarse en clase 1.ª»). La 19-137 pregunta la letra d), que es la simétrica, y no hay ninguna pregunta sobre la Intervención General: es un dato distinto, no repetido. Distractores falsos, incluido «en cualquiera de sus categorías», que es el régimen de la letra d). Aplicable a Zaragoza como municipio de gran población. | Revisor 2 (CONFIRMADA): DA 4.ª.2.c) RD 128/2018 literal. El distractor «en cualquiera de sus categorías» corresponde al 2.d (contabilidad/tesorería), no a la Intervención General. Distinta de las existentes sobre 2.a y 2.d."
+  },
+  {
+   "q": "Según la disposición adicional cuarta del RD 128/2018, la provisión con carácter definitivo de los puestos reservados a funcionarios con habilitación de carácter nacional en los municipios de gran población (Secretario General del Pleno, Intervención General y los demás que enumera su apartado 2) se efectuará:",
+   "options": [
+    "Por concurso en todo caso, sin que la Corporación pueda optar por la libre designación",
+    "Por libre designación en todo caso, sin que quepa el concurso",
+    "Por el concurso unitario que convoca el Ministerio de Hacienda y Función Pública",
+    "Por libre designación o por concurso, de acuerdo con lo dispuesto por la Corporación"
+   ],
+   "correct": 3,
+   "exp": "La disposición adicional cuarta, apartado 3, del RD 128/2018 dispone: «La provisión de los citados puestos con carácter definitivo, se efectuará por los sistemas de libre designación o por concurso, de acuerdo con lo dispuesto por la Corporación, y de acuerdo con la regulación establecida para ambos sistemas de provisión en el presente real decreto». No impone uno solo de los dos sistemas ni remite al concurso unitario, que el art. 29.2 configura «Con carácter subsidiario».",
+   "fuente": "Disposición adicional cuarta, apartado 3 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): DA 4.ª.3 RD 128/2018 verificada literalmente. Es coherente con el art. 92 bis.6 LBRL en la redacción del RDL 13/2026 (en vigor desde el 4-6-2026), que mantiene la libre designación excepcional en las entidades de los arts. 111 y 135 TRLRHL. Los otros tres sistemas son falsos. Sin duplicado (19-39 y 19-40 tratan el art. 92 bis.6 LBRL, no la DA 4.ª.3). | Revisor 2 (CONFIRMADA): DA 4.ª.3 RD 128/2018 literal: libre designación o concurso según disponga la Corporación. Coherente con el art. 92 bis.6 LBRL en su redacción vigente (RDL 13/2026, convalidado), que permite LD en entidades de los arts. 111 y 135 TRLRHL (Zaragoza incluida). Concurso unitario es subsidiario (art. 29.2)."
+  },
+  {
+   "q": "Según el art. 19.1 del RD 128/2018, para el ingreso en la escala de funcionarios de Administración Local con habilitación de carácter nacional, en cualquiera de sus subescalas, se exigirá en todo caso:",
+   "options": [
+    "La nacionalidad de un Estado de la Unión Europea",
+    "La posesión de la nacionalidad española",
+    "Dos años de servicios en una entidad local",
+    "La condición previa de funcionario de carrera"
+   ],
+   "correct": 1,
+   "exp": "El art. 19.1 del RD 128/2018 exige «en todo caso, la posesión de la nacionalidad española», porque los puestos reservados implican «una participación directa o indirecta en el ejercicio del poder público y en las funciones que tienen por objeto la salvaguarda de los intereses del Estado o de las Administraciones Públicas». No basta la nacionalidad de otro Estado de la Unión Europea, y el precepto no exige servicios previos ni la condición de funcionario: la titulación requerida es la del subgrupo A1 (art. 18.1).",
+   "fuente": "Art. 19.1 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 19.1 RD 128/2018 verificado («se exigirá, en todo caso, la posesión de la nacionalidad española»). La explicación sobre el art. 18.1 (titulación A1) también es exacta. Distractores falsos. Sin duplicado: 19-220 y 19-221 son del art. 19.2 y 19.3. | Revisor 2 (CONFIRMADA): Art. 19.1 RD 128/2018 literal: nacionalidad española en todo caso. Ni servicios previos ni condición de funcionario (solo para promoción interna, 19.4). Titulación A1 (art. 18.1) comprobada."
+  },
+  {
+   "q": "Según el art. 30 del RD 128/2018, ¿qué méritos rigen en el concurso unitario de provisión de puestos reservados a funcionarios con habilitación de carácter nacional?",
+   "options": [
+    "Los generales, los autonómicos y los específicos",
+    "Los generales y los específicos, sin méritos autonómicos",
+    "Los generales y los autonómicos, sin méritos específicos",
+    "Los autonómicos y los específicos, sin méritos generales"
+   ],
+   "correct": 2,
+   "exp": "El art. 30.6 del RD 128/2018 dispone: «Los méritos generales y autonómicos regirán en el concurso unitario, en el que no existirán méritos específicos». Los tres tipos de méritos (generales, autonómicos y específicos) rigen en los concursos ordinarios (art. 30.5). El art. 44.2 lo repite: «En el concurso unitario rigen los méritos generales y autonómicos».",
+   "fuente": "Art. 30.6 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 30.6 RD 128/2018 verificado; el art. 44.2 lo repite y el art. 30.5 da los tres tipos de méritos para el concurso ordinario. Distractores falsos. Sin duplicado: 19-243 es del 44.3 (participación) y 19-36 es del 92 bis.6 LBRL. | Revisor 2 (CONFIRMADA): Art. 30.6 RD 128/2018 literal; 30.5 (ordinarios: los tres tipos) y 44.2 comprobados. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 34.1 del RD 128/2018, los méritos específicos de los concursos de provisión de puestos reservados a funcionarios con habilitación de carácter nacional:",
+   "options": [
+    "Formarán parte integrante de la relación de puestos de trabajo de la Entidad Local correspondiente",
+    "Se aprobarán por la Comunidad Autónoma junto con el baremo de méritos autonómicos de cada convocatoria",
+    "Se fijarán por el Ministerio de Hacienda y Función Pública en el baremo de méritos generales",
+    "Se determinarán en cada convocatoria anual, sin reflejo en la relación de puestos de trabajo"
+   ],
+   "correct": 0,
+   "exp": "El art. 34.1 del RD 128/2018 define los méritos específicos como los directamente relacionados con las características del puesto y sus funciones, y añade: «Los méritos específicos formarán parte integrante de la relación de puestos de trabajo de la Entidad Local correspondiente». Los fija la Corporación (art. 30.4), no la Comunidad Autónoma, que fija los autonómicos (art. 30.3), ni el Ministerio, que fija los generales (art. 32).",
+   "fuente": "Art. 34.1 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 34.1, párrafo 2.º, RD 128/2018 verificado literalmente. La explicación remite bien a los arts. 30.3, 30.4 y 32. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 34.1, párrafo segundo, RD 128/2018 literal. Arts. 30.3, 30.4 y 32 comprobados para la explicación."
+  },
+  {
+   "q": "Según el art. 45.1 del RD 128/2018, para cambiar de concurso a libre designación el sistema de provisión de un puesto reservado que tenga asignadas las funciones de control y fiscalización interna, contabilidad o tesorería (arts. 4 y 5) es precisa:",
+   "options": [
+    "La autorización expresa del órgano competente de la Comunidad Autónoma en materia de régimen local y de función pública local",
+    "La aprobación del Pleno de la Corporación por mayoría absoluta del número legal de sus miembros",
+    "El informe favorable del Tribunal de Cuentas o del órgano de control externo autonómico",
+    "La autorización expresa del órgano competente de la Administración General del Estado en materia de Haciendas Locales"
+   ],
+   "correct": 3,
+   "exp": "El art. 45.1 del RD 128/2018 dispone que, en los puestos con las funciones de sus arts. 4 y 5, «será precisa la autorización expresa del órgano competente de la Administración General del Estado en materia de Haciendas Locales para cambiar el sistema de provisión del puesto, de concurso a libre designación». La Corporación la solicita antes de adoptar la resolución. A la Comunidad Autónoma solo se le comunica la opción, a efectos de clasificación (art. 45.2); no se exige su autorización.",
+   "fuente": "Art. 45.1 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Regla 10. El art. 45.1, párrafo 2.º, RD 128/2018 desarrolla la exigencia de «autorización expresa del órgano competente de la AGE en materia de Haciendas locales» que contenía el art. 92 bis.6 LBRL en su redacción de 2013/2015 (lo he comprobado en la versión anterior del consolidado). La disposición final 1.ª del RDL 13/2026, de 2 de junio (BOE-A-2026-11848, en vigor desde el 4-6-2026), ha reescrito el art. 92 bis.6 y ha suprimido esa autorización; su exposición de motivos dice que lo hace por los pronunciamientos judiciales sobre «los supuestos en que se viene denegando la autorización de provisión por el sistema de libre designación». El requisito queda al menos desplazado por la ley posterior, así que no puede preguntarse como vigente. | Revisor 2 (RECHAZADA): Precepto desplazado (regla 10). La exigencia de «autorización expresa del órgano competente de la AGE en materia de Haciendas locales» para la LD de puestos con funciones de control, contabilidad o tesorería procedía del art. 92 bis.6 LBRL (redacción 2013/2015). La DF 1.ª del Real Decreto-ley 13/2026, de 2 de junio (BOE-A-2026-11848, en vigor 04/06/2026, convalidado por el Congreso, Resolución de 18-6-2026) ha dado nueva redacción al 92 bis.6 y ha suprimido ese requisito (y el informe previo para el cese, ahora solo comunicación a Función Pública); su exposición de motivos dice que la reforma responde a los pronunciamientos judiciales sobre las denegaciones de autorización de LD. El art. 45.1 RD 128/2018 sigue escrito igual en el consolidado, pero ha perdido su base legal: no puede presentarse como vigente."
+  },
+  {
+   "q": "Según el art. 52.2 del RD 128/2018, para que pueda efectuarse el nombramiento accidental previsto en su apartado 1 en un puesto reservado que no está vacante, cuando su titular se encuentre en incapacidad temporal, esta ha de ser por un periodo:",
+   "options": [
+    "Superior a quince días",
+    "Superior a tres meses",
+    "Superior a un mes",
+    "Superior a seis meses"
+   ],
+   "correct": 2,
+   "exp": "El art. 52.2 del RD 128/2018 exige que el puesto esté vacante o no esté desempeñado efectivamente por su titular por alguna de las circunstancias que enumera, entre ellas la «e) Incapacidad temporal por periodo superior a un mes» (también la suspensión y otras ausencias superiores a un mes). Para incapacidades temporales o ausencias inferiores a un mes, el apartado 4 prevé nombrar accidentalmente, a propuesta del Presidente, a un funcionario propio de la Entidad Local, de acuerdo con la normativa autonómica.",
+   "fuente": "Art. 52.2.e) RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 52.2.e) RD 128/2018 verificado («Incapacidad temporal por periodo superior a un mes»). Resuelvo la duda del 52.2.e) frente al 52.4: el enunciado se ciñe al nombramiento accidental del apartado 1; el del 52.4 es otro distinto, para ausencias inferiores a un mes y a propuesta del Presidente. No es ambiguo y la explicación los distingue bien. Distractores falsos. Sin duplicado: 19-252 y 19-253 son del 52.1 y 52.5. | Revisor 2 (CONFIRMADA): Art. 52.2.e) RD 128/2018 literal: incapacidad temporal por periodo superior a un mes; 52.4 (inferior a un mes) comprobado. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 58.5 del RD 128/2018, el funcionario con habilitación de carácter nacional de una determinada subescala que se encuentre en servicio activo en otra subescala de la misma escala será declarado en situación de:",
+   "options": [
+    "Servicio en otras Administraciones Públicas",
+    "Excedencia voluntaria por prestación de servicio en otro cuerpo o escala",
+    "Servicios especiales, con reserva de su puesto de origen",
+    "Excedencia voluntaria por interés particular"
+   ],
+   "correct": 1,
+   "exp": "El art. 58.5 del RD 128/2018 dispone: «Procederá declarar en situación de excedencia voluntaria por prestación de servicio en otro cuerpo o escala, a los funcionarios de Administración Local con habilitación de carácter nacional en una determinada subescala de la escala de habilitación de carácter nacional, cuando se encuentren en situación de servicio activo en otra subescala de la misma». La situación de servicio en otras Administraciones Públicas se aplica a quienes desempeñan en otra Administración puestos no reservados a la escala (art. 58.3).",
+   "fuente": "Art. 58.5 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Contenido correcto: art. 58.5 RD 128/2018 verificado, y el art. 58.3 confirma que el distractor de servicio en otras Administraciones no cabe. Pero la correcta se adivina por la forma (regla 7 bis): mide 72 caracteres frente a 43-56 de los distractores y repite la idea del enunciado («en otra subescala de la misma escala» → «en otro cuerpo o escala»). Arreglo: distractores de longitud y nivel de detalle parecidos y que no dejen la correcta como la única que alude a «otro cuerpo», por ejemplo «Servicio activo en la subescala de origen, con reserva del puesto» o «Excedencia voluntaria por agrupación familiar, sin reserva de puesto». | Revisor 2 (DUDOSA): Contenido correcto: art. 58.5 RD 128/2018 literal; 58.3 (servicio en otras AAPP) comprobado. Pero la correcta se delata por la forma (regla 7 bis): mide 72 caracteres frente a 43-56 y repite la idea del enunciado («servicio activo en otra subescala» -> «prestación de servicio en otro cuerpo o escala»). Arreglo: alargar los distractores con matices igual de plausibles (p. ej., «Excedencia voluntaria por interés particular, sin reserva de puesto en la subescala de origen», «Servicios especiales, con reserva del puesto obtenido por concurso en su subescala de origen»)."
+  },
+  {
+   "q": "Según el art. 57.1 del RD 128/2018, en materia de situaciones administrativas, a los funcionarios de Administración Local con habilitación de carácter nacional les será de aplicación:",
+   "options": [
+    "La normativa que rija para los funcionarios de la Administración General del Estado, con las particularidades del propio real decreto",
+    "La normativa de la Comunidad Autónoma en que radique su puesto, con las particularidades del propio real decreto",
+    "La normativa propia de la Corporación Local en que presten servicios, con las particularidades del propio real decreto",
+    "La normativa sobre suspensión del contrato del personal laboral, con las particularidades del propio real decreto"
+   ],
+   "correct": 0,
+   "exp": "El art. 57.1 del RD 128/2018 establece que «A los funcionarios de Administración Local con habilitación de carácter nacional les será de aplicación la normativa que rija en esta materia a los funcionarios de la Administración General del Estado con las particularidades contempladas en los artículos siguientes». La declaración de las situaciones corresponde al Ministerio de Hacienda y Función Pública, salvo la suspensión de funciones y la destitución (art. 57.2).",
+   "fuente": "Art. 57.1 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57.1 RD 128/2018 verificado literalmente; la referencia al art. 57.2 de la explicación es exacta. Distractores falsos. No repite la 19-256, que es del 57.2. | Revisor 2 (CONFIRMADA): Art. 57.1 RD 128/2018 literal (normativa de la AGE con las particularidades del RD); 57.2 comprobado. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 63.3 del RD 128/2018, las faltas graves y leves de los funcionarios de Administración Local con habilitación de carácter nacional serán:",
+   "options": [
+    "Las establecidas para el personal funcionario de la Administración General del Estado y, supletoriamente, las establecidas para el de la Administración de la Comunidad Autónoma",
+    "Las que tipifique cada Corporación Local en su reglamento de personal, dentro de los límites establecidos por el TREBEP",
+    "Las tipificadas en el TREBEP, sin que las leyes de las Comunidades Autónomas puedan establecer otras distintas",
+    "Las establecidas para el personal funcionario de la Administración de la Comunidad Autónoma y, supletoriamente, las de la Administración General del Estado"
+   ],
+   "correct": 3,
+   "exp": "El art. 63.3 del RD 128/2018 dispone: «Las faltas graves y leves serán las mismas que las establecidas para el personal funcionario de la Administración de la Comunidad Autónoma y supletoriamente las establecidas para el personal funcionario de la Administración General del Estado». Las faltas muy graves son las tipificadas en el TREBEP o en cualquier otra ley de las Cortes Generales o de la Asamblea Legislativa autonómica (art. 63.2).",
+   "fuente": "Art. 63.3 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 63.3 RD 128/2018 verificado literalmente; el art. 63.2 (faltas muy graves) está bien citado. Es coherente con el art. 95 TREBEP, que deja a las leyes de desarrollo las faltas graves y leves. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 63.3 RD 128/2018 literal (CA y supletoriamente AGE); 63.2 (muy graves: TREBEP u otras leyes) comprobado. Coherente con el art. 95 TREBEP vigente (la Ley 4/2026 solo toca el art. 49.e). Distractores falsos."
+  },
+  {
+   "q": "Según el art. 64 del RD 128/2018, las faltas leves de los funcionarios de Administración Local con habilitación de carácter nacional solo podrán corregirse con la sanción de:",
+   "options": [
+    "Suspensión firme de funciones de hasta un mes",
+    "Destitución con prohibición de destino de hasta un año",
+    "Apercibimiento",
+    "Deducción proporcional de las retribuciones"
+   ],
+   "correct": 2,
+   "exp": "El art. 64.1 del RD 128/2018 enumera cuatro sanciones: separación del servicio, destitución, suspensión firme de funciones y apercibimiento. Su apartado 2 dispone: «Las faltas leves sólo podrán corregirse con la sanción que se señalan en el apartado d)», que es el apercibimiento. La destitución y la suspensión corresponden a las faltas graves y muy graves (apartados 3 y 4), y la deducción de retribuciones no figura entre esas sanciones.",
+   "fuente": "Art. 64.2 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 64.1 y 64.2 RD 128/2018 verificados: las faltas leves solo con apercibimiento (letra d). Distractores falsos, y la deducción de retribuciones no figura entre esas sanciones. Sin duplicado: 19-260 y 19-261 son del 64.1.b) y c). | Revisor 2 (CONFIRMADA): Art. 64.2 RD 128/2018 literal: faltas leves solo con apercibimiento (64.1.d). 64.3 y 64.4 comprobados. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 65 del RD 128/2018, mientras dure el plazo fijado en la sanción de destitución, el funcionario con habilitación de carácter nacional destituido:",
+   "options": [
+    "No podrá obtener nombramiento alguno en puestos reservados, en ninguna Corporación Local",
+    "Podrá obtener nombramiento provisional en puestos reservados de una Corporación distinta de aquella donde fue sancionado",
+    "Podrá ser nombrado con carácter accidental en la misma Corporación donde fue sancionado",
+    "Quedará en situación de suspensión de funciones, sin destino en ninguna Corporación Local"
+   ],
+   "correct": 1,
+   "exp": "El art. 65 del RD 128/2018 prohíbe al destituido obtener puesto en la Corporación donde fue sancionado «mediante ninguna clase de nombramiento», pero dispone que «podrá obtener nombramiento provisional en puestos reservados a funcionarios de Administración Local con habilitación de carácter nacional en otra Corporación distinta a aquella donde fue sancionado, mientras dure el plazo fijado en la sanción de destitución». También puede concursar a puestos de su subescala y categoría de otras Corporaciones.",
+   "fuente": "Art. 65 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 65, párrafo 3.º, RD 128/2018 verificado literalmente. Los distractores son falsos según los párrafos 1.º y 2.º del mismo artículo. La correcta es algo más larga (120 caracteres frente a unos 88), pero los distractores tienen el mismo nivel de detalle y no se acierta solo por la longitud. Sin duplicado: 19-260 es del plazo máximo de la destitución. | Revisor 2 (CONFIRMADA): Art. 65, párrafo tercero, RD 128/2018 literal. Distractores contradicen los párrafos primero y segundo. La correcta es algo más larga (120 frente a ~88 caracteres), pero los distractores son de igual nivel de detalle y plausibles; no se acierta solo por la longitud."
+  },
+  {
+   "q": "Según el art. 15.2 del RD 128/2018, a los puestos de colaboración inmediata con la Secretaría, la Intervención o la Tesorería les corresponden las funciones reservadas que les encomienden los titulares de estos puestos:",
+   "options": [
+    "Previa autorización del Alcalde o Presidente de la Corporación",
+    "Previa autorización del Pleno de la Corporación",
+    "Previa autorización de la Comunidad Autónoma",
+    "Previa autorización del Ministerio de Hacienda y Función Pública"
+   ],
+   "correct": 0,
+   "exp": "El art. 15.2 del RD 128/2018 dispone que a los puestos de colaboración «les corresponderán las funciones reservadas que, previa autorización del Alcalde o Presidente de la Corporación, les sean encomendadas por los titulares de los puestos reservados de Secretaría, Intervención y Tesorería». A la Comunidad Autónoma le corresponde la clasificación de estos puestos (art. 15.3), no autorizar la encomienda de funciones.",
+   "fuente": "Art. 15.2 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 15.2 RD 128/2018 verificado literalmente. Es cierto en Zaragoza: autoriza el Alcalde, porque la norma lo atribuye expresamente y la Ley 10/2017 no dice otra cosa. Distractores falsos. No repite 19-130 (art. 15.1) ni 19-131 (art. 15.3). | Revisor 2 (CONFIRMADA): Art. 15.2 RD 128/2018 literal: previa autorización del Alcalde o Presidente. La CA solo clasifica (15.3). La atribución es expresa del RD, así que vale también en Zaragoza."
+  },
+  {
+   "q": "Según la disposición adicional primera del RD 128/2018, el funcionario que cese en su puesto como consecuencia de una modificación en la clasificación o en la forma de provisión del puesto continuará percibiendo, en tanto se le atribuye otro puesto, las retribuciones básicas y complementarias del suprimido durante un plazo máximo de:",
+   "options": [
+    "Tres meses",
+    "Un mes",
+    "Seis meses",
+    "Un año"
+   ],
+   "correct": 0,
+   "exp": "La disposición adicional primera del RD 128/2018 dispone que esas modificaciones no afectan a los destinos de quienes los vinieran desempeñando con carácter definitivo (apartado 1) y que el funcionario que cesare «continuará percibiendo, en tanto se le atribuye otro puesto y durante un plazo máximo de tres meses, las retribuciones básicas y complementarias correspondientes al suprimido» (apartado 2). La disposición adicional segunda aplica la misma regla a las agrupaciones de puestos.",
+   "fuente": "Disposición adicional primera, apartado 2 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): DA 1.ª.2 RD 128/2018 verificada («durante un plazo máximo de tres meses»); comprobado que la DA 2.ª repite la regla para las agrupaciones. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): DA 1.ª.2 RD 128/2018 literal: plazo máximo de tres meses; DA 2.ª repite la regla. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 53.2 del RD 128/2018, cuando la Comunidad Autónoma haya constituido su propia relación de candidatos para la provisión interina de puestos reservados, el nombramiento de un funcionario interino previamente seleccionado por ella:",
+   "options": [
+    "Tendrá preferencia sobre el funcionario interino que proponga la Corporación Local",
+    "Exigirá el informe favorable del Ministerio de Hacienda y Función Pública",
+    "Solo se efectuará cuando la Corporación Local no proponga un funcionario previamente seleccionado por ella",
+    "Requerirá que el candidato haya aprobado todos los ejercicios de las pruebas de acceso"
+   ],
+   "correct": 2,
+   "exp": "El art. 53.2 del RD 128/2018 permite a las Comunidades Autónomas constituir una relación de candidatos propia, pero dispone: «El nombramiento de funcionario interino previamente seleccionado por la Comunidad Autónoma sólo se efectuará cuando la Corporación Local no proponga funcionario previamente seleccionado por ella». Para formar la lista se da preferencia a quienes hayan aprobado algún ejercicio de las pruebas de acceso, no todos.",
+   "fuente": "Art. 53.2 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 53.2, párrafo 3.º, RD 128/2018 verificado literalmente. El matiz de la explicación («algún ejercicio», no todos) es exacto (53.2, párrafo 2.º). Distractores falsos. No repite la 19-254, que es del 53.1. | Revisor 2 (CONFIRMADA): Art. 53.2, párrafo tercero, RD 128/2018 literal. La preferencia para formar la lista es para quien aprobó «algún ejercicio» (no todos). Distractores falsos."
+  },
+  {
+   "q": "Según el art. 48.2 del RD 128/2018, la cobertura de un puesto reservado mediante nombramiento provisional, comisión de servicios o acumulación implicará, respecto del funcionario interino o accidental que lo estuviera desempeñando:",
+   "options": [
+    "Su paso a un puesto de colaboración de la misma Corporación",
+    "Su cese automático",
+    "Su continuidad hasta que concluya el siguiente concurso ordinario",
+    "Su cese, previo informe favorable de la Corporación Local"
+   ],
+   "correct": 1,
+   "exp": "El art. 48.2 del RD 128/2018 dispone: «La cobertura de un puesto mediante nombramiento provisional, comisión de servicios y acumulación, implicará el cese automático, en su caso, del funcionario interino o accidental, que lo estuviera desempeñando». El art. 54 lo confirma: esos nombramientos determinan «automáticamente, el cese de quien viniera desempeñándolo».",
+   "fuente": "Art. 48.2 RD 128/2018",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 48.2 RD 128/2018 verificado literalmente; el art. 54 lo confirma. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 48.2 RD 128/2018 literal (cese automático); art. 54 coincide. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 92 bis.6 de la LBRL, en los concursos de provisión de puestos reservados a funcionarios con habilitación de carácter nacional, los méritos correspondientes a las especialidades de la Corporación local se fijarán por esta y su puntuación alcanzará:",
+   "options": [
+    "Hasta un 5 % del total posible",
+    "Hasta un 15 % del total posible",
+    "Hasta un 10 % del total posible",
+    "Un mínimo del 20 % del total posible"
+   ],
+   "correct": 0,
+   "exp": "El art. 92 bis.6 LBRL reparte el baremo así: méritos generales, fijados por el Estado, «un mínimo del 80% del total posible»; méritos de las especialidades de la Comunidad Autónoma, «hasta un 15% del total posible»; y «Los méritos correspondientes a las especialidades de la Corporación local se fijarán por ésta, y su puntuación alcanzará hasta un 5% del total posible». El art. 31.3 del RD 128/2018 lo concreta en hasta 1,5 puntos sobre 30.",
+   "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 92 bis.6 LBRL verificado en el consolidado de 03/10/2026: el RDL 13/2026 reescribió el apartado 6 pero mantuvo literalmente el «hasta un 5% del total posible»; el art. 31.3 RD 128/2018 (1,5 puntos sobre 30) también es correcto. La 19-12 pregunta el porcentaje de los méritos generales (80%), no el de la Corporación: es un dato distinto. Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 92 bis.6 LBRL en su redacción vigente (RDL 13/2026, de 2 de junio, en vigor 04/06/2026), que mantiene el 80 % / 15 % / 5 %: méritos de la Corporación «hasta un 5% del total posible». Art. 31.3 RD 128/2018 (1,5 sobre 30) comprobado. Distinta de la existente sobre el mínimo del 80 %."
+  },
+  {
+   "q": "Según el art. 235.1 de la Ley 7/1999, de Administración Local de Aragón, el personal al servicio de las Corporaciones locales estará formado por:",
+   "options": [
+    "Funcionarios de carrera, funcionarios en prácticas, personal laboral y personal eventual",
+    "Funcionarios de carrera, personal laboral, personal eventual y personal directivo profesional",
+    "Funcionarios de carrera, personal interino, personal laboral y personal directivo profesional",
+    "Funcionarios de carrera, personal interino, personal laboral y personal eventual"
+   ],
+   "correct": 3,
+   "exp": "El art. 235.1 de la Ley 7/1999 enumera cuatro clases: «a) Funcionarios de carrera; b) Personal interino; c) Personal laboral, y d) Personal eventual». A diferencia del art. 89 LBRL, que solo cita funcionarios de carrera, personal laboral y personal eventual, la ley aragonesa menciona expresamente al personal interino. No menciona a los funcionarios en prácticas ni al personal directivo.",
+   "fuente": "Art. 235.1 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 235.1 Ley 7/1999 (BOE-A-1999-10151, consolidado 25/10/2022) verificado. No hay desplazamiento: coincide con las cuatro clases del art. 8.2 TREBEP. La comparación con el art. 89 LBRL es exacta. Distractores falsos. El Título VIII de la Ley 7/1999 («Del personal al servicio de las entidades locales») entra en el epígrafe «la función pública local». Sin duplicado en el banco. | Revisor 2 (CONFIRMADA): Art. 235.1 Ley 7/1999 (BOE-A-1999-10151, última actualización 2022, sin derogaciones en estos artículos) literal. Art. 89 LBRL comprobado: no menciona a los interinos. No cita en prácticas ni directivos. Distinta de la del art. 8.2 TREBEP (otra norma)."
+  },
+  {
+   "q": "Según el art. 237.3 de la Ley 7/1999, de Administración Local de Aragón, el anuncio de las convocatorias de pruebas de acceso a la función pública local y de los concursos para la provisión de puestos de trabajo se publicará:",
+   "options": [
+    "En el «Boletín Oficial de la Provincia», en sustitución de la publicación en el «Boletín Oficial del Estado»",
+    "En el tablón de anuncios de la entidad local, en sustitución de la publicación en diarios oficiales",
+    "En el «Boletín Oficial de Aragón», sin perjuicio de lo que disponga la legislación básica de régimen local",
+    "En el boletín oficial de la comarca, con carácter previo a la publicación en cualquier otro diario"
+   ],
+   "correct": 2,
+   "exp": "El art. 237.3 de la Ley 7/1999 dispone que esos anuncios «se publicarán en el «Boletín Oficial de Aragón», sin perjuicio de lo que disponga la legislación básica de régimen local». La legislación básica (art. 97 LBRL) exige que los anuncios se publiquen en el «Boletín Oficial del Estado» y las bases en el «Boletín Oficial de la Provincia». El mismo apartado añade que la publicidad de los procesos de selección del personal interino y laboral «deberá quedar suficientemente garantizada».",
+   "fuente": "Art. 237.3 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 237.3 Ley 7/1999 verificado. Resuelvo la duda con el art. 97 LBRL: el precepto aragonés no está desplazado, porque se remite a la legislación básica («sin perjuicio de...») y no sustituye la publicación en el BOE. La explicación cita bien el art. 97 LBRL (anuncio en el BOE y bases en el BOP), y la opción correcta conserva ese matiz. Los distractores de «en sustitución» son falsos. No repite 19-71, 19-156 ni 19-157 (art. 97 LBRL y art. 6 RD 896/1991). | Revisor 2 (CONFIRMADA): Art. 237.3 Ley 7/1999 literal (BOA, sin perjuicio de la legislación básica). Art. 97 LBRL (BOE para anuncios, BOP para bases) comprobado. Distractores falsos."
+  },
+  {
+   "q": "Según el art. 239 de la Ley 7/1999, de Administración Local de Aragón, el régimen estatutario de los funcionarios locales en cuanto a la adquisición y pérdida de su condición, las situaciones administrativas, los derechos y deberes y el régimen disciplinario será equivalente al de:",
+   "options": [
+    "Los funcionarios de la Administración General del Estado",
+    "Los funcionarios de la Comunidad Autónoma",
+    "Los funcionarios de la Diputación Provincial respectiva",
+    "El personal laboral de la propia entidad local"
+   ],
+   "correct": 1,
+   "exp": "El art. 239 de la Ley 7/1999 dispone que ese régimen estatutario, incluidos los derechos sindicales, de negociación colectiva y participación, «serán equivalentes a los de los funcionarios de la Comunidad Autónoma, sin perjuicio de las competencias de la Administración General del Estado en el caso de la separación del servicio de los funcionarios con habilitación de carácter nacional».",
+   "fuente": "Art. 239 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 239 Ley 7/1999 verificado literalmente. No está desplazado: es compatible con el art. 3.1 TREBEP y el art. 92.1 LBRL, que remiten también a la legislación autonómica, y con la competencia estatal sobre la separación del servicio de los habilitados (art. 62.1.a RD 128/2018). Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 239 Ley 7/1999 literal: equivalentes a los de los funcionarios de la Comunidad Autónoma. Compatible con el art. 3.1 TREBEP (legislación estatal y autonómica). La pregunta va referida al precepto, así que no hay contradicción con el art. 57.1 RD 128/2018, que es especial para habilitados."
+  },
+  {
+   "q": "Según el art. 240.1 de la Ley 7/1999, de Administración Local de Aragón, ¿qué organismo colaborará con las entidades locales en la formación y perfeccionamiento de su personal, organizando cursos y actividades dirigidos específicamente a él?",
+   "options": [
+    "El Instituto Aragonés de Administración Pública",
+    "El Instituto Aragonés de Empleo",
+    "La Diputación Provincial correspondiente",
+    "La comarca a la que pertenezca la entidad local"
+   ],
+   "correct": 0,
+   "exp": "El art. 240.1 de la Ley 7/1999 dispone: «El Instituto Aragonés de Administración Pública colaborará con las entidades locales en la formación y perfeccionamiento de su personal». Organizará cursos dirigidos específicamente a ese personal, le abrirá otros cursos de su interés, y esos cursos «serán objeto de valoración, de acuerdo con su duración y materias impartidas».",
+   "fuente": "Art. 240.1 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 240.1 Ley 7/1999 verificado literalmente. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 240.1 Ley 7/1999 literal (Instituto Aragonés de Administración Pública). Distractores falsos."
+  },
+  {
+   "q": "Según el art. 245 de la Ley 7/1999, de Administración Local de Aragón, con el objeto de facilitar la movilidad funcional entre las entidades locales y la Administración de la Comunidad Autónoma se establecerá:",
+   "options": [
+    "Un Registro unificado de personal de las distintas Administraciones públicas aragonesas, gestionado por el Departamento competente en materia de régimen local y función pública",
+    "Una bolsa única de empleo temporal para cubrir las vacantes de las entidades locales y de la Administración autonómica",
+    "Un convenio marco de comisiones de servicio entre la Comunidad Autónoma y las entidades locales que se adhieran a él",
+    "Un Catálogo de Equivalencias entre escalas, subescalas y especialidades del personal funcionario y entre niveles, grupos y categorías del personal laboral"
+   ],
+   "correct": 3,
+   "exp": "El art. 245 de la Ley 7/1999 dispone que, para facilitar la movilidad funcional entre entidades locales y la Administración de la Comunidad Autónoma, «se establecerá un Catálogo de Equivalencias entre las escalas, subescalas y especialidades del personal funcionario y entre los niveles, grupos y categorías del personal laboral de las distintas Administraciones públicas aragonesas».",
+   "fuente": "Art. 245 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 245 Ley 7/1999 verificado literalmente. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 245 Ley 7/1999 literal (Catálogo de Equivalencias). Distractores falsos y de longitud comparable."
+  },
+  {
+   "q": "Según el art. 246.2 de la Ley 7/1999, de Administración Local de Aragón, cuando una entidad local encomiende la selección de sus funcionarios de carrera a la Comunidad Autónoma, las plazas se ofertarán en convocatorias periódicas cuyas bases aprobará:",
+   "options": [
+    "El Instituto Aragonés de Administración Pública",
+    "El Gobierno de Aragón",
+    "El Pleno de cada entidad local acogida al sistema",
+    "El Presidente de cada entidad local acogida al sistema"
+   ],
+   "correct": 1,
+   "exp": "El art. 246.2 de la Ley 7/1999 permite encomendar la selección a la Comunidad Autónoma, «a través del Instituto Aragonés de Administración Pública», y dispone que las plazas se ofertarán en convocatorias periódicas, «cuyas bases aprobará el Gobierno de Aragón». Una vez seleccionado el personal, corresponde a la entidad local su nombramiento (art. 246.3).",
+   "fuente": "Art. 246.2 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 246.2 Ley 7/1999 verificado («cuyas bases aprobará el Gobierno de Aragón»), y el 246.3 sobre el nombramiento. El enunciado no pregunta por el Pleno (el 246.1 sí estaría afectado por los arts. 21.1.g y 127.1.h LBRL), así que no hay problema con la regla 9 ni con la 10. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 246.2 Ley 7/1999 literal: bases aprobadas por el Gobierno de Aragón; acuerdo de encomienda del Pleno y nombramiento por la entidad (246.3). Distractores falsos para el supuesto de encomienda. La regla general del 246.1 (bases por el Pleno) no se pregunta; esa estaría desplazada en Zaragoza por el art. 14.1.i) Ley 10/2017."
+  },
+  {
+   "q": "Según el art. 252.3 de la Ley 7/1999, de Administración Local de Aragón, el expediente de constitución de una agrupación de entidades locales para sostener personal en común se someterá a información pública por plazo de:",
+   "options": [
+    "Quince días",
+    "Veinte días",
+    "Un mes",
+    "Dos meses"
+   ],
+   "correct": 2,
+   "exp": "El art. 252.3 de la Ley 7/1999 dispone: «El expediente se someterá a información pública por plazo de un mes y a audiencia de las entidades locales interesadas», y se resuelve «por Orden del Consejero de Presidencia y Relaciones Institucionales». La constitución puede iniciarse a instancia de las entidades interesadas o de oficio por la Diputación General de Aragón cuando se acredite la imposibilidad de prestar correctamente de forma aislada las funciones públicas necesarias (art. 252.1).",
+   "fuente": "Art. 252.3 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 252.3 Ley 7/1999 verificado («información pública por plazo de un mes»). Es compatible con el art. 9 RD 128/2018, que remite a las normas autonómicas. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 252.3 Ley 7/1999 literal: información pública por un mes. Coherente con el art. 9 RD 128/2018 (procedimiento según normas autonómicas)."
+  },
+  {
+   "q": "Según el art. 252.2 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de los siguientes extremos deben incluir, al menos, los estatutos de una agrupación para sostener personal en común?",
+   "options": [
+    "La distribución del coste de los puestos de trabajo entre los entes locales agrupados",
+    "La identidad del funcionario que ocupará cada puesto de trabajo agrupado",
+    "La relación de bienes que cada entidad local aporta a la agrupación",
+    "El régimen disciplinario propio del personal al servicio de la agrupación"
+   ],
+   "correct": 0,
+   "exp": "El art. 252.2 de la Ley 7/1999 exige que los estatutos incluyan, al menos: los puestos que se agrupen; la «Distribución del coste de los puestos de trabajo entre los entes locales agrupados»; la organización del trabajo y la distribución del horario; el plazo de vigencia y las causas de disolución; el procedimiento de modificación de los estatutos; y la composición de la Junta de Gobierno de la agrupación y sus normas de funcionamiento. Las demás opciones no figuran en esa lista.",
+   "fuente": "Art. 252.2.b) Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 252.2 Ley 7/1999 verificado: la letra b) es la distribución del coste, y ninguna de las otras tres opciones figura en la lista de las letras a) a f). Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 252.2.b) Ley 7/1999 literal; los demás extremos no figuran en la lista a)-f)."
+  },
+  {
+   "q": "Según el art. 253 de la Ley 7/1999, de Administración Local de Aragón, en las agrupaciones para sostenimiento de personal con sede administrativa común, el Secretario-Interventor:",
+   "options": [
+    "Asistirá a las sesiones de las entidades agrupadas por medios telemáticos desde las oficinas de la cabecera de la agrupación, sin necesidad de desplazarse a cada una de ellas",
+    "Asistirá a las sesiones de la entidad cabecera y certificará los acuerdos de las demás entidades a la vista de las actas que se le remitan",
+    "Delegará la asistencia a las sesiones de cada entidad agrupada en un funcionario propio de esta, designado por su Presidente",
+    "Asistirá personalmente a las sesiones de los distintos Concejos abiertos, Ayuntamientos y órganos de gobierno de las entidades agrupadas, según el calendario establecido"
+   ],
+   "correct": 3,
+   "exp": "En estas agrupaciones el personal trabaja habitualmente en las oficinas de la cabecera (art. 253.1), pero el art. 253.2 de la Ley 7/1999 dispone: «El Secretario-Interventor asistirá personalmente a las sesiones que celebren los distintos Concejos abiertos, Ayuntamientos y órganos de gobierno de las entidades agrupadas, con arreglo al calendario de sesiones establecido». El uso de sistemas de comunicaciones que evite desplazamientos se prevé para la gestión de los asuntos ordinarios y la relación con los interesados (art. 253.3), no para las sesiones.",
+   "fuente": "Art. 253.2 Ley 7/1999 de Administración Local de Aragón",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 253.2 Ley 7/1999 verificado literalmente; la explicación distingue bien el 253.3 (comunicaciones para asuntos ordinarios). Las opciones tienen longitud parecida. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 253.2 Ley 7/1999 literal: asistencia personal según calendario; 253.3 (comunicaciones para asuntos ordinarios) comprobado. Opciones de longitud similar."
+  },
+  {
+   "q": "Según el art. 169.1.b) del TRRL, pertenecerán a la subescala de gestión de Administración General los funcionarios que realicen tareas:",
+   "options": [
+    "De gestión, estudio y propuesta de nivel superior",
+    "De apoyo a las funciones de nivel superior",
+    "Administrativas, normalmente de trámite y colaboración",
+    "De dirección y coordinación de unidades administrativas"
+   ],
+   "correct": 1,
+   "exp": "El art. 169.1.b) del TRRL dispone: «Pertenecerán a la subescala de gestión de Administración General los funcionarios que realicen tareas de apoyo a las funciones de nivel superior». Las tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior son las de la subescala Técnica (art. 169.1.a), y las administrativas, normalmente de trámite y colaboración, las de la subescala Administrativa (art. 169.1.c).",
+   "fuente": "Art. 169.1.b) TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 169.1.b) TRRL (BOE-A-1986-9865, redacción de la Ley 53/2002) verificado literalmente. Los distractores son las tareas de las letras a) y c) y una inventada: todos falsos para la subescala de gestión. No repite 19-206 a 19-209, que preguntan las letras a), c), d) y e). | Revisor 2 (CONFIRMADA): Art. 169.1.b) TRRL (BOE-A-1986-9865, redacción Ley 53/2002) literal. Las tareas de 169.1.a) y c) son de Técnica y Administrativa. Única letra del 169.1 que no estaba en el banco; no repite."
+  },
+  {
+   "q": "Según el art. 169.1 del TRRL, podrá establecerse la normativa adecuada para que los puestos de trabajo atribuidos a la subescala de Subalternos de Administración General puedan ser desempeñados por:",
+   "options": [
+    "Funcionarios de la subescala Auxiliar que, por edad u otras razones, soliciten voluntariamente un puesto de menor responsabilidad",
+    "Personal laboral de oficios que, por edad u otras razones, no pueda seguir desempeñando tareas de carácter predominantemente manual",
+    "Funcionarios de Servicios Especiales que, por edad u otras razones, tengan disminuida su capacidad para misiones de particular esfuerzo o penosidad",
+    "Funcionarios interinos que, por edad u otras razones, no hayan superado el proceso selectivo de la subescala a la que estaban adscritos"
+   ],
+   "correct": 2,
+   "exp": "El último párrafo del art. 169.1 del TRRL dispone: «Podrá establecerse la normativa adecuada para que los puestos de trabajo atribuidos a esta Subescala puedan ser desempeñados por funcionarios de Servicios Especiales que, por edad u otras razones, tengan disminuida su capacidad para misiones de particular esfuerzo o penosidad, pero que conserven la requerida para las tareas de Subalterno».",
+   "fuente": "Art. 169.1, último párrafo, TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 169.1, último párrafo, TRRL verificado literalmente («funcionarios de Servicios Especiales que, por edad u otras razones, tengan disminuida su capacidad...»). Distractores falsos y con un nivel de detalle parecido. Sin duplicado (19-209 es de la letra e). | Revisor 2 (CONFIRMADA): Art. 169.1, último párrafo, TRRL literal. Distractores falsos. Precepto vigente (cap. IV del título VII; el TREBEP solo derogó el cap. III)."
+  },
+  {
+   "q": "Según el art. 170.2 del TRRL, los puestos de trabajo a desempeñar por funcionarios de servicios especiales:",
+   "options": [
+    "Requieren la autorización previa de la Comunidad Autónoma para su creación",
+    "Deben estar previstos en un catálogo estatal de puestos de trabajo tipo",
+    "Están reservados a municipios con Secretaría de clase primera",
+    "Podrán existir en cualquier clase de Corporación"
+   ],
+   "correct": 3,
+   "exp": "El art. 170.2 del TRRL dispone: «Los puestos de trabajo a desempeñar por funcionarios de servicios especiales podrán existir en cualquier clase de Corporación». La creación de escalas, subescalas y clases y la clasificación de los funcionarios corresponde a cada Corporación (art. 167.4). Para la Administración General, en cambio, el art. 169.1 encarga al Estado fijar los criterios para determinar en qué Corporaciones pueden existir puestos de cada subescala.",
+   "fuente": "Art. 170.2 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 170.2 TRRL verificado literalmente; las referencias de la explicación a los arts. 167.4 y 169.1 son exactas. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 170.2 TRRL literal. Distractores falsos; la correcta es la más corta."
+  },
+  {
+   "q": "Según el art. 144 del TRRL, los funcionarios de Administración local tienen las obligaciones determinadas por:",
+   "options": [
+    "La legislación sobre función pública de la Comunidad Autónoma y, en todo caso, las previstas en la legislación básica del Estado",
+    "La legislación de funcionarios de la Administración del Estado y, supletoriamente, la de la Comunidad Autónoma",
+    "El reglamento de personal que apruebe cada Corporación y, supletoriamente, la legislación básica del Estado y la autonómica",
+    "El convenio o acuerdo de condiciones de trabajo de cada Corporación, aprobado por su Pleno"
+   ],
+   "correct": 0,
+   "exp": "El art. 144 del TRRL dispone: «Los funcionarios de Administración local tienen las obligaciones determinadas por la legislación sobre función pública de la correspondiente Comunidad Autónoma y, en todo caso, las previstas en la legislación básica del Estado sobre función pública».",
+   "fuente": "Art. 144 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 144 TRRL verificado literalmente. No está desplazado: remite a la legislación básica estatal (hoy arts. 52-54 TREBEP) y a la autonómica, en línea con el art. 3.1 TREBEP. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 144 TRRL literal (cap. II, vigente). Compatible con los arts. 52-54 TREBEP básicos («en todo caso, las previstas en la legislación básica»). Distractores falsos."
+  },
+  {
+   "q": "Según el art. 8.1 del RD 861/1986, los funcionarios que desempeñen sus tareas al servicio de agrupaciones para el sostenimiento de funcionarios en común percibirán, en concepto de complemento específico:",
+   "options": [
+    "Un 10 % del complemento de destino del puesto por cada ayuntamiento agrupado, sin exceder del 50 %",
+    "Un 15 % del complemento de destino del puesto por cada ayuntamiento agrupado, sin exceder del 60 %",
+    "Un 20 % del complemento de destino del puesto por cada ayuntamiento agrupado, sin exceder del 80 %",
+    "Un 15 % del sueldo base del puesto por cada ayuntamiento agrupado, sin exceder del 60 %"
+   ],
+   "correct": 1,
+   "exp": "El art. 8.1 del RD 861/1986 dispone que esos funcionarios «percibirán, en todo caso, un 15 por 100 de la cuantía del complemento de destino asignado al puesto de trabajo, por cada uno de los ayuntamientos agrupados y en concepto de complemento específico, sin que la cuantía asignada por esta circunstancia pueda exceder del 60 por 100, aunque sean más de cuatro los Ayuntamientos que constituyan la agrupación».",
+   "fuente": "Art. 8.1 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.1 RD 861/1986 (BOE-A-1986-10798) verificado: 15% del complemento de destino por cada ayuntamiento agrupado, con el límite del 60%. Sigue en vigor: el complemento específico se mantiene por la disposición final 4.ª.2 TREBEP. Distractores falsos. No repite ninguna de las preguntas existentes sobre este RD (19-273 a 19-282, 19-300 y 19-301). | Revisor 2 (CONFIRMADA): Art. 8.1 RD 861/1986 (BOE-A-1986-10798) literal: 15 % del CD por ayuntamiento, máximo 60 %. RD vigente (DF 4.ª.2 TREBEP). Distractores falsos."
+  },
+  {
+   "q": "Según el art. 3.3 del RD 861/1986, en relación con los niveles de complemento de destino, los funcionarios de Administración Local:",
+   "options": [
+    "Podrán obtener puestos de cualquier nivel de complemento de destino, siempre que así lo prevea expresamente la relación de puestos de trabajo",
+    "Podrán obtener puestos de un nivel superior al de su intervalo si acreditan al menos cinco años de servicios en su grupo de titulación",
+    "En ningún caso podrán obtener puestos no incluidos en los niveles del intervalo correspondiente al grupo de titulación de su Escala, Subescala, clase o categoría",
+    "Podrán obtener puestos de hasta dos niveles por encima de su intervalo cuando sean provistos por el sistema de libre designación"
+   ],
+   "correct": 2,
+   "exp": "El art. 3.3 del RD 861/1986 dispone: «En ningún caso los funcionarios de Administración Local podrán obtener puestos de trabajo no incluidos en los niveles del intervalo correspondiente al grupo de titulación en que figure clasificada su Escala, Subescala, clase o categoría». En coherencia, el art. 3.5 solo les permite consolidar grados incluidos en ese intervalo.",
+   "fuente": "Art. 3.3 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 3.3 RD 861/1986 (redacción del RD 158/1996) verificado literalmente; el 3.5 está bien citado. La correcta es un poco más larga (161 caracteres frente a 128-141), pero no se delata por la forma. Distractores falsos. Sin duplicado (19-274 es del 3.2). | Revisor 2 (CONFIRMADA): Art. 3.3 RD 861/1986 (redacción RD 158/1996) literal; 3.5 comprobado. Distractores falsos."
+  },
+  {
+   "q": "Según la disposición adicional primera del RD 896/1991, en el nombramiento de personal funcionario interino de las Entidades Locales se dará preferencia a:",
+   "options": [
+    "Los aspirantes que hayan prestado servicios previos como interinos en la misma Corporación",
+    "Los aspirantes empadronados en el municipio con una antigüedad mínima de un año",
+    "Los aspirantes con mayor antigüedad como demandantes de empleo inscritos en la oficina pública",
+    "Los aspirantes que hayan aprobado algún ejercicio en las pruebas de acceso de que se trate"
+   ],
+   "correct": 3,
+   "exp": "El párrafo segundo de la disposición adicional primera del RD 896/1991 exige que el interino reúna los requisitos de titulación y demás condiciones exigidas para participar en las pruebas de acceso, y añade: «Se dará preferencia a aquellos aspirantes que hayan aprobado algún ejercicio en las pruebas de acceso de que se trate». Según la disposición final primera, este párrafo tiene «carácter supletorio respecto de la legislación específica de las Comunidades Autónomas».",
+   "fuente": "Disposición adicional primera, párrafo segundo, RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): DA 1.ª, párrafo 2.º, RD 896/1991 (BOE-A-1991-15126) verificada literalmente; la disposición final 1.ª confirma que ese párrafo es supletorio, como dice la explicación. No está desplazado por el art. 10.2 TREBEP, porque es una preferencia por mérito compatible con él. Distractores falsos. No repite la 19-167, que es del párrafo 1.º. | Revisor 2 (CONFIRMADA): DA 1.ª, párrafo segundo, RD 896/1991 (BOE-A-1991-15126) literal; la DF 1.ª lo declara supletorio de la legislación autonómica, como dice la explicación. Compatible con el art. 10.2 TREBEP. Distinta de la existente sobre el párrafo primero."
+  }
+ ]
+}

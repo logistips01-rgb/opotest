@@ -1,86 +1,54 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 19,
-  "fecha": "2026-10-22",
+  "fecha": "2026-10-24",
   "preguntas": [
     {
-      "q": "Conforme al artículo 8.3 del RD 896/1991, el número mínimo de temas para el ingreso en la subescala del grupo B es de:",
+      "q": "En Zaragoza, el titular del órgano de apoyo al Gobierno de Zaragoza y a su Secretario se nombra entre funcionarios con habilitación de carácter nacional (art. 13.4 de la Ley 10/2017). Según la disposición adicional cuarta del RD 128/2018, en los municipios de gran población el puesto de titular del órgano de apoyo a la Junta de Gobierno Local está reservado a:",
       "options": [
-        "40 temas",
-        "75 temas",
-        "90 temas",
-        "60 temas"
-      ],
-      "correct": 3,
-      "exp": "El art. 8.3 del RD 896/1991 exige como mínimo 60 temas para el grupo B. Los 90 temas son del grupo A y los 40, del grupo C; 75 no figura en el precepto. (El antiguo grupo B equivale hoy al subgrupo A2: disposición transitoria tercera.2 del TREBEP.)",
-      "fuente": "Art. 8.3 RD 896/1991",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La cifra es correcta: el art. 8.3 RD 896/1991 fija 60 temas para el grupo B, y 40, 75 y 90 son falsos. Pero el enunciado no es inequívoco: dice «grupo B» sin aclarar que es el grupo B antiguo del RD, que hoy equivale al subgrupo A2 (DT 3.ª.2 TREBEP: «Grupo B: Subgrupo A2»). Hoy existe además un grupo B distinto, el de Técnico Superior del art. 76 TREBEP, y quien estudia puede entender que los 60 temas valen para ese grupo. La aclaración solo está en la explicación. Arreglo: redactar el enunciado como en la pregunta del grupo D, por ejemplo «…en la subescala del grupo B (el antiguo grupo B, equivalente hoy al subgrupo A2 según la disposición transitoria tercera del TREBEP, no el actual grupo B de Técnico Superior)…». | Revisor 2 (CONFIRMADA): Art. 8.3 RD 896/1991: grupo B, 60 temas. DT 3.ª.2 TREBEP: grupo B = subgrupo A2 (comprobado). 40, 75 y 90 falsos para el grupo B. No repite las existentes (grupos A y C).",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "De acuerdo con la disposición final primera del RD 896/1991, ¿cuál de los siguientes preceptos tiene carácter supletorio respecto de la legislación específica de las Comunidades Autónomas?",
-      "options": [
-        "El artículo 6, sobre la publicación de las bases y las convocatorias",
-        "El artículo 2, sobre los sistemas de acceso",
-        "El artículo 7, sobre la resolución de las pruebas",
-        "El artículo 8, sobre los ejercicios teóricos"
-      ],
-      "correct": 0,
-      "exp": "La disposición final primera del RD 896/1991 declara básicos todos sus preceptos excepto el art. 4, letras a), b), c), d), f), g), h) e i), el art. 6 y las disposiciones adicionales primera (párrafos segundo y tercero), segunda y tercera, que se aplican con carácter supletorio respecto de la legislación específica de las Comunidades Autónomas. Los arts. 2, 7 y 8 no están entre las excepciones, así que son básicos.",
-      "fuente": "Disposición final primera RD 896/1991",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta: según la DF 1.ª RD 896/1991, el art. 6 es supletorio, y los arts. 2, 7 y 8 no están entre las excepciones (cita literal comprobada). El problema está en la explicación, que concluye «Los arts. 2, 7 y 8 […] son básicos» sin advertir que el contenido de dos de ellos lo ha desplazado el TREBEP: el art. 2 (ingreso por concurso) choca con el art. 61.6 TREBEP (el concurso solo cabe, excepcionalmente, en virtud de ley), y la regla absoluta del art. 7 (nunca más aprobados que plazas) con el art. 61.8 TREBEP («excepto cuando así lo prevea la propia convocatoria»). Así, quien estudia puede tomar como vigentes y básicas reglas desplazadas. Arreglo: añadir a la explicación «aunque el contenido de los arts. 2 y 7 ha quedado desplazado en parte por el art. 61.6 y 61.8 TREBEP», o sustituir esos dos distractores por otros preceptos básicos no afectados (por ejemplo, el art. 1, el 3 o el 9). | Revisor 2 (CONFIRMADA): DF 1.ª RD 896/1991 comprobada: son supletorios el art. 4 (salvo letra e), el art. 6 y las DA 1.ª (párr. 2.º y 3.º), 2.ª y 3.ª; los arts. 2, 7 y 8 son básicos. Única correcta: art. 6.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "De acuerdo con el artículo 4.2 del RD 861/1986, el establecimiento o la modificación del complemento específico exigirá, con carácter previo:",
-      "options": [
-        "Un informe favorable de la Comunidad Autónoma",
-        "Que la Corporación efectúe una valoración del puesto de trabajo",
-        "La autorización del Ministerio competente en materia de Administración Local",
-        "La aprobación previa de la oferta de empleo público del ejercicio"
+        "La subescala de Secretaría, categoría de entrada, y debe clasificarse en clase 2.ª",
+        "La subescala de Secretaría, categoría superior, y debe clasificarse en clase 1.ª",
+        "La subescala de Secretaría-Intervención, y debe clasificarse en clase 1.ª",
+        "La subescala de Intervención-Tesorería, categoría de entrada, y debe clasificarse en clase 1.ª"
       ],
       "correct": 1,
-      "exp": "El art. 4.2 del RD 861/1986 dispone que el establecimiento o modificación del complemento específico «exigirá, con carácter previo, que por la Corporación se efectúe una valoración del puesto de trabajo», atendiendo a las circunstancias del art. 4.1. Después, el Pleno, al aprobar la relación de puestos de trabajo, determina los puestos con complemento específico y su cuantía (art. 4.3). No se exige informe autonómico, autorización ministerial ni la oferta de empleo.",
-      "fuente": "Art. 4.2 RD 861/1986",
+      "exp": "La disposición adicional cuarta, apartado 2.b), del RD 128/2018 dispone que «El puesto de titular del órgano de apoyo a la Junta de Gobierno Local y al Concejal-Secretario de la misma está reservado, igualmente, a la subescala de Secretaría, categoría superior, y deberá clasificarse en clase 1.ª». En Zaragoza ese órgano es el de apoyo al Gobierno de Zaragoza (art. 13.4 de la Ley 10/2017), cuyo titular «será nombrado entre funcionarios de Administración local con habilitación de carácter nacional». Ni la categoría de entrada, ni la clase 2.ª, ni las subescalas de Secretaría-Intervención o Intervención-Tesorería corresponden a este puesto.",
+      "fuente": "Disposición adicional cuarta, apartado 2.b) RD 128/2018; art. 13.4 Ley 10/2017 (capitalidad de Zaragoza)",
       "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta: el art. 4.2 RD 861/1986 exige una valoración previa del puesto (cita literal comprobada), y los demás distractores son falsos. Pero la explicación añade como paso siguiente «el Pleno, al aprobar la relación de puestos de trabajo, determina los puestos con complemento específico y su cuantía (art. 4.3)». En Zaragoza, municipio de gran población, la RPT y las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL, competencia indelegable según el art. 127.2), no el Pleno. Así, la explicación enseña para el municipio del examen un órgano que no es el competente. Arreglo: añadir «(en los municipios de gran población, como Zaragoza, la RPT la aprueba la Junta de Gobierno Local: art. 127.1.h LBRL)» o quitar esa frase. | Revisor 2 (CONFIRMADA): Art. 4.2 RD 861/1986 literal: valoración previa del puesto por la Corporación. Distractores falsos. Nota menor: la explicación atribuye al Pleno la aprobación de la RPT (art. 4.3 RD); en Zaragoza, como gran población, la RPT y las retribuciones las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL). Conviene añadir esa precisión, aunque no afecta a la respuesta.",
-      "_motivo": "veredicto DUDOSA"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Texto correcto (DA 4.ª.2.b RD 128/2018, BOE-A-2018-3760, y art. 13.4 Ley 10/2017), pero repite en la práctica la existente 19-136 (DA 4.ª.2.a, Secretario General del Pleno): las cuatro opciones son casi idénticas y la correcta es la misma, «subescala de Secretaría, categoría superior, y debe clasificarse en clase 1.ª». La norma dice «igualmente», así que quien sabe la 19-136 acierta esta por la misma regla. Regla 6; ante la duda, rechazo. | Revisor 2 (CONFIRMADA): DA 4.ª.2.b) RD 128/2018 (BOE-A-2018-3760, texto original sin modificar) literal; art. 13.4 Ley 10/2017 comprobado. Distractores falsos (categoría de entrada, Secretaría-Intervención, Intervención-Tesorería). No repite la existente sobre el Secretario General del Pleno (DA 4.ª.2.a), aunque la respuesta coincide en redacción; es otro puesto.",
+      "_motivo": "veredicto RECHAZADA"
     },
     {
-      "q": "Según el artículo 5.5 del RD 861/1986, ¿a quién corresponde determinar en el presupuesto la cantidad global destinada al complemento de productividad de los funcionarios?",
+      "q": "Según el art. 45.1 del RD 128/2018, para cambiar de concurso a libre designación el sistema de provisión de un puesto reservado que tenga asignadas las funciones de control y fiscalización interna, contabilidad o tesorería (arts. 4 y 5) es precisa:",
       "options": [
-        "Al Alcalde o Presidente de la Corporación",
-        "A la Comunidad Autónoma",
-        "Al Pleno de cada Corporación",
-        "Al Ministerio de Hacienda"
-      ],
-      "correct": 2,
-      "exp": "El art. 5.5 del RD 861/1986 atribuye al Pleno de cada Corporación determinar en el presupuesto la cantidad global destinada al complemento de productividad, dentro del límite máximo del art. 7.2.b). Al Alcalde o Presidente le corresponde después distribuir esa cuantía entre programas o áreas y hacer la asignación individual, con sujeción a los criterios que haya fijado el Pleno (art. 5.6).",
-      "fuente": "Art. 5.5 RD 861/1986",
-      "confianza": "alta",
-      "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta, también en Zaragoza: el art. 5.5 RD 861/1986 atribuye al Pleno la cantidad global en el presupuesto (cita literal comprobada), el Pleno aprueba el presupuesto también en los municipios de gran población (art. 123.1.h LBRL) y el art. 93.2 LBRL le atribuye la cuantía global. El problema está en la explicación: dice sin matiz que «al Alcalde o Presidente le corresponde después distribuir esa cuantía […] y hacer la asignación individual» (art. 5.6). En un municipio de gran población, las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL, indelegable según el art. 127.2). En una pregunta precisamente sobre el órgano competente, esa frase puede enseñar un reparto de competencias que no es el de Zaragoza. Arreglo: añadir «en los municipios de gran población, la aprobación de las retribuciones del personal corresponde a la Junta de Gobierno Local (art. 127.1.h LBRL)» o limitar la explicación al art. 5.5. | Revisor 2 (DUDOSA): Respuesta correcta y vigente (art. 5.5 RD 861/1986; también art. 93.2 LBRL y, en gran población, el Pleno aprueba el presupuesto, art. 123.1.h LBRL), así que no cambia para Zaragoza. Pero, como la pregunta versa sobre reparto de competencias entre órganos, la explicación afirma sin matiz que al Alcalde le corresponde distribuir la cuantía y la asignación individual (art. 5.6 RD); en Zaragoza, municipio de gran población, la aprobación de las retribuciones del personal es de la Junta de Gobierno Local (art. 127.1.h LBRL, indelegable según 127.2). Arreglo: añadir a la explicación «en los municipios de gran población, como Zaragoza, las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL)», o suprimir la frase sobre el Alcalde.",
-      "_motivo": "veredicto DUDOSA"
-    },
-    {
-      "q": "Según el artículo 130.1 del TRRL, son funcionarios de la Administración Local las personas vinculadas a ella por una relación de servicios profesionales y retribuidos regulada por:",
-      "options": [
-        "El Derecho Laboral",
-        "El Derecho Civil",
-        "El convenio colectivo de la Corporación",
-        "El Derecho Administrativo"
+        "La autorización expresa del órgano competente de la Comunidad Autónoma en materia de régimen local y de función pública local",
+        "La aprobación del Pleno de la Corporación por mayoría absoluta del número legal de sus miembros",
+        "El informe favorable del Tribunal de Cuentas o del órgano de control externo autonómico",
+        "La autorización expresa del órgano competente de la Administración General del Estado en materia de Haciendas Locales"
       ],
       "correct": 3,
-      "exp": "El art. 130.1 TRRL define a los funcionarios de la Administración Local como «las personas vinculadas a ella por una relación de servicios profesionales y retribuidos, regulada por el Derecho Administrativo». El régimen laboral es el del personal contratado, que se rige íntegramente por el Derecho Laboral (art. 177.2 TRRL).",
-      "fuente": "Art. 130.1 TRRL (RDLeg 781/1986)",
+      "exp": "El art. 45.1 del RD 128/2018 dispone que, en los puestos con las funciones de sus arts. 4 y 5, «será precisa la autorización expresa del órgano competente de la Administración General del Estado en materia de Haciendas Locales para cambiar el sistema de provisión del puesto, de concurso a libre designación». La Corporación la solicita antes de adoptar la resolución. A la Comunidad Autónoma solo se le comunica la opción, a efectos de clasificación (art. 45.2); no se exige su autorización.",
+      "fuente": "Art. 45.1 RD 128/2018",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Regla 10. El art. 45.1, párrafo 2.º, RD 128/2018 desarrolla la exigencia de «autorización expresa del órgano competente de la AGE en materia de Haciendas locales» que contenía el art. 92 bis.6 LBRL en su redacción de 2013/2015 (lo he comprobado en la versión anterior del consolidado). La disposición final 1.ª del RDL 13/2026, de 2 de junio (BOE-A-2026-11848, en vigor desde el 4-6-2026), ha reescrito el art. 92 bis.6 y ha suprimido esa autorización; su exposición de motivos dice que lo hace por los pronunciamientos judiciales sobre «los supuestos en que se viene denegando la autorización de provisión por el sistema de libre designación». El requisito queda al menos desplazado por la ley posterior, así que no puede preguntarse como vigente. | Revisor 2 (RECHAZADA): Precepto desplazado (regla 10). La exigencia de «autorización expresa del órgano competente de la AGE en materia de Haciendas locales» para la LD de puestos con funciones de control, contabilidad o tesorería procedía del art. 92 bis.6 LBRL (redacción 2013/2015). La DF 1.ª del Real Decreto-ley 13/2026, de 2 de junio (BOE-A-2026-11848, en vigor 04/06/2026, convalidado por el Congreso, Resolución de 18-6-2026) ha dado nueva redacción al 92 bis.6 y ha suprimido ese requisito (y el informe previo para el cese, ahora solo comunicación a Función Pública); su exposición de motivos dice que la reforma responde a los pronunciamientos judiciales sobre las denegaciones de autorización de LD. El art. 45.1 RD 128/2018 sigue escrito igual en el consolidado, pero ha perdido su base legal: no puede presentarse como vigente.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 58.5 del RD 128/2018, el funcionario con habilitación de carácter nacional de una determinada subescala que se encuentre en servicio activo en otra subescala de la misma escala será declarado en situación de:",
+      "options": [
+        "Servicio en otras Administraciones Públicas",
+        "Excedencia voluntaria por prestación de servicio en otro cuerpo o escala",
+        "Servicios especiales, con reserva de su puesto de origen",
+        "Excedencia voluntaria por interés particular"
+      ],
+      "correct": 1,
+      "exp": "El art. 58.5 del RD 128/2018 dispone: «Procederá declarar en situación de excedencia voluntaria por prestación de servicio en otro cuerpo o escala, a los funcionarios de Administración Local con habilitación de carácter nacional en una determinada subescala de la escala de habilitación de carácter nacional, cuando se encuentren en situación de servicio activo en otra subescala de la misma». La situación de servicio en otras Administraciones Públicas se aplica a quienes desempeñan en otra Administración puestos no reservados a la escala (art. 58.3).",
+      "fuente": "Art. 58.5 RD 128/2018",
       "confianza": "alta",
       "veredicto": "DUDOSA",
-      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 130.1 TRRL, cita literal comprobada. Concuerda con el art. 9.1 TREBEP. El art. 177.2 TRRL, que cita la explicación, es correcto. No repite la existente sobre el art. 130.2. | Revisor 2 (DUDOSA): Respuesta correcta: art. 130.1 TRRL literal, coherente con art. 9.1 TREBEP. Pero la explicación presenta como vigente algo superado: dice que el personal laboral «se rige íntegramente por el Derecho Laboral (art. 177.2 TRRL)», y el art. 7 TREBEP dispone que el personal laboral se rige, además de por la legislación laboral y los convenios, por los preceptos del Estatuto que así lo dispongan (y en ciertos permisos, por el propio Estatuto). Arreglo: sustituir esa frase por «el personal laboral se rige por la legislación laboral, los convenios aplicables y los preceptos del TREBEP que así lo dispongan (art. 7 TREBEP)».",
+      "notaRevision": "Revisor 1 (DUDOSA): Contenido correcto: art. 58.5 RD 128/2018 verificado, y el art. 58.3 confirma que el distractor de servicio en otras Administraciones no cabe. Pero la correcta se adivina por la forma (regla 7 bis): mide 72 caracteres frente a 43-56 de los distractores y repite la idea del enunciado («en otra subescala de la misma escala» → «en otro cuerpo o escala»). Arreglo: distractores de longitud y nivel de detalle parecidos y que no dejen la correcta como la única que alude a «otro cuerpo», por ejemplo «Servicio activo en la subescala de origen, con reserva del puesto» o «Excedencia voluntaria por agrupación familiar, sin reserva de puesto». | Revisor 2 (DUDOSA): Contenido correcto: art. 58.5 RD 128/2018 literal; 58.3 (servicio en otras AAPP) comprobado. Pero la correcta se delata por la forma (regla 7 bis): mide 72 caracteres frente a 43-56 y repite la idea del enunciado («servicio activo en otra subescala» -> «prestación de servicio en otro cuerpo o escala»). Arreglo: alargar los distractores con matices igual de plausibles (p. ej., «Excedencia voluntaria por interés particular, sin reserva de puesto en la subescala de origen», «Servicios especiales, con reserva del puesto obtenido por concurso en su subescala de origen»).",
       "_motivo": "veredicto DUDOSA"
     }
   ]
