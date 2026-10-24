@@ -1,0 +1,567 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 12,
+ "lote": "t12-2",
+ "preguntas": [
+  {
+   "q": "Según el art. 14.2 b) del TRLRHL, ¿qué órgano es competente para conocer y resolver el recurso de reposición contra los actos dictados en vía de gestión de los tributos locales?",
+   "options": [
+    "El Pleno de la corporación, cualquiera que sea el órgano autor del acto",
+    "El órgano de la entidad local que haya dictado el acto impugnado",
+    "El órgano superior jerárquico del que haya dictado el acto impugnado",
+    "El órgano de la entidad local que tenga atribuida la recaudación"
+   ],
+   "correct": 1,
+   "exp": "El art. 14.2 b) TRLRHL dispone: «Será competente para conocer y resolver el recurso de reposición el órgano de la entidad local que haya dictado el acto administrativo impugnado». No lo resuelve el Pleno ni el superior jerárquico. En Zaragoza, municipio de gran población, este recurso es potestativo (art. 108 LBRL) y contra su resolución cabe reclamación económico-administrativa ante el órgano del art. 137 LBRL.",
+   "fuente": "Art. 14.2 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Será competente para conocer y resolver el recurso de reposición el órgano de la entidad local que haya dictado el acto administrativo impugnado."
+  },
+  {
+   "q": "Según el art. 14.2 g) del TRLRHL, si el interesado necesita el expediente de gestión para formular sus alegaciones en el recurso de reposición, deberá comparecer ante la oficina gestora:",
+   "options": [
+    "Una vez interpuesto el recurso y dentro de los diez días siguientes a su presentación en el registro",
+    "Desde el día siguiente a la notificación del acto y dentro de los cinco días hábiles siguientes",
+    "Desde el día siguiente a la notificación del acto y antes de que acabe el plazo para interponer el recurso",
+    "Una vez interpuesto el recurso y antes de que acabe el plazo de un mes del que se dispone para resolverlo"
+   ],
+   "correct": 2,
+   "exp": "El art. 14.2 g) TRLRHL establece que el interesado «deberá comparecer a tal objeto ante la oficina gestora a partir del día siguiente a la notificación del acto administrativo que se impugna y antes de que finalice el plazo de interposición del recurso». La oficina de gestión, bajo la responsabilidad de su jefe, está obligada a ponerle de manifiesto el expediente.",
+   "fuente": "Art. 14.2 g) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "deberá comparecer a tal objeto ante la oficina gestora a partir del día siguiente a la notificación del acto administrativo que se impugna y antes de que finalice el plazo de interposición del recurso"
+  },
+  {
+   "q": "Según el art. 14.2 j) del TRLRHL, si del escrito del recurso de reposición resultan otros interesados distintos del recurrente, se les comunicará su interposición para que aleguen lo que a su derecho convenga en el plazo de:",
+   "options": [
+    "Diez días",
+    "Quince días",
+    "Cinco días",
+    "Un mes"
+   ],
+   "correct": 2,
+   "exp": "El art. 14.2 j) TRLRHL dispone que a los otros interesados «se les comunicará la interposición del recurso para que en el plazo de cinco días aleguen lo que a su derecho convenga». En ese caso, según el párrafo l), el plazo de un mes para resolver se computa desde el día siguiente al de las alegaciones o al de la finalización del plazo para hacerlas.",
+   "fuente": "Art. 14.2 j) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "se les comunicará la interposición del recurso para que en el plazo de cinco días aleguen lo que a su derecho convenga"
+  },
+  {
+   "q": "Según el art. 14.2 k) del TRLRHL, la revisión que se lleva a cabo en el recurso de reposición contra actos de gestión de los tributos locales somete a conocimiento del órgano competente:",
+   "options": [
+    "Solo las cuestiones que el recurrente haya planteado en su escrito de interposición",
+    "Solo las cuestiones de derecho, sin que pueda revisar las cuestiones de hecho",
+    "Solo las cuestiones que planteen el recurrente y los demás interesados personados",
+    "Todas las cuestiones que ofrezca el expediente, se hayan planteado o no en el recurso"
+   ],
+   "correct": 3,
+   "exp": "El art. 14.2 k) TRLRHL dispone: «La revisión somete a conocimiento del órgano competente, para su resolución, todas las cuestiones que ofrezca el expediente, hayan sido o no planteadas en el recurso». Si el órgano decide examinar cuestiones no planteadas, las expondrá a los personados y les dará cinco días para alegar.",
+   "fuente": "Art. 14.2 k) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "La revisión somete a conocimiento del órgano competente, para su resolución, todas las cuestiones que ofrezca el expediente, hayan sido o no planteadas en el recurso."
+  },
+  {
+   "q": "Según el art. 16.1 del TRLRHL, los acuerdos de aprobación de las ordenanzas fiscales que regulan los tributos propios de las entidades locales deberán adoptarse:",
+   "options": [
+    "Simultáneamente a los acuerdos de imposición de los respectivos tributos",
+    "Después de los acuerdos de imposición, en el plazo máximo de un mes",
+    "Antes de los acuerdos de imposición, que se adoptan tras publicarse la ordenanza",
+    "Junto con la aprobación del presupuesto general del ejercicio en que se apliquen"
+   ],
+   "correct": 0,
+   "exp": "El art. 16.1 TRLRHL dispone: «Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos». En Zaragoza la tramitación de las ordenanzas fiscales tiene las especialidades del art. 49 de la Ley 10/2017: el proyecto lo aprueba el Gobierno de Zaragoza, la aprobación inicial corresponde a la Comisión plenaria y, si hay reclamaciones, el Pleno las resuelve y aprueba la ordenanza en acto único.",
+   "fuente": "Art. 16.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos."
+  },
+  {
+   "q": "Según el art. 19.2 del TRLRHL, si una resolución judicial firme anula una ordenanza fiscal, los actos firmes o consentidos dictados a su amparo:",
+   "options": [
+    "Quedarán anulados en todo caso, con devolución de lo ingresado",
+    "Se mantendrán en todo caso, aunque la sentencia disponga otra cosa",
+    "Quedarán anulados, salvo que la sentencia disponga expresamente lo contrario",
+    "Se mantendrán, salvo que la sentencia lo prohíba expresamente"
+   ],
+   "correct": 3,
+   "exp": "El art. 19.2 TRLRHL obliga a la entidad local a adecuar a la sentencia las actuaciones posteriores a su notificación y añade: «Salvo que expresamente lo prohibiera la sentencia, se mantendrán los actos firmes o consentidos dictados al amparo de la ordenanza que posteriormente resulte anulada o modificada».",
+   "fuente": "Art. 19.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Salvo que expresamente lo prohibiera la sentencia, se mantendrán los actos firmes o consentidos dictados al amparo de la ordenanza que posteriormente resulte anulada o modificada."
+  },
+  {
+   "q": "Según el art. 20.6 del TRLRHL, las contraprestaciones económicas que tienen la condición de prestaciones patrimoniales de carácter público no tributario, exigidas por servicios prestados en régimen de concesión o por sociedades de capital íntegramente público, se regularán mediante:",
+   "options": [
+    "Pliego del contrato, sin ordenanza",
+    "Decreto de la Alcaldía",
+    "Ordenanza de la entidad local",
+    "Acuerdo del concesionario o de la sociedad"
+   ],
+   "correct": 2,
+   "exp": "El art. 20.6 TRLRHL dispone que, sin perjuicio del art. 103 de la Ley de Contratos del Sector Público, «las contraprestaciones económicas a que se refiere este apartado se regularán mediante ordenanza». Durante su aprobación, las entidades locales solicitarán informe preceptivo de las Administraciones que tengan alguna facultad de intervención sobre ellas.",
+   "fuente": "Art. 20.6, párrafo tercero, TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "las contraprestaciones económicas a que se refiere este apartado se regularán mediante ordenanza"
+  },
+  {
+   "q": "Según el art. 26.1 b) del TRLRHL, cuando la ordenanza fiscal disponga que la tasa se devenga al presentarse la solicitud que inicie la actuación o el expediente:",
+   "options": [
+    "El pago se exigirá al notificarse la resolución que ponga fin al expediente iniciado",
+    "La actuación o el expediente no se realizará o tramitará sin que se haya efectuado el pago",
+    "El expediente se tramitará y el pago se exigirá dentro del mes siguiente a la solicitud",
+    "El pago solo se exigirá si la solicitud que inició el expediente resulta estimada"
+   ],
+   "correct": 1,
+   "exp": "El art. 26.1 b) TRLRHL permite que la tasa se devengue «Cuando se presente la solicitud que inicie la actuación o el expediente, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente».",
+   "fuente": "Art. 26.1 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Cuando se presente la solicitud que inicie la actuación o el expediente, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente."
+  },
+  {
+   "q": "Según el art. 30.2 b) del TRLRHL, en las contribuciones especiales por realización de obras o establecimiento o ampliación de servicios a consecuencia de explotaciones empresariales, se consideran personas especialmente beneficiadas:",
+   "options": [
+    "Las personas o entidades titulares de esas explotaciones",
+    "Las entidades financieras que hayan financiado esas explotaciones",
+    "Los trabajadores por cuenta ajena empleados en esas explotaciones",
+    "Los clientes o usuarios habituales de esas explotaciones"
+   ],
+   "correct": 0,
+   "exp": "El art. 30.2 b) TRLRHL considera personas especialmente beneficiadas, «En las contribuciones especiales por realización de obras o establecimiento o ampliación de servicios a consecuencia de explotaciones empresariales, las personas o entidades titulares de éstas».",
+   "fuente": "Art. 30.2 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "a consecuencia de explotaciones empresariales, las personas o entidades titulares de éstas"
+  },
+  {
+   "q": "Según el art. 31.2 del TRLRHL, ¿cuál de los siguientes conceptos NO integra el coste de las obras o servicios a efectos de la base imponible de las contribuciones especiales?",
+   "options": [
+    "Las indemnizaciones a los arrendatarios de los bienes que hayan de ser derruidos",
+    "El valor de los terrenos cedidos gratuita y obligatoriamente a la entidad local",
+    "El importe de las obras a realizar o de los trabajos de ampliación del servicio",
+    "El interés del capital invertido si la entidad ha de apelar al crédito para financiarlas"
+   ],
+   "correct": 1,
+   "exp": "El art. 31.2 c) TRLRHL incluye en el coste el valor de los terrenos que hayan de ocupar permanentemente las obras o servicios, «salvo que se trate de bienes de uso público, de terrenos cedidos gratuita y obligatoriamente a la entidad local» o de inmuebles cedidos conforme al art. 145 de la Ley 33/2003. Las indemnizaciones a los arrendatarios (letra d), el importe de las obras o trabajos (letra b) y el interés del capital invertido cuando haya que apelar al crédito (letra e) sí forman parte del coste.",
+   "fuente": "Art. 31.2 c) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "salvo que se trate de bienes de uso público, de terrenos cedidos gratuita y obligatoriamente a la entidad local"
+  },
+  {
+   "q": "Según el art. 31.4 del TRLRHL, cuando las obras las realicen otras entidades públicas con aportaciones económicas de la entidad local (art. 29.1 c), la base imponible de las contribuciones especiales se determinará:",
+   "options": [
+    "En función del coste total de la obra, respetando en todo caso el límite del 90 por ciento",
+    "En función del importe de esas aportaciones, respetando en todo caso el límite del 90 por ciento",
+    "En función del importe de esas aportaciones, sin que rija el límite del 90 por ciento",
+    "En función del coste total de la obra, sin que rija el límite del 90 por ciento"
+   ],
+   "correct": 1,
+   "exp": "El art. 31.4 TRLRHL dispone que en esos casos «la base imponible de las contribuciones especiales se determinará en función del importe de estas aportaciones», sin perjuicio de las que puedan imponer otras Administraciones por la misma obra, y añade: «En todo caso, se respetará el límite del 90 por ciento a que se refiere el apartado 1 de este artículo».",
+   "fuente": "Art. 31.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "la base imponible de las contribuciones especiales se determinará en función del importe de estas aportaciones"
+  },
+  {
+   "q": "Según el art. 31.6 del TRLRHL, si la subvención o auxilio que se resta del coste de la obra lo otorga un sujeto pasivo de la propia contribución especial, su importe:",
+   "options": [
+    "Reduce a prorrata las cuotas de todos los sujetos pasivos, incluida la de quien otorgó la subvención",
+    "Compensa primero la cuota de ese sujeto pasivo y, si la excede, el exceso se le devuelve a él",
+    "Compensa primero la cuota de ese sujeto pasivo y, si la excede, el exceso reduce a prorrata las de los demás",
+    "No se resta del coste soportado, porque procede de un sujeto pasivo de la contribución especial"
+   ],
+   "correct": 2,
+   "exp": "El art. 31.6 TRLRHL dispone que, si la subvención o el auxilio se otorga por un sujeto pasivo, «su importe se destinará primeramente a compensar la cuota de la respectiva persona o entidad. Si el valor de la subvención o auxilio excediera de dicha cuota, el exceso reducirá, a prorrata, las cuotas de los demás sujetos pasivos».",
+   "fuente": "Art. 31.6 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "su importe se destinará primeramente a compensar la cuota de la respectiva persona o entidad"
+  },
+  {
+   "q": "Según el art. 33.5 del TRLRHL, si los pagos anticipados de contribuciones especiales los efectuaron personas que no son sujetos pasivos en la fecha del devengo, o exceden de la cuota individual definitiva:",
+   "options": [
+    "El ayuntamiento los devolverá solo si se le solicita en el mes siguiente",
+    "Se aplicarán a la cuota del sujeto pasivo, sin devolución alguna",
+    "Se destinarán a sufragar la obra, sin devolución alguna",
+    "El ayuntamiento practicará de oficio la devolución que proceda"
+   ],
+   "correct": 3,
+   "exp": "El art. 33.5 TRLRHL dispone que en esos casos «el ayuntamiento practicará de oficio la pertinente devolución».",
+   "fuente": "Art. 33.5 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "el ayuntamiento practicará de oficio la pertinente devolución"
+  },
+  {
+   "q": "Según el art. 35.2 del TRLRHL, cuando una obra la realiza una entidad local con la colaboración económica de otra y una de ellas no aprueba el acuerdo concreto de ordenación de las contribuciones especiales:",
+   "options": [
+    "Queda sin efecto la unidad de actuación y cada entidad decide por separado lo que proceda",
+    "Prevalece el acuerdo de la entidad que realiza la obra, que obliga también a la otra entidad",
+    "Resuelve la discrepancia la diputación provincial, previa audiencia de ambas entidades",
+    "No pueden exigirse contribuciones especiales por esa obra en ninguna de las dos entidades"
+   ],
+   "correct": 0,
+   "exp": "El art. 35.2 TRLRHL dispone que, si el acuerdo concreto de ordenación no fuera aprobado por una de las entidades, «quedará sin efecto la unidad de actuación, adoptando separadamente cada una de ellas las decisiones que procedan».",
+   "fuente": "Art. 35.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "quedará sin efecto la unidad de actuación, adoptando separadamente cada una de ellas las decisiones que procedan"
+  },
+  {
+   "q": "Según el art. 49.3 del TRLRHL, la deuda pública de las entidades locales y los títulos-valores de carácter equivalente emitidos por ellas:",
+   "options": [
+    "Gozan de los mismos beneficios y condiciones que la deuda emitida por las comunidades autónomas",
+    "Gozan de los mismos beneficios y condiciones que la deuda pública emitida por el Estado",
+    "No gozan de beneficio alguno y se rigen solo por las normas del mercado de valores",
+    "Gozan de los beneficios y condiciones que acuerde el Pleno al autorizar cada emisión"
+   ],
+   "correct": 1,
+   "exp": "El art. 49.3 TRLRHL dispone que la deuda pública de las entidades locales y los títulos-valores equivalentes emitidos por ellas «gozarán de los mismos beneficios y condiciones que la deuda pública emitida del Estado».",
+   "fuente": "Art. 49.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "gozarán de los mismos beneficios y condiciones que la deuda pública emitida del Estado"
+  },
+  {
+   "q": "Según el art. 49.4 del TRLRHL, en los casos excepcionales previstos en los artículos 177.5 y 193.2 de esa ley, el crédito solo podrá instrumentarse mediante:",
+   "options": [
+    "Emisión pública de deuda, previa autorización del Ministerio de Hacienda",
+    "Conversión o sustitución de operaciones de crédito preexistentes",
+    "Anticipos a cuenta de la participación en los tributos del Estado",
+    "Préstamos o créditos concertados con entidades financieras"
+   ],
+   "correct": 3,
+   "exp": "El art. 49.4 TRLRHL dispone: «Para los casos excepcionales previstos en los artículos 177.5 y 193.2 de esta ley, el crédito sólo podrá instrumentarse mediante préstamos o créditos concertados con entidades financieras». Quedan excluidas las demás formas del art. 49.2, como la emisión pública de deuda o la conversión de operaciones preexistentes.",
+   "fuente": "Art. 49.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "el crédito sólo podrá instrumentarse mediante préstamos o créditos concertados con entidades financieras"
+  },
+  {
+   "q": "Según el art. 49.7 del TRLRHL, cuando una corporación local avala a una sociedad mercantil participada por personas o entidades privadas en la que tiene al menos el 30 por ciento del capital social, el aval:",
+   "options": [
+    "No podrá garantizar un porcentaje del crédito superior al de su participación en la sociedad",
+    "Podrá garantizar la totalidad del crédito, cualquiera que sea su participación en la sociedad",
+    "No podrá garantizar más del 30 por ciento del crédito, cualquiera que sea su participación",
+    "No podrá garantizar más del 50 por ciento del crédito, cualquiera que sea su participación"
+   ],
+   "correct": 0,
+   "exp": "El art. 49.7 TRLRHL permite avalar a sociedades mercantiles participadas por personas o entidades privadas en las que la corporación tenga una participación no inferior al 30 por ciento, y añade: «El aval no podrá garantizar un porcentaje del crédito superior al de su participación en la sociedad».",
+   "fuente": "Art. 49.7, párrafo segundo, TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "El aval no podrá garantizar un porcentaje del crédito superior al de su participación en la sociedad."
+  },
+  {
+   "q": "Según el art. 61.3 del TRLRHL, a efectos del IBI tienen la consideración de bienes inmuebles rústicos, urbanos y de características especiales:",
+   "options": [
+    "Los clasificados como tales por el planeamiento urbanístico municipal vigente",
+    "Los que así califique la ordenanza fiscal del impuesto de cada ayuntamiento",
+    "Los definidos como tales en las normas reguladoras del Catastro Inmobiliario",
+    "Los inscritos como tales en el Registro de la Propiedad correspondiente"
+   ],
+   "correct": 2,
+   "exp": "El art. 61.3 TRLRHL dispone que, a efectos del impuesto, tendrán la consideración de bienes inmuebles rústicos, urbanos y de características especiales «los definidos como tales en las normas reguladoras del Catastro Inmobiliario».",
+   "fuente": "Art. 61.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "los definidos como tales en las normas reguladoras del Catastro Inmobiliario"
+  },
+  {
+   "q": "Según el art. 62.1 e) del TRLRHL, los inmuebles de los Gobiernos extranjeros destinados a su representación diplomática, consular o a sus organismos oficiales están exentos del IBI:",
+   "options": [
+    "Previa solicitud por vía diplomática",
+    "Si lo prevé la ordenanza fiscal",
+    "Sin condición alguna",
+    "A condición de reciprocidad"
+   ],
+   "correct": 3,
+   "exp": "El art. 62.1 e) TRLRHL declara exentos los inmuebles a los que se aplique la exención en virtud de convenios internacionales en vigor y, «a condición de reciprocidad, los de los Gobiernos extranjeros destinados a su representación diplomática, consular, o a sus organismos oficiales».",
+   "fuente": "Art. 62.1 e) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "a condición de reciprocidad, los de los Gobiernos extranjeros destinados a su representación diplomática, consular, o a sus organismos oficiales"
+  },
+  {
+   "q": "Según el art. 62.2 a) del TRLRHL, la exención del IBI, previa solicitud, de los inmuebles destinados a la enseñanza por centros docentes acogidos al régimen de concierto educativo:",
+   "options": [
+    "Deberá ser compensada por la Administración competente",
+    "No da lugar a compensación alguna a favor del ayuntamiento",
+    "Deberá ser compensada por el propio centro docente beneficiario",
+    "Solo será compensada si así lo prevé la ordenanza fiscal"
+   ],
+   "correct": 0,
+   "exp": "El art. 62.2 a) TRLRHL declara exentos, previa solicitud, los inmuebles destinados a la enseñanza por centros concertados, en cuanto a la superficie afectada a la enseñanza concertada, y añade: «Esta exención deberá ser compensada por la Administración competente».",
+   "fuente": "Art. 62.2 a) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Esta exención deberá ser compensada por la Administración competente."
+  },
+  {
+   "q": "Según el art. 63.2 del TRLRHL, las Administraciones públicas repercutirán la parte de la cuota líquida del IBI que corresponda en quienes, sin ser sujetos pasivos, usen mediante contraprestación sus bienes demaniales o patrimoniales. Esta regla NO se aplica en el supuesto de:",
+   "options": [
+    "Arrendamiento de locales municipales destinados a actividades comerciales",
+    "Arrendamiento de una vivienda municipal de uso residencial a precio libre",
+    "Cesión con contraprestación de bienes patrimoniales a una entidad sin ánimo de lucro",
+    "Alquiler de inmueble de uso residencial con renta limitada por una norma jurídica"
+   ],
+   "correct": 3,
+   "exp": "El art. 63.2 TRLRHL obliga a las Administraciones y entes públicos a repercutir la cuota en quienes usen mediante contraprestación sus bienes demaniales o patrimoniales, y añade: «Lo dispuesto en este párrafo no será de aplicación en el supuesto de alquiler de inmueble de uso residencial con renta limitada por una norma jurídica».",
+   "fuente": "Art. 63.2, párrafo segundo, TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Lo dispuesto en este párrafo no será de aplicación en el supuesto de alquiler de inmueble de uso residencial con renta limitada por una norma jurídica."
+  },
+  {
+   "q": "Según el art. 74.5 del TRLRHL, las ordenanzas fiscales pueden regular una bonificación de la cuota íntegra del IBI para los inmuebles en los que se hayan instalado sistemas para el aprovechamiento térmico o eléctrico de la energía proveniente del sol o de la energía ambiente, de hasta el:",
+   "options": [
+    "50 por ciento",
+    "90 por ciento",
+    "95 por ciento",
+    "75 por ciento"
+   ],
+   "correct": 0,
+   "exp": "El art. 74.5 TRLRHL, en la redacción dada por el art. 44.1 del Real Decreto-ley 7/2026 (en vigor desde el 22 de marzo de 2026), dispone: «Las ordenanzas fiscales podrán regular una bonificación de hasta el 50 por ciento de la cuota íntegra del impuesto para los bienes inmuebles en los que se hayan instalado sistemas para el aprovechamiento térmico o eléctrico de la energía proveniente del sol o de la energía ambiente». Su aplicación está condicionada a que las instalaciones dispongan de la homologación de la Administración competente.",
+   "fuente": "Art. 74.5 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Las ordenanzas fiscales podrán regular una bonificación de hasta el 50 por ciento de la cuota íntegra del impuesto para los bienes inmuebles en los que se hayan instalado sistemas para el aprovechamiento térmico o eléctrico de la energía proveniente del sol o de la energía ambiente."
+  },
+  {
+   "q": "Según el art. 75.3 del TRLRHL, los hechos, actos y negocios que deben declararse o comunicarse ante el Catastro Inmobiliario tienen efectividad en el IBI:",
+   "options": [
+    "En el devengo inmediatamente posterior al momento en que produzcan efectos catastrales",
+    "En el mismo período impositivo en que produzcan efectos catastrales, prorrateando la cuota",
+    "En el devengo del segundo año siguiente a aquel en que se declararon ante el Catastro",
+    "Desde la fecha en que se notifique al sujeto pasivo la liquidación del impuesto"
+   ],
+   "correct": 0,
+   "exp": "El art. 75.3 TRLRHL dispone que esos hechos, actos y negocios «tendrán efectividad en el devengo de este impuesto inmediatamente posterior al momento en que produzcan efectos catastrales». El impuesto se devenga el primer día del período impositivo, que coincide con el año natural (arts. 75.1 y 75.2).",
+   "fuente": "Art. 75.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "tendrán efectividad en el devengo de este impuesto inmediatamente posterior al momento en que produzcan efectos catastrales"
+  },
+  {
+   "q": "Según el art. 76.2 del TRLRHL, en los municipios acogidos mediante ordenanza fiscal al procedimiento de comunicación previsto en las normas del Catastro, las declaraciones catastrales a efectos del IBI se entenderán realizadas cuando:",
+   "options": [
+    "El sujeto pasivo presente la autoliquidación del impuesto correspondiente al ejercicio siguiente",
+    "El Registro de la Propiedad comunique al ayuntamiento la inscripción de la alteración",
+    "La Dirección General del Catastro notifique el nuevo valor catastral al sujeto pasivo",
+    "Las circunstancias o alteraciones consten en la correspondiente licencia o autorización municipal"
+   ],
+   "correct": 3,
+   "exp": "El art. 76.2 TRLRHL dispone que en esos municipios las declaraciones «se entenderán realizadas cuando las circunstancias o alteraciones a que se refieren consten en la correspondiente licencia o autorización municipal», quedando el sujeto pasivo exento de la obligación de declarar, sin perjuicio de que la Dirección General del Catastro pueda requerirle documentación.",
+   "fuente": "Art. 76.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "se entenderán realizadas cuando las circunstancias o alteraciones a que se refieren consten en la correspondiente licencia o autorización municipal"
+  },
+  {
+   "q": "Según el art. 77.2 del TRLRHL, los ayuntamientos podrán agrupar en un único documento de cobro todas las cuotas del IBI de un mismo sujeto pasivo cuando se trate de:",
+   "options": [
+    "Bienes urbanos sitos en un mismo municipio",
+    "Bienes rústicos sitos en un mismo municipio",
+    "Bienes de cualquier clase sitos en una misma provincia",
+    "Bienes de características especiales de un mismo municipio"
+   ],
+   "correct": 1,
+   "exp": "El art. 77.2 TRLRHL dispone: «Los ayuntamientos podrán agrupar en un único documento de cobro todas las cuotas de este impuesto relativas a un mismo sujeto pasivo cuando se trate de bienes rústicos sitos en un mismo municipio».",
+   "fuente": "Art. 77.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los ayuntamientos podrán agrupar en un único documento de cobro todas las cuotas de este impuesto relativas a un mismo sujeto pasivo cuando se trate de bienes rústicos sitos en un mismo municipio."
+  },
+  {
+   "q": "A efectos de la exención del IAE para quienes inician el ejercicio de su actividad en territorio español (art. 82.1 b) TRLRHL), no se considera que se ha producido ese inicio cuando la actividad:",
+   "options": [
+    "Se haya desarrollado antes bajo otra titularidad, por ejemplo por fusión o escisión",
+    "Se traslade a un local situado en otro término municipal del mismo sujeto pasivo",
+    "La ejerza un sujeto pasivo que antes haya ejercido otra actividad económica distinta",
+    "Comience en el último trimestre del año natural, cerca ya del fin del período impositivo"
+   ],
+   "correct": 0,
+   "exp": "El art. 82.1 b), párrafo segundo, TRLRHL dispone: «no se considerará que se ha producido el inicio del ejercicio de una actividad cuando esta se haya desarrollado anteriormente bajo otra titularidad, circunstancia que se entenderá que concurre, entre otros supuestos, en los casos de fusión, escisión o aportación de ramas de actividad».",
+   "fuente": "Art. 82.1 b), párrafo segundo, TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "no se considerará que se ha producido el inicio del ejercicio de una actividad cuando esta se haya desarrollado anteriormente bajo otra titularidad"
+  },
+  {
+   "q": "Según el art. 82.2 del TRLRHL, ¿cuál de los siguientes sujetos pasivos exentos del IAE NO está obligado a presentar declaración de alta en la matrícula del impuesto?",
+   "options": [
+    "Los organismos públicos de investigación",
+    "La Cruz Roja Española",
+    "Las asociaciones y fundaciones de disminuidos sin ánimo de lucro",
+    "Los sujetos pasivos que inicien su actividad en territorio español"
+   ],
+   "correct": 1,
+   "exp": "El art. 82.2 TRLRHL dispone: «Los sujetos pasivos a que se refieren los párrafos a), d), g) y h) del apartado anterior no estarán obligados a presentar declaración de alta en la matrícula del impuesto». La Cruz Roja Española es el párrafo g). Los organismos públicos de investigación (párrafo e), las asociaciones y fundaciones de disminuidos (párrafo f) y quienes inician su actividad (párrafo b) no están en esa lista.",
+   "fuente": "Art. 82.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los sujetos pasivos a que se refieren los párrafos a), d), g) y h) del apartado anterior no estarán obligados a presentar declaración de alta en la matrícula del impuesto."
+  },
+  {
+   "q": "Según las bases del art. 85.1 del TRLRHL para fijar las cuotas mínimas de las tarifas del IAE, a las actividades o modalidades de estas que tengan escaso rendimiento económico:",
+   "options": [
+    "Se les reducirá la cuota a la mitad",
+    "Se les declarará exentas",
+    "Se les eximirá del alta en la matrícula",
+    "Se les señalará cuota cero"
+   ],
+   "correct": 3,
+   "exp": "La base tercera del art. 85.1 TRLRHL prevé la «Determinación de aquellas actividades o modalidades de estas a las que por su escaso rendimiento económico se les señale cuota cero».",
+   "fuente": "Art. 85.1, base tercera, TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Determinación de aquellas actividades o modalidades de estas a las que por su escaso rendimiento económico se les señale cuota cero."
+  },
+  {
+   "q": "Según el art. 85.4 C) del TRLRHL, la exacción de las cuotas nacionales del IAE se lleva a cabo por:",
+   "options": [
+    "La Delegación Central de Grandes Contribuyentes de la AEAT, en todo caso",
+    "El ayuntamiento en cuyo término tenga su domicilio fiscal el sujeto pasivo",
+    "La Delegación Provincial de la AEAT del domicilio fiscal del sujeto pasivo",
+    "La diputación provincial en cuyo territorio tenga su domicilio fiscal el sujeto pasivo"
+   ],
+   "correct": 2,
+   "exp": "El art. 85.4 C) TRLRHL dispone: «La exacción de las cuotas nacionales se llevará a cabo por la Delegación Provincial de la Agencia Estatal de Administración Tributaria en cuyo ámbito territorial tenga su domicilio fiscal el sujeto pasivo». Su importe se distribuye entre todos los municipios y diputaciones provinciales de territorio común.",
+   "fuente": "Art. 85.4 C) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "La exacción de las cuotas nacionales se llevará a cabo por la Delegación Provincial de la Agencia Estatal de Administración Tributaria en cuyo ámbito territorial tenga su domicilio fiscal el sujeto pasivo."
+  },
+  {
+   "q": "Según el art. 87.4 del TRLRHL, en los municipios en los que no sea posible distinguir más de una categoría de calle:",
+   "options": [
+    "Se aplicará un coeficiente de situación único igual a 1",
+    "El coeficiente de situación lo fijará la diputación provincial",
+    "No se podrá establecer el coeficiente de situación del IAE",
+    "El coeficiente de situación se fijará según la superficie del local"
+   ],
+   "correct": 2,
+   "exp": "El art. 87.4 TRLRHL dispone: «En los municipios en los que no sea posible distinguir más de una categoría de calle, no se podrá establecer el coeficiente de situación». Ese coeficiente pondera la situación física del local atendiendo a la categoría de la calle en que radique (art. 87.1).",
+   "fuente": "Art. 87.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "En los municipios en los que no sea posible distinguir más de una categoría de calle, no se podrá establecer el coeficiente de situación."
+  },
+  {
+   "q": "Según el art. 88.2 b) del TRLRHL, la bonificación potestativa del IAE por creación de empleo se aplica a los sujetos pasivos que tributen por cuota municipal y que hayan incrementado, en el período impositivo inmediato anterior, el promedio de su plantilla de trabajadores:",
+   "options": [
+    "Con cualquier contrato",
+    "Con contrato indefinido",
+    "Con contrato a tiempo completo",
+    "Menores de treinta años"
+   ],
+   "correct": 1,
+   "exp": "El art. 88.2 b) TRLRHL prevé una bonificación de hasta el 50 por ciento para los sujetos pasivos que tributen por cuota municipal y que «hayan incrementado el promedio de su plantilla de trabajadores con contrato indefinido durante el período impositivo inmediato anterior al de la aplicación de la bonificación, en relación con el período anterior a aquél».",
+   "fuente": "Art. 88.2 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "hayan incrementado el promedio de su plantilla de trabajadores con contrato indefinido durante el período impositivo inmediato anterior al de la aplicación de la bonificación"
+  },
+  {
+   "q": "Según el art. 91.4 del TRLRHL, el conocimiento de las reclamaciones contra los actos de gestión censal del IAE dictados por la Administración tributaria del Estado corresponde, en todo caso, a:",
+   "options": [
+    "El órgano municipal de reclamaciones económico-administrativas",
+    "El ayuntamiento en cuyo término se ejerza la actividad",
+    "Los Tribunales Económico-Administrativos del Estado",
+    "El Tribunal Superior de Justicia, en vía contencioso-administrativa directa"
+   ],
+   "correct": 2,
+   "exp": "El art. 91.4 TRLRHL dispone que el conocimiento de las reclamaciones contra los actos de gestión censal (formación de la matrícula, calificación de actividades, señalamiento de cuotas) «corresponderá a los Tribunales Económico-Administrativos del Estado». En Zaragoza, el órgano del art. 137 LBRL conoce de las reclamaciones sobre actos de competencia municipal, y el art. 137.6 LBRL deja a salvo los supuestos de reclamación ante los Tribunales Económico-Administrativos del Estado.",
+   "fuente": "Art. 91.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "corresponderá a los Tribunales Económico-Administrativos del Estado"
+  },
+  {
+   "q": "Según el art. 95.4 del TRLRHL, el coeficiente con el que los ayuntamientos pueden incrementar las cuotas del cuadro de tarifas del IVTM:",
+   "options": [
+    "Ha de ser único para todas las clases de vehículos y todos los tramos de tarifa",
+    "Puede fijarse para cada clase de vehículo, pero será igual en todos sus tramos",
+    "Puede fijarse para cada clase de vehículo y ser distinto en cada tramo de cada clase",
+    "Puede ser distinto en cada tramo, pero solo para turismos y motocicletas"
+   ],
+   "correct": 2,
+   "exp": "El art. 95.4, párrafo segundo, TRLRHL dispone: «Los ayuntamientos podrán fijar un coeficiente para cada una de las clases de vehículos previstas en el cuadro de tarifas recogido en el apartado 1 de este artículo, el cual podrá ser, a su vez, diferente para cada uno de los tramos fijados en cada clase de vehículo, sin exceder en ningún caso el límite máximo fijado en el párrafo anterior» (que es 2).",
+   "fuente": "Art. 95.4, párrafo segundo, TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los ayuntamientos podrán fijar un coeficiente para cada una de las clases de vehículos previstas en el cuadro de tarifas recogido en el apartado 1 de este artículo, el cual podrá ser, a su vez, diferente para cada uno de los tramos fijados en cada clase de vehículo"
+  },
+  {
+   "q": "En el cuadro de tarifas del IVTM del art. 95.1 del TRLRHL, la cuota de los autobuses se gradúa en función de:",
+   "options": [
+    "Los caballos fiscales",
+    "El número de plazas",
+    "Los kilogramos de carga útil",
+    "La cilindrada del motor"
+   ],
+   "correct": 1,
+   "exp": "En el cuadro del art. 95.1 TRLRHL los autobuses tributan según su número de plazas: «De menos de 21 plazas», «De 21 a 50 plazas» y «De más de 50 plazas». Los turismos y los tractores se gradúan por caballos fiscales, los camiones y los remolques por carga útil y las motocicletas por centímetros cúbicos.",
+   "fuente": "Art. 95.1 B) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "De 21 a 50 plazas"
+  },
+  {
+   "q": "Según el art. 103.1 del TRLRHL, al concederse la licencia, presentarse la declaración responsable o comunicación previa o iniciarse la obra, se practica una liquidación provisional a cuenta del ICIO, cuya base imponible se determina:",
+   "options": [
+    "Por el valor catastral del inmueble sobre el que se realiza la construcción, instalación u obra",
+    "Por el precio de adjudicación del contrato de obra, incluidos el IVA y los honorarios profesionales",
+    "Por el presupuesto presentado por los interesados o, si la ordenanza lo prevé, por índices o módulos",
+    "Por el presupuesto de contrata de la obra, incluido el beneficio empresarial del contratista"
+   ],
+   "correct": 2,
+   "exp": "El art. 103.1 TRLRHL dispone que se practicará una liquidación provisional a cuenta, determinándose la base imponible «En función del presupuesto presentado por los interesados, siempre que hubiera sido visado por el colegio oficial correspondiente cuando ello constituya un requisito preceptivo» o, «Cuando la ordenanza fiscal así lo prevea, en función de los índices o módulos que ésta establezca al efecto». Finalizada la obra, el ayuntamiento practica la liquidación definitiva según su coste real y efectivo.",
+   "fuente": "Art. 103.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "En función del presupuesto presentado por los interesados, siempre que hubiera sido visado por el colegio oficial correspondiente cuando ello constituya un requisito preceptivo."
+  },
+  {
+   "q": "Según el art. 104.3 del TRLRHL, las transmisiones de bienes inmuebles entre cónyuges o a favor de los hijos como consecuencia del cumplimiento de sentencias en los casos de nulidad, separación o divorcio matrimonial:",
+   "options": [
+    "No están sujetas al IIVTNU solo si el régimen económico es el de gananciales",
+    "Están sujetas al IIVTNU, aunque exentas si lo prevé la ordenanza fiscal",
+    "Están sujetas al IIVTNU y el sujeto pasivo es siempre el cónyuge adquirente",
+    "No están sujetas al IIVTNU, sea cual sea el régimen económico matrimonial"
+   ],
+   "correct": 3,
+   "exp": "El art. 104.3, párrafo segundo, TRLRHL dispone: «Tampoco se producirá la sujeción al impuesto en los supuestos de transmisiones de bienes inmuebles entre cónyuges o a favor de los hijos, como consecuencia del cumplimiento de sentencias en los casos de nulidad, separación o divorcio matrimonial, sea cual sea el régimen económico matrimonial».",
+   "fuente": "Art. 104.3, párrafo segundo, TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "como consecuencia del cumplimiento de sentencias en los casos de nulidad, separación o divorcio matrimonial, sea cual sea el régimen económico matrimonial"
+  },
+  {
+   "q": "A efectos de la exención del IIVTNU por la dación en pago de la vivienda habitual del deudor hipotecario (art. 105.1 c) TRLRHL), se considera vivienda habitual aquella en la que el contribuyente haya figurado empadronado de forma ininterrumpida durante, al menos:",
+   "options": [
+    "Los dos años anteriores a la transmisión, o desde la adquisición si el plazo fuese inferior",
+    "El año anterior a la transmisión, o desde la adquisición si el plazo fuese inferior",
+    "Los tres años anteriores a la transmisión, o desde la adquisición si el plazo fuese inferior",
+    "Los cinco años anteriores a la transmisión, o desde la adquisición si el plazo fuese inferior"
+   ],
+   "correct": 0,
+   "exp": "El art. 105.1 c) TRLRHL dispone: «se considerará vivienda habitual aquella en la que haya figurado empadronado el contribuyente de forma ininterrumpida durante, al menos, los dos años anteriores a la transmisión o desde el momento de la adquisición si dicho plazo fuese inferior a los dos años».",
+   "fuente": "Art. 105.1 c) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "se considerará vivienda habitual aquella en la que haya figurado empadronado el contribuyente de forma ininterrumpida durante, al menos, los dos años anteriores a la transmisión"
+  },
+  {
+   "q": "Según el art. 105.2 del TRLRHL, ¿cuál de los siguientes está exento del IIVTNU cuando sobre él recaiga la obligación de satisfacer el impuesto?",
+   "options": [
+    "Una sociedad mercantil de capital íntegramente municipal, respecto a los terrenos que transmita",
+    "Un colegio profesional o una cámara oficial de comercio, respecto a los terrenos de su sede",
+    "El adquirente de una vivienda de protección oficial, respecto al terreno en que esta se asienta",
+    "El titular de una concesión administrativa revertible, respecto a los terrenos afectos a ella"
+   ],
+   "correct": 3,
+   "exp": "El art. 105.2 e) TRLRHL declara exentos, cuando la obligación de satisfacer el impuesto recaiga sobre ellos, a «Los titulares de concesiones administrativas revertibles respecto a los terrenos afectos a éstas». Las sociedades mercantiles municipales, los colegios profesionales, las cámaras oficiales y los adquirentes de viviendas de protección oficial no figuran en la lista del art. 105.2.",
+   "fuente": "Art. 105.2 e) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Los titulares de concesiones administrativas revertibles respecto a los terrenos afectos a éstas."
+  },
+  {
+   "q": "Según el art. 109.4 del TRLRHL, en los actos o contratos en que medie una condición suspensiva, el IIVTNU:",
+   "options": [
+    "Se liquidará en la fecha del contrato y su ingreso se aplazará hasta que la condición se cumpla",
+    "No se liquidará hasta que la condición se cumpla",
+    "Se exigirá en la fecha del contrato, sin derecho a devolución si la condición no se cumple",
+    "No se liquidará hasta que transcurran cinco años desde la fecha del contrato"
+   ],
+   "correct": 1,
+   "exp": "El art. 109.4 TRLRHL remite al Código Civil para calificar la condición y dispone: «Si fuese suspensiva no se liquidará el impuesto hasta que ésta se cumpla». Si la condición fuese resolutoria, «se exigirá el impuesto desde luego, a reserva, cuando la condición se cumpla, de hacer la oportuna devolución según la regla del apartado anterior».",
+   "fuente": "Art. 109.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "Si fuese suspensiva no se liquidará el impuesto hasta que ésta se cumpla."
+  },
+  {
+   "q": "Según el art. 110.6 del TRLRHL, en las transmisiones de terrenos a título oneroso, además del sujeto pasivo, está obligado a comunicar al ayuntamiento la realización del hecho imponible del IIVTNU, en los mismos plazos:",
+   "options": [
+    "El adquirente o la persona a cuyo favor se constituya o transmita el derecho real",
+    "El registrador de la propiedad que inscriba la transmisión del terreno",
+    "La entidad financiera que haya financiado la adquisición del terreno",
+    "El agente o intermediario inmobiliario que haya intervenido en la operación"
+   ],
+   "correct": 0,
+   "exp": "El art. 110.6 b) TRLRHL obliga a comunicar al ayuntamiento la realización del hecho imponible, en los mismos plazos que los sujetos pasivos, en los supuestos del art. 106.1 b) (transmisiones a título oneroso, en las que el contribuyente es el transmitente), a «el adquirente o la persona a cuyo favor se constituya o transmita el derecho real de que se trate». En las transmisiones lucrativas entre vivos esa obligación recae en el donante (art. 110.6 a).",
+   "fuente": "Art. 110.6 b) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "cita": "el adquirente o la persona a cuyo favor se constituya o transmita el derecho real de que se trate"
+  }
+ ]
+}
