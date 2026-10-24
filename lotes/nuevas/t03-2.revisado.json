@@ -1,0 +1,592 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 3,
+ "lote": "t03-2",
+ "preguntas": [
+  {
+   "q": "Según el art. 7.2 del Estatuto de Autonomía de Aragón, en las zonas de utilización predominante de las lenguas propias, la ley de las Cortes de Aragón favorecerá su uso en:",
+   "options": [
+    "Las actuaciones judiciales seguidas ante los órganos radicados en Aragón",
+    "Los debates y votaciones de las sesiones plenarias de las Cortes de Aragón",
+    "Las relaciones de los ciudadanos con las Administraciones públicas aragonesas",
+    "Las comunicaciones comerciales de las empresas con sus clientes aragoneses"
+   ],
+   "correct": 2,
+   "exp": "El art. 7.2 dice que la ley de las Cortes de Aragón «favorecerá, en las zonas de utilización predominante, el uso de las lenguas propias en las relaciones de los ciudadanos con las Administraciones públicas aragonesas». El precepto no se refiere a las actuaciones judiciales, a los debates parlamentarios ni a las comunicaciones comerciales de las empresas.",
+   "fuente": "Art. 7.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 7.2 verificado en el consolidado BOE-A-2007-8444 (últ. act. 28/12/2022): la ley «favorecerá, en las zonas de utilización predominante, el uso de las lenguas propias en las relaciones de los ciudadanos con las Administraciones públicas aragonesas». Distractores falsos. No repite la existente sobre el 7.2 (régimen jurídico y derechos de los hablantes). | Revisor 2 (CONFIRMADA): Art. 7.2 EAA consolidado: «favorecerá, en las zonas de utilización predominante, el uso de las lenguas propias en las relaciones de los ciudadanos con las Administraciones públicas aragonesas». Distractores ajenos al precepto. Título preliminar. No repite la pregunta existente del 7.2 (aquella pregunta por el régimen jurídico y derechos de los hablantes)."
+  },
+  {
+   "q": "Según el art. 37.1 del Estatuto de Autonomía de Aragón, los Diputados y Diputadas de las Cortes de Aragón son elegidos mediante sufragio:",
+   "options": [
+    "Universal, igual, libre, indirecto y secreto",
+    "Universal, igual, libre, directo y secreto",
+    "Universal, igual, libre, directo y público",
+    "Universal, igual, obligatorio, directo y secreto"
+   ],
+   "correct": 1,
+   "exp": "El art. 37.1 establece que las Cortes de Aragón «estarán constituidas por Diputados y Diputadas elegidos mediante sufragio universal, igual, libre, directo y secreto». Por tanto, el sufragio no es indirecto, ni público, ni obligatorio.",
+   "fuente": "Art. 37.1 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 37.1 verificado: «sufragio universal, igual, libre, directo y secreto». Distractores falsos. La existente sobre el 37.1 pregunta por el carácter unicameral: no repite. | Revisor 2 (CONFIRMADA): Art. 37.1 EAA: sufragio «universal, igual, libre, directo y secreto». Cada distractor cambia un rasgo (indirecto, público, obligatorio). Sin duplicado en temas 3/21."
+  },
+  {
+   "q": "Según el art. 39.5 del Estatuto de Autonomía de Aragón, ¿qué norma regula las condiciones de formación, organización y funciones de los grupos parlamentarios de las Cortes de Aragón?",
+   "options": [
+    "La ley electoral de Aragón",
+    "Una ley específica de las Cortes de Aragón",
+    "Un decreto del Presidente de las Cortes",
+    "El Reglamento de la Cámara"
+   ],
+   "correct": 3,
+   "exp": "El art. 39.5 dispone que los Diputados y Diputadas «se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara». No lo remite a la ley electoral, a una ley específica ni a un decreto del Presidente de las Cortes.",
+   "fuente": "Art. 39.5 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 39.5 verificado: condiciones de formación, organización y funciones de los grupos «regula el Reglamento de la Cámara». La existente del 39.5 pregunta por la proporción en Diputación Permanente y Comisiones: no repite. | Revisor 2 (CONFIRMADA): Art. 39.5 EAA: grupos parlamentarios «cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara». Distractores falsos. La existente del 39.5 pregunta por la proporción, no por la norma."
+  },
+  {
+   "q": "Según el art. 41 del Estatuto de Autonomía de Aragón, ¿a qué institución de la Comunidad Autónoma corresponde el ejercicio de la iniciativa de reforma de la Constitución?",
+   "options": [
+    "A las Cortes de Aragón",
+    "Al Gobierno de Aragón",
+    "Al Presidente de Aragón",
+    "Al Justicia de Aragón"
+   ],
+   "correct": 0,
+   "exp": "El art. 41 e) atribuye a las Cortes de Aragón «El ejercicio de la iniciativa de reforma de la Constitución». Es coherente con el art. 166 de la Constitución, que remite a los apartados 1 y 2 del art. 87, y el art. 87.2 CE atribuye esa facultad a «Las Asambleas de las Comunidades Autónomas».",
+   "fuente": "Art. 41 e) EAA (LO 5/2007) y arts. 87.2 y 166 CE",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 41 e) verificado («El ejercicio de la iniciativa de reforma de la Constitución» corresponde a las Cortes). Remisión a CE 87.2 y 166 correcta. Ninguna existente sobre el 41 e). | Revisor 2 (CONFIRMADA): Art. 41 e) EAA atribuye a las Cortes «El ejercicio de la iniciativa de reforma de la Constitución». CE 166 remite a 87.1 y 87.2; 87.2 habla de las Asambleas de las CCAA: explicación exacta. Gobierno, Presidente y Justicia no la tienen. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 41 f) del Estatuto de Autonomía de Aragón, las Cortes de Aragón fijan las previsiones de índole política, social y económica que, conforme al art. 131.2 de la Constitución, la Comunidad Autónoma ha de suministrar al Gobierno de España para la elaboración de:",
+   "options": [
+    "Los Presupuestos Generales del Estado",
+    "Los proyectos de planificación",
+    "El Plan Hidrológico Nacional",
+    "El programa anual de inversiones del Estado"
+   ],
+   "correct": 1,
+   "exp": "El art. 41 f) atribuye a las Cortes «La fijación de las previsiones de índole política, social y económica que, de acuerdo con el artículo 131.2 de la Constitución, haya de suministrar la Comunidad Autónoma de Aragón al Gobierno de España, para la elaboración de los proyectos de planificación». El art. 131.2 CE dice que el Gobierno elaborará los proyectos de planificación «de acuerdo con las previsiones que le sean suministradas por las Comunidades Autónomas».",
+   "fuente": "Art. 41 f) EAA (LO 5/2007) y art. 131.2 CE",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 41 f) verificado literal: previsiones que la CA ha de suministrar al Gobierno de España «para la elaboración de los proyectos de planificación». Sin pregunta existente sobre el 41 f); la vecina del lote (41 k) pregunta otra cosa (marco de los planes de desarrollo económico) y sus opciones no se solapan. | Revisor 2 (CONFIRMADA): Art. 41 f) EAA y art. 131.2 CE comprobados: «para la elaboración de los proyectos de planificación». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 41 k) del Estatuto de Autonomía de Aragón, las Cortes de Aragón aprueban los planes generales relativos al desarrollo económico de la Comunidad Autónoma dentro de:",
+   "options": [
+    "Las directrices fijadas por la Comisión Bilateral Aragón-Estado",
+    "Los límites establecidos en la ley de presupuestos del Estado",
+    "Los objetivos marcados por la política económica general",
+    "Los criterios aprobados por el Consejo de Política Fiscal y Financiera"
+   ],
+   "correct": 2,
+   "exp": "El art. 41 k) atribuye a las Cortes «La aprobación de los planes generales relativos al desarrollo económico de la Comunidad Autónoma de Aragón, dentro de los objetivos marcados por la política económica general». No los somete a directrices de la Comisión Bilateral, a la ley de presupuestos del Estado ni al Consejo de Política Fiscal y Financiera.",
+   "fuente": "Art. 41 k) EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 41 k) verificado: planes generales de desarrollo económico «dentro de los objetivos marcados por la política económica general». Sin existente sobre el 41 k); distinta de la del 41 f) del mismo lote. | Revisor 2 (CONFIRMADA): Art. 41 k) EAA: «dentro de los objetivos marcados por la política económica general». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 41 l) del Estatuto de Autonomía de Aragón, corresponde a las Cortes de Aragón recibir la información que proporcionará el Gobierno de España sobre tratados internacionales y sobre proyectos de legislación:",
+   "options": [
+    "Penitenciaria",
+    "Electoral general",
+    "Procesal civil",
+    "Aduanera"
+   ],
+   "correct": 3,
+   "exp": "El art. 41 l) atribuye a las Cortes «La recepción de la información que proporcionará el Gobierno de España sobre tratados internacionales y proyectos de legislación aduanera, en cuanto se refieran a materias de particular interés para Aragón». Las demás clases de legislación no se mencionan en ese apartado.",
+   "fuente": "Art. 41 l) EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 41 l) verificado: «tratados internacionales y proyectos de legislación aduanera». Distractores falsos. Sin existente. | Revisor 2 (CONFIRMADA): Art. 41 l) EAA: «tratados internacionales y proyectos de legislación aduanera». Distractores falsos. Sin duplicado (en el banco «régimen aduanero» solo sale como distractor de otras preguntas)."
+  },
+  {
+   "q": "Según el art. 43.5 del Estatuto de Autonomía de Aragón, ¿por qué se regulará el control parlamentario de la legislación delegada?",
+   "options": [
+    "Por el Reglamento de las Cortes de Aragón y, en su caso, por la misma ley de delegación",
+    "Por la ley del Consejo Consultivo y, en su caso, por el propio decreto legislativo",
+    "Por una ley orgánica estatal y, en su caso, por el Reglamento del Congreso",
+    "Por la ley electoral de Aragón y, en su caso, por un decreto del Gobierno de Aragón"
+   ],
+   "correct": 0,
+   "exp": "El art. 43.5 dispone: «El control parlamentario de la legislación delegada se regulará por el Reglamento de las Cortes de Aragón y, en su caso, por la misma ley de delegación». Además, el art. 41 ñ) atribuye a las Cortes el control del uso de la delegación legislativa, «sin perjuicio del control por los tribunales».",
+   "fuente": "Art. 43.5 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 43.5 verificado literal. Mención del 41 ñ) en la explicación también exacta. Sin existente sobre el 43.5. | Revisor 2 (CONFIRMADA): Art. 43.5 EAA literal; la referencia al 41 ñ) de la explicación es correcta. Las opciones tienen forma paralela. Sin duplicado (las existentes del 43 tratan 43.1, 43.2, 43.3 requisitos/funciones y 43.4)."
+  },
+  {
+   "q": "Según el art. 43.3 del Estatuto de Autonomía de Aragón, la delegación legislativa de las Cortes de Aragón en el Gobierno se agota:",
+   "options": [
+    "Por el transcurso de un año o por la convalidación del texto por las Cortes",
+    "Por transcurso del plazo o por aprobación del decreto legislativo correspondiente",
+    "Por el dictamen del Consejo Consultivo o por la publicación en el Boletín Oficial",
+    "Por la presentación del proyecto de ley o por la votación de totalidad en el Pleno"
+   ],
+   "correct": 1,
+   "exp": "El art. 43.3 dice: «La delegación se agota por transcurso del plazo o por aprobación del decreto legislativo correspondiente». El plazo no es de un año, sino el plazo cierto que fije la ley de delegación; la convalidación y la votación de totalidad son trámites de los decretos-leyes (art. 44.2), no de la legislación delegada.",
+   "fuente": "Art. 43.3 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 43.3 verificado: «La delegación se agota por transcurso del plazo o por aprobación del decreto legislativo correspondiente». Explicación correcta (convalidación y votación de totalidad son del art. 44.2). Las existentes del 43.3 tratan de requisitos y del Gobierno en funciones: no repite. | Revisor 2 (CONFIRMADA): Art. 43.3 EAA: «La delegación se agota por transcurso del plazo o por aprobación del decreto legislativo correspondiente». La convalidación y la votación de totalidad son del 44.2 (decretos-leyes): explicación exacta. Las existentes del 43.3 preguntan por los requisitos y por el Gobierno en funciones, no por el agotamiento."
+  },
+  {
+   "q": "Según el art. 42.2 del Estatuto de Autonomía de Aragón, ¿cómo se regulará la iniciativa legislativa popular?",
+   "options": [
+    "Por decreto del Presidente de Aragón",
+    "Por acuerdo de la Mesa de las Cortes",
+    "Por ley de Cortes de Aragón",
+    "Por ley orgánica de las Cortes Generales"
+   ],
+   "correct": 2,
+   "exp": "El art. 42.2, tras atribuir la iniciativa legislativa a los miembros de las Cortes y al Gobierno de Aragón, añade: «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». No se remite a un decreto del Presidente, a un acuerdo de la Mesa ni a una ley orgánica estatal.",
+   "fuente": "Art. 42.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 42.2 verificado: «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». Las existentes del 42.2 preguntan quién tiene la iniciativa (diputados y Gobierno): no repite. | Revisor 2 (CONFIRMADA): Art. 42.2 EAA: «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». Ningún distractor es cierto (la LO estatal regula la ILP estatal del 87.3 CE). La existente del 42.2 pregunta a quién corresponde la iniciativa, no por la ILP."
+  },
+  {
+   "q": "Según el art. 50.4 del Estatuto de Autonomía de Aragón, si las Cortes de Aragón aprueban una moción de censura, el candidato a la Presidencia incluido en ella:",
+   "options": [
+    "Deberá someterse a una votación de investidura veinticuatro horas después",
+    "Deberá presentar su programa ante las Cortes en el plazo de diez días",
+    "Será propuesto de nuevo por el Presidente de las Cortes tras oír a la Mesa",
+    "Se entenderá investido del cargo"
+   ],
+   "correct": 3,
+   "exp": "El art. 50.4 dispone que, si se aprueba la moción de censura, cesan el Presidente y su Gobierno, y «El candidato a la Presidencia se entenderá investido del cargo». El precepto no prevé una nueva votación; las veinticuatro horas y los diez días son plazos de la investidura del art. 48.2.",
+   "fuente": "Art. 50.4 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 50.4 verificado: «El candidato a la Presidencia se entenderá investido del cargo». Referencias del 48.2 (24 horas, diez días) exactas. La existente del 50.4 pregunta quién lo comunica al Rey: no repite. | Revisor 2 (CONFIRMADA): Art. 50.4 EAA: «El candidato a la Presidencia se entenderá investido del cargo». Las 24 horas y los diez días son del 48.2 (comprobado). La existente del 50.4 pregunta quién lo comunica al Rey: dato distinto. La correcta es la más corta, así que la longitud no la delata."
+  },
+  {
+   "q": "Según el art. 57 del Estatuto de Autonomía de Aragón, el Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en:",
+   "options": [
+    "La Constitución y la Ley Orgánica del Tribunal Constitucional",
+    "La Constitución y la Ley Orgánica del Poder Judicial",
+    "El Estatuto de Autonomía y la Ley Orgánica del Tribunal Constitucional",
+    "El Estatuto de Autonomía y una ley de Cortes de Aragón"
+   ],
+   "correct": 0,
+   "exp": "El art. 57 dice que el Gobierno de Aragón podrá hacerlo «en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». No menciona el propio Estatuto, la Ley Orgánica del Poder Judicial ni una ley de Cortes de Aragón.",
+   "fuente": "Art. 57 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 57 verificado: «en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». La existente del art. 57 pregunta ante qué órgano: no repite. | Revisor 2 (CONFIRMADA): Art. 57 EAA: «en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». El enunciado reproduce el precepto y los distractores cambian una de las dos normas, así que son falsos según el literal. La existente del 57 pregunta ante qué órgano: dato distinto. No hay conflicto con el 41 j) (Cortes)."
+  },
+  {
+   "q": "El art. 59.1 del Estatuto de Autonomía de Aragón fija las misiones del Justicia de Aragón sin perjuicio de la institución prevista en el artículo 54 de la Constitución y de su coordinación con ella. ¿Qué institución es esa?",
+   "options": [
+    "El Tribunal de Cuentas",
+    "El Defensor del Pueblo",
+    "El Consejo de Estado",
+    "El Ministerio Fiscal"
+   ],
+   "correct": 1,
+   "exp": "El art. 59.1 del Estatuto atribuye sus misiones al Justicia «sin perjuicio de la institución prevista en el artículo 54 de la Constitución y su coordinación con la misma». El art. 54 CE dice: «Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales».",
+   "fuente": "Art. 59.1 EAA (LO 5/2007) y art. 54 CE",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 59.1 verificado («sin perjuicio de la institución prevista en el artículo 54 de la Constitución y su coordinación con la misma»); CE 54 = Defensor del Pueblo. Las existentes del 59.1 preguntan por las misiones: no repite. | Revisor 2 (CONFIRMADA): Art. 59.1 EAA y art. 54 CE comprobados: Defensor del Pueblo. Distractores falsos. Las existentes del 59.1 preguntan por las misiones, no por la institución del art. 54 CE."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, el Derecho procesal derivado de las particularidades del derecho sustantivo aragonés es una competencia de la Comunidad Autónoma de carácter:",
+   "options": [
+    "Compartido",
+    "Ejecutivo",
+    "Exclusivo",
+    "Ninguno, por estar reservado al Estado"
+   ],
+   "correct": 2,
+   "exp": "El art. 71 enumera las competencias exclusivas, y su materia 3.ª es el «Derecho procesal derivado de las particularidades del derecho sustantivo aragonés». La materia no figura entre las compartidas del art. 75 ni entre las ejecutivas del art. 77.",
+   "fuente": "Art. 71.3.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.3.ª verificado (exclusiva); no figura en arts. 75 ni 77. «Según el Estatuto» evita el matiz del 149.1.6.ª CE. Sin existente del 71.3.ª. | Revisor 2 (CONFIRMADA): Art. 71.3.ª EAA (exclusivas). La materia no figura en el 75 ni en el 77; el 75.10.ª (recursos contra la calificación registral negativa) es otra materia. «Según el Estatuto», exclusiva es la única correcta. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.5.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva en materia de régimen local incluye asimismo la determinación de los órganos de gobierno de los entes locales creados por la Comunidad Autónoma y:",
+   "options": [
+    "Su régimen retributivo",
+    "Su sistema de recaudación tributaria",
+    "Su régimen de control interno",
+    "Su régimen electoral"
+   ],
+   "correct": 3,
+   "exp": "El art. 71.5.ª, tras enumerar las competencias en régimen local, añade: «Asimismo, incluye la determinación de los órganos de gobierno de los entes locales, creados por la Comunidad Autónoma y su régimen electoral». No menciona su régimen retributivo, su recaudación tributaria ni su control interno.",
+   "fuente": "Art. 71.5.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.5.ª verificado: «...órganos de gobierno de los entes locales, creados por la Comunidad Autónoma y su régimen electoral». La existente del 71.5.ª pregunta por bienes locales y modalidades de servicios: no repite. | Revisor 2 (CONFIRMADA): Art. 71.5.ª EAA, segundo párrafo: «…creados por la Comunidad Autónoma y su régimen electoral». Distractores falsos. La existente del 71.5.ª pregunta por los bienes y servicios locales: dato distinto. La regla 9 no aplica (no pregunta por órganos municipales)."
+  },
+  {
+   "q": "Según el art. 71.8.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva en ordenación del territorio se ejerce conforme a los principios de equilibrio:",
+   "options": [
+    "Territorial, demográfico, socioeconómico y ambiental",
+    "Presupuestario, financiero, fiscal y patrimonial",
+    "Territorial, institucional, lingüístico y cultural",
+    "Demográfico, hidrológico, forestal y urbanístico"
+   ],
+   "correct": 0,
+   "exp": "El art. 71.8.ª atribuye como competencia exclusiva la «Ordenación del territorio, conforme a los principios de equilibrio territorial, demográfico, socioeconómico y ambiental». Las otras combinaciones no aparecen en el precepto.",
+   "fuente": "Art. 71.8.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.8.ª verificado literal (equilibrio territorial, demográfico, socioeconómico y ambiental). Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.8.ª EAA: «equilibrio territorial, demográfico, socioeconómico y ambiental». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.11.ª del Estatuto de Autonomía de Aragón, la Comunidad Autónoma tiene competencia exclusiva en la planificación, ejecución y gestión de las obras públicas que:",
+   "options": [
+    "Se financien en más de la mitad con fondos propios de la Comunidad Autónoma",
+    "No sean de interés general del Estado ni afecten a otra Comunidad Autónoma",
+    "Hayan sido declaradas de interés autonómico por las Cortes de Aragón",
+    "Se ejecuten íntegramente en suelo urbano de los municipios aragoneses"
+   ],
+   "correct": 1,
+   "exp": "El art. 71.11.ª atribuye en exclusiva la «Planificación, ejecución y gestión de las obras públicas que no tengan calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma». El criterio no es la financiación, una declaración de las Cortes ni la clase de suelo.",
+   "fuente": "Art. 71.11.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.11.ª verificado (obras públicas sin calificación legal de interés general del Estado ni que afecten a otra CA). Paráfrasis fiel. Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.11.ª EAA literal. Concuerda con el 77.13.ª (obras de interés general, ejecutiva). Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 77.13.ª del Estatuto de Autonomía de Aragón, la realización de obras de interés general por la Administración autonómica es competencia ejecutiva y se lleva a cabo mediante mecanismos de colaboración con el Estado en los que se fijen:",
+   "options": [
+    "El justiprecio y la relación de bienes expropiados",
+    "Las tarifas y los usuarios del servicio público",
+    "La financiación y los plazos de ejecución",
+    "La titularidad y el destino final de la obra"
+   ],
+   "correct": 2,
+   "exp": "El art. 77.13.ª incluye entre las competencias ejecutivas la «Realización de obras de interés general por la Administración autonómica, en virtud de mecanismos de colaboración con el Estado, en los que se fijen la financiación y los plazos de ejecución».",
+   "fuente": "Art. 77.13.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 77.13.ª verificado: mecanismos de colaboración «en los que se fijen la financiación y los plazos de ejecución». Sin existente. | Revisor 2 (CONFIRMADA): Art. 77.13.ª EAA: «en los que se fijen la financiación y los plazos de ejecución». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.15.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva sobre el transporte terrestre de viajeros y mercancías que transcurra íntegramente por el territorio de la Comunidad Autónoma se tiene:",
+   "options": [
+    "Solo cuando la infraestructura sea de titularidad autonómica",
+    "Previo informe vinculante del Ministerio competente en transportes",
+    "Siempre que el servicio se preste en régimen de concesión",
+    "Con independencia de la titularidad de la infraestructura"
+   ],
+   "correct": 3,
+   "exp": "El art. 71.15.ª atribuye en exclusiva el «Transporte terrestre de viajeros y mercancías por carretera, por ferrocarril y por cable, así como el transporte fluvial, que transcurran íntegramente por el territorio de la Comunidad Autónoma, con independencia de la titularidad de la infraestructura». No exige titularidad autonómica, informe ministerial ni régimen de concesión.",
+   "fuente": "Art. 71.15.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.15.ª verificado: «con independencia de la titularidad de la infraestructura». Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.15.ª EAA: «con independencia de la titularidad de la infraestructura». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.17.ª del Estatuto de Autonomía de Aragón, ¿cuál de las siguientes comprende en todo caso la competencia exclusiva en agricultura y ganadería?",
+   "options": [
+    "La concentración parcelaria",
+    "La ordenación del comercio exterior agrario",
+    "La fijación de aranceles a los productos agrarios",
+    "La legislación básica sobre seguros agrarios"
+   ],
+   "correct": 0,
+   "exp": "El art. 71.17.ª dice que la agricultura y ganadería «comprenden, en todo caso: la concentración parcelaria», además de la regulación del sector agroalimentario, la sanidad animal y vegetal, la seguridad alimentaria y el desarrollo integral del mundo rural, entre otras. El comercio exterior, los aranceles y la legislación básica sobre seguros no figuran en esa lista.",
+   "fuente": "Art. 71.17.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.17.ª verificado: «comprenden, en todo caso: la concentración parcelaria». Distractores ajenos al precepto. Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.17.ª EAA: «comprenden, en todo caso: la concentración parcelaria…». Comercio exterior, aranceles y bases de seguros no figuran (son estatales). El enunciado es algo enrevesado pero se entiende. Sin duplicado."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, ¿qué clase de competencia corresponde a la Comunidad Autónoma sobre las Cajas de Ahorros con domicilio en Aragón?",
+   "options": [
+    "Compartida",
+    "Exclusiva",
+    "Ejecutiva",
+    "Ninguna, por ser materia reservada al Estado"
+   ],
+   "correct": 1,
+   "exp": "La materia 33.ª del art. 71, que enumera las competencias exclusivas, es «Cajas de Ahorros con domicilio en Aragón e instituciones de crédito cooperativo público y territorial, en el marco de la ordenación general de la economía». No hay que confundirla con la «Ordenación del crédito, banca, seguros…», que el art. 75.9.ª incluye entre las compartidas.",
+   "fuente": "Art. 71.33.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.33.ª verificado (Cajas de Ahorros con domicilio en Aragón, exclusiva); la ordenación del crédito y banca es compartida (75.9.ª), como dice la explicación. No repite la existente sobre el 75.9.ª. | Revisor 2 (CONFIRMADA): Art. 71.33.ª EAA: «Cajas de Ahorros con domicilio en Aragón…» entre las exclusivas. El 75.9.ª (ordenación del crédito, banca, seguros) es compartida, pero su alcance es general: el enunciado, ceñido a las Cajas con domicilio en Aragón, coincide con el 71.33.ª. Única correcta. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.40.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva sobre asociaciones y fundaciones de carácter docente, cultural, artístico, benéfico, asistencial, deportivo y similares se refiere a las que:",
+   "options": [
+    "Tengan su sede social en la ciudad de Zaragoza",
+    "Hayan sido declaradas de utilidad pública por el Estado",
+    "Desarrollen principalmente sus funciones en Aragón",
+    "Reciban subvenciones de la Comunidad Autónoma"
+   ],
+   "correct": 2,
+   "exp": "El art. 71.40.ª atribuye en exclusiva las «Asociaciones y fundaciones de carácter docente, cultural, artístico, benéfico, asistencial, deportivo y similares que desarrollen principalmente sus funciones en Aragón». El criterio es dónde desarrollan sus funciones, no la sede en Zaragoza, la declaración de utilidad pública ni la percepción de subvenciones.",
+   "fuente": "Art. 71.40.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.40.ª verificado: «que desarrollen principalmente sus funciones en Aragón». Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.40.ª EAA: «que desarrollen principalmente sus funciones en Aragón». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.45.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva en patrimonio cultural incluye, en especial, las políticas necesarias encaminadas a:",
+   "options": [
+    "Declarar bienes de interés cultural con efectos en todo el Estado",
+    "Gestionar en exclusiva los museos de titularidad estatal situados en Aragón",
+    "Autorizar la exportación de bienes culturales fuera de España",
+    "Recuperar el patrimonio aragonés ubicado fuera del territorio de Aragón"
+   ],
+   "correct": 3,
+   "exp": "El art. 71.45.ª se refiere al patrimonio cultural, histórico, artístico y otros de interés para la Comunidad Autónoma, «en especial las políticas necesarias encaminadas a recuperar el patrimonio aragonés que se encuentre ubicado fuera del territorio de Aragón». Sobre los museos de titularidad estatal, el art. 77.9.ª solo da a la Comunidad una competencia ejecutiva, y únicamente cuando el Estado no se reserve su gestión.",
+   "fuente": "Art. 71.45.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.45.ª verificado literal. Lo dicho del 77.9.ª en la explicación es exacto. Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.45.ª EAA: «recuperar el patrimonio aragonés que se encuentre ubicado fuera del territorio de Aragón». El distractor de museos estatales es falso (77.9.ª, ejecutiva y solo si el Estado no se reserva la gestión): explicación exacta. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.48.ª del Estatuto de Autonomía de Aragón, la Comunidad Autónoma tiene competencia exclusiva en industria, salvo las competencias del Estado por razones:",
+   "options": [
+    "De seguridad, sanitarias o de interés de la Defensa",
+    "De unidad de mercado, fiscales o de política monetaria",
+    "Medioambientales, energéticas o de política exterior",
+    "Laborales, tributarias o de interés de la Seguridad Social"
+   ],
+   "correct": 0,
+   "exp": "El art. 71.48.ª dice: «Industria, salvo las competencias del Estado por razones de seguridad, sanitarias o de interés de la Defensa». Las demás razones no aparecen en el precepto.",
+   "fuente": "Art. 71.48.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.48.ª verificado: «salvo las competencias del Estado por razones de seguridad, sanitarias o de interés de la Defensa». Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.48.ª EAA: «por razones de seguridad, sanitarias o de interés de la Defensa». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.49.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva en estadística para los fines de la Comunidad Autónoma comprende, en especial:",
+   "options": [
+    "La elaboración del censo electoral de Aragón",
+    "La creación de un sistema estadístico oficial propio",
+    "La gestión de los padrones municipales de habitantes",
+    "La realización de los censos de población del Estado"
+   ],
+   "correct": 1,
+   "exp": "El art. 71.49.ª dice: «Estadística para los fines de la Comunidad Autónoma y, en especial, la creación de un sistema estadístico oficial propio de la Comunidad Autónoma». Nada dice del censo electoral, de los padrones municipales ni de los censos estatales de población.",
+   "fuente": "Art. 71.49.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.49.ª verificado: «la creación de un sistema estadístico oficial propio». Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.49.ª EAA: «la creación de un sistema estadístico oficial propio». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.50.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva sobre juego, apuestas y casinos, incluidas las modalidades por medios informáticos y telemáticos, alcanza a la actividad que:",
+   "options": [
+    "Organice una empresa con domicilio en Aragón",
+    "Se ofrezca a jugadores residentes en Aragón",
+    "Se desarrolle exclusivamente en Aragón",
+    "Haya sido autorizada previamente por el Estado"
+   ],
+   "correct": 2,
+   "exp": "El art. 71.50.ª atribuye en exclusiva el «Juego, apuestas y casinos, incluidas las modalidades por medios informáticos y telemáticos, cuando la actividad se desarrolle exclusivamente en Aragón». El criterio no es el domicilio de la empresa, la residencia de los jugadores ni una autorización estatal previa.",
+   "fuente": "Art. 71.50.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.50.ª verificado: «cuando la actividad se desarrolle exclusivamente en Aragón». Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.50.ª EAA: «cuando la actividad se desarrolle exclusivamente en Aragón». Distractores falsos. Sin duplicado."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, la protección civil, que incluye la regulación, la planificación, la coordinación y la ejecución de medidas relativas a emergencias y seguridad civil, es una competencia de la Comunidad Autónoma de carácter:",
+   "options": [
+    "Compartido",
+    "Ejecutivo",
+    "Ninguno, por estar reservada al Estado",
+    "Exclusivo"
+   ],
+   "correct": 3,
+   "exp": "La protección civil es la materia 57.ª del art. 71, que enumera las competencias exclusivas: «Protección civil, que incluye, en todo caso, la regulación, la planificación, la coordinación y la ejecución de medidas relativas a emergencias y seguridad civil ante incendios, catástrofes naturales, accidentes y otras situaciones de necesidad». No figura en el art. 75 (compartidas) ni en el art. 77 (ejecutivas).",
+   "fuente": "Art. 71.57.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.57.ª verificado (protección civil, exclusiva); no aparece en 75 ni 77 (el 77.15.ª es seguridad ciudadana y privada). Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.57.ª EAA (exclusiva), con descripción literal. Comprobado que no está en el 75 ni en el 77 (el 77.15.ª es seguridad ciudadana y privada). Sin duplicado."
+  },
+  {
+   "q": "Según el art. 72.1 del Estatuto de Autonomía de Aragón, ¿en cuál de las siguientes materias relacionadas con el agua tiene también competencia exclusiva la Comunidad Autónoma?",
+   "options": [
+    "Aguas minerales y termales",
+    "Obras hidráulicas calificadas de interés general del Estado",
+    "Planificación hidrológica de las cuencas intercomunitarias",
+    "Concesiones de aguas de ríos que atraviesan varias Comunidades"
+   ],
+   "correct": 0,
+   "exp": "El art. 72.1, párrafo final, dice: «También corresponde a la Comunidad Autónoma la competencia exclusiva en materia de aguas minerales y termales». En las cuencas intercomunitarias, el art. 72.2 solo le reconoce participación y colaboración en la planificación hidrológica y en los órganos de gestión estatal, y el art. 72.1 a) solo incluye las obras hidráulicas «que no estén calificadas de interés general».",
+   "fuente": "Art. 72.1 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 72.1, párrafo final, verificado: competencia exclusiva en «aguas minerales y termales». Distractores falsos (72.1 a excluye obras de interés general; 72.2 solo participación en cuencas intercomunitarias). Sin nota del TC sobre el art. 72 (la STC 110/2011 afecta a la DA 5.ª). Las existentes del 72.1 tratan otros aspectos. | Revisor 2 (CONFIRMADA): Art. 72.1, último párrafo, EAA: exclusiva en «aguas minerales y termales». Las obras de interés general quedan fuera (72.1 a); en las cuencas intercomunitarias solo hay participación (72.2). Distractores falsos. Sin duplicado (la existente del 72.2 pregunta por la participación en la planificación)."
+  },
+  {
+   "q": "Según el art. 72.2 del Estatuto de Autonomía de Aragón, ¿cuándo corresponde a la Comunidad Autónoma la ejecución y la explotación de las obras de titularidad estatal?",
+   "options": [
+    "En todo caso, si radican en Aragón",
+    "Si se establece mediante convenio",
+    "Si lo acuerda una ley de Cortes de Aragón",
+    "Si el Gobierno de Aragón las declara de interés autonómico"
+   ],
+   "correct": 1,
+   "exp": "El art. 72.2 atribuye a la Comunidad Autónoma, entre otras facultades sobre los recursos hídricos de las cuencas intercomunitarias, «la ejecución y la explotación de las obras de titularidad estatal, si se establece mediante convenio». No basta con que radiquen en Aragón ni con una decisión unilateral de las Cortes o del Gobierno de Aragón.",
+   "fuente": "Art. 72.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 72.2 verificado: «la ejecución y la explotación de las obras de titularidad estatal, si se establece mediante convenio». La existente del 72.2 pregunta por la participación en la planificación: no repite. | Revisor 2 (CONFIRMADA): Art. 72.2 EAA: «la ejecución y la explotación de las obras de titularidad estatal, si se establece mediante convenio». Coherente con el 77.13.ª (mecanismos de colaboración); ningún distractor es cierto. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 72.3 del Estatuto de Autonomía de Aragón, ante cualquier propuesta de obra hidráulica o de transferencia de aguas que afecte al territorio aragonés, el Gobierno de España deberá:",
+   "options": [
+    "Obtener la autorización previa de las Cortes de Aragón, adoptada por mayoría absoluta de sus miembros",
+    "Someter la propuesta a consulta popular en todas las Comunidades Autónomas que puedan resultar afectadas",
+    "Propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas",
+    "Recabar el informe favorable y vinculante del Consejo Consultivo de Aragón antes de aprobar la propuesta"
+   ],
+   "correct": 2,
+   "exp": "El art. 72.3 prevé que la Comunidad Autónoma emitirá un informe preceptivo sobre esas propuestas y añade: «El Gobierno de España deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas». No exige autorización de las Cortes de Aragón, consulta popular ni informe vinculante del Consejo Consultivo.",
+   "fuente": "Art. 72.3 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 72.3 verificado literal, segunda frase. La existente del 72.3 pregunta por el informe preceptivo (primera frase): no repite. | Revisor 2 (CONFIRMADA): Art. 72.3 EAA: «El Gobierno de España deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas». Las opciones tienen longitud pareja. La existente del 72.3 pregunta qué emite la Comunidad (informe preceptivo): dato distinto. El fallo de la STC 110/2011 recogido en el consolidado afecta a la DT 5.ª, no a esto."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, ¿cuál de las siguientes materias es de competencia compartida de la Comunidad Autónoma?",
+   "options": [
+    "Denominaciones de origen y otras menciones de calidad",
+    "Servicio de meteorología y de climatología",
+    "Biotecnología, biomedicina y genética",
+    "Régimen minero"
+   ],
+   "correct": 3,
+   "exp": "El régimen minero figura en el art. 75.2.ª, entre las competencias compartidas: «Régimen minero, en especial, la regulación y el régimen de intervención administrativa de las minas y recursos mineros». Las denominaciones de origen (71.18.ª), el servicio de meteorología y de climatología (71.16.ª) y la biotecnología, biomedicina y genética (71.42.ª) son competencias exclusivas.",
+   "fuente": "Art. 75.2.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 75.2.ª verificado (régimen minero, compartida); 71.18.ª, 71.16.ª y 71.42.ª exclusivas, como dice la explicación. Las existentes de compartidas usan energía y crédito: no repite. | Revisor 2 (CONFIRMADA): Art. 75.2.ª EAA (compartida). Denominaciones de origen (71.18.ª), meteorología y climatología (71.16.ª, la de la propia Comunidad) y biotecnología (71.42.ª) son exclusivas, y ninguna aparece en el 75. La correcta es la más corta. Sin duplicado."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, ¿cuál de las siguientes materias es de competencia ejecutiva de la Comunidad Autónoma?",
+   "options": [
+    "Propiedad intelectual e industrial",
+    "Industria",
+    "Artesanía",
+    "Cinematografía"
+   ],
+   "correct": 0,
+   "exp": "La «Propiedad intelectual e industrial» es la materia 3.ª del art. 77, que enumera las competencias ejecutivas. La industria (71.48.ª), la artesanía (71.47.ª) y la cinematografía (71.46.ª) figuran en el art. 71, entre las competencias exclusivas.",
+   "fuente": "Art. 77.3.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Contenido correcto: art. 77.3.ª verificado (propiedad intelectual e industrial, ejecutiva); industria 71.48.ª, artesanía 71.47.ª y cinematografía 71.46.ª exclusivas. Pero incumple la regla 7 bis: la correcta (34 caracteres, cuatro palabras) triplica la longitud media de los distractores (una palabra cada uno) y se acierta por la forma. Arreglo propuesto: sustituir los distractores por materias exclusivas de longitud parecida y literales, p. ej. «Biotecnología, biomedicina y genética» (71.42.ª), «Juego, apuestas y casinos» (71.50.ª) y «Cámaras de Comercio e Industria» (71.29.ª). La existente «¿Cuál de las siguientes es una materia de competencia ejecutiva según el art. 77 EAA?» (sistema penitenciario) tiene enunciado casi idéntico: conviene diferenciarlo. | Revisor 2 (DUDOSA): El contenido es correcto: el art. 77.3.ª EAA pone la «Propiedad intelectual e industrial» entre las ejecutivas, y la industria (71.48.ª), la artesanía (71.47.ª) y la cinematografía (71.46.ª) son exclusivas. Pero la pregunta se delata por la forma (regla 7 bis): la correcta tiene 34 caracteres y los distractores 9, 9 y 14, más del triple. Arreglo: distractores exclusivos de longitud parecida, p. ej. «Cooperativas y entidades asimilables» (71.31.ª), «Investigación, desarrollo e innovación» (71.41.ª) y «Biotecnología, biomedicina y genética» (71.42.ª)."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, ¿qué clase de competencia corresponde a la Comunidad Autónoma sobre las ferias internacionales que se celebren en Aragón?",
+   "options": [
+    "Exclusiva",
+    "Ejecutiva",
+    "Compartida",
+    "Ninguna, por ser competencia del Estado"
+   ],
+   "correct": 1,
+   "exp": "Las «Ferias internacionales que se celebren en Aragón» son la materia 5.ª del art. 77, que enumera las competencias ejecutivas. Exclusivas, según el art. 71.25.ª, son las «Ferias y mercados interiores».",
+   "fuente": "Art. 77.5.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 77.5.ª verificado («Ferias internacionales que se celebren en Aragón», ejecutiva) frente a 71.25.ª («Ferias y mercados interiores», exclusiva). Trampa bien resuelta. Sin existente. | Revisor 2 (CONFIRMADA): Art. 77.5.ª EAA (ejecutiva). Las «Ferias y mercados interiores» del 71.25.ª son exclusivas, pero el enunciado se ciñe a las internacionales. Única correcta. La existente del 77.1.ª las usa solo como distractor."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, la competencia de la Comunidad Autónoma sobre los productos farmacéuticos es de carácter:",
+   "options": [
+    "Exclusivo",
+    "Compartido",
+    "Ejecutivo",
+    "Ninguno, por estar reservada al Estado"
+   ],
+   "correct": 2,
+   "exp": "Los «Productos farmacéuticos» son la materia 7.ª del art. 77, que enumera las competencias ejecutivas. No hay que confundirlos con la «Ordenación farmacéutica», que es competencia exclusiva según el art. 71.56.ª.",
+   "fuente": "Art. 77.7.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 77.7.ª verificado («Productos farmacéuticos», ejecutiva) frente a 71.56.ª («Ordenación farmacéutica», exclusiva). Bien resuelta. Sin existente. | Revisor 2 (CONFIRMADA): Art. 77.7.ª EAA (ejecutiva). La ordenación farmacéutica (71.56.ª, exclusiva) es otra materia, como avisa la explicación. Única correcta. Sin duplicado."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, ¿qué clase de competencia tiene la Comunidad Autónoma sobre los museos, archivos y bibliotecas de titularidad estatal cuya gestión no se reserve la Administración General del Estado?",
+   "options": [
+    "Exclusiva",
+    "Compartida",
+    "Ninguna, al ser de titularidad estatal",
+    "Ejecutiva"
+   ],
+   "correct": 3,
+   "exp": "El art. 77.9.ª incluye entre las competencias ejecutivas los «Museos, archivos, bibliotecas y otras colecciones de naturaleza análoga de titularidad estatal cuya gestión no se reserve la Administración General del Estado». La competencia exclusiva del art. 71.44.ª se limita a los de interés para la Comunidad Autónoma «que no sean de titularidad estatal».",
+   "fuente": "Art. 77.9.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 77.9.ª verificado (museos, archivos y bibliotecas de titularidad estatal cuya gestión no se reserve la AGE, ejecutiva) frente a 71.44.ª (los que no sean de titularidad estatal, exclusiva). Bien resuelta. Sin existente. | Revisor 2 (CONFIRMADA): Art. 77.9.ª EAA (ejecutiva). El enunciado recoge el alcance exacto (titularidad estatal y gestión no reservada), lo que excluye el 71.44.ª (exclusiva, solo los que no sean de titularidad estatal). Única correcta. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 77.8.ª del Estatuto de Autonomía de Aragón, la competencia ejecutiva en la gestión del régimen económico de la Seguridad Social y de los servicios que integran el sistema se ejerce en el marco del respeto al principio de:",
+   "options": [
+    "Unidad de caja",
+    "Suficiencia financiera",
+    "Solidaridad interterritorial",
+    "Estabilidad presupuestaria"
+   ],
+   "correct": 0,
+   "exp": "El art. 77.8.ª atribuye como competencia ejecutiva la «Gestión del régimen económico de la Seguridad Social y los servicios que integran el sistema, y en el marco del respeto al principio de unidad de caja». Los demás principios no se mencionan en esa materia.",
+   "fuente": "Art. 77.8.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 77.8.ª verificado: «en el marco del respeto al principio de unidad de caja». No repite la existente del 75.1.ª. | Revisor 2 (CONFIRMADA): Art. 77.8.ª EAA: «en el marco del respeto al principio de unidad de caja». Distractores falsos. No choca con el 75.1.ª. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 77.2.ª del Estatuto de Autonomía de Aragón, los funcionarios de los cuerpos que realicen la función pública inspectora en materia de trabajo y relaciones laborales:",
+   "options": [
+    "Dependerán orgánica y funcionalmente de la Administración del Estado",
+    "Dependerán orgánica y funcionalmente de la Comunidad Autónoma",
+    "Dependerán orgánicamente del Estado y funcionalmente de la Comunidad",
+    "Dependerán orgánicamente de la Comunidad y funcionalmente del Estado"
+   ],
+   "correct": 1,
+   "exp": "El art. 77.2.ª atribuye a la Comunidad la competencia ejecutiva sobre la función pública inspectora propia y añade: «A tal efecto, los funcionarios de los cuerpos que realicen dicha función dependerán orgánica y funcionalmente de la Comunidad Autónoma». El mismo párrafo remite a los mecanismos de cooperación del Estatuto para establecer «las fórmulas de garantía del ejercicio eficaz de la función inspectora en el ámbito social».",
+   "fuente": "Art. 77.2.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 77.2.ª verificado: los funcionarios inspectores «dependerán orgánica y funcionalmente de la Comunidad Autónoma». La existente sobre trabajo pregunta la clase de competencia: no repite. | Revisor 2 (CONFIRMADA): Art. 77.2.ª EAA, segundo párrafo: «dependerán orgánica y funcionalmente de la Comunidad Autónoma». Las cuatro combinaciones son paralelas. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.39.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva en materia de menores incluye la regulación del régimen de protección y tutela de los menores:",
+   "options": [
+    "Sometidos a medidas de reforma penal",
+    "Adoptados por residentes en el extranjero",
+    "Desamparados o en situación de riesgo",
+    "Emancipados con residencia en Aragón"
+   ],
+   "correct": 2,
+   "exp": "El art. 71.39.ª dice: «Menores, que incluye la regulación del régimen de protección y tutela de los menores desamparados o en situación de riesgo». Las demás categorías no aparecen en el precepto.",
+   "fuente": "Art. 71.39.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.39.ª verificado: «menores desamparados o en situación de riesgo». Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.39.ª EAA: «menores desamparados o en situación de riesgo». Distractores falsos según el precepto. Sin duplicado."
+  },
+  {
+   "q": "Según el art. 71.52.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva en deporte comprende, en especial, además de su promoción y la regulación de la formación deportiva:",
+   "options": [
+    "La organización de las competiciones oficiales de ámbito estatal",
+    "La regulación de las federaciones deportivas españolas",
+    "La expedición de licencias para competiciones internacionales",
+    "La prevención y control de la violencia en el deporte"
+   ],
+   "correct": 3,
+   "exp": "El art. 71.52.ª dice: «Deporte, en especial, su promoción, regulación de la formación deportiva, la planificación territorial equilibrada de equipamientos deportivos, el fomento de la tecnificación y del alto rendimiento deportivo, así como la prevención y control de la violencia en el deporte». No menciona competiciones estatales, federaciones españolas ni licencias internacionales.",
+   "fuente": "Art. 71.52.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Epígrafe del tema 3 («clases de competencias»): incluye el Título V, cuyas listas de materias (arts. 71-77) son precisamente la clasificación en exclusivas, compartidas y ejecutivas; el examen oficial ya preguntó por el art. 71.9.ª y el 76.3. Art. 71.52.ª verificado: incluye «la prevención y control de la violencia en el deporte». Sin existente. | Revisor 2 (CONFIRMADA): Art. 71.52.ª EAA: «así como la prevención y control de la violencia en el deporte». Distractores falsos (son estatales o no figuran). Sin duplicado."
+  }
+ ]
+}
