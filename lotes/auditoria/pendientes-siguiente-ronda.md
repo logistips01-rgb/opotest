@@ -55,3 +55,7 @@ Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
 - Tema 5, pregunta existente #136 (art. 23.1, ampliación de plazos): da por hecho que el superior jerárquico solo propone; el texto («a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar») es ambiguo. Revisar la explicación o retirar (aviso del redactor de t05-1).
 - Tema 6, pregunta existente #110 (índice base 0): da por nulo el acto «dictado por órgano incompetente por razón del territorio» sin «manifiestamente», que exige el art. 47.1 b) LPAC. Corregir (aviso del revisor 1 de t06-1).
 - Tema 5, pregunta existente n.º 234 (base 0): su enunciado («además de la decisión motivada») sugiere que toda decisión debe motivarse, lo que choca con el art. 88.3 LPAC. Precisar (aviso del revisor 1 de t07-2).
+
+## Añadido 24-oct (redactor de t18-2)
+- 18-251: da por bueno el 75 % del sueldo del art. 21.4 RD 365/1995 en la suspensión provisional; el art. 98.3 TREBEP (básico y posterior) dice «retribuciones básicas» y prestaciones por hijo a cargo (regla 10).
+- 18-222: la opción correcta dice «resolución judicial de adopción»; el art. 89.4 TREBEP vigente dice «resolución judicial o administrativa».
