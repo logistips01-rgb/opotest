@@ -1,0 +1,107 @@
+[
+ {
+  "q": "Según el art. 119.3, la resolución del recurso, ¿puede agravar la situación inicial del recurrente respecto a lo resuelto en primera instancia?",
+  "options": [
+   "No, sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede",
+   "Sí, pero solo en el recurso extraordinario de revisión",
+   "Sí, siempre y sin ninguna limitación",
+   "Sí, únicamente cuando el recurrente sea persona jurídica"
+  ],
+  "correct": 0,
+  "exp": "Art. 119.3: «la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial» (prohibición de reformatio in peius). Ello no impide que la Administración incoe de oficio un nuevo procedimiento si procede, posibilidad que recoge expresamente el art. 88.2 para la resolución de los procedimientos iniciados a solicitud del interesado.",
+  "fuente": "Art. 119.3 LPAC (Ley 39/2015)",
+  "tema": 8,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: atribuía al art. 119.3 LPAC una salvedad del art. 88.2 y, corregida, repetiría la pregunta de examen 21-48."
+ },
+ {
+  "q": "¿Cuál de las siguientes características es predicable de los actos anulables?",
+  "options": [
+   "Sólo afecta a los interesados.",
+   "No producen efectos.",
+   "Producen ineficacia por sí mismos.",
+   "No puede ser convalidado."
+  ],
+  "correct": 0,
+  "exp": "Arts. 48 y 52.1 LPAC: los actos anulables producen efectos mientras no se anulen y son convalidables por la Administración, lo que descarta las opciones 0, 2 y 3; la anulabilidad es un vicio relativo que solo pueden hacer valer los interesados.",
+  "fuente": "Arts. 48 y 52.1 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: clave doctrinal sin base en la LPAC y explicación inexacta; lo literal ya está en otras preguntas."
+ },
+ {
+  "q": "¿Cuál de las siguientes características no es predicable de los actos nulos?",
+  "options": [
+   "Producen ineficacia por sí mismos.",
+   "Sólo afecta a los interesados.",
+   "No puede ser convalidado.",
+   "No producen efectos."
+  ],
+  "correct": 1,
+  "exp": "Arts. 47.1, 52.1 y 106.1 LPAC: los actos nulos no producen efectos, no son convalidables (solo lo son los anulables, art. 52.1) y su nulidad puede declararse de oficio en cualquier momento (art. 106.1), luego lo NO predicable de ellos es que 'solo afecta a los interesados'.",
+  "fuente": "Arts. 47.1, 52.1 y 106.1 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: depende de caracterizaciones doctrinales que chocan con la letra del art. 39.1 LPAC; lo literal ya está en otras preguntas."
+ },
+ {
+  "q": "Según el art. 49.1 a), la nulidad o anulabilidad de un acto no implicará la de los sucesivos actos en el procedimiento que sean:",
+  "options": [
+   "Dictados por el mismo funcionario",
+   "Independientes del primero",
+   "Posteriores a la resolución final",
+   "Idénticos al primero"
+  ],
+  "correct": 1,
+  "exp": "Art. 49.1 a): 'La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.'",
+  "fuente": "Art. 49.1 a) LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: cita una letra inexistente del art. 49 y, corregida, repetiría la 6-203."
+ },
+ {
+  "q": "Según el art. 49.1 b), la nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquella, salvo que:",
+  "options": [
+   "La Administración lo decida discrecionalmente",
+   "El acto tenga más de tres páginas",
+   "La parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado",
+   "El interesado sea una persona jurídica"
+  ],
+  "correct": 2,
+  "exp": "Art. 49.1 b): '...salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.'",
+  "fuente": "Art. 49.1 b) LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: cita una letra inexistente (es el art. 49.2) y, corregida, repetiría la 6-206."
+ },
+ {
+  "q": "¿Qué principio recoge el art. 49 de la Ley 39/2015 en relación con la nulidad parcial de un acto?",
+  "options": [
+   "Cualquier defecto parcial anula la totalidad del acto sin excepción",
+   "La nulidad de una parte del acto no afecta a las partes independientes, salvo que sea esencial para la existencia del acto",
+   "Solo los tribunales pueden declarar nulidades parciales",
+   "La nulidad parcial nunca es posible en Derecho Administrativo"
+  ],
+  "correct": 1,
+  "exp": "Art. 49.1 b) permite la subsistencia de las partes del acto independientes de la parte viciada, salvo que esta sea esencial.",
+  "fuente": "Art. 49.1 b) LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: fuente con una letra inexistente, clave parafraseada y, corregida, repetida con la 6-205 y la 6-206."
+ },
+ {
+  "q": "Según el principio general del art. 52, el acto de convalidación produce efecto:",
+  "options": [
+   "Solo si lo aprueba el Consejo de Estado",
+   "Nunca, la convalidación es meramente declarativa sin efectos",
+   "Desde la fecha en que se produce, salvo que se disponga lo contrario mediante eficacia retroactiva favorable",
+   "Siempre con efectos retroactivos absolutos"
+  ],
+  "correct": 2,
+  "exp": "La convalidación, como acto administrativo nuevo dictado para subsanar el vicio, sigue la regla general de eficacia del art. 39, salvo los supuestos de retroactividad favorable.",
+  "fuente": "Art. 39 LPAC (Ley 39/2015)",
+  "tema": 6,
+  "_retirada": "2026-10-24",
+  "_motivo": "Retirada: fuente y explicación equivocadas (es el art. 52.2) y, corregida, repetiría la 6-221."
+ }
+]

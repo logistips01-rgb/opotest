@@ -29964,16 +29964,16 @@ window.addQuestions('aux-admin-zaragoza', 7, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 88.3, además de la decisión motivada, las resoluciones deberán expresar:",
+    "q": "Según el art. 88.3 LPAC, además de contener la decisión, las resoluciones que ponen fin al procedimiento expresarán:",
     "options": [
-      "El nombre de todos los funcionarios que intervinieron en la instrucción",
-      "La fecha prevista de ejecución forzosa, en todo caso",
-      "Los recursos que contra la misma procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos",
-      "El coste económico íntegro de la tramitación del expediente"
+      "El nombre de los funcionarios que intervinieron en la instrucción del expediente",
+      "La fecha prevista para la ejecución forzosa del acto si el interesado no lo cumple",
+      "Los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+      "El coste económico íntegro de la tramitación del expediente y quién debe soportarlo"
     ],
     "correct": 2,
-    "exp": "Art. 88.3: 'Expresarán, además, los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos.'",
-    "fuente": "Art. 88.3 LPAC",
+    "exp": "El art. 88.3 dispone: «Las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35. Expresarán, además, los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos, sin perjuicio de que los interesados puedan ejercitar cualquier otro que estimen oportuno». La decisión no se motiva siempre, sino en los casos del art. 35. El precepto no exige identificar a los funcionarios instructores, fijar una fecha de ejecución forzosa ni cuantificar el coste de la tramitación.",
+    "fuente": "Art. 88.3 LPAC (Ley 39/2015)",
     "confianza": "alta"
   },
   {
@@ -32683,20 +32683,20 @@ window.addQuestions('aux-admin-zaragoza', 5, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 22.1 c) de la Ley 39/2015, procede la suspensión del plazo máximo cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que:",
+    "q": "Según el art. 22.1 c) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que:",
     "options": [
-      "Haya sido iniciado hace más de un año",
-      "Afecte a una empresa multinacional",
+      "Haya sido iniciado por la Comisión Europea hace más de un año",
+      "Afecte a una empresa con domicilio social fuera del territorio español",
       "Condicione directamente el contenido de la resolución de que se trate",
-      "Se refiera a un Estado miembro distinto de España"
+      "Se tramite ante las autoridades de otro Estado miembro de la Unión Europea"
     ],
     "correct": 2,
-    "exp": "Art. 22.1 c): 'Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate.'",
+    "exp": "Art. 22.1 c): «Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate, desde que se tenga constancia de su existencia, lo que deberá ser comunicado a los interesados, hasta que se resuelva, lo que también habrá de ser notificado». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá». La ley no atiende a la antigüedad del procedimiento europeo, al domicilio de los afectados ni al Estado ante el que se tramita, sino a que condicione directamente la resolución.",
     "fuente": "Art. 22.1 c) LPAC",
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 22.1 f) de la Ley 39/2015, el plazo máximo para resolver se suspende cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, en los términos del:",
+    "q": "Según el art. 22.1 f) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, en los términos del:",
     "options": [
       "Artículo 100 de la Ley 39/2015",
       "Artículo 39 de la Ley 39/2015",
@@ -32704,12 +32704,12 @@ window.addQuestions('aux-admin-zaragoza', 5, [  {
       "Artículo 86 de la Ley 39/2015"
     ],
     "correct": 3,
-    "exp": "Art. 22.1 f): 'Cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio en los términos previstos en el artículo 86 de esta Ley...'",
+    "exp": "Art. 22.1 f): «Cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio en los términos previstos en el artículo 86 de esta Ley, desde la declaración formal al respecto y hasta la conclusión sin efecto, en su caso, de las referidas negociaciones». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá».",
     "fuente": "Art. 22.1 f) LPAC",
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 22.1 g) de la Ley 39/2015, procede la suspensión cuando sea indispensable para resolver el procedimiento la obtención de un previo pronunciamiento de:",
+    "q": "Según el art. 22.1 g) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando para resolver el procedimiento sea indispensable la obtención de un previo pronunciamiento de:",
     "options": [
       "Un órgano jurisdiccional",
       "El Defensor del Pueblo",
@@ -32717,7 +32717,7 @@ window.addQuestions('aux-admin-zaragoza', 5, [  {
       "La Fiscalía General del Estado"
     ],
     "correct": 0,
-    "exp": "Art. 22.1 g): 'Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional.'",
+    "exp": "Art. 22.1 g): «Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional, desde el momento en que se solicita, lo que habrá de comunicarse a los interesados, hasta que la Administración tenga constancia del mismo». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá».",
     "fuente": "Art. 22.1 g) LPAC",
     "confianza": "alta"
   },
@@ -32800,16 +32800,16 @@ window.addQuestions('aux-admin-zaragoza', 5, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 23.1 de la Ley 39/2015, la ampliación del plazo máximo de resolución puede acordarse a propuesta, en su caso, de:",
+    "q": "El art. 23.1 de la Ley 39/2015 permite al órgano competente para resolver ampliar el plazo máximo de resolución y notificación «a propuesta, en su caso, del órgano instructor o…». ¿Cómo continúa el texto?",
     "options": [
-      "El Consejo de Estado",
-      "El Tribunal Superior de Justicia correspondiente",
-      "Cualquier interesado en el procedimiento",
-      "El órgano instructor o el superior jerárquico del órgano competente para resolver"
+      "El titular de la unidad que tramite el expediente",
+      "El interesado que haya promovido el procedimiento",
+      "El superior jerárquico del órgano competente para resolver",
+      "El órgano de control interno de la Administración actuante"
     ],
-    "correct": 3,
-    "exp": "Art. 23.1: 'el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo.'",
-    "fuente": "Art. 23.1 LPAC",
+    "correct": 2,
+    "exp": "El art. 23.1 dice: «Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21, el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento». La propuesta no siempre es necesaria («en su caso»). La redacción no aclara si el superior jerárquico solo propone o si también puede acordar él mismo la ampliación; por eso la pregunta se limita a la letra del precepto. En el art. 21.5, en cambio, el plural deja claro que el superior jerárquico también decide: «el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales». La unidad tramitadora, el interesado y el control interno no aparecen en el art. 23.1.",
+    "fuente": "Art. 23.1 LPAC (Ley 39/2015)",
     "confianza": "alta"
   },
   {
@@ -35028,13 +35028,13 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
     "q": "Según el art. 9.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de identificación no previsto en las letras a) y b), es necesario, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
     "options": [
       "La Agencia Española de Protección de Datos",
-      "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital",
+      "La Secretaría General de Administración Digital",
       "El Consejo de Transparencia y Buen Gobierno",
       "La Secretaría de Estado de Seguridad"
     ],
     "correct": 1,
-    "exp": "El art. 9.2.c) LPAC exige, entre otros requisitos, un registro previo como usuario que permita garantizar la identidad del interesado y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
-    "fuente": "Art. 9.2.c LPAC",
+    "exp": "El art. 9.2 c) LPAC admite «Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital». La Secretaría de Estado de Seguridad no recibe la comunicación: solo emite, en su caso, el informe vinculante previo a que el órgano estatal competente por motivos de seguridad pública acuda a la vía jurisdiccional. La Agencia Española de Protección de Datos y el Consejo de Transparencia y Buen Gobierno no aparecen en el precepto. Aviso: el texto de la LPAC no se ha actualizado, pero ese ministerio ya no existe. El Real Decreto 829/2023, de 20 de noviembre, lo suprimió (disposición final primera), y las materias de transformación digital y de administración y función pública corresponden hoy al Ministerio para la Transformación Digital y de la Función Pública (art. 22). Además, la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª y art. 22); RD 1118/2024 (DA 1.ª y DF 1.ª)",
     "confianza": "alta"
   },
   {
@@ -35302,12 +35302,12 @@ window.addQuestions('aux-admin-zaragoza', 4, [  {
     "options": [
       "El Consejo Superior de Administración Electrónica",
       "La Abogacía General del Estado",
-      "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital",
+      "La Secretaría General de Administración Digital",
       "La Secretaría de Estado de Seguridad"
     ],
     "correct": 2,
-    "exp": "El art. 10.2.c) LPAC exige, al igual que el art. 9.2.c), registro previo como usuario y comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
-    "fuente": "Art. 10.2.c LPAC",
+    "exp": "El art. 10.2 c) LPAC exige, para los sistemas de firma, lo mismo que el art. 9.2 c) para los de identificación: «un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital». La Secretaría de Estado de Seguridad solo emite, en su caso, el informe vinculante previo a que el órgano estatal competente por motivos de seguridad pública acuda a la vía jurisdiccional. El Consejo Superior de Administración Electrónica y la Abogacía General del Estado no aparecen en el precepto. Aviso: el texto de la LPAC no se ha actualizado, pero ese ministerio ya no existe. El Real Decreto 829/2023, de 20 de noviembre, lo suprimió (disposición final primera), y las materias de transformación digital y de administración y función pública corresponden hoy al Ministerio para la Transformación Digital y de la Función Pública (art. 22). Además, la Secretaría General de Administración Digital quedó suprimida el 21 de febrero de 2025, al constituirse la Agencia Estatal de Administración Digital, que «quedará subrogada en la totalidad de los derechos y obligaciones de la Secretaría General de Administración Digital» en sus competencias y funciones (disposición adicional primera y disposición final primera del Real Decreto 1118/2024). La pregunta se ciñe a la letra del precepto.",
+    "fuente": "Art. 10.2 c) LPAC (Ley 39/2015); RD 829/2023 (DF 1.ª y art. 22); RD 1118/2024 (DA 1.ª y DF 1.ª)",
     "confianza": "alta"
   },
   {

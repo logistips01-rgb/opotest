@@ -59,3 +59,9 @@ Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
 ## Añadido 24-oct (redactor de t18-2)
 - 18-251: da por bueno el 75 % del sueldo del art. 21.4 RD 365/1995 en la suspensión provisional; el art. 98.3 TREBEP (básico y posterior) dice «retribuciones básicas» y prestaciones por hijo a cargo (regla 10).
 - 18-222: la opción correcta dice «resolución judicial de adopción»; el art. 89.4 TREBEP vigente dice «resolución judicial o administrativa».
+
+## Añadido 24-oct (revisor de la ronda 3)
+- Tema 4: 4-52, 4-78 y 4-87 repiten la 4-138, 4-140 y 4-139: retirar.
+- Tema 4: 4-139, 4-140, 4-161, 4-162, 4-169 y 4-254 mencionan la Secretaría General de Administración Digital sin avisar de su supresión (RD 829/2023; Agencia Estatal de Administración Digital desde 21-feb-2025, RD 1118/2024).
+- Tema 10: 10-109, clave «El Secretario» incompleta y no es la regla en Zaragoza.
+- Decreto 347/2002: comprobar si los arts. 108, 118 y 119 tienen modificaciones posteriores (no hay consolidado descargable).

@@ -4971,15 +4971,15 @@ const QUESTIONS = {
     "fuente": "Art. 21.6 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 22.1 a), el plazo máximo para resolver se suspende cuando deba requerirse al interesado para subsanar deficiencias, por el tiempo que medie entre:",
+    "q": "Según el art. 22.1 a), cuando deba requerirse al interesado para subsanar deficiencias, el plazo máximo para resolver podrá suspenderse por el tiempo que medie entre:",
     "options": [
-      "El inicio y el fin de la tramitación de urgencia",
-      "La resolución y su notificación",
+      "El inicio y el fin de la tramitación de urgencia acordada por el órgano competente",
+      "La firma de la resolución y su notificación efectiva al interesado",
       "La notificación del requerimiento y su efectivo cumplimiento, o el plazo concedido",
-      "La presentación de la solicitud y su registro"
+      "La presentación de la solicitud y su anotación en el registro electrónico"
     ],
     "correct": 2,
-    "exp": "Art. 22.1 a): '...por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario, o, en su defecto, por el del plazo concedido.'",
+    "exp": "Art. 22.1 a): «Cuando deba requerirse a cualquier interesado para la subsanación de deficiencias o la aportación de documentos y otros elementos de juicio necesarios, por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario, o, en su defecto, por el del plazo concedido». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá». Ni la tramitación de urgencia, ni la notificación de la resolución, ni el registro de la solicitud son el intervalo que fija esta letra.",
     "fuente": "Art. 22.1 a) LPAC (Ley 39/2015)"
   },
   {
@@ -4995,15 +4995,15 @@ const QUESTIONS = {
     "fuente": "Art. 22.1 d) LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 22.1 e), el plazo máximo para resolver se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios propuestos por los interesados, durante:",
+    "q": "Según el art. 22.1 e), cuando deban realizarse pruebas técnicas o análisis contradictorios propuestos por los interesados, el plazo máximo para resolver podrá suspenderse durante:",
     "options": [
       "El tiempo necesario para la incorporación de los resultados al expediente",
-      "Un plazo fijo de treinta días naturales",
-      "Un máximo de 24 horas",
-      "Solo si el interesado lo solicita por escrito notarial"
+      "Un plazo fijo de treinta días naturales, contados desde que se acuerde su práctica",
+      "Un máximo de tres meses, transcurrido el cual proseguirá el procedimiento",
+      "El plazo que fije el interesado al proponer las pruebas, sin límite máximo"
     ],
     "correct": 0,
-    "exp": "Art. 22.1 e): '...durante el tiempo necesario para la incorporación de los resultados al expediente.'",
+    "exp": "Art. 22.1 e): «Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados, durante el tiempo necesario para la incorporación de los resultados al expediente». El art. 22.1 dice que el plazo «se podrá suspender»: la suspensión es potestativa, a diferencia de los supuestos del art. 22.2, en los que el plazo «se suspenderá». Esta letra no fija un plazo cerrado ni lo deja en manos del interesado; el límite de tres meses, tras el cual prosigue el procedimiento, es el de la suspensión por informes preceptivos (art. 22.1 d).",
     "fuente": "Art. 22.1 e) LPAC (Ley 39/2015)"
   },
   {
@@ -6437,30 +6437,6 @@ const QUESTIONS = {
     "fuente": "Art. 48 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 49.1 a), la nulidad o anulabilidad de un acto no implicará la de los sucesivos actos en el procedimiento que sean:",
-    "options": [
-      "Dictados por el mismo funcionario",
-      "Independientes del primero",
-      "Posteriores a la resolución final",
-      "Idénticos al primero"
-    ],
-    "correct": 1,
-    "exp": "Art. 49.1 a): 'La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.'",
-    "fuente": "Art. 49.1 a) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 49.1 b), la nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquella, salvo que:",
-    "options": [
-      "La Administración lo decida discrecionalmente",
-      "El acto tenga más de tres páginas",
-      "La parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado",
-      "El interesado sea una persona jurídica"
-    ],
-    "correct": 2,
-    "exp": "Art. 49.1 b): '...salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.'",
-    "fuente": "Art. 49.1 b) LPAC (Ley 39/2015)"
-  },
-  {
     "q": "El art. 49 de la Ley 39/2015 se titula:",
     "options": [
       "Conversión de actos viciados",
@@ -6483,18 +6459,6 @@ const QUESTIONS = {
     "correct": 0,
     "exp": "El art. 49 limita el efecto expansivo de la nulidad o anulabilidad a los actos que sean realmente independientes del acto viciado.",
     "fuente": "Art. 49 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "¿Qué principio recoge el art. 49 de la Ley 39/2015 en relación con la nulidad parcial de un acto?",
-    "options": [
-      "Cualquier defecto parcial anula la totalidad del acto sin excepción",
-      "La nulidad de una parte del acto no afecta a las partes independientes, salvo que sea esencial para la existencia del acto",
-      "Solo los tribunales pueden declarar nulidades parciales",
-      "La nulidad parcial nunca es posible en Derecho Administrativo"
-    ],
-    "correct": 1,
-    "exp": "Art. 49.1 b) permite la subsistencia de las partes del acto independientes de la parte viciada, salvo que esta sea esencial.",
-    "fuente": "Art. 49.1 b) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 50, los actos administrativos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto:",
@@ -6591,18 +6555,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "El art. 52 lleva por título 'Convalidación' y cierra el Título III de la Ley 39/2015.",
     "fuente": "Título III LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el principio general del art. 52, el acto de convalidación produce efecto:",
-    "options": [
-      "Solo si lo aprueba el Consejo de Estado",
-      "Nunca, la convalidación es meramente declarativa sin efectos",
-      "Desde la fecha en que se produce, salvo que se disponga lo contrario mediante eficacia retroactiva favorable",
-      "Siempre con efectos retroactivos absolutos"
-    ],
-    "correct": 2,
-    "exp": "La convalidación, como acto administrativo nuevo dictado para subsanar el vicio, sigue la regla general de eficacia del art. 39, salvo los supuestos de retroactividad favorable.",
-    "fuente": "Art. 39 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Puede la Administración convalidar un acto nulo de pleno derecho conforme al art. 52 de la Ley 39/2015?",
@@ -6943,38 +6895,14 @@ const QUESTIONS = {
   {
     "q": "¿Cuál de los siguientes actos se considera nulo de pleno derecho?",
     "options": [
-      "El que contenga un defecto de forma.",
-      "El que restrinja intereses legítimos.",
-      "El que tenga un contenido posible.",
-      "El que se dicte por un órgano incompetente por razón del territorio."
+      "El que contenga un defecto de forma que no cause indefensión ni le impida alcanzar su fin.",
+      "El que restrinja intereses legítimos y se dicte con la motivación debida.",
+      "El que tenga un contenido posible, aunque sea desfavorable para el interesado.",
+      "El que se dicte por un órgano manifiestamente incompetente por razón del territorio."
     ],
     "correct": 3,
-    "exp": "Art. 47.1 b) LPAC: son nulos los dictados por órgano manifiestamente incompetente por razon de la materia o del territorio; el defecto de forma solo da anulabilidad (art. 48.2) y el contenido imposible es el nulo (47.1 c). La opción marcada omite el adverbio 'manifiestamente' que exige la ley.",
-    "fuente": "Art. 47.1 b) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "¿Cuál de las siguientes características es predicable de los actos anulables?",
-    "options": [
-      "Sólo afecta a los interesados.",
-      "No producen efectos.",
-      "Producen ineficacia por sí mismos.",
-      "No puede ser convalidado."
-    ],
-    "correct": 0,
-    "exp": "Arts. 48 y 52.1 LPAC: los actos anulables producen efectos mientras no se anulen y son convalidables por la Administración, lo que descarta las opciones 0, 2 y 3; la anulabilidad es un vicio relativo que solo pueden hacer valer los interesados.",
-    "fuente": "Arts. 48 y 52.1 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "¿Cuál de las siguientes características no es predicable de los actos nulos?",
-    "options": [
-      "Producen ineficacia por sí mismos.",
-      "Sólo afecta a los interesados.",
-      "No puede ser convalidado.",
-      "No producen efectos."
-    ],
-    "correct": 1,
-    "exp": "Arts. 47.1, 52.1 y 106.1 LPAC: los actos nulos no producen efectos, no son convalidables (solo lo son los anulables, art. 52.1) y su nulidad puede declararse de oficio en cualquier momento (art. 106.1), luego lo NO predicable de ellos es que 'solo afecta a los interesados'.",
-    "fuente": "Arts. 47.1, 52.1 y 106.1 LPAC (Ley 39/2015)"
+    "exp": "El art. 47.1 b) LPAC declara nulos de pleno derecho «Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio». La incompetencia tiene que ser manifiesta: si no lo es, el acto es anulable (art. 48.1) y puede convalidarse; si el vicio es de «incompetencia no determinante de nulidad», la convalidación puede hacerla el órgano competente cuando sea superior jerárquico del que dictó el acto (art. 52.3). Un defecto de forma que no cause indefensión ni impida al acto alcanzar su fin ni siquiera lo hace anulable: el defecto de forma «sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados» (art. 48.2). Lo que causa nulidad es el contenido imposible (art. 47.1 c), no el posible aunque sea desfavorable. Y limitar intereses legítimos solo obliga a motivar el acto (art. 35.1 a).",
+    "fuente": "Art. 47.1 b) LPAC (Ley 39/2015); arts. 48 y 52.3 LPAC"
   },
   {
     "q": "Las actuaciones administrativas realizadas fuera de plazo ¿invalidan el acto que se dicte?",
@@ -9309,18 +9237,6 @@ const QUESTIONS = {
     "fuente": "Art. 119.3 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 119.3, la resolución del recurso, ¿puede agravar la situación inicial del recurrente respecto a lo resuelto en primera instancia?",
-    "options": [
-      "No, sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede",
-      "Sí, pero solo en el recurso extraordinario de revisión",
-      "Sí, siempre y sin ninguna limitación",
-      "Sí, únicamente cuando el recurrente sea persona jurídica"
-    ],
-    "correct": 0,
-    "exp": "Art. 119.3: «la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial» (prohibición de reformatio in peius). Ello no impide que la Administración incoe de oficio un nuevo procedimiento si procede, posibilidad que recoge expresamente el art. 88.2 para la resolución de los procedimientos iniciados a solicitud del interesado.",
-    "fuente": "Art. 119.3 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 121.1, ¿ante qué tipo de órgano se dirige el recurso de alzada?",
     "options": [
       "El propio interesado que lo interpone",
@@ -10909,16 +10825,16 @@ const QUESTIONS = {
     "fuente": "Arts. 2.2, 2.3 y 4 RBEL (RD 1372/1986); art. 79.3 LBRL"
   },
   {
-    "q": "¿Qué órgano es competente para acordar la enajenación de un bien patrimonial de una Entidad local cuando su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto?",
+    "q": "Según el art. 47.2 m) de la LBRL y el art. 126.4 ll) de la Ley 7/1999, de Administración Local de Aragón, el acuerdo de enajenación de bienes cuya cuantía exceda del 20 por 100 de los recursos ordinarios del presupuesto requiere:",
     "options": [
-      "La Diputación Provincial en sustitución del municipio",
-      "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
-      "El Secretario municipal por delegación automática",
-      "El Defensor del Pueblo"
+      "La mayoría simple de los miembros presentes, como cualquier otro acuerdo",
+      "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+      "El voto favorable de las dos terceras partes del número de hecho de miembros",
+      "La mayoría absoluta de los miembros presentes en la sesión en que se vote"
     ],
     "correct": 1,
-    "exp": "La mayoría absoluta del número legal de miembros para enajenar bienes cuyo valor exceda del 20 por 100 de los recursos ordinarios del presupuesto la exigen el art. 47.2.m) LBRL y, en Aragón, el art. 126.4.ll) de la Ley 7/1999, de Administración Local de Aragón, al que remite el art. 108.3 del Decreto 347/2002 (RBASO). El 10 por 100 del art. 114 RBEL no rige. Si el valor excede además del 25 por 100, hace falta la aprobación previa de la Comunidad Autónoma (art. 186.1 Ley 7/1999; art. 121 RBASO). Esa es la regla del régimen común. En Zaragoza, municipio de gran población, la enajenación del patrimonio corresponde al Gobierno de Zaragoza (art. 14.1.g de la Ley 10/2017, de régimen especial del municipio de Zaragoza; disposición adicional segunda, apartado 11, de la LCSP, «cualquiera que sea el importe del contrato»), y el art. 47.3 LBRL remite la adopción de acuerdos al art. 123.2 LBRL, que no incluye esta mayoría. Ni la Diputación, ni el Secretario, ni el Defensor del Pueblo enajenan bienes municipales.",
-    "fuente": "Art. 47.2.m) LBRL (Ley 7/1985); art. 126.4.ll) Ley 7/1999; arts. 108.3 y 121 RBASO (Decreto 347/2002); en Zaragoza, art. 14.1.g) Ley 10/2017, art. 47.3 LBRL y DA 2.ª.11 LCSP (Ley 9/2017)"
+    "exp": "El art. 47.2 LBRL exige el voto favorable de la mayoría absoluta del número legal de miembros de las corporaciones para la «Enajenación de bienes, cuando su cuantía exceda del 20 por ciento de los recursos ordinarios de su presupuesto» (letra m). En Aragón lo repite el art. 126.4 de la Ley 7/1999: «Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación» para «La enajenación de bienes, si su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto» (letra ll); a ese quórum remite el art. 108.3 del Decreto 347/2002 (RBASO). La mayoría simple de los presentes es la regla general (art. 126.1 de la Ley 7/1999), no la de este supuesto; los dos tercios del número de hecho se reservan a los acuerdos del art. 126.3, entre los que no está la enajenación; y la mayoría absoluta se cuenta sobre el número legal de miembros, no sobre los presentes. Si el valor excede además del 25 por 100, hace falta la aprobación de la Comunidad Autónoma (art. 186.1 de la Ley 7/1999; art. 121 RBASO). Aviso para Zaragoza, municipio de gran población: el art. 47.3 LBRL remite la adopción de acuerdos al art. 123.2, que no incluye esta mayoría, y la enajenación del patrimonio corresponde al Gobierno de Zaragoza (art. 14.1 g de la Ley 10/2017; disposición adicional segunda, apartado 11, de la LCSP, «cualquiera que sea el importe del contrato»).",
+    "fuente": "Art. 47.2 m) LBRL (Ley 7/1985); art. 126.4 ll) Ley 7/1999; art. 108.3 RBASO (Decreto 347/2002); en Zaragoza, arts. 47.3 LBRL y 14.1 g) Ley 10/2017 y DA 2.ª.11 LCSP (Ley 9/2017)"
   },
   {
     "q": "En síntesis, ¿qué dos grandes categorías de bienes distingue el régimen jurídico patrimonial de las Entidades Locales español, y qué principal diferencia práctica tienen entre sí?",
@@ -11379,14 +11295,14 @@ const QUESTIONS = {
   {
     "q": "¿Qué exige, con carácter general, la normativa patrimonial para poder ceder gratuitamente un bien inmueble patrimonial de una Entidad Local a una asociación cultural sin ánimo de lucro?",
     "options": [
-      "Que se realice mediante subasta pública, igual que cualquier venta",
-      "Que la asociación pague previamente el valor de mercado del inmueble",
+      "Que se adjudique mediante subasta pública al mejor postor, como cualquier enajenación de bienes patrimoniales",
+      "Que la asociación abone previamente a la Entidad local el valor de mercado del inmueble que se le va a ceder",
       "Que se acredite el interés público de la cesión y, en su caso, se dé cuenta a la autoridad competente de la Comunidad Autónoma",
-      "Ninguna formalidad, basta con un acuerdo verbal del Alcalde"
+      "Ninguna formalidad: basta un acuerdo verbal del Alcalde, sin expediente previo ni trámite de información pública"
     ],
     "correct": 2,
-    "exp": "La cesión gratuita de bienes inmuebles patrimoniales exige acreditar el fin de interés público que la justifica (beneficio para los vecinos o entidades de interés público sin ánimo de lucro) y, en su caso, dar cuenta de ella a la autoridad competente de la Comunidad Autónoma.",
-    "fuente": "Arts. 109.2 y 110.1 RBEL (RD 1372/1986); art. 47.2.ñ) LBRL"
+    "exp": "Los inmuebles patrimoniales solo pueden cederse gratis a entidades o instituciones públicas y a instituciones privadas de interés público sin ánimo de lucro, para fines que redunden en beneficio de los vecinos (art. 109.2 RBEL; en Aragón, art. 187.1 de la Ley 7/1999 y art. 118.1 del Decreto 347/2002, RBASO). El art. 109.2 RBEL añade: «De estas cesiones también se dará cuenta a la autoridad competente de la Comunidad Autónoma». En Aragón, el procedimiento exige la «Justificación documental de los fines que persigue y de su utilidad e interés para la población de la Entidad local» y «La autorización o toma de conocimiento, según proceda» del departamento autonómico competente (art. 119.1 a y f RBASO). No hay subasta ni precio, porque la cesión es gratuita, y no basta un acuerdo verbal: el procedimiento incluye «Información pública por plazo no inferior a quince días» (art. 119.1 e RBASO) y la cesión la aprueba el Pleno con el voto favorable de la mayoría absoluta del número legal de miembros (art. 119.2 RBASO; también el art. 110.1 RBEL). En Zaragoza, municipio de gran población, el art. 14.1 g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza las competencias relativas a la «adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal».",
+    "fuente": "Arts. 109.2 y 110.1 RBEL (RD 1372/1986); art. 187 Ley 7/1999; arts. 118 y 119 RBASO (Decreto 347/2002); en Zaragoza, art. 14.1 g) Ley 10/2017"
   },
   {
     "q": "¿Qué tipo de bien es, típicamente, un cementerio municipal, a efectos de su calificación jurídico-patrimonial?",

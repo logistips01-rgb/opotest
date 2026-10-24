@@ -6,6 +6,262 @@
 window.ACTUALIZACIONES = window.ACTUALIZACIONES || {};
 window.ACTUALIZACIONES["aux-admin-zaragoza"] = [
  {
+  "id": "2026-10-24-correccion-8",
+  "fecha": "2026-10-24",
+  "tipo": "correccion",
+  "titulo": "Correcciones de la tercera ronda de revisión",
+  "texto": "Revisión independiente contra el texto consolidado del BOE: órganos estatales suprimidos (Secretaría General de Administración Digital), «podrá suspenderse» en el art. 22.1 LPAC, nulidad que exige incompetencia manifiesta, explicaciones inexactas y preguntas repetidas o basadas en doctrina que choca con la ley (se archivan, no se borran).",
+  "preguntas": [
+   {
+    "tema": 8,
+    "q": "Según el art. 119.3, la resolución del recurso, ¿puede agravar la situación inicial del recurrente respecto a lo resuelto en primera instancia?",
+    "options": [
+     "No, sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede",
+     "Sí, pero solo en el recurso extraordinario de revisión",
+     "Sí, siempre y sin ninguna limitación",
+     "Sí, únicamente cuando el recurrente sea persona jurídica"
+    ],
+    "antes": "No, sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: atribuía al art. 119.3 LPAC una salvedad del art. 88.2 y, corregida, repetiría la pregunta de examen 21-48."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 9.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de identificación no previsto en las letras a) y b), es necesario, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+    "options": [
+     "La Agencia Española de Protección de Datos",
+     "La Secretaría General de Administración Digital",
+     "El Consejo de Transparencia y Buen Gobierno",
+     "La Secretaría de Estado de Seguridad"
+    ],
+    "antes": "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital",
+    "ahora": "La Secretaría General de Administración Digital",
+    "nota": "Clave acortada a «La Secretaría General de Administración Digital»; la explicación avisa de que el ministerio citado en la LPAC ya no existe y de que la Agencia Estatal de Administración Digital sustituye a esa Secretaría General desde 2025."
+   },
+   {
+    "tema": 4,
+    "q": "Según el art. 10.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de firma no comprendido en las letras a) y b), se exige, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+    "options": [
+     "El Consejo Superior de Administración Electrónica",
+     "La Abogacía General del Estado",
+     "La Secretaría General de Administración Digital",
+     "La Secretaría de Estado de Seguridad"
+    ],
+    "antes": "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital",
+    "ahora": "La Secretaría General de Administración Digital",
+    "nota": "Clave acortada a «La Secretaría General de Administración Digital»; la explicación avisa del ministerio suprimido y de la Agencia Estatal de Administración Digital."
+   },
+   {
+    "tema": 5,
+    "q": "El art. 23.1 de la Ley 39/2015 permite al órgano competente para resolver ampliar el plazo máximo de resolución y notificación «a propuesta, en su caso, del órgano instructor o…». ¿Cómo continúa el texto?",
+    "options": [
+     "El titular de la unidad que tramite el expediente",
+     "El interesado que haya promovido el procedimiento",
+     "El superior jerárquico del órgano competente para resolver",
+     "El órgano de control interno de la Administración actuante"
+    ],
+    "antes": "El órgano instructor o el superior jerárquico del órgano competente para resolver",
+    "ahora": "El superior jerárquico del órgano competente para resolver",
+    "nota": "Reformulada como pregunta de literalidad del art. 23.1: ya no da por hecho que el superior jerárquico solo propone."
+   },
+   {
+    "tema": 6,
+    "q": "¿Cuál de los siguientes actos se considera nulo de pleno derecho?",
+    "options": [
+     "El que contenga un defecto de forma que no cause indefensión ni le impida alcanzar su fin.",
+     "El que restrinja intereses legítimos y se dicte con la motivación debida.",
+     "El que tenga un contenido posible, aunque sea desfavorable para el interesado.",
+     "El que se dicte por un órgano manifiestamente incompetente por razón del territorio."
+    ],
+    "antes": "El que se dicte por un órgano incompetente por razón del territorio.",
+    "ahora": "El que se dicte por un órgano manifiestamente incompetente por razón del territorio.",
+    "nota": "La clave añade «manifiestamente», como exige el art. 47.1 b) LPAC; se alargan los distractores y se reescribe la explicación."
+   },
+   {
+    "tema": 7,
+    "q": "Según el art. 88.3 LPAC, además de contener la decisión, las resoluciones que ponen fin al procedimiento expresarán:",
+    "options": [
+     "El nombre de los funcionarios que intervinieron en la instrucción del expediente",
+     "La fecha prevista para la ejecución forzosa del acto si el interesado no lo cumple",
+     "Los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+     "El coste económico íntegro de la tramitación del expediente y quién debe soportarlo"
+    ],
+    "antes": "Los recursos que contra la misma procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos",
+    "ahora": "Los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+    "nota": "Enunciado sin «decisión motivada» (el art. 88.3 solo exige motivar en los casos del art. 35); se igualan las longitudes de las opciones."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 47.2 m) de la LBRL y el art. 126.4 ll) de la Ley 7/1999, de Administración Local de Aragón, el acuerdo de enajenación de bienes cuya cuantía exceda del 20 por 100 de los recursos ordinarios del presupuesto requiere:",
+    "options": [
+     "La mayoría simple de los miembros presentes, como cualquier otro acuerdo",
+     "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+     "El voto favorable de las dos terceras partes del número de hecho de miembros",
+     "La mayoría absoluta de los miembros presentes en la sesión en que se vote"
+    ],
+    "antes": "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+    "ahora": "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+    "nota": "Enunciado ceñido al art. 47.2 m) LBRL y al art. 126.4 ll) de la Ley aragonesa 7/1999; se pregunta por la mayoría y se mantiene el aviso de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "¿Qué exige, con carácter general, la normativa patrimonial para poder ceder gratuitamente un bien inmueble patrimonial de una Entidad Local a una asociación cultural sin ánimo de lucro?",
+    "options": [
+     "Que se adjudique mediante subasta pública al mejor postor, como cualquier enajenación de bienes patrimoniales",
+     "Que la asociación abone previamente a la Entidad local el valor de mercado del inmueble que se le va a ceder",
+     "Que se acredite el interés público de la cesión y, en su caso, se dé cuenta a la autoridad competente de la Comunidad Autónoma",
+     "Ninguna formalidad: basta un acuerdo verbal del Alcalde, sin expediente previo ni trámite de información pública"
+    ],
+    "antes": "Que se acredite el interés público de la cesión y, en su caso, se dé cuenta a la autoridad competente de la Comunidad Autónoma",
+    "ahora": "Que se acredite el interés público de la cesión y, en su caso, se dé cuenta a la autoridad competente de la Comunidad Autónoma",
+    "nota": "La explicación añade la norma aragonesa sobre cesiones gratuitas y el aviso de Zaragoza; se alargan los distractores; la clave no cambia."
+   },
+   {
+    "tema": 5,
+    "q": "Según el art. 22.1 a), cuando deba requerirse al interesado para subsanar deficiencias, el plazo máximo para resolver podrá suspenderse por el tiempo que medie entre:",
+    "options": [
+     "El inicio y el fin de la tramitación de urgencia acordada por el órgano competente",
+     "La firma de la resolución y su notificación efectiva al interesado",
+     "La notificación del requerimiento y su efectivo cumplimiento, o el plazo concedido",
+     "La presentación de la solicitud y su anotación en el registro electrónico"
+    ],
+    "antes": "La notificación del requerimiento y su efectivo cumplimiento, o el plazo concedido",
+    "ahora": "La notificación del requerimiento y su efectivo cumplimiento, o el plazo concedido",
+    "nota": "El enunciado dice «podrá suspenderse», como el art. 22.1, en lugar de «se suspende»; se alargan los distractores para que la clave no se delate por la longitud."
+   },
+   {
+    "tema": 5,
+    "q": "Según el art. 22.1 e), cuando deban realizarse pruebas técnicas o análisis contradictorios propuestos por los interesados, el plazo máximo para resolver podrá suspenderse durante:",
+    "options": [
+     "El tiempo necesario para la incorporación de los resultados al expediente",
+     "Un plazo fijo de treinta días naturales, contados desde que se acuerde su práctica",
+     "Un máximo de tres meses, transcurrido el cual proseguirá el procedimiento",
+     "El plazo que fije el interesado al proponer las pruebas, sin límite máximo"
+    ],
+    "antes": "El tiempo necesario para la incorporación de los resultados al expediente",
+    "ahora": "El tiempo necesario para la incorporación de los resultados al expediente",
+    "nota": "El enunciado dice «podrá suspenderse», como el art. 22.1; se cambian los distractores por plazos del mismo tipo."
+   },
+   {
+    "tema": 5,
+    "q": "Según el art. 22.1 c) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que:",
+    "options": [
+     "Haya sido iniciado por la Comisión Europea hace más de un año",
+     "Afecte a una empresa con domicilio social fuera del territorio español",
+     "Condicione directamente el contenido de la resolución de que se trate",
+     "Se tramite ante las autoridades de otro Estado miembro de la Unión Europea"
+    ],
+    "antes": "Condicione directamente el contenido de la resolución de que se trate",
+    "ahora": "Condicione directamente el contenido de la resolución de que se trate",
+    "nota": "El enunciado dice «podrá suspenderse», como el art. 22.1; se alargan los distractores."
+   },
+   {
+    "tema": 5,
+    "q": "Según el art. 22.1 f) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, en los términos del:",
+    "options": [
+     "Artículo 100 de la Ley 39/2015",
+     "Artículo 39 de la Ley 39/2015",
+     "Artículo 21 de la Ley 39/2015",
+     "Artículo 86 de la Ley 39/2015"
+    ],
+    "antes": "Artículo 86 de la Ley 39/2015",
+    "ahora": "Artículo 86 de la Ley 39/2015",
+    "nota": "El enunciado dice «podrá suspenderse», como el art. 22.1."
+   },
+   {
+    "tema": 5,
+    "q": "Según el art. 22.1 g) de la Ley 39/2015, el plazo máximo para resolver podrá suspenderse cuando para resolver el procedimiento sea indispensable la obtención de un previo pronunciamiento de:",
+    "options": [
+     "Un órgano jurisdiccional",
+     "El Defensor del Pueblo",
+     "El Consejo de Ministros",
+     "La Fiscalía General del Estado"
+    ],
+    "antes": "Un órgano jurisdiccional",
+    "ahora": "Un órgano jurisdiccional",
+    "nota": "El enunciado dice «podrá suspenderse», como el art. 22.1."
+   },
+   {
+    "tema": 6,
+    "q": "¿Cuál de las siguientes características es predicable de los actos anulables?",
+    "options": [
+     "Sólo afecta a los interesados.",
+     "No producen efectos.",
+     "Producen ineficacia por sí mismos.",
+     "No puede ser convalidado."
+    ],
+    "antes": "Sólo afecta a los interesados.",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: clave doctrinal sin base en la LPAC y explicación inexacta; lo literal ya está en otras preguntas."
+   },
+   {
+    "tema": 6,
+    "q": "¿Cuál de las siguientes características no es predicable de los actos nulos?",
+    "options": [
+     "Producen ineficacia por sí mismos.",
+     "Sólo afecta a los interesados.",
+     "No puede ser convalidado.",
+     "No producen efectos."
+    ],
+    "antes": "Sólo afecta a los interesados.",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: depende de caracterizaciones doctrinales que chocan con la letra del art. 39.1 LPAC; lo literal ya está en otras preguntas."
+   },
+   {
+    "tema": 6,
+    "q": "Según el art. 49.1 a), la nulidad o anulabilidad de un acto no implicará la de los sucesivos actos en el procedimiento que sean:",
+    "options": [
+     "Dictados por el mismo funcionario",
+     "Independientes del primero",
+     "Posteriores a la resolución final",
+     "Idénticos al primero"
+    ],
+    "antes": "Independientes del primero",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: cita una letra inexistente del art. 49 y, corregida, repetiría la 6-203."
+   },
+   {
+    "tema": 6,
+    "q": "Según el art. 49.1 b), la nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquella, salvo que:",
+    "options": [
+     "La Administración lo decida discrecionalmente",
+     "El acto tenga más de tres páginas",
+     "La parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado",
+     "El interesado sea una persona jurídica"
+    ],
+    "antes": "La parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: cita una letra inexistente (es el art. 49.2) y, corregida, repetiría la 6-206."
+   },
+   {
+    "tema": 6,
+    "q": "¿Qué principio recoge el art. 49 de la Ley 39/2015 en relación con la nulidad parcial de un acto?",
+    "options": [
+     "Cualquier defecto parcial anula la totalidad del acto sin excepción",
+     "La nulidad de una parte del acto no afecta a las partes independientes, salvo que sea esencial para la existencia del acto",
+     "Solo los tribunales pueden declarar nulidades parciales",
+     "La nulidad parcial nunca es posible en Derecho Administrativo"
+    ],
+    "antes": "La nulidad de una parte del acto no afecta a las partes independientes, salvo que sea esencial para la existencia del acto",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: fuente con una letra inexistente, clave parafraseada y, corregida, repetida con la 6-205 y la 6-206."
+   },
+   {
+    "tema": 6,
+    "q": "Según el principio general del art. 52, el acto de convalidación produce efecto:",
+    "options": [
+     "Solo si lo aprueba el Consejo de Estado",
+     "Nunca, la convalidación es meramente declarativa sin efectos",
+     "Desde la fecha en que se produce, salvo que se disponga lo contrario mediante eficacia retroactiva favorable",
+     "Siempre con efectos retroactivos absolutos"
+    ],
+    "antes": "Desde la fecha en que se produce, salvo que se disponga lo contrario mediante eficacia retroactiva favorable",
+    "ahora": "(pregunta retirada)",
+    "nota": "Retirada: fuente y explicación equivocadas (es el art. 52.2) y, corregida, repetiría la 6-221."
+   }
+  ]
+ },
+ {
   "id": "2026-10-23-correccion-7",
   "fecha": "2026-10-23",
   "tipo": "correccion",
