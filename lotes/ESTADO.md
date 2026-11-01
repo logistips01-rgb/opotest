@@ -2810,3 +2810,15 @@ Verificado en navegador (claro y oscuro, 390 px): inicio, temas, pregunta
 contestada, "Seguir donde lo dejaste", examen mezclado completo hasta
 resultados, fallos, progreso y página de convocatoria, sin errores de
 consola. El banco de preguntas no cambia (`tools/validar.js` correcto).
+
+## Mejoras aparcadas (1-nov-2026)
+
+- **Cuentas y sincronización con Firebase.** Aparcada a petición del usuario: de momento la app
+  la usa una sola persona y el progreso se guarda en su navegador (`assets/js/storage.js`, con
+  Exportar/Importar en la portada como copia de seguridad). Si se retoma: Firebase Authentication
+  (Google y correo/contraseña) + Firestore, reglas `usuarios/{uid}` solo para su dueño, dominio
+  autorizado `logistips01-rgb.github.io`; solo cambia el adaptador de `storage.js` y se añade el
+  botón de entrada. Decidir antes: registro abierto o solo cuentas creadas en la consola, y
+  entrada obligatoria u opcional (las preguntas siguen siendo públicas en GitHub Pages).
+- **Borradores a medias** (no están en la app): `lotes/nuevas/t10-2.json` (38 preguntas sin
+  revisar) y `lotes/auditoria/pendientes-ronda6.json` (correcciones de forma sin revisar).
