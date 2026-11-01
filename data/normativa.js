@@ -2,7 +2,7 @@
    Fecha de la última comprobación de la normativa y fecha de la última
    modificación de cada norma según el BOE consolidado. */
 window.NORMATIVA = {
- "comprobado": "2026-10-22",
+ "comprobado": "2026-11-01",
  "normas": [
   {
    "nombre": "Constitución Española",
